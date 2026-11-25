@@ -1,0 +1,5 @@
+{
+  "status": "BLOCKED_NO_CLEAN_PLATE",
+  "reason": "흰 영문 잔재는 없지만 x200~278,y53~87 상단 평행 홈과 하단 채움 경계가 인위적. 승인 보류.",
+  "release_ready": false
+}

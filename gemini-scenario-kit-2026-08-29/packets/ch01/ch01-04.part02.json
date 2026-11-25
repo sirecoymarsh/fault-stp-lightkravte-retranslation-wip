@@ -1,0 +1,1387 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-04.part02",
+  "script": "ch01-04",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch01-04:312:a5c008",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "妄想だぞ？ 好きにしていいだろう？<br>頭の中くらいさ…ふ ふへへ",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:316:c30476f9",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "ちょっとだけなら…妄想してもいいよね…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:323:1e665e69",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "……………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:329:fa98655b",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "あ あれ？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:332:802367f6",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "う うそだろ…僕の妄想力！？ し しっかりしろ！？<br>その程度なはずないだろう 僕の性欲よ！？",
+        "do_not_translate": true
+      }
+    ],
+    "after": [
+      {
+        "uid": "ch01-04:566:1a537fe6",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "んー？<br>セレンハイドでいることかな？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:568:ab89f7b7",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "え………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:570:5f481bff",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "はっははー ウソよ ウソ<br>半分冗談だから気にないで",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:571:599685e0",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "誰だってあるでしょー<br>自分の状況がイヤになる日くらい…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:573:a4d62e4c",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "そ そうですか",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch01-04:336:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 100,
+      "source_line": 336,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:339:a122df25",
+      "source_hash": "a122df25",
+      "sequence": 101,
+      "source_line": 339,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "まさか ここまで何も思い浮かばないとは…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:341:eb818747",
+      "source_hash": "eb818747",
+      "sequence": 102,
+      "source_line": 341,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "く くそ…暑くて妄想すらできないとは<br>…不覚",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:342:e993b3ff",
+      "source_hash": "e993b3ff",
+      "sequence": 103,
+      "source_line": 342,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あたまがクラクラするくらい暑くなってきた",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:343:10a56723",
+      "source_hash": "10a56723",
+      "sequence": 104,
+      "source_line": 343,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "季節棟の空調操作はごくまれにムラがあり<br>塔を中心に熱気や冷気の波が流れてくるときがある",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:344:6865110f",
+      "source_hash": "6865110f",
+      "sequence": 105,
+      "source_line": 344,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あっちー…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:347:9ec44e31",
+      "source_hash": "9ec44e31",
+      "sequence": 106,
+      "source_line": 347,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:351:e7e4a6ae",
+      "source_hash": "e7e4a6ae",
+      "sequence": 107,
+      "source_line": 351,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:368:ece35cd7",
+      "source_hash": "ece35cd7",
+      "sequence": 108,
+      "source_line": 368,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………え",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:385:84a9c04",
+      "source_hash": "84a9c04",
+      "sequence": 109,
+      "source_line": 385,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:386:b4e5bbed",
+      "source_hash": "b4e5bbed",
+      "sequence": 110,
+      "source_line": 386,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "目を奪われる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:387:68c3a35e",
+      "source_hash": "68c3a35e",
+      "sequence": 111,
+      "source_line": 387,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "探す必要など一切なかった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:388:a5410e9",
+      "source_hash": "a5410e9",
+      "sequence": 112,
+      "source_line": 388,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "吸い込まれるようなオーラ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:389:3b153fdd",
+      "source_hash": "3b153fdd",
+      "sequence": 113,
+      "source_line": 389,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "フローラ様は池のほとりの小さな花畑に<br>囲まれたブランコで一人たそがれておられた",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:390:2955eb",
+      "source_hash": "2955eb",
+      "sequence": 114,
+      "source_line": 390,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "先ほどまで高鳴っていた胸の鼓動がストンと沈む",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:391:77a11c70",
+      "source_hash": "77a11c70",
+      "sequence": 115,
+      "source_line": 391,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "憂いを帯びた空気",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:392:6146fa9e",
+      "source_hash": "6146fa9e",
+      "sequence": 116,
+      "source_line": 392,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "哀愁がこの一画の雰囲気を支配し<br>マナを蒼く染めていた",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:393:171d75b",
+      "source_hash": "171d75b",
+      "sequence": 117,
+      "source_line": 393,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ふ フローラ様…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:394:fd214c57",
+      "source_hash": "fd214c57",
+      "sequence": 118,
+      "source_line": 394,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "一瞬にして下心が吹き飛んでしまった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:395:b357054b",
+      "source_hash": "b357054b",
+      "sequence": 119,
+      "source_line": 395,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "自分でも驚くほど",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:396:2c0147cf",
+      "source_hash": "2c0147cf",
+      "sequence": 120,
+      "source_line": 396,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "………あ………カージ君",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:415:c8b8ed03",
+      "source_hash": "c8b8ed03",
+      "sequence": 121,
+      "source_line": 415,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "只事ではない…なにか…あった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:416:22fdd547",
+      "source_hash": "22fdd547",
+      "sequence": 122,
+      "source_line": 416,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それだけは 鈍感な僕にもわかった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:419:664cf453",
+      "source_hash": "664cf453",
+      "sequence": 123,
+      "source_line": 419,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あの…お食事の時間です<br>フローラ様",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:420:9756bf41",
+      "source_hash": "9756bf41",
+      "sequence": 124,
+      "source_line": 420,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ミィシャさんが呼んでますよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:422:d375b4a5",
+      "source_hash": "d375b4a5",
+      "sequence": 125,
+      "source_line": 422,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "え？ ほ 本当に？<br>もうそんな時間！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:423:f836f9f0",
+      "source_hash": "f836f9f0",
+      "sequence": 126,
+      "source_line": 423,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ご ごめん 全然気づかなかったわ<br>こんなところまで来させて ごめんね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:425:79823cf6",
+      "source_hash": "79823cf6",
+      "sequence": 127,
+      "source_line": 425,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いえ…僕は別に…<br>あの…全然構わないので大丈夫ですよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:427:a71a0bc1",
+      "source_hash": "a71a0bc1",
+      "sequence": 128,
+      "source_line": 427,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:428:dc4543f1",
+      "source_hash": "dc4543f1",
+      "sequence": 129,
+      "source_line": 428,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ふ フローラ様？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:430:e3224f5f",
+      "source_hash": "e3224f5f",
+      "sequence": 130,
+      "source_line": 430,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あ…ごめんね<br>でも今日はちょっと…食欲ないのかな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:432:415fd095",
+      "source_hash": "415fd095",
+      "sequence": 131,
+      "source_line": 432,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "暑いですものね…<br>食欲が失せるのもよくわかります",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:433:e05ada0f",
+      "source_hash": "e05ada0f",
+      "sequence": 132,
+      "source_line": 433,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕もここに来てる間<br>頭が全然回りませんでしたから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:435:7c94ffe5",
+      "source_hash": "7c94ffe5",
+      "sequence": 133,
+      "source_line": 435,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あれ？ カージ君も考えごとしてたの？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:438:f066885d",
+      "source_hash": "f066885d",
+      "sequence": 134,
+      "source_line": 438,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕は………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:440:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 135,
+      "source_line": 440,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:442:1a5a15a",
+      "source_hash": "1a5a15a",
+      "sequence": 136,
+      "source_line": 442,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な なんでもありません…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:445:2be138da",
+      "source_hash": "2be138da",
+      "sequence": 137,
+      "source_line": 445,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ それよりどうなされたんですか？<br>ぼ 僕でよろしければ…その…話を聞くくらいなら…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:447:461b32a",
+      "source_hash": "461b32a",
+      "sequence": 138,
+      "source_line": 447,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そう…ね…ちょっとね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:448:a71a0bc1",
+      "source_hash": "a71a0bc1",
+      "sequence": 139,
+      "source_line": 448,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:450:6ca55c85",
+      "source_hash": "6ca55c85",
+      "sequence": 140,
+      "source_line": 450,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "カージ君は お父様以外にご家族は？<br>兄弟とかいないの？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:452:7b9f4150",
+      "source_hash": "7b9f4150",
+      "sequence": 141,
+      "source_line": 452,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…あ いえ…母が幼い頃に亡くなって以降<br>ずっと僕と父の二人暮らしですね…はい",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:453:7b9c4549",
+      "source_hash": "7b9c4549",
+      "sequence": 142,
+      "source_line": 453,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "話によると もう一人作りたかったらしいですが…<br>僕で最後になってしまいました",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:455:fb3b4272",
+      "source_hash": "fb3b4272",
+      "sequence": 143,
+      "source_line": 455,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そう…なんだ…どう一人っ子って？<br>寂しかったりしない？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:457:620ae604",
+      "source_hash": "620ae604",
+      "sequence": 144,
+      "source_line": 457,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "どうでしょう…子供の頃は確かに兄弟がいたら<br>いいなーと思ったことは何度かありましたが…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:458:e885ce2d",
+      "source_hash": "e885ce2d",
+      "sequence": 145,
+      "source_line": 458,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "さすがにこの歳になって 兄弟が欲しいとは…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:459:f95ae26c",
+      "source_hash": "f95ae26c",
+      "sequence": 146,
+      "source_line": 459,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "寂しいと思うことはありませんね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:461:c1476161",
+      "source_hash": "c1476161",
+      "sequence": 147,
+      "source_line": 461,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "はは…そりゃそうよね<br>ごめんね 変なこと聞いて",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:463:cae27040",
+      "source_hash": "cae27040",
+      "sequence": 148,
+      "source_line": 463,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "どうしたんですか…突然？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:466:e929c140",
+      "source_hash": "e929c140",
+      "sequence": 149,
+      "source_line": 466,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ううん なんでもないわ<br>…なんでも",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:468:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 150,
+      "source_line": 468,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:470:7d93d400",
+      "source_hash": "7d93d400",
+      "sequence": 151,
+      "source_line": 470,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "明らかになんでもなくない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:471:408e372c",
+      "source_hash": "408e372c",
+      "sequence": 152,
+      "source_line": 471,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ただ どう声をかけていいのかもわからない…<br>微妙な距離感",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:474:bcd8190f",
+      "source_hash": "bcd8190f",
+      "sequence": 153,
+      "source_line": 474,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "なんか 悪いことさせちゃったわね<br>こんなところまで歩かせて…<br>コールでもしてくれればよかったのに",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:476:529ef6a3",
+      "source_hash": "529ef6a3",
+      "sequence": 154,
+      "source_line": 476,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ミィシャさんが…その…<br>この程度のことでコールするのは気恥ずかしいらしくて",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:478:5b93dc52",
+      "source_hash": "5b93dc52",
+      "sequence": 155,
+      "source_line": 478,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "はぁ？ 恥ずかしいって…<br>なんのために結んだのよ…<br>いみわかんない",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:480:ad1e0028",
+      "source_hash": "ad1e0028",
+      "sequence": 156,
+      "source_line": 480,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ま まあ…コールの使い方ひとつで<br>人格を疑われちゃうような世の中だから<br>なんとなくわかりますけどね…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:482:c2a8f12c",
+      "source_hash": "c2a8f12c",
+      "sequence": 157,
+      "source_line": 482,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "よほど仲良くならないと<br>タイミング掴むのは難しいと思います…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:483:14a76fe9",
+      "source_hash": "14a76fe9",
+      "sequence": 158,
+      "source_line": 483,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "と 特に男女の間とかでは…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:485:b06fb66d",
+      "source_hash": "b06fb66d",
+      "sequence": 159,
+      "source_line": 485,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あいつ そんなこと気にするようなやつだったんかい…<br>思ったより真面目君なのね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:486:7793eb4b",
+      "source_hash": "7793eb4b",
+      "sequence": 160,
+      "source_line": 486,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "か 仮に僕が結んでたら 絶対にこちらから<br>連絡は入れられないですね…緊張して",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:488:644d64f4",
+      "source_hash": "644d64f4",
+      "sequence": 161,
+      "source_line": 488,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "それもどうなの！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:490:37581c9",
+      "source_hash": "37581c9",
+      "sequence": 162,
+      "source_line": 490,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "もう なんのための連絡手段なのよ<br>ちょっと傷つくなー<br>みんな友達だと思っていたのに",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:492:4902414d",
+      "source_hash": "4902414d",
+      "sequence": 163,
+      "source_line": 492,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いえ だからその…<br>連絡のマナーとかの話でありまして…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:493:8e837117",
+      "source_hash": "8e837117",
+      "sequence": 164,
+      "source_line": 493,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "よ よろしければ<br>い いつでも連絡させていただきたい次第でありまして…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:495:8533b7d8",
+      "source_hash": "8533b7d8",
+      "sequence": 165,
+      "source_line": 495,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あっははははは！<br>そんなに距離を置かなくてもいいのに",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:497:74ba8b66",
+      "source_hash": "74ba8b66",
+      "sequence": 166,
+      "source_line": 497,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いえ…貴族様と…<br>通信ラ ライン…ライン…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:499:e13322fc",
+      "source_hash": "e13322fc",
+      "sequence": 167,
+      "source_line": 499,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ほんとかたっ苦しいわよね…<br>面倒くさい肩書き背負ってさ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:501:5301e227",
+      "source_hash": "5301e227",
+      "sequence": 168,
+      "source_line": 501,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "というわけで ここにいる時くらい<br>そんな仲にもおさらばしようか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:503:19f41176",
+      "source_hash": "19f41176",
+      "sequence": 169,
+      "source_line": 503,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:505:7e8d916d",
+      "source_hash": "7e8d916d",
+      "sequence": 170,
+      "source_line": 505,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "カージ君とも結ぼうよ ライン",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:508:4ce6284a",
+      "source_hash": "4ce6284a",
+      "sequence": 171,
+      "source_line": 508,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "止り木の連中とはほとんど結んでるんだけど<br>カージ君はまだだったわよね？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:511:2c90c32b",
+      "source_hash": "2c90c32b",
+      "sequence": 172,
+      "source_line": 511,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？ え えええええええ！？<br>ぼ ぼ ぼ ぼ 僕と通信ラインを！？！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:513:39665854",
+      "source_hash": "39665854",
+      "sequence": 173,
+      "source_line": 513,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "だから驚きすぎだって…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:515:51c923f6",
+      "source_hash": "51c923f6",
+      "sequence": 174,
+      "source_line": 515,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "もうちょっとカジュアルにいきましょうよって話",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:517:7d551417",
+      "source_hash": "7d551417",
+      "sequence": 175,
+      "source_line": 517,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "きょ 恐縮すぎて…<br>あ 頭が…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:519:54b90261",
+      "source_hash": "54b90261",
+      "sequence": 176,
+      "source_line": 519,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ちょうどいいわ<br>カージ君のその貴族に対する意識<br>ちょっとずつ解放していきましょう",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:522:734ad211",
+      "source_hash": "734ad211",
+      "sequence": 177,
+      "source_line": 522,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "それに 次こんなことあったら<br>カージ君から連絡してくれればいいでしょう？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:525:84bcdc13",
+      "source_hash": "84bcdc13",
+      "sequence": 178,
+      "source_line": 525,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そうしたら いちいち暑い中<br>こんなところまで歩いてこなくていいわ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:528:65c3b106",
+      "source_hash": "65c3b106",
+      "sequence": 179,
+      "source_line": 528,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぼ 僕は一向に構いませんがね！<br>ふ フローラ様とお話しするのは好きなので！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:530:50788386",
+      "source_hash": "50788386",
+      "sequence": 180,
+      "source_line": 530,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "物珍しい貴族様と談笑できるって？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:533:345c1dd9",
+      "source_hash": "345c1dd9",
+      "sequence": 181,
+      "source_line": 533,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ それは…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:535:13af93",
+      "source_hash": "13af93",
+      "sequence": 182,
+      "source_line": 535,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "冗談よ 冗談<br>気にしないで",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:536:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 183,
+      "source_line": 536,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:537:1fec15d0",
+      "source_hash": "1fec15d0",
+      "sequence": 184,
+      "source_line": 537,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あの…フローラ様<br>いつもよりお疲れのようでは…？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:539:3e798347",
+      "source_hash": "3e798347",
+      "sequence": 185,
+      "source_line": 539,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "……そうね……ちょっと今日はそうかもね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:541:3c765d2b",
+      "source_hash": "3c765d2b",
+      "sequence": 186,
+      "source_line": 541,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なにかあったのなら…その…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:543:71593ead",
+      "source_hash": "71593ead",
+      "sequence": 187,
+      "source_line": 543,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あら なに？<br>カージ君が話聞いてくれるの？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:545:f066f1bc",
+      "source_hash": "f066f1bc",
+      "sequence": 188,
+      "source_line": 545,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい…ぼ 僕程度の愚民がアドバイスできるかどうかは疑問ですが お話を聞くくらいなら…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:547:e22b1d99",
+      "source_hash": "e22b1d99",
+      "sequence": 189,
+      "source_line": 547,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "もう…あんまりへりくだるもんじゃないぞ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:549:2553ad1e",
+      "source_hash": "2553ad1e",
+      "sequence": 190,
+      "source_line": 549,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "でもそうね…<br>ちょっと最近は忙しくて疲れてるって感じかな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:551:f0669ae6",
+      "source_hash": "f0669ae6",
+      "sequence": 191,
+      "source_line": 551,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "うん きっとそう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:552:b15814fc",
+      "source_hash": "b15814fc",
+      "sequence": 192,
+      "source_line": 552,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "習い事ですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:554:9cb814e7",
+      "source_hash": "9cb814e7",
+      "sequence": 193,
+      "source_line": 554,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "習い事…ね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:556:3dfaac01",
+      "source_hash": "3dfaac01",
+      "sequence": 194,
+      "source_line": 556,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "確かに 予習 復習 講習 演習 学習 研修と…<br>やたら『習い事』が多いかもね 最近",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:557:a71a0bc1",
+      "source_hash": "a71a0bc1",
+      "sequence": 195,
+      "source_line": 557,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:559:46589d60",
+      "source_hash": "46589d60",
+      "sequence": 196,
+      "source_line": 559,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "本当は止り木になんて 来てちゃだめなんだろうけど…<br>今日はちょっとね…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:560:554c3c53",
+      "source_hash": "554c3c53",
+      "sequence": 197,
+      "source_line": 560,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そうだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:562:a5589d20",
+      "source_hash": "a5589d20",
+      "sequence": 198,
+      "source_line": 562,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "来た時のフローラ様のあの表情は…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:564:56365e53",
+      "source_hash": "56365e53",
+      "sequence": 199,
+      "source_line": 564,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "やっぱりなにか 気にかかることでも…？",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

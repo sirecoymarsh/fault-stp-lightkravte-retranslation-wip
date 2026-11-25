@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "reviewer": "Codex internal",
+  "review_method": "Blind paired semantic comparison; provider key opened only after all 200 judgments were written",
+  "semantic_authority": "Japanese raw catalog text and its independently extracted neighboring PrintText records",
+  "existing_translation_role": "comparison candidate only, not meaning authority",
+  "panels": {
+    "all": {
+      "count": 200,
+      "preference": {
+        "gemini": 55,
+        "existing": 93,
+        "tie": 52
+      },
+      "non_tie_existing_share": 0.6283783783783784,
+      "paired_sign_test_p": 0.002244365752749707,
+      "provider": {
+        "gemini": {
+          "mean_scores": {
+            "fidelity": 3.645,
+            "naturalness": 3.5,
+            "directed_voice": 3.76,
+            "no_unsupported_addition": 3.73
+          },
+          "any_score_le_2": 51,
+          "score_le_2_by_dimension": {
+            "fidelity": 10,
+            "naturalness": 22,
+            "directed_voice": 16,
+            "no_unsupported_addition": 18
+          },
+          "mean_total_16": 14.635
+        },
+        "existing": {
+          "mean_scores": {
+            "fidelity": 3.815,
+            "naturalness": 3.745,
+            "directed_voice": 3.845,
+            "no_unsupported_addition": 3.93
+          },
+          "any_score_le_2": 25,
+          "score_le_2_by_dimension": {
+            "fidelity": 5,
+            "naturalness": 9,
+            "directed_voice": 9,
+            "no_unsupported_addition": 4
+          },
+          "mean_total_16": 15.335
+        }
+      },
+      "existing_minus_gemini_total_mean": 0.7,
+      "existing_minus_gemini_total_bootstrap_95ci": [
+        0.39,
+        1.015
+      ],
+      "major_difference_preferred": {
+        "gemini": 19,
+        "existing": 40
+      },
+      "major_difference_loser": {
+        "gemini": 40,
+        "existing": 19
+      }
+    },
+    "representative": {
+      "count": 150,
+      "preference": {
+        "gemini": 37,
+        "tie": 50,
+        "existing": 63
+      },
+      "non_tie_existing_share": 0.63,
+      "paired_sign_test_p": 0.012032975725363477,
+      "provider": {
+        "gemini": {
+          "mean_scores": {
+            "fidelity": 3.72,
+            "naturalness": 3.566666666666667,
+            "directed_voice": 3.7666666666666666,
+            "no_unsupported_addition": 3.8133333333333335
+          },
+          "any_score_le_2": 33,
+          "score_le_2_by_dimension": {
+            "fidelity": 7,
+            "naturalness": 14,
+            "directed_voice": 12,
+            "no_unsupported_addition": 9
+          },
+          "mean_total_16": 14.866666666666667
+        },
+        "existing": {
+          "mean_scores": {
+            "fidelity": 3.8666666666666667,
+            "naturalness": 3.7733333333333334,
+            "directed_voice": 3.8266666666666667,
+            "no_unsupported_addition": 3.953333333333333
+          },
+          "any_score_le_2": 19,
+          "score_le_2_by_dimension": {
+            "fidelity": 4,
+            "naturalness": 6,
+            "directed_voice": 8,
+            "no_unsupported_addition": 2
+          },
+          "mean_total_16": 15.42
+        }
+      },
+      "existing_minus_gemini_total_mean": 0.5533333333333333,
+      "existing_minus_gemini_total_bootstrap_95ci": [
+        0.21333333333333335,
+        0.9
+      ],
+      "major_difference_preferred": {
+        "existing": 27,
+        "gemini": 14
+      },
+      "major_difference_loser": {
+        "gemini": 27,
+        "existing": 14
+      }
+    },
+    "risk": {
+      "count": 50,
+      "preference": {
+        "gemini": 18,
+        "existing": 30,
+        "tie": 2
+      },
+      "non_tie_existing_share": 0.625,
+      "paired_sign_test_p": 0.11140289106101875,
+      "provider": {
+        "gemini": {
+          "mean_scores": {
+            "fidelity": 3.42,
+            "naturalness": 3.3,
+            "directed_voice": 3.74,
+            "no_unsupported_addition": 3.48
+          },
+          "any_score_le_2": 18,
+          "score_le_2_by_dimension": {
+            "fidelity": 3,
+            "naturalness": 8,
+            "directed_voice": 4,
+            "no_unsupported_addition": 9
+          },
+          "mean_total_16": 13.94
+        },
+        "existing": {
+          "mean_scores": {
+            "fidelity": 3.66,
+            "naturalness": 3.66,
+            "directed_voice": 3.9,
+            "no_unsupported_addition": 3.86
+          },
+          "any_score_le_2": 6,
+          "score_le_2_by_dimension": {
+            "fidelity": 1,
+            "naturalness": 3,
+            "directed_voice": 1,
+            "no_unsupported_addition": 2
+          },
+          "mean_total_16": 15.08
+        }
+      },
+      "existing_minus_gemini_total_mean": 1.14,
+      "existing_minus_gemini_total_bootstrap_95ci": [
+        0.46,
+        1.84
+      ],
+      "major_difference_preferred": {
+        "gemini": 5,
+        "existing": 13
+      },
+      "major_difference_loser": {
+        "gemini": 13,
+        "existing": 5
+      }
+    },
+    "ruby_subset": {
+      "count": 15,
+      "preference": {
+        "existing": 10,
+        "gemini": 5
+      },
+      "non_tie_existing_share": 0.6666666666666666,
+      "paired_sign_test_p": 0.3017578125,
+      "provider": {
+        "gemini": {
+          "mean_scores": {
+            "fidelity": 3.466666666666667,
+            "naturalness": 3.1333333333333333,
+            "directed_voice": 3.7333333333333334,
+            "no_unsupported_addition": 3.6
+          },
+          "any_score_le_2": 6,
+          "score_le_2_by_dimension": {
+            "fidelity": 1,
+            "naturalness": 2,
+            "directed_voice": 1,
+            "no_unsupported_addition": 2
+          },
+          "mean_total_16": 13.933333333333334
+        },
+        "existing": {
+          "mean_scores": {
+            "fidelity": 3.8666666666666667,
+            "naturalness": 3.533333333333333,
+            "directed_voice": 4,
+            "no_unsupported_addition": 3.933333333333333
+          },
+          "any_score_le_2": 2,
+          "score_le_2_by_dimension": {
+            "fidelity": 0,
+            "naturalness": 2,
+            "directed_voice": 0,
+            "no_unsupported_addition": 0
+          },
+          "mean_total_16": 15.333333333333334
+        }
+      },
+      "existing_minus_gemini_total_mean": 1.4,
+      "existing_minus_gemini_total_bootstrap_95ci": [
+        0.3333333333333333,
+        2.533333333333333
+      ],
+      "major_difference_preferred": {
+        "existing": 6,
+        "gemini": 1
+      },
+      "major_difference_loser": {
+        "gemini": 6,
+        "existing": 1
+      }
+    }
+  },
+  "input_hashes": {
+    "selection_manifest.json": "53678c904d7314a7a09e3bfa1936de25a35d326f4e278bca9504bd8d52de85c2",
+    "blind_key.json": "68b765882979714a72850a633406712f92b52c9382833ba458a8e27e5da8186f",
+    "judgments/packet_01.json": "76c555cbc362968cb51c63e51a09b220cb4fc15d5934daf8e724ff83b86c2c7c",
+    "judgments/packet_02.json": "59b177c4a85358a4267495206ecba23d93957db1b13d6008b94284aef1cdc415",
+    "judgments/packet_03.json": "3f4da81457fad00fdc6c86858b0182f9e4b3a4454ad8527b43a340f412197456",
+    "judgments/packet_04.json": "d6a440c6520e466bbafbbae4490bac764bf7de0450d9ba741ed1a0fd4b46c7b2",
+    "judgments/packet_05.json": "a68cfa5319904b9b24c2b96202b16b83175e31a537abad09efe8d70ccff9698b",
+    "judgments/packet_06.json": "4a7935767727fedbe8492ec77fafaccf504ea2c35938531fde9fbf9bab440bf6",
+    "judgments/packet_07.json": "9dc16190735f80cdb488228bd7def0ccd8ba2e52518591becf595182215e83bd",
+    "judgments/packet_08.json": "ae1ba276153ed0e0fe00ed82d31493b9b282e9cbe068b81b99fe5dc516b66d1d"
+  },
+  "verdict": {
+    "better_base": "existing",
+    "confidence": "high for base-selection decision; not a substitute for full 6,746-line semantic QA",
+    "recommended_use": "Retain existing translation as base. Use Gemini as a secondary comparison source and adopt only line-level improvements confirmed against Japanese."
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "work_id": "fault-stp-lightkravte-ja-ko-gemini-retranslation",
+  "created_at": "2026-08-29T18:09:15+09:00",
+  "languages": {
+    "source": "ja",
+    "target": "ko"
+  },
+  "scope": {
+    "scenario_scripts": 46,
+    "entries": 6746,
+    "packets": 93,
+    "excluded": [
+      "Init.json",
+      "Title.json",
+      "비시나리오 UI/설정/팁 문자열"
+    ]
+  },
+  "authorization": {
+    "external_translation_provider": "Gemini",
+    "explicitly_requested_by_user": true,
+    "request_date": "2026-08-29",
+    "execution_document": "gemini/execution_authorization.md"
+  },
+  "preparation": {
+    "translator_model": "Codex internal",
+    "runtime_model": "GPT-5.5",
+    "thread_id": "019f98c4-2d2a-7502-b05c-6a79321fe89e",
+    "semantic_work": [
+      "용어집 정규화",
+      "번역 지침 작성",
+      "캐릭터 보이스·관계 가이드 작성",
+      "일본어 근거 UID 선별"
+    ]
+  },
+  "intended_provider": "Google Gemini",
+  "gemini_execution": {
+    "status": "not_run",
+    "exact_model": null,
+    "executed_at": null,
+    "response_hashes": [],
+    "note": "실제 실행 후에만 정확한 모델과 결과 provenance를 기록"
+  },
+  "semantic_authority": "Japanese source only",
+  "input_hashes": {
+    "localization/source_index.json": "d7ead37bc70f2b9130b9fed15c18e36eeb8ba8fb1879330b977b49f1042a3a92",
+    "localization/terminology.json": "34560ed16c9b50b09f48a4b134e5336f9c967f7edacc2d1fa4baf2ab7c2dc75f",
+    "localization/packet_manifest.json": "64358680dc6b4c0efdd2d9e4673e43267f208c59c3250d7bb78dc43650903fd2",
+    "translation-quality.md": "1d9e31b9c7744f811c7d9ed646d04c0c7e83dc32f0eaff58dcb4d727dfe86ade"
+  },
+  "source_catalog_hashes": {
+    "ch01-00.json": "71500f87a8e71c96f20ed285beb674fd67e63685f93cb6640933331369dfd9e4",
+    "ch01-01.json": "8eedcd6ae5911fcfcd31fd70e19e46a25b2afe9623ee9898510d3e0141a6f32a",
+    "ch01-02d.json": "9f6ca2b9976d5312448de43791cad081a2db5813665badb5747ae488cad4ea8a",
+    "ch01-03.json": "f77d740195d1dc0f402b83863e21f979944939344d91f59b7ca1e7a7ecceeb65",
+    "ch01-04.json": "294b7b25fd3f40664881745e039ebec75f35d392052b5bef5cda448a0365f622",
+    "ch01-05d.json": "dbf17db3e90151915d3e6518d43a9ab176a510f75d1a814401fab819f8c31330",
+    "ch01-06.json": "a9133aeb7d8f6b76e84d1526ea9093d3520cd7f83043f503af4cbced17cfc7c3",
+    "ch01-07.json": "c6ff2f40534193e48350bf3427ccaa67ec2581777654c6828f88e4d130640d56",
+    "ch01-08d.json": "d59825b4b1f1294b2688d8005fb5d447b3e7639124caeaa6fc5e22225e721583",
+    "ch01-09.json": "aef674709ef88a50fc186b606823bec8f886303c26e72be9c0af2bae609d5432",
+    "ch01-10.json": "b4fc5fcb8a9880b80579e46138224d883ccad7c5afa77a97603c2248b85cf1d8",
+    "ch01-11.json": "9fb146719c6cd1a467d194a86abe53b11c84897fa102fa40affc429a067802e9",
+    "ch01-12d.json": "d46bd37bd42a285b9a54a8774887af684f04245f130d36f6ba7afde8eef2720d",
+    "ch01-13.json": "865cbd9b945d22d9b31a703945266473b6ae74d91845720de13182a5d7cf60ce",
+    "ch02-00d.json": "feb9952a58e8a71ce9e0153d414e4a328d9bc1ba2f977002941d3d7ec723b4e9",
+    "ch02-01.json": "ef2dfb313ed0ad9e05871c56e8240d8134d199d2c38d1df393911d7795f6a289",
+    "ch02-02.json": "cbc6379100cabf8b796ffd24c2a941f8a95447ac5c5ea6dfcbb1d7b3da714769",
+    "ch02-03.json": "a6a5f70d5a1ac9bfa832e15c91b37937f5a89bf2457299d97808a0255a7275a0",
+    "ch02-04.json": "eb0d11f8fa090522cb3e0a75bf3dc83ce681ec0039bddc451d227563e552e264",
+    "ch02-05d.json": "b827187f8174bd4b8c4a07d21c56429aa2feb126fe574e0553fd9361eb3c158b",
+    "ch02-06.json": "e8f3d125201a388af34f3bd648c6a8ecc42e6dcf4df9a50d7e2c69b01a675bfa",
+    "ch02-07.json": "a6e49c010f2063de44b523a744c89bf098bfc4b1decc2da78b5546bcdcfce900",
+    "ch02-08.json": "2889e5f555113420cb6586583f2c0a46b522b6fd068126d1429dbe28e1765c3a",
+    "ch02-09.json": "9475e7fc7335e0ba76d3293ca50bc211cfb9317715f446cafc6afa7043e49923",
+    "ch02-10d.json": "4d5ebef53fbba6c465a64bbd148ddd91e13807b07529bac68ac23cdd19cabd86",
+    "ch02-11.json": "5cf9890be40d7248467e48466803ab7fb0ce238b826734ffc91467f0f2d96260",
+    "ch02-12.json": "73592200d09dd9b86703daa6af723927745e471681d3d424368546162afa2c08",
+    "ch02-13.json": "3e216466c5493cb710b348d7bf46557fae5bb0452bb57a69392732f47cdc4dc0",
+    "ch02-14.json": "03227ec22b15cb684f0b0b8504d3b4cad753b861e1a749d564d70829f44caea7",
+    "ch02-15.json": "31318565d05f85ff7a191fb9c8fd808e5afc6cb6c6bcb3c04f6cb84a4bb89c9b",
+    "ch02-16.json": "68abc4c47ec78aa73c50874162f610289bc6e719c6ba7f2146ea3e3eac081dbb",
+    "ch02-17.json": "2e1bcafc7db281555cee87589b6b46a93c03a1bf5a27a6faf3f48348a152038a",
+    "ch02-18.json": "63f1a9d503e1754bcd44377ba8f8dafcb2668a42b5b3870474ffe61031776af8",
+    "ch02-19.json": "7a30a80e702ceaca9a2a3f1d660d0868626a497a8f72cb6615d3fb09f52054a5",
+    "ch02-20.json": "d9344659f4fa02616e5da9af683127d45286c8fdc6a36f5d30dd46258409e543",
+    "ch03-00.json": "ad1c63faf98327bcf94f34b03809bf2f541581ac56caea1263b5768d2a1a866b",
+    "ch03-01.json": "6292579110e55087b63adefd063f2e76968b3b7c0e4efbfe813535aad2a6706e",
+    "ch03-02.json": "e133b5df174d4e1a6c71b6ee6f58fa303a5396ea4ebe696f17cf283b4e604921",
+    "ch03-03.json": "fa699828c33c9e8e511067a59e2dd2dd03a99f6a83d334a319aadb23e92803cd",
+    "ch03-04.json": "88f19f60126cb1f3c2f99d22fc1588c125422819c256c5227a245f5c1287242f",
+    "ch03-05.json": "a8885a9f11c984de483f0eba9f834e49f2a5f31e5f5d58dcfdc2b06026dc0474",
+    "ch03-06.json": "a3680693eaa96f2f948c013d05a0120804442e79c74ae44f44d90460ac0bf462",
+    "ch03-07.json": "b2a3add5377a3a51dd620007412d8995bce4f3c83eb3c114b86ae0244454c88b",
+    "ch03-08.json": "3924486e4146b8f74f6f842483b01372f90951f7e7bd4008af6e0b7a3a5dec97",
+    "ch03-09.json": "47833c489fb8c71e308f781cabbe57d0c2e068ea811266fe13ca57c3da3c5cde",
+    "ch03-10.json": "be84ec3ccce3dfae9a7736a1cae09e43815e10dd360d9180f9d869bbea48f762"
+  },
+  "versions": {
+    "glossary_schema": 1,
+    "character_voice_schema": 1,
+    "packet_schema": 1,
+    "ruby_review_schema": 1,
+    "response_schema": "JSON Schema 2020-12"
+  },
+  "unresolved": {
+    "glossary_pending": 38,
+    "voice_profiles_pending": 22,
+    "exact_gemini_model": 1
+  },
+  "validation": {
+    "quality_authority_byte_identical": true,
+    "scenario_catalogs_byte_identical": true,
+    "packet_uid_ownership_exact": true,
+    "reference_translation_fields_removed": true,
+    "gemini_execution_explicitly_authorized": true,
+    "ruby_policy": {
+      "gemini_output": "preserve",
+      "codex_post_review": "per_uid_strip_keep_manual"
+    },
+    "unsupported_addition_audit": {
+      "status": "required_after_gemini_run",
+      "authority": "translation_instructions.md §3"
+    },
+    "gemini_output_independent_codex_review": "required"
+  },
+  "artifact_hashes": {
+    "gemini/glossary.json": "7e96e4897c0e7c909809ec49ff0285c24f57aac26f8aefa94c02e98fb8fc9d90",
+    "gemini/character_voice.json": "e81b28a00ac62e79c1ab1124ab3da9db2b258364ef89802aac72f662e82cc4cf",
+    "gemini/translation_instructions.md": "b1b0e84528a573b93480a76150c1e74bfa1a1818b09fea76194fd9274619d356",
+    "gemini/quality_authority.md": "1d9e31b9c7744f811c7d9ed646d04c0c7e83dc32f0eaff58dcb4d727dfe86ade",
+    "gemini/execution_authorization.md": "a922d3e683a6b252fc7dbc20c5b2524c202e737ee0e1f90e16a15f92c8214b6c",
+    "review/ruby_review_manifest.json": "dcf7316dce80393dcbb4c92a1541421a6d40c1acc1ffad2b2dd170f935c17266",
+    "source/source_index_ja.json": "656ee383841a141e7eb34ac6c7d1be4239c447078aee6e675190d3804f0f3619",
+    "packet_manifest.json": "de2ef7694cea9c694074714a97c81530c3f3ee2692d4d95f9f602e2f6f6bc6b4",
+    "schemas/gemini_response.schema.json": "2c24458c2d18700c78b0c615012c7d9b3abb5e029d37ee9f684e48fbf9642485",
+    "tools/validate_gemini_result.py": "e7be3caefd7c3e5b3d7a989642f61ae076cb35ee65dc663707df3cad513a583f",
+    "tools/finalize_ruby_for_korean.py": "6f9d5ca02d5d49404ea28a200b76acffde7917d745bc2784be7f760dcfc4ba60"
+  }
+}

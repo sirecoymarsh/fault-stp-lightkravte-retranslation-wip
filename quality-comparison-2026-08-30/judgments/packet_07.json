@@ -1,0 +1,539 @@
+{
+  "schema_version": 1,
+  "reviewer": "Codex internal",
+  "entries": [
+    {
+      "uid": "ch02-20:275:ecb251c7",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "강조 증설"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "そうなの은 단순한 긍정이다. B의 「맞아」가 정확하고 A의 「바로 그거야」는 지시·강조를 보탠다"
+    },
+    {
+      "uid": "ch03-00:28:2e08430f",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 단편 대사"
+    },
+    {
+      "uid": "ch03-00:47:33eab712",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 3,
+        "no_unsupported_addition": 1,
+        "issues": [
+          "충고 의미 증설"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "원문은 이제 놀리지 않고 본심을 말한다는 뜻이다. B가 정확하고 A는 「진심 어린 충고」를 새로 만든다"
+    },
+    {
+      "uid": "ch03-00:70:8ce2f514",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "평가·일반화 강도 증설"
+        ]
+      },
+      "severity": "major",
+      "reason": "A가 흐지부지 끝나는 일이 많다는 의미를 담백하게 옮겼다. B는 「따윈/있는 법」으로 평가와 일반화를 강화한다"
+    },
+    {
+      "uid": "ch03-00:144:847220aa",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "중복 표현"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "A의 「당시 … 있던 시절」은 중복이다. B가 자연스럽고 의미도 같다"
+    },
+    {
+      "uid": "ch03-01:131:30fe1fcf",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "사실 명사 증설"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "B가 군더더기 없이 자연스럽다. A의 「두 가지 사실」은 원문에 없는 명사를 보충한다"
+    },
+    {
+      "uid": "ch03-01:203:32c931",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 2,
+        "directed_voice": 1,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "독백 문체·보이스 오류"
+        ]
+      },
+      "severity": "major",
+      "reason": "카지의 거친 자기 반문이다. A가 말투를 유지하고 B는 갑자기 격식·문어체로 바뀐다"
+    },
+    {
+      "uid": "ch03-01:469:3cad1eda",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 미샤 대사"
+    },
+    {
+      "uid": "ch03-02:197:96a828e",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 머뭇거림"
+    },
+    {
+      "uid": "ch03-02:288:9de25c55",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "味覚が狂う의 느낌을 A가 「미각이 맛이 가다」로 자연스럽게 살렸다"
+    },
+    {
+      "uid": "ch03-02:362:2b1b9f9",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 2,
+        "directed_voice": 3,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "결합·수혜 표현 어색"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "B가 미샤의 투박한 위로를 자연스럽게 옮겼다. A의 「발상을 해내 주니」는 부자연스럽고 수혜 표현도 원문에 없다"
+    },
+    {
+      "uid": "ch03-02:399:49c4aac9",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "화행·양태 변경"
+        ]
+      },
+      "severity": "minor",
+      "reason": "なんかおかしい는 무언가 이상하다는 판단이다. A가 가깝고 B의 「왠지/잖아」는 이유 불명과 단정을 더한다"
+    },
+    {
+      "uid": "ch03-02:522:7c6eed4a",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 1,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "화자 보이스 오류",
+          "강조 증설"
+        ]
+      },
+      "severity": "major",
+      "reason": "頼りにしてるぜ는 「기대할게/의지할게」다. B는 미샤에게 맞지 않는 노인 말투와 「든든하게」를 추가했다"
+    },
+    {
+      "uid": "ch03-02:546:da202a8e",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "장면 핵심 용어 일반화"
+        ]
+      },
+      "severity": "minor",
+      "reason": "形にできない를 A가 장면의 「형태로 만들다」로 보존한다. B의 결과물은 개념을 일반화한다"
+    },
+    {
+      "uid": "ch03-03:84:1e665e69",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch03-03:127:e3b16366",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 1,
+        "issues": [
+          "고통 신음 증설"
+        ]
+      },
+      "severity": "major",
+      "reason": "원문은 날카로운 숨멎음/충격 표기뿐이다. B의 「윽」은 고통 신음을 추가한다"
+    },
+    {
+      "uid": "ch03-03:173:9a5a6d0d",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "顕著를 「두드러지다」로 옮긴 B가 조금 더 직접적이다. 둘 다 자연스럽다"
+    },
+    {
+      "uid": "ch03-03:239:206b8591",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "말투 어색"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "B의 짧은 「왜, 왜…」가 당황한 반말에 자연스럽다. A는 지나치게 문어적이다"
+    },
+    {
+      "uid": "ch03-03:275:82f54c5e",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "望んでいなかった의 더듬음과 뜻을 A가 직접 보존했다. B도 의미상 문제는 없다"
+    },
+    {
+      "uid": "ch03-03:335:e042d3e1",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "なんで의 담백한 내적 질문은 A의 「왜」가 가장 직접적이다"
+    },
+    {
+      "uid": "ch03-03:341:b2dc25fb",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 1,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "심한 번역투"
+        ]
+      },
+      "severity": "major",
+      "reason": "乱暴なことを思っていた는 거친 생각을 품었다는 뜻이다. A가 자연스럽고 B의 「난폭하게 생각했다」는 번역투다"
+    },
+    {
+      "uid": "ch03-03:367:e042d3e1",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "なんで의 직접적인 독백은 B의 「왜」가 자연스럽다"
+    },
+    {
+      "uid": "ch03-04:52:121c9248",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "화행 변경"
+        ]
+      },
+      "severity": "minor",
+      "reason": "스스로 결론을 확인하는 うん에는 A의 「응」이 맞다. B는 설명형으로 바꿨다"
+    },
+    {
+      "uid": "ch03-04:124:6a9a9937",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 2,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "부자 관계 존대 오류"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "아버지에게 하는 うん은 가족 간 반말 「응」이다. A의 「네」는 관계 존대를 바꾼다"
+    },
+    {
+      "uid": "ch03-04:277:2c5d6537",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "둘 다 끊긴 호명을 살렸다. A의 「어, 언니」가 한국어식 더듬음에 조금 더 자연스럽다"
+    }
+  ],
+  "review_status": "complete_blind",
+  "entries_reviewed": 25
+}

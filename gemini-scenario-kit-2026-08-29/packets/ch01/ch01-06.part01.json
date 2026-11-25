@@ -1,0 +1,1381 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-06.part01",
+  "script": "ch01-06",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": [
+      {
+        "uid": "ch01-06:243:215817a6",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "はい 本日はご協力感謝いたします",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:245:297c4dc7",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "イシュタリアーナ＝ヴィルセリオ",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:246:e0cc7c0f",
+        "speaker_id": "oug",
+        "speaker_name": "오그즈",
+        "ja": "イスタリアーナ＝ビルセリオ",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:254:36fd2e29",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "ねえ カージ君<br>ちょっといいかな？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:256:62b2bd1e",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "え は はい",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch01-06:25:485e8f28",
+      "source_hash": "485e8f28",
+      "sequence": 0,
+      "source_line": 25,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "………！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:26:c98535ff",
+      "source_hash": "c98535ff",
+      "sequence": 1,
+      "source_line": 26,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "………っ！！ …くださいっ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:30:258b2b1f",
+      "source_hash": "258b2b1f",
+      "sequence": 2,
+      "source_line": 30,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ん？ な なんだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:31:69b1d114",
+      "source_hash": "69b1d114",
+      "sequence": 3,
+      "source_line": 31,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "…さい……っ！！ ん…くださいっ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:32:19150c5",
+      "source_hash": "19150c5",
+      "sequence": 4,
+      "source_line": 32,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "玄関に誰かいる…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:52:c077f32c",
+      "source_hash": "c077f32c",
+      "sequence": 5,
+      "source_line": 52,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "またお前かよ…<br>いい加減顔も見飽きてきたぞ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:53:6349b05",
+      "source_hash": "6349b05",
+      "sequence": 6,
+      "source_line": 53,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "きょ 今日という今日は帰りません！<br>せめてお話だけでも最後まで聞いてもらわないと…！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:54:56b82a09",
+      "source_hash": "56b82a09",
+      "sequence": 7,
+      "source_line": 54,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "もう何度も聞いてやっただろうが！<br>そして今日も答えは変わらねぇ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:56:6e499d89",
+      "source_hash": "6e499d89",
+      "sequence": 8,
+      "source_line": 56,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "うちの面接はまずセレンハイドを通せ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:57:63e33f66",
+      "source_hash": "63e33f66",
+      "sequence": 9,
+      "source_line": 57,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "店まで押しかけてくるような常識知らずを<br>相手にしてやれるほど こちとらお人好しじゃねえんだよ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:59:e7dd1bec",
+      "source_hash": "e7dd1bec",
+      "sequence": 10,
+      "source_line": 59,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "と 父さんが怒鳴ってる…！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:60:1dbdc642",
+      "source_hash": "1dbdc642",
+      "sequence": 11,
+      "source_line": 60,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いつ以来だ…？？<br>あんなに声をあげるなんて…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:64:3313f1e0",
+      "source_hash": "3313f1e0",
+      "sequence": 12,
+      "source_line": 64,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "わ 私はただ…オグズさんのような<br>立派なフルーツファーマーになりたいのです！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:65:fe4921",
+      "source_hash": "fe4921",
+      "sequence": 13,
+      "source_line": 65,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "わかってるよ<br>もう何度も聞いた",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:66:959db887",
+      "source_hash": "959db887",
+      "sequence": 14,
+      "source_line": 66,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "昨今の菓子類の人気に私は憤りを覚えるのです！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:68:430a7326",
+      "source_hash": "430a7326",
+      "sequence": 15,
+      "source_line": 68,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "加工物よりその地で採れた生のままの作物こそが<br>国の真の宝であるべきではないでしょうか！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:69:1b0590d7",
+      "source_hash": "1b0590d7",
+      "sequence": 16,
+      "source_line": 69,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "愚の骨頂！ 我々ルゼンハイドの民は<br>国としてのプライドを失いつつある！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:70:d1ce0617",
+      "source_hash": "d1ce0617",
+      "sequence": 17,
+      "source_line": 70,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "他国の焼き菓子文化にうつつを抜かしてるようじゃ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:72:2aab6c72",
+      "source_hash": "2aab6c72",
+      "sequence": 18,
+      "source_line": 72,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "突然押しかけてきて 価値観まで押し付けるんじゃねえ！<br>トーシロがわかったような口きくな！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:73:2a03a97e",
+      "source_hash": "2a03a97e",
+      "sequence": 19,
+      "source_line": 73,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "お前が果樹園のことを勉強してるのもわかったし<br>熱意も十分伝わったが 物事には順序ってものがあるんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:75:b1229906",
+      "source_hash": "b1229906",
+      "sequence": 20,
+      "source_line": 75,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "最後の警告だ<br>正規ルートで戻ってこい",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:76:68108d14",
+      "source_hash": "68108d14",
+      "sequence": 21,
+      "source_line": 76,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "斡旋所に寄越してるうちの従業員の目に<br>かなわねえような奴の話なんざ聞く価値がねえんだよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:77:6481ef7d",
+      "source_hash": "6481ef7d",
+      "sequence": 22,
+      "source_line": 77,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "オバーグに入りたいなら<br>ちったあオバーグの価値観とルールに従え！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:78:8ec7906f",
+      "source_hash": "8ec7906f",
+      "sequence": 23,
+      "source_line": 78,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "それが誠意ってもんだろう！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:79:6581baa",
+      "source_hash": "6581baa",
+      "sequence": 24,
+      "source_line": 79,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "っ…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:80:5ff2f4a4",
+      "source_hash": "5ff2f4a4",
+      "sequence": 25,
+      "source_line": 80,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "か 必ず…必ず正規のルートで戻ってきますからね<br>オグズさん！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:91:5275326",
+      "source_hash": "5275326",
+      "sequence": 26,
+      "source_line": 91,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ったく…最近の若いのは御託が多くてかなわねえ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:92:7698f1eb",
+      "source_hash": "7698f1eb",
+      "sequence": 27,
+      "source_line": 92,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "と 父さん…いまのは一体？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:94:2572c41c",
+      "source_hash": "2572c41c",
+      "sequence": 28,
+      "source_line": 94,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ん？ ああ 気にすんな<br>時代錯誤の弟子入り志願者だよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:96:9b008e1e",
+      "source_hash": "9b008e1e",
+      "sequence": 29,
+      "source_line": 96,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ま また来たの？<br>しかも店先で？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:98:74bff452",
+      "source_hash": "74bff452",
+      "sequence": 30,
+      "source_line": 98,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ああ しかも今回のやつはしつこくてな…<br>とうとう直接押しかけてきやがった",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:99:df385074",
+      "source_hash": "df385074",
+      "sequence": 31,
+      "source_line": 99,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ 相変わらずすごい人気なんだね…<br>うちの果樹園",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:101:b6ef5148",
+      "source_hash": "b6ef5148",
+      "sequence": 32,
+      "source_line": 101,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "おお…そうだぞ 息子よ<br>お前はこんな人気の仕事を放り出して<br>絵描きになろうとしてんだぞ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:103:6101bbb2",
+      "source_hash": "6101bbb2",
+      "sequence": 33,
+      "source_line": 103,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "わ わかってるよ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:105:3645d9d1",
+      "source_hash": "3645d9d1",
+      "sequence": 34,
+      "source_line": 105,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ま なにをするにしても 立派な仕事をできる人間になれよ<br>応援はしてやる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:107:4de03b30",
+      "source_hash": "4de03b30",
+      "sequence": 35,
+      "source_line": 107,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "う うん…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:109:9df19fd4",
+      "source_hash": "9df19fd4",
+      "sequence": 36,
+      "source_line": 109,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "し しかしあの人…店まで来るなんて…<br>非常識なのは嫌われるってわからないのかな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:111:5bc66427",
+      "source_hash": "5bc66427",
+      "sequence": 37,
+      "source_line": 111,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "んー？ まあ そうな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:114:419fdfb1",
+      "source_hash": "419fdfb1",
+      "sequence": 38,
+      "source_line": 114,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "やり方が遅れてるし 事実迷惑でもある",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:116:67b82112",
+      "source_hash": "67b82112",
+      "sequence": 39,
+      "source_line": 116,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "真似されると困るから追っ払ったが<br>父ちゃんはああいうガッツがあるのは嫌いじゃないぜ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:117:fcf36f50",
+      "source_hash": "fcf36f50",
+      "sequence": 40,
+      "source_line": 117,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "熱意がビンビン伝わってくる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:119:5922e6a9",
+      "source_hash": "5922e6a9",
+      "sequence": 41,
+      "source_line": 119,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ、そんなバカな！？<br>非常識で迷惑かけるのがいいって言ってるの？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:121:baf089ff",
+      "source_hash": "baf089ff",
+      "sequence": 42,
+      "source_line": 121,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:123:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 43,
+      "source_line": 123,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:125:690a7edf",
+      "source_hash": "690a7edf",
+      "sequence": 44,
+      "source_line": 125,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "………はぁ………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:127:d2e92f8b",
+      "source_hash": "d2e92f8b",
+      "sequence": 45,
+      "source_line": 127,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……な なにさ いきなりため息ついて<br>ぼ 僕なにか変なこと言ったかしら？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:131:ff9d0c20",
+      "source_hash": "ff9d0c20",
+      "sequence": 46,
+      "source_line": 131,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "…育て方間違えたかねー…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:132:52da4933",
+      "source_hash": "52da4933",
+      "sequence": 47,
+      "source_line": 132,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "平和の弊害とでも言うのか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:136:9178a3b8",
+      "source_hash": "9178a3b8",
+      "sequence": 48,
+      "source_line": 136,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え ええ！？<br>ど どういうこと！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:138:f977f81a",
+      "source_hash": "f977f81a",
+      "sequence": 49,
+      "source_line": 138,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "常識が全てじゃないってことさ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:140:28c40547",
+      "source_hash": "28c40547",
+      "sequence": 50,
+      "source_line": 140,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ま 情熱だけで突っ走っても<br>大目に見てもらえる歳ならって話だけどな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:141:40931a42",
+      "source_hash": "40931a42",
+      "sequence": 51,
+      "source_line": 141,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "最近の若いやつは妙に臆病っていうか<br>斜に構えてるってか…なんとも言い難いもんだね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:143:d89cb168",
+      "source_hash": "d89cb168",
+      "sequence": 52,
+      "source_line": 143,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…で でも 迷惑なんだよね？<br>父さんも迷惑だから追い返したんでしょう？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:144:84340182",
+      "source_hash": "84340182",
+      "sequence": 53,
+      "source_line": 144,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "本音と建前ってものがあるだろうがよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:145:8da14eb2",
+      "source_hash": "8da14eb2",
+      "sequence": 54,
+      "source_line": 145,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "カージにもちょっとは見習ってほしいもんだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:147:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 55,
+      "source_line": 147,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:150:9760f649",
+      "source_hash": "9760f649",
+      "sequence": 56,
+      "source_line": 150,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "失礼します オグズさん",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:152:d1a0e6ca",
+      "source_hash": "d1a0e6ca",
+      "sequence": 57,
+      "source_line": 152,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ん？ あ あれ？<br>この声は…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:167:5f9c9fa6",
+      "source_hash": "5f9c9fa6",
+      "sequence": 58,
+      "source_line": 167,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ふ フローラ様！？<br>し しかもセレンハイドの制服！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:168:4ddd514a",
+      "source_hash": "4ddd514a",
+      "sequence": 59,
+      "source_line": 168,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "きょ 今日なんかの日だっけ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:170:b41234f0",
+      "source_hash": "b41234f0",
+      "sequence": 60,
+      "source_line": 170,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あ <tip=\"viss\">ヴィーッス</tip> カージ君！<br>いたんだね！",
+      "required_tokens": [
+        "<tip=\"viss\">",
+        "</tip>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:172:f3e320bf",
+      "source_hash": "f3e320bf",
+      "sequence": 61,
+      "source_line": 172,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ふ フローラ様！？<br>ど どうしたんですか いきなり？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:173:ea643236",
+      "source_hash": "ea643236",
+      "sequence": 62,
+      "source_line": 173,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "<tip=\"vilserio\">ビスチェル＝バイコーレ</tip><br>フローラ様",
+      "required_tokens": [
+        "<tip=\"vilserio\">",
+        "</tip>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:175:d6555cc3",
+      "source_hash": "d6555cc3",
+      "sequence": 63,
+      "source_line": 175,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ヴィスチェル＝ヴァイコーレ オグズさん<br>突然のご訪問お許しください",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:177:3d710eab",
+      "source_hash": "3d710eab",
+      "sequence": 64,
+      "source_line": 177,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ほら カージも顔見知りなのはわかるが<br>ちゃんと挨拶せんか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:180:e829607a",
+      "source_hash": "e829607a",
+      "sequence": 65,
+      "source_line": 180,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうだった…<br>ヴィスチェル＝ヴァイコーレ…！ フローラ様！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:182:8c08ee3e",
+      "source_hash": "8c08ee3e",
+      "sequence": 66,
+      "source_line": 182,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "…ったく 若いくせして 貴族でもあるまいし<br>かっこつけた発音しやがって",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:185:e8d33a9a",
+      "source_hash": "e8d33a9a",
+      "sequence": 67,
+      "source_line": 185,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "どうかなされたのですか？<br>こんな朝早くにお越しなさるとは珍しいですね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:188:751341ca",
+      "source_hash": "751341ca",
+      "sequence": 68,
+      "source_line": 188,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "えっと 今日はちょっと報告があります…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:189:4af1758a",
+      "source_hash": "4af1758a",
+      "sequence": 69,
+      "source_line": 189,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "報告？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:191:9fbe7349",
+      "source_hash": "9fbe7349",
+      "sequence": 70,
+      "source_line": 191,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "はい 実は 暫く前から国内で<br><tip=\"beare\">ラック・ビーアル</tip>の被害が相次いでおります",
+      "required_tokens": [
+        "<br>",
+        "<tip=\"beare\">",
+        "</tip>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:193:7ce84eea",
+      "source_hash": "7ce84eea",
+      "sequence": 71,
+      "source_line": 193,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ビーアル…？？<br>国内って…ファームリングのほうではなく？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:195:ea3310c0",
+      "source_hash": "ea3310c0",
+      "sequence": 72,
+      "source_line": 195,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "確かに 最初はファームリングの農作物の被害報告でした<br>ただ 日に日に食い荒らされる頻度が増えていて…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:196:ac60d969",
+      "source_hash": "ac60d969",
+      "sequence": 73,
+      "source_line": 196,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "しかも最近はファームリングだけでなく<br>市街地でも被害が相次いでいるんです",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:199:baf089ff",
+      "source_hash": "baf089ff",
+      "sequence": 74,
+      "source_line": 199,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:200:cf51fb2a",
+      "source_hash": "cf51fb2a",
+      "sequence": 75,
+      "source_line": 200,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "それは一大事ですね…<br>で その被害とは？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:202:8d6a24e4",
+      "source_hash": "8d6a24e4",
+      "sequence": 76,
+      "source_line": 202,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "被害といっても店や倉庫などが荒らされている程度で<br>幸い怪我人や死者は出ておりません…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:203:8a35983b",
+      "source_hash": "8a35983b",
+      "sequence": 77,
+      "source_line": 203,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "しかし そうなってからでは遅いので 食料品を<br>主に扱っている飲食店などを優先的に警告するよう<br>セレンハイドより命じられております",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:204:57088628",
+      "source_hash": "57088628",
+      "sequence": 78,
+      "source_line": 204,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "オバーグ果樹園も例外ではないので",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:205:a405d2b9",
+      "source_hash": "a405d2b9",
+      "sequence": 79,
+      "source_line": 205,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "もし店舗や果樹園のほうでビーアルを見かけましたら<br>速やかにセレンハイドの<tip=\"whitecoat\">ホワイトコート</tip>へご連絡ください",
+      "required_tokens": [
+        "<br>",
+        "<tip=\"whitecoat\">",
+        "</tip>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:208:80343d25",
+      "source_hash": "80343d25",
+      "sequence": 80,
+      "source_line": 208,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "そう…ですか<br>わかりました",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:210:1b75cd0b",
+      "source_hash": "1b75cd0b",
+      "sequence": 81,
+      "source_line": 210,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "しかし ビーアルは…<br>とくにラック・ビーアルは極度の人間嫌いなはずです",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:211:26162f01",
+      "source_hash": "26162f01",
+      "sequence": 82,
+      "source_line": 211,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "市街地に入るなんて普通ありえないんですがね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:212:47810d14",
+      "source_hash": "47810d14",
+      "sequence": 83,
+      "source_line": 212,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "やはり季節棟を起動させているからでしょうか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:214:a71a0bc1",
+      "source_hash": "a71a0bc1",
+      "sequence": 84,
+      "source_line": 214,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:216:354b54e",
+      "source_hash": "354b54e",
+      "sequence": 85,
+      "source_line": 216,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "報告は以上です<br>シチズン・オバーグ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:217:baf089ff",
+      "source_hash": "baf089ff",
+      "sequence": 86,
+      "source_line": 217,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:219:d43bd256",
+      "source_hash": "d43bd256",
+      "sequence": 87,
+      "source_line": 219,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "…ラック・ビーアルが街で暴れたりなんかしたら<br>取り返しのつかないことになりますね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:220:c4556e5d",
+      "source_hash": "c4556e5d",
+      "sequence": 88,
+      "source_line": 220,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そうならないためにも<br>ご協力をお願いしたいのです",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:221:a7ff739c",
+      "source_hash": "a7ff739c",
+      "sequence": 89,
+      "source_line": 221,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "…どこから来てるのかもわからないのですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:222:d831a8a9",
+      "source_hash": "d831a8a9",
+      "sequence": 90,
+      "source_line": 222,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "報告によると レンデル森林の方角から<br>来ていることはまず間違いないみたいです",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:225:5b625719",
+      "source_hash": "5b625719",
+      "sequence": 91,
+      "source_line": 225,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…れ レンデル森林って…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:229:48005ddb",
+      "source_hash": "48005ddb",
+      "sequence": 92,
+      "source_line": 229,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "と 止り木が危ないってことか…！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:231:7ed62cf1",
+      "source_hash": "7ed62cf1",
+      "sequence": 93,
+      "source_line": 231,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "なるほどね<br>わかりました",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:234:1ea57d09",
+      "source_hash": "1ea57d09",
+      "sequence": 94,
+      "source_line": 234,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ちょっと害獣用の柵立てして<br>対策をとっておいたほうがいいかもしれませんね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:235:793fd2bd",
+      "source_hash": "793fd2bd",
+      "sequence": 95,
+      "source_line": 235,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "じゃ、私はこれで<br>果樹園の従業員に伝えておきます",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:237:b5f72702",
+      "source_hash": "b5f72702",
+      "sequence": 96,
+      "source_line": 237,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "オグズ様、今回の件は内容が内容です<br>情報の共有は最低限でお願い致します",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:238:8a755a13",
+      "source_hash": "8a755a13",
+      "sequence": 97,
+      "source_line": 238,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "パニックを起こしたくないので",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:239:82f6790d",
+      "source_hash": "82f6790d",
+      "sequence": 98,
+      "source_line": 239,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "承知しております<br>いまのところ 果樹園で勤務してる者だけに<br>とどめておきます",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:241:7f9549e9",
+      "source_hash": "7f9549e9",
+      "sequence": 99,
+      "source_line": 241,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "以上で宜しいでしょうかね<br>セレンハイド様",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

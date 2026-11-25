@@ -1,0 +1,138 @@
+{
+  "created_at": "2026-09-08T00:10:07.330720+00:00",
+  "translator_model": "Codex internal",
+  "thread_id": "019f98c4-2d2a-7502-b05c-6a79321fe89e",
+  "scope": "Existing Codex Korean baseline; five corrections only. No Gemini adoption, no game installation.",
+  "backup": "P:\\AI\\Codex\\projects\\_migrated_c_documents_codex\\2026-07-25\\new-chat\\work\\localization\\backups\\2026-09-08-reviewed-followup",
+  "corrections": [
+    {
+      "uid": "ch01-04:246:a65ec2e",
+      "ja": "よ 呼んでみられては？<br>通信ラインは結んでるんですよね？？",
+      "speaker_id": "kaj",
+      "before": "부, 불러 보시는 건 어떨까요?<br>통신 라인을 맺으셨죠??",
+      "after": "부, 불러 보시는 건 어떨까요?<br>통신 라인은 연결해 두셨죠??",
+      "reason": "통신 라인과 결합하는 서술어를 연결로 통일. 카지→미샤의 존대와 말더듬 유지.",
+      "state": "applied"
+    },
+    {
+      "uid": "ch01-04:249:b28ccba8",
+      "ja": "いや…確かに結んでるけど この程度のことで<br>コールできるくらい 仲いいわけじゃねえからさ",
+      "speaker_id": "mis",
+      "before": "아니… 맺기는 했지만 이런 일로<br>콜을 걸 만큼 친한 사이는 아니라서.",
+      "after": "아니… 연결하긴 했지만 이런 일로<br>콜을 걸 만큼 친한 사이는 아니라서.",
+      "reason": "바로 앞 질문의 結んでる를 받아 답하는 문답의 용어를 함께 수정. 미샤→카지의 반말 유지.",
+      "state": "applied"
+    },
+    {
+      "uid": "ch01-11:575:9b4ab831",
+      "ja": "それに リッグズさんもミィシャさんも<br>クロックスの生徒なんですよね？",
+      "speaker_id": "kaj",
+      "before": "게다가 리그스 씨도 미샤 씨도<br>CLOQKS(클록스) 학생이시죠?",
+      "after": "게다가 리그스 씨도 미샤 씨도<br>클록스 학생이시죠?",
+      "reason": "일본어 クロックス의 동일 기관명 표기 통일. 원문에 없는 로마자 병기 제거.",
+      "state": "applied"
+    },
+    {
+      "uid": "ch02-01:421:90434ee8",
+      "ja": "ラインヴァスタの師匠って…クロックス学院の<br>ロア＝リッドサイド先生じゃないんですか？",
+      "speaker_id": "kaj",
+      "before": "라인바스타의 스승이라면… CLOQKS(클록스) 학원의<br>로아 리드사이드 선생님 아니에요?",
+      "after": "라인바스타의 스승이라면… 클록스 학원의<br>로아 리드사이드 선생님 아니에요?",
+      "reason": "일본어 クロックス의 동일 기관명 표기 통일. 원문에 없는 로마자 병기 제거.",
+      "state": "applied"
+    },
+    {
+      "uid": "ch03-02:206:a28605e0",
+      "ja": "そら おまえ こちとら腐っても<br>クロックス高等学院の生徒ってことらしいからな",
+      "speaker_id": "mis",
+      "before": "그야, 나도 이래 봬도<br>CLOQKS 고등학원 학생인 모양이니까.",
+      "after": "그야, 나도 이래 봬도<br>클록스 고등학원 학생인 모양이니까.",
+      "reason": "일본어 クロックス의 동일 기관명 표기 통일. 서술어와 인물 말투는 변경하지 않음.",
+      "state": "applied"
+    }
+  ],
+  "files": [
+    {
+      "path": "P:\\AI\\Codex\\projects\\_migrated_c_documents_codex\\2026-07-25\\new-chat\\work\\localization\\translations_ko\\ch01\\ch01-04.part01.jsonl",
+      "before_sha256": "ea863963c80352cb4489a39bc955fd005c4806314ca4cc644d1d215889e61b54",
+      "after_sha256": "1e13d99c24d89e1f6846c746d899b2c78c875decb27bcb61e75d36d9dfd14e5d"
+    },
+    {
+      "path": "P:\\AI\\Codex\\projects\\_migrated_c_documents_codex\\2026-07-25\\new-chat\\work\\localization\\translations_ko\\ch01\\ch01-11.part03.jsonl",
+      "before_sha256": "2213b3d219909fa9bbd24f56701d81d06f1a08805da5891069dd468ddec6d62f",
+      "after_sha256": "216635e42bcd1dcb925e91be0768cee32012f30f15ef00d4a015675934dde8bd"
+    },
+    {
+      "path": "P:\\AI\\Codex\\projects\\_migrated_c_documents_codex\\2026-07-25\\new-chat\\work\\localization\\translations_ko\\ch02\\ch02-01.part03.jsonl",
+      "before_sha256": "3f1643da52957b1b850add50e69f753affc9482146214d0829a8806fc710f3cc",
+      "after_sha256": "51f55ba78f174f8073a9da578ab2855555c461944a60abdf5c002e4773f3a338"
+    },
+    {
+      "path": "P:\\AI\\Codex\\projects\\_migrated_c_documents_codex\\2026-07-25\\new-chat\\work\\localization\\translations_ko\\ch03\\ch03-02.part01.jsonl",
+      "before_sha256": "13075c80853b9dcfed9cfa2c1e3a001e06821870d4ae9c2c4265a32d0cf682dc",
+      "after_sha256": "7a4a8d9201b01fe238e76e8eaf930768efd04166310ca2c041b7907ea927ab16"
+    },
+    {
+      "path": "P:\\AI\\Codex\\projects\\_migrated_c_documents_codex\\2026-07-25\\new-chat\\work\\localization\\terminology.json",
+      "before_sha256": "34560ed16c9b50b09f48a4b134e5336f9c967f7edacc2d1fa4baf2ab7c2dc75f",
+      "after_sha256": "5e4a6692ce74ffe84c2d63db0dd2f93d3e6d89792ae8942bc1a83b63f457504c"
+    },
+    {
+      "path": "P:\\AI\\Codex\\projects\\_migrated_c_documents_codex\\2026-07-25\\new-chat\\work\\localization\\glossary.md",
+      "before_sha256": "77f3417747b99b9dabd5e78426ebbd5f7b47fcbdcdce9ae5d5e82c1c1ccb5fce",
+      "after_sha256": "5b60817464c9ad1b389fb86260a996e083abfe7118f5cbc8963058fc9b6b0a5d"
+    }
+  ],
+  "cloqks_occurrences": [
+    {
+      "uid": "ch01-07:113:e97d459a",
+      "ja": "クロックス候補生の制服を着てる…！！",
+      "ko": "클록스 후보생 제복을 입고 있어…!!"
+    },
+    {
+      "uid": "ch01-07:257:9cac4288",
+      "ja": "お前も 曲がりなりにもクロックス候補生だろーが",
+      "ko": "너도 명색이 클록스 후보생이잖아."
+    },
+    {
+      "uid": "ch01-07:582:f830673d",
+      "ja": "クロックスの一員として『ルゼンハイド』の<br>ミドルネームをもらってる貴族くらいは覚えておこうよ…",
+      "ko": "클록스의 일원이라면 『루젠하이드』라는<br>미들 네임을 받은 귀족 정도는 알아 두자…"
+    },
+    {
+      "uid": "ch01-11:575:9b4ab831",
+      "ja": "それに リッグズさんもミィシャさんも<br>クロックスの生徒なんですよね？",
+      "ko": "게다가 리그스 씨도 미샤 씨도<br>클록스 학생이시죠?"
+    },
+    {
+      "uid": "ch02-01:421:90434ee8",
+      "ja": "ラインヴァスタの師匠って…クロックス学院の<br>ロア＝リッドサイド先生じゃないんですか？",
+      "ko": "라인바스타의 스승이라면… 클록스 학원의<br>로아 리드사이드 선생님 아니에요?"
+    },
+    {
+      "uid": "ch02-02:112:67c5900d",
+      "ja": "ク クロックスの教員だったと！",
+      "ko": "클, 클록스의 교원이셨다고요!"
+    },
+    {
+      "uid": "ch02-12:813:a6e0ec0d",
+      "ja": "例えばクロックスの成績だったら 当然勝つのは私よ",
+      "ko": "가령 클록스 성적이라면 당연히 내가 이기지."
+    },
+    {
+      "uid": "ch03-02:206:a28605e0",
+      "ja": "そら おまえ こちとら腐っても<br>クロックス高等学院の生徒ってことらしいからな",
+      "ko": "그야, 나도 이래 봬도<br>클록스 고등학원 학생인 모양이니까."
+    },
+    {
+      "uid": "ch03-04:581:a4472b1a",
+      "ja": "クロックス周辺よ<br>赤髪の女性がいたという連絡があったから…",
+      "ko": "클록스 주변이야.<br>붉은 머리 여자가 있었다는 연락을 받아서…"
+    },
+    {
+      "uid": "ch03-04:736:9cb23dd9",
+      "ja": "フローラ様はクロックス周辺…<br>ミィシャさんはケンドリッドさんのバー<br>リッグズさんは季節等周辺…",
+      "ko": "플로라 님은 클록스 주변…<br>미샤 씨는 켄드리드 씨의 바,<br>리그스 씨는 계절동 주변…"
+    }
+  ]
+}

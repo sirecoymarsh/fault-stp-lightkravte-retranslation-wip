@@ -1,0 +1,547 @@
+{
+  "schema_version": 1,
+  "reviewer": "Codex internal",
+  "entries": [
+    {
+      "uid": "ch02-14:192:52342f8c",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 2,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "열화 의미 누락"
+        ]
+      },
+      "severity": "major",
+      "reason": "経年劣化して薄まった는 세월에 열화되어 옅어진다는 두 요소다. A가 둘 다 보존하고 B는 희미해짐만 남겼다"
+    },
+    {
+      "uid": "ch02-14:327:5b12bf73",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "문장부호 차이뿐이며 의미는 동일하다"
+    },
+    {
+      "uid": "ch02-14:366:8e1e4c74",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "말끝 다소 어색"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "건투로 의미 변경"
+        ]
+      },
+      "severity": "minor",
+      "reason": "ご武運은 무운을 빈다는 말이다. A가 뜻과 소네타식 말투를 더 가깝게 살렸다"
+    },
+    {
+      "uid": "ch02-15:14:b7ed1f63",
+      "preferred": "A",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "통증 양상 구체화"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 1,
+        "issues": [
+          "비명 은유 증설"
+        ]
+      },
+      "severity": "major",
+      "reason": "B의 「온몸이 지르는 비명」은 원문에 없는 강한 은유를 만든다. A도 쑤심을 구체화했지만 증설이 덜하다"
+    },
+    {
+      "uid": "ch02-15:35:9b0c62a3",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "なんか는 여기서 말버릇에 가까워 A의 「뭔가」가 무난하다. B의 「왠지」는 이유 불명의 느낌으로 기운다"
+    },
+    {
+      "uid": "ch02-15:57:c5713754",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch02-16:20:5264c336",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "대체 강도 추가"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "둘 다 맞지만 B가 원문의 자기 질문을 불필요한 「대체」 없이 보존한다"
+    },
+    {
+      "uid": "ch02-16:26:8c348a97",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "말대꾸 뉘앙스 증설"
+        ]
+      },
+      "severity": "major",
+      "reason": "何も言い返せない는 아무 반박도 못한다는 뜻이다. A가 정확하고 B의 「말대꾸」는 부정적 평가와 강도를 보탠다"
+    },
+    {
+      "uid": "ch02-16:60:93555c64",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 이름 호명"
+    },
+    {
+      "uid": "ch02-17:143:5acb58ed",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 머뭇거림"
+    },
+    {
+      "uid": "ch02-17:217:57eb2e9c",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 2,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "관용구 의미 오독",
+          "번역투"
+        ]
+      },
+      "severity": "major",
+      "reason": "A의 「제 앞가림도 못 하면서/내 속도 모르면서」가 관용 의미와 카지의 분노를 살린다. B는 일본어 구조를 직역해 어색하다"
+    },
+    {
+      "uid": "ch02-17:271:55404aa7",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 1,
+        "issues": [
+          "수식·강도 증설"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "B의 「쉽게 꺾이는 녀석」이 打たれ弱い를 정확히 옮긴다. A는 무너져 내리는 나약한이라는 수식을 크게 늘렸다"
+    },
+    {
+      "uid": "ch02-18:38:fe4ac43a",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 사고 단편"
+    },
+    {
+      "uid": "ch02-18:145:8898c70c",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "pending 용어"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 2,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "왕족 호칭 약화"
+        ]
+      },
+      "severity": "major",
+      "reason": "카지는 셀피네를 「공주님」으로 높인다. A가 관계 호칭을 지키고 B는 단순 「님」으로 낮췄다"
+    },
+    {
+      "uid": "ch02-18:167:1d3ca31",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "一切를 전혀/조금도 모두 정확하게 살렸고 문장도 자연스럽다"
+    },
+    {
+      "uid": "ch02-18:190:85a9e511",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "고통 뉘앙스 추가"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "짧게 새는 う에는 B의 「으」가 가깝다. A의 「윽」은 고통 반응을 더한다"
+    },
+    {
+      "uid": "ch02-18:246:9b1d39ab",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "そだよ의 가볍고 즉각적인 말투는 B의 「응, 그래!」가 조금 더 가깝다"
+    },
+    {
+      "uid": "ch02-19:43:8d9a7f48",
+      "preferred": "A",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "기회로 의미 구체화"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "형편이 좋다 번역투"
+        ]
+      },
+      "severity": "minor",
+      "reason": "양쪽 모두 都合がいい를 완벽히 살리진 못했지만 A가 독백으로 자연스럽고 문맥의 자기 편의성을 더 잘 드러낸다"
+    },
+    {
+      "uid": "ch02-19:56:bbb94fb2",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 신음 표기"
+    },
+    {
+      "uid": "ch02-19:173:eea41296",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "はぁ？는 여기서 반문 「뭐?」다. A가 정확하고 B의 「하아?」는 표기상 한숨처럼 읽힌다"
+    },
+    {
+      "uid": "ch02-20:79:a948d9c8",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "강조·설명 증설"
+        ]
+      },
+      "severity": "major",
+      "reason": "A가 아디아의 공감 대사로 자연스럽다. B는 「정말」을 추가하고 문어적으로 늘였다"
+    },
+    {
+      "uid": "ch02-20:134:8d48292c",
+      "preferred": "A",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "표현 어색"
+        ]
+      },
+      "B": {
+        "fidelity": 2,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "깨달음 의미 약화"
+        ]
+      },
+      "severity": "minor",
+      "reason": "はっと는 불현듯 깨닫는 순간이다. 둘 다 부족하지만 A가 「앗」이라는 깨달음과 と의 연결을 더 남겼다"
+    },
+    {
+      "uid": "ch02-20:170:d55e5b5f",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 확인 대사"
+    },
+    {
+      "uid": "ch02-20:213:35020f6",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby 후검수"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby 후검수"
+        ]
+      },
+      "severity": "minor",
+      "reason": "둘 다 가입 불허 의미를 보존했다. B의 「할당량을 채우다」가 대화로 조금 더 자연스럽다"
+    },
+    {
+      "uid": "ch02-20:246:742f7a4b",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "客商売를 「접객업」으로 정리한 B가 설명 대사에 정확하고 간결하다"
+    }
+  ],
+  "review_status": "complete_blind",
+  "entries_reviewed": 25
+}

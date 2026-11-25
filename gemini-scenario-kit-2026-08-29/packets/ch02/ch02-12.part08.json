@@ -1,0 +1,1159 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-12.part08",
+  "script": "ch02-12",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch02-12:1372:40e04eb4",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "そ そんなに酷い容態なのですか ミィネ様は？？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:1374:36effa9",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "多分…自己防衛的ななにかなのかな？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:1376:809f3f3b",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "もし ある日 そんなことが起きたら―――<br>わたしはたぶん どうしていいかわからなくなっちゃう",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:1378:4e3d4c75",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "だから きっと頭が勝手に想像するんだと思うの",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:1380:cd859107",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "そういう日が来た時のために<br>できるだけショックを受けないように…<br>心の予行演習みたいな？",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch02-12:1382:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 700,
+      "source_line": 1382,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1383:f267a18c",
+      "source_hash": "f267a18c",
+      "sequence": 701,
+      "source_line": 1383,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ミィネ様のご病気は…<br>やはり治癒できるようなものではないのですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1385:ee52a17a",
+      "source_hash": "ee52a17a",
+      "sequence": 702,
+      "source_line": 1385,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "できないらしいわね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1386:b64cdf21",
+      "source_hash": "b64cdf21",
+      "sequence": 703,
+      "source_line": 1386,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "少なくとも今のクラフト技術じゃ<br>だってそもそも原因がわからないんだもの",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1388:77a95eb2",
+      "source_hash": "77a95eb2",
+      "sequence": 704,
+      "source_line": 1388,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そう…ですか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1390:68b56c2b",
+      "source_hash": "68b56c2b",
+      "sequence": 705,
+      "source_line": 1390,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "お医者様が言っていたわ…人って<br>治せば治す分だけ新しい壊れ方が発見されて<br>永遠に終わらないサイクルだって",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1391:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 706,
+      "source_line": 1391,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1393:19b55aeb",
+      "source_hash": "19b55aeb",
+      "sequence": 707,
+      "source_line": 1393,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "どうして世の中ってこんな風にできてるのかしらね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1394:6b45035",
+      "source_hash": "6b45035",
+      "sequence": 708,
+      "source_line": 1394,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "続く平穏なんて絶対に存在しない…むしろその逆で…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1396:4cfc4ccb",
+      "source_hash": "4cfc4ccb",
+      "sequence": 709,
+      "source_line": 1396,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "リーヴェさんの…なんの本だっけ…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1397:6dedc1a",
+      "source_hash": "6dedc1a",
+      "sequence": 710,
+      "source_line": 1397,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "『我々は狂気の海である世の水面に散りばめられた<br>  理の杭にしがみつきながら生きていくしかない』",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1399:ff70f02",
+      "source_hash": "ff70f02",
+      "sequence": 711,
+      "source_line": 1399,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…『幻想病』…ですね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1401:9dd58734",
+      "source_hash": "9dd58734",
+      "sequence": 712,
+      "source_line": 1401,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あ そうそう…<br>原因不明の病気で死んでいく子供たちの話ね…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1402:a71a0bc1",
+      "source_hash": "a71a0bc1",
+      "sequence": 713,
+      "source_line": 1402,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1403:b033562a",
+      "source_hash": "b033562a",
+      "sequence": 714,
+      "source_line": 1403,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "フローラ様…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1404:7608d43f",
+      "source_hash": "7608d43f",
+      "sequence": 715,
+      "source_line": 1404,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そのご自宅で…<br>ミィネ様とはあまりお時間を過ごされないのですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1405:e1463a55",
+      "source_hash": "e1463a55",
+      "sequence": 716,
+      "source_line": 1405,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1407:7312815e",
+      "source_hash": "7312815e",
+      "sequence": 717,
+      "source_line": 1407,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "できるだけ…過ごそうとはしてる…かな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1408:c72c78f8",
+      "source_hash": "c72c78f8",
+      "sequence": 718,
+      "source_line": 1408,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "でも 人のマナにあてられると悪化する病気みたいだから<br>特殊な防壁クラフトを医者に<ruby=\"かけて\">ブレスして</ruby>もらわないと<br>近づけないの…",
+      "required_tokens": [
+        "<br>",
+        "<ruby=\"かけて\">",
+        "</ruby>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1410:d7153866",
+      "source_hash": "d7153866",
+      "sequence": 719,
+      "source_line": 1410,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え！？ …そ そんな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1412:af7ffc04",
+      "source_hash": "af7ffc04",
+      "sequence": 720,
+      "source_line": 1412,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "でもずっと家の中にいるのはよくないって言われてね<br>メルポットおばちゃんに特注してもらったの",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1413:d7f9eb4f",
+      "source_hash": "d7f9eb4f",
+      "sequence": 721,
+      "source_line": 1413,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そのローブは<br>完全に外界のマナを遮断するようにできているわ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1414:76be3e17",
+      "source_hash": "76be3e17",
+      "sequence": 722,
+      "source_line": 1414,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "それだったら<br>短い間なら外に出れるようになるかもしれないから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1415:76faeb79",
+      "source_hash": "76faeb79",
+      "sequence": 723,
+      "source_line": 1415,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうだったんですね…特注品…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1416:8e4daf6a",
+      "source_hash": "8e4daf6a",
+      "sequence": 724,
+      "source_line": 1416,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "お姉ちゃん暴れなければ だけどね―――<br>服なんてすぐボロボロにしちゃうから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1418:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 725,
+      "source_line": 1418,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1419:b7cf3b5d",
+      "source_hash": "b7cf3b5d",
+      "sequence": 726,
+      "source_line": 1419,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……想像が…できません",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1421:273025b6",
+      "source_hash": "273025b6",
+      "sequence": 727,
+      "source_line": 1421,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "できないほうが幸せよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1423:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 728,
+      "source_line": 1423,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1426:23196c18",
+      "source_hash": "23196c18",
+      "sequence": 729,
+      "source_line": 1426,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "この間さー 気づいちゃったんだよね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1429:ab4ea75f",
+      "source_hash": "ab4ea75f",
+      "sequence": 730,
+      "source_line": 1429,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "お姉ちゃん……<br>言葉が話せなくなってからのほうが長くなっちゃった",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1431:23185ccd",
+      "source_hash": "23185ccd",
+      "sequence": 731,
+      "source_line": 1431,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "私の知ってる優しいお姉ちゃんは…<br>もう記憶の中にしかいない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1432:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 732,
+      "source_line": 1432,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1434:2fa8a959",
+      "source_hash": "2fa8a959",
+      "sequence": 733,
+      "source_line": 1434,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "なんかさ…たまに…たまにだよ？<br>ちょっとだけね投げ出したくなるの",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1435:fc1cfb89",
+      "source_hash": "fc1cfb89",
+      "sequence": 734,
+      "source_line": 1435,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "どうしても食事をしてくれない時とか<br>薬を飲んでくれない時とか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1436:2acebe74",
+      "source_hash": "2acebe74",
+      "sequence": 735,
+      "source_line": 1436,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "お風呂に入ってくれない時とか<br>血を吐くほど叫び続ける時とか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1437:9ec44e31",
+      "source_hash": "9ec44e31",
+      "sequence": 736,
+      "source_line": 1437,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1439:dccf4a01",
+      "source_hash": "dccf4a01",
+      "sequence": 737,
+      "source_line": 1439,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "なんかもう どうでもいいかなーって…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1440:bd899cbd",
+      "source_hash": "bd899cbd",
+      "sequence": 738,
+      "source_line": 1440,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "どれだけ声をかけても<br>私の言葉は彼女にはもう届かないから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1442:2dd809c6",
+      "source_hash": "2dd809c6",
+      "sequence": 739,
+      "source_line": 1442,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "でもさ そんなことをちょっとでも考えちゃう自分が<br>本当に嫌いでさ…もう頭の中めちゃくちゃになって…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1443:36fd2be8",
+      "source_hash": "36fd2be8",
+      "sequence": 740,
+      "source_line": 1443,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "本当は お姉ちゃんのことが大好きで<br>なによりも大事に思ってるのに",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1445:f10d6204",
+      "source_hash": "f10d6204",
+      "sequence": 741,
+      "source_line": 1445,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "お姉ちゃんだって<br>あんな風になりたくてなったわけじゃないのに―――",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1447:d077a1a",
+      "source_hash": "d077a1a",
+      "sequence": 742,
+      "source_line": 1447,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "私の思い通りに接してくれないから<br>不貞腐れてるだけなのよ 私？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1450:a4c30639",
+      "source_hash": "a4c30639",
+      "sequence": 743,
+      "source_line": 1450,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そう考えたらさ…最低な妹だな…って…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1453:8f75b7b0",
+      "source_hash": "8f75b7b0",
+      "sequence": 744,
+      "source_line": 1453,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんなこと…ないですよ！！！<br>ご立派ですよ フローラ様は……！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1456:7df2ab72",
+      "source_hash": "7df2ab72",
+      "sequence": 745,
+      "source_line": 1456,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そう…かなー…本当にそうかなー？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1458:ca655f6f",
+      "source_hash": "ca655f6f",
+      "sequence": 746,
+      "source_line": 1458,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "学園で頑張って セレンハイドで頑張って<br>あげく就望斡旋のお仕事まで頑張って…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1459:1c9527ea",
+      "source_hash": "1c9527ea",
+      "sequence": 747,
+      "source_line": 1459,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "お お姉さまのご面倒をみられて―――<br>フローラ様は本当にすごいと思います…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1461:a71a0bc1",
+      "source_hash": "a71a0bc1",
+      "sequence": 748,
+      "source_line": 1461,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1463:895df915",
+      "source_hash": "895df915",
+      "sequence": 749,
+      "source_line": 1463,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ありがとうね カージ君",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1465:4849a22",
+      "source_hash": "4849a22",
+      "sequence": 750,
+      "source_line": 1465,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "薄っぺらい<br>あまりにも貧弱な励ましの言葉",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1467:691c8500",
+      "source_hash": "691c8500",
+      "sequence": 751,
+      "source_line": 1467,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "わかるはずがないのだ<br>僕のように脳天気に生きている人間に",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1468:68778103",
+      "source_hash": "68778103",
+      "sequence": 752,
+      "source_line": 1468,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "一人っ子の僕に 姉妹の絆の重みなんて",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1469:9e586e94",
+      "source_hash": "9e586e94",
+      "sequence": 753,
+      "source_line": 1469,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "フローラ様の悩みなんて",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1470:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 754,
+      "source_line": 1470,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1472:2538d7b9",
+      "source_hash": "2538d7b9",
+      "sequence": 755,
+      "source_line": 1472,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "軽く めまいがした",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1474:e78df79a",
+      "source_hash": "e78df79a",
+      "sequence": 756,
+      "source_line": 1474,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ちょっとした吐き気に見舞われる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1475:416f4417",
+      "source_hash": "416f4417",
+      "sequence": 757,
+      "source_line": 1475,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "どうしたら…<br>どうしたら彼女の力になってあげられるのだろう",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1478:2463325b",
+      "source_hash": "2463325b",
+      "sequence": 758,
+      "source_line": 1478,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "…私さ 本当の意味で家族の死を体験したことがないの",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1479:5f300912",
+      "source_hash": "5f300912",
+      "sequence": 759,
+      "source_line": 1479,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そりゃ親戚で亡くなった人とかはいるけど<br>みんな私が小さい頃だったから あんまり覚えてないよね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1480:e132d35f",
+      "source_hash": "e132d35f",
+      "sequence": 760,
+      "source_line": 1480,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "それで カージ君も知っての通り<br>セレンハイドは母も父も健在だから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1482:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 761,
+      "source_line": 1482,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1484:37617f30",
+      "source_hash": "37617f30",
+      "sequence": 762,
+      "source_line": 1484,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "だから…想像ができないんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1485:f86a7bcf",
+      "source_hash": "f86a7bcf",
+      "sequence": 763,
+      "source_line": 1485,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "家族みたいに大事にしてる人が<br>ある日いなくなってしまって…<br>もう永遠に会えなくなるなんて",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1486:1a70062a",
+      "source_hash": "1a70062a",
+      "sequence": 764,
+      "source_line": 1486,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そんな状況…理解すらできない<br>言葉ではわかっても それがなにを意味してるか<br>想像ができないの",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1488:ae1c945d",
+      "source_hash": "ae1c945d",
+      "sequence": 765,
+      "source_line": 1488,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "お姉ちゃんがもし死んじゃったら…<br>心情的にどうなっちゃうんだろう…私って",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1489:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 766,
+      "source_line": 1489,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1490:c0efd599",
+      "source_hash": "c0efd599",
+      "sequence": 767,
+      "source_line": 1490,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "リトナは…それを知っているのよね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1491:bbdd1cc2",
+      "source_hash": "bbdd1cc2",
+      "sequence": 768,
+      "source_line": 1491,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そして彼女は天涯孤独<br>それは私程度の理解じゃ遠く及ばない体験…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1492:e1463a55",
+      "source_hash": "e1463a55",
+      "sequence": 769,
+      "source_line": 1492,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1494:f48c38cd",
+      "source_hash": "f48c38cd",
+      "sequence": 770,
+      "source_line": 1494,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "…強くなりなさいなんて<br>しっかりしなさいなんて…<br>どの口がほざいてるんだろうね 私ったら",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1496:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 771,
+      "source_line": 1496,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1497:497ec1a0",
+      "source_hash": "497ec1a0",
+      "sequence": 772,
+      "source_line": 1497,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あの…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1500:388afb96",
+      "source_hash": "388afb96",
+      "sequence": 773,
+      "source_line": 1500,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あ ごめんごめん！<br>なんかめっっっちゃ辛気臭くなっちゃったわね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1502:e22f12ee",
+      "source_hash": "e22f12ee",
+      "sequence": 774,
+      "source_line": 1502,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "別にそこまで落ち込んでるわけじゃないから<br>あんまり気しないで いつものことだからさ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1503:1fba9820",
+      "source_hash": "1fba9820",
+      "sequence": 775,
+      "source_line": 1503,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "カージ君に話したら ちょっと元気出てきたわ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1504:7c768dec",
+      "source_hash": "7c768dec",
+      "sequence": 776,
+      "source_line": 1504,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そして フローラ様は笑った",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1505:432c1a03",
+      "source_hash": "432c1a03",
+      "sequence": 777,
+      "source_line": 1505,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "まるでスイッチで切り替えたかのような早変わりで<br>振りまく力強くて明るい笑み",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1506:4dc42e8f",
+      "source_hash": "4dc42e8f",
+      "sequence": 778,
+      "source_line": 1506,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それを虚勢と呼ぶにはあまりにも無粋で…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1507:bea33dc9",
+      "source_hash": "bea33dc9",
+      "sequence": 779,
+      "source_line": 1507,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "聞きたいことはたくさんあるのに<br>同じ話題を追求するのは あまりにも無神経で…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1509:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 780,
+      "source_line": 1509,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1510:728ecdc3",
+      "source_hash": "728ecdc3",
+      "sequence": 781,
+      "source_line": 1510,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕はなにも言うことができなかった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1511:1203d300",
+      "source_hash": "1203d300",
+      "sequence": 782,
+      "source_line": 1511,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "心を開いてくれた女性に<br>かける言葉を見つけることができなくて…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1512:a1c5fabd",
+      "source_hash": "a1c5fabd",
+      "sequence": 783,
+      "source_line": 1512,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "情けなさすぎて…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:1513:8536a272",
+      "source_hash": "8536a272",
+      "sequence": 784,
+      "source_line": 1513,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "無難な相槌しか打てなかった自分に<br>僕は強い嫌悪感を抱いた",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

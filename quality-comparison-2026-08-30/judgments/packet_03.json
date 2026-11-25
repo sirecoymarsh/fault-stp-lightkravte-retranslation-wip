@@ -1,0 +1,555 @@
+{
+  "schema_version": 1,
+  "reviewer": "Codex internal",
+  "entries": [
+    {
+      "uid": "ch01-09:258:7fc181a3",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby 후검수"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 2,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "대화 종결 보이스 오류",
+          "ruby 후검수"
+        ]
+      },
+      "severity": "major",
+      "reason": "리토나의 대사이므로 A의 「물건이야」가 맞다. B의 「물건이다」는 갑자기 서술체로 굳는다"
+    },
+    {
+      "uid": "ch01-09:284:e41e3e72",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "추측 종결 반복"
+        ]
+      },
+      "severity": "minor",
+      "reason": "そうだな…きっとあるな의 자기 납득은 A가 더 가깝고 자연스럽다"
+    },
+    {
+      "uid": "ch01-10:21:b2b4c631",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "문어적",
+          "끼어 있었다 뉘앙스 증설"
+        ]
+      },
+      "severity": "major",
+      "reason": "A가 카지 독백으로 자연스럽다. B는 문어적이고 「한 명이 더 끼어 있었다」라는 개입 뉘앙스를 보탠다"
+    },
+    {
+      "uid": "ch01-10:129:851c03ed",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "お？どうした？의 반응은 B가 어감과 의미를 더 잘 보존한다"
+    },
+    {
+      "uid": "ch01-10:146:b47a23ce",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 2,
+        "directed_voice": 2,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "말투 부자연"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 3,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "말투 다소 약함"
+        ]
+      },
+      "severity": "minor",
+      "reason": "둘 다 오그즈 특유의 거친 맛은 약하지만 B가 「아는 사이야」로 더 자연스럽다"
+    },
+    {
+      "uid": "ch01-10:261:b3d6734f",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch01-11:206:c344ed6f",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby 후검수"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby 후검수"
+        ]
+      },
+      "severity": "minor",
+      "reason": "再現！？는 문맥상 「재현한다고!?」가 자연스럽다. B는 목적어 뒤 술어가 빠져 다소 딱딱하다"
+    },
+    {
+      "uid": "ch01-11:211:7ec67f18",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "역시를 정말로로 변경"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "やっぱり를 그대로 살린 B가 정확하다. A의 「정말로」는 의미를 바꾼다"
+    },
+    {
+      "uid": "ch01-11:263:46454f0a",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "A가 쉼과 수식 관계를 자연스럽게 정리했다. B의 쉼표는 「같은」 뒤를 어색하게 끊는다"
+    },
+    {
+      "uid": "ch01-11:463:7b517df9",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "더듬음 위치가 밤으로 이동"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "원문의 더듬음은 めちゃくちゃ 앞에서 생긴다. B가 「어, 엄청나게」로 자연스럽게 처리하고 밤을 뒤에 둔다"
+    },
+    {
+      "uid": "ch01-11:575:9b4ab831",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "pending 용어"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "영문 표기 증설"
+        ]
+      },
+      "severity": "major",
+      "reason": "A가 잠긴 한국어 표기 「클록스」를 지킨다. B의 CLOQKS 병기는 대사 표시로 불필요하다"
+    },
+    {
+      "uid": "ch01-11:694:4d8304cc",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch01-11:729:3f2ec503",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 3,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "리그스 말투가 다소 가벼움"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 2,
+        "directed_voice": 2,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "중복·강도 증설",
+          "종결 보이스 거침"
+        ]
+      },
+      "severity": "minor",
+      "reason": "A가 원문의 짧은 놀림을 덜 증설했다. B는 「눈에 눈물까지」가 중복되고 종결이 더 거칠다"
+    },
+    {
+      "uid": "ch01-12d:17:fbf8f728",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 1,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "기록체 존대 오류"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "앞 문장과 이어지는 평서형 기록이다. B가 반말을 유지하고 A는 갑자기 존댓말로 바뀐다"
+    },
+    {
+      "uid": "ch01-12d:36:4c6c9fad",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 1,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "기록체 존대 오류"
+        ]
+      },
+      "severity": "major",
+      "reason": "같은 기록의 독백체다. A가 맞고 B의 「아니에요」는 존대 단계가 깨진다"
+    },
+    {
+      "uid": "ch01-12d:57:c5110c26",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 1,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "기록체 존대 오류"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "같은 기록체에서 B가 반말을 유지한다. A의 「이상한 걸까요」는 존대 오류다"
+    },
+    {
+      "uid": "ch01-13:39:cfd7202a",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "가능성 표현으로 약화"
+        ]
+      },
+      "severity": "minor",
+      "reason": "A가 「조장하는 게 아니냐는 의견」으로 원문의 논지를 정확하고 자연스럽게 옮겼다"
+    },
+    {
+      "uid": "ch01-13:55:fc2e2414",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "둘 다 의미는 맞지만 A가 問에 대한 「答え」를 그대로 살리고 원문 인용부호를 유지한다"
+    },
+    {
+      "uid": "ch01-13:90:f8bf2d92",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 호명"
+    },
+    {
+      "uid": "ch02-00d:19:d04bc1aa",
+      "preferred": "B",
+      "A": {
+        "fidelity": 2,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "감각 의미 오독"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "モヤモヤ는 답답함이고 目が回る는 눈이 핑 도는 느낌이다. B가 정확하며 A의 「울렁거림」은 신체 의미를 바꾼다"
+    },
+    {
+      "uid": "ch02-00d:38:53b518b1",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "전각 부호 변경"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "B가 원문의 전각 부호와 과제 문체를 보존하고 「구현」도 자연스럽다"
+    },
+    {
+      "uid": "ch02-00d:52:ee0a583e",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "과제 목록의 문체에는 B의 「없는가」가 더 일관된다. A도 의미상 문제는 없다"
+    },
+    {
+      "uid": "ch02-01:55:41cf4529",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 2,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "핵심 의미 누락"
+        ]
+      },
+      "severity": "major",
+      "reason": "勝手に는 몸이 저절로 움직였다는 뜻이다. A가 정확하고 B의 「먼저」는 핵심 자율성 의미를 잃는다"
+    },
+    {
+      "uid": "ch02-01:77:3eff9842",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 감탄 번역"
+    },
+    {
+      "uid": "ch02-01:175:fd70fdcb",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "의미 강도 상승"
+        ]
+      },
+      "severity": "minor",
+      "reason": "恐縮です의 직접적인 겸양 표현을 A가 보존했다. B도 자연스럽지만 의미 강도가 더 세다"
+    }
+  ],
+  "review_status": "complete_blind",
+  "entries_reviewed": 25
+}

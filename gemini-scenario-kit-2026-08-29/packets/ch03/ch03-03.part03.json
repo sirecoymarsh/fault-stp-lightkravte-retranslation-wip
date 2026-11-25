@@ -1,0 +1,279 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch03-03.part03",
+  "script": "ch03-03",
+  "chapter": "ch03",
+  "story_phase": "후반·위기와 결말",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch03-03:352:d94eb30b",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "そんな人生を歩むという決断を<br>14歳やそこらで決めなくてはならない",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-03:353:10097d5b",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "ラインヴァスタは…<br>こんな選択を…迫られていたんだ…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-03:355:ed28ad4d",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "受けたい人間は受ければいい<br>それは個人の自由なんだから",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-03:356:743e61c1",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "だが ラインヴァスタは違う…違ったんだ",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-03:357:10f12d13",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "望んでいなかったんだ…こんなこと",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch03-03:358:7056a586",
+      "source_hash": "7056a586",
+      "sequence": 200,
+      "source_line": 358,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "考えてもいなかった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:359:807689d4",
+      "source_hash": "807689d4",
+      "sequence": 201,
+      "source_line": 359,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "他人に左右される人生",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:360:a6d8d51b",
+      "source_hash": "a6d8d51b",
+      "sequence": 202,
+      "source_line": 360,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "文化と仕来り…封建と功利…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:361:324f101a",
+      "source_hash": "324f101a",
+      "sequence": 203,
+      "source_line": 361,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "これからの伝統を護り<br>僕達の人生を豊かにしてくれる人の心境なんて<br>僕は今まで一切考えてこなかった",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:362:1865da4",
+      "source_hash": "1865da4",
+      "sequence": 204,
+      "source_line": 362,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんて",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:363:7bb87cf0",
+      "source_hash": "7bb87cf0",
+      "sequence": 205,
+      "source_line": 363,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんて理不尽なんだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:364:4bcf628c",
+      "source_hash": "4bcf628c",
+      "sequence": 206,
+      "source_line": 364,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "誰が考えたんだよ こんなシステム",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:365:878617d0",
+      "source_hash": "878617d0",
+      "sequence": 207,
+      "source_line": 365,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "でも それは 仕組みを恨んでも覆すことのできない<br>紛れもない現実であって…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:366:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 208,
+      "source_line": 366,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:367:e042d3e1",
+      "source_hash": "e042d3e1",
+      "sequence": 209,
+      "source_line": 367,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんで…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:368:99575707",
+      "source_hash": "99575707",
+      "sequence": 210,
+      "source_line": 368,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんで僕は<br>これが当たり前だと思っていたんだろう？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:369:1f1b1727",
+      "source_hash": "1f1b1727",
+      "sequence": 211,
+      "source_line": 369,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんで僕は<br>人の苦痛にここまで無頓着だったんだろう…？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:370:7f1323bf",
+      "source_hash": "7f1323bf",
+      "sequence": 212,
+      "source_line": 370,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんで僕は…<br>自分のことしか考えていなかったんだろう？？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:371:b9f03420",
+      "source_hash": "b9f03420",
+      "sequence": 213,
+      "source_line": 371,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "くそ………っ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:372:e1ca3b0e",
+      "source_hash": "e1ca3b0e",
+      "sequence": 214,
+      "source_line": 372,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "生まれて初めてかもしれない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:373:7c0b1f3e",
+      "source_hash": "7c0b1f3e",
+      "sequence": 215,
+      "source_line": 373,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "恥ずかしさのあまり",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:374:87ad54d0",
+      "source_hash": "87ad54d0",
+      "sequence": 216,
+      "source_line": 374,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "情けなさのあまり",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:375:fd937904",
+      "source_hash": "fd937904",
+      "sequence": 217,
+      "source_line": 375,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "こんなに泣いたのは",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

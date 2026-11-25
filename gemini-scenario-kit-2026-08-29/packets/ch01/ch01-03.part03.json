@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-03.part03",
+  "script": "ch01-03",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch01-03:492:8b29abd4",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "画家が小部屋に入って絵を描く…？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:495:cb9c0265",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "どういう意味だろう",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:499:e26860a",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "あ そ そんなことよりも セルフィーネ様<br>…ってあれ！？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:501:917400b6",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "振り向くとセルフィーネ様の姿はなかった",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:503:a379444d",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "え 嘘だろ！？<br>なにをどうしたら こんな忽然と消えられるんだ！？",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch01-03:516:2f0c5155",
+      "source_hash": "2f0c5155",
+      "sequence": 200,
+      "source_line": 516,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "はあああああ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:518:371e463a",
+      "source_hash": "371e463a",
+      "sequence": 201,
+      "source_line": 518,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "お城の件を終えたあとさらに６件",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:519:c3aff0c2",
+      "source_hash": "c3aff0c2",
+      "sequence": 202,
+      "source_line": 519,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "今日は特に忙しかった…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:520:a61080ad",
+      "source_hash": "a61080ad",
+      "sequence": 203,
+      "source_line": 520,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "うーん…思った以上に余り物が出ちゃったな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:522:3f53fc7a",
+      "source_hash": "3f53fc7a",
+      "sequence": 204,
+      "source_line": 522,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "季節が圧縮されているせいで<br>春物と夏物の注文の交差がいつもより極端になっていて オーダーを正確にこなすのが大変になってきている",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:523:e1d116b7",
+      "source_hash": "e1d116b7",
+      "sequence": 205,
+      "source_line": 523,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "通常運転ならほとんど皆無だった<br>注文のキャンセルなどが相次ぐような日さえある",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:524:f83d844c",
+      "source_hash": "f83d844c",
+      "sequence": 206,
+      "source_line": 524,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "生まれて初めての体験だ――季節棟の起動なんて",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:525:dd30c74a",
+      "source_hash": "dd30c74a",
+      "sequence": 207,
+      "source_line": 525,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "春の余韻が短すぎると嘆く人<br>早めの夏の到来に歓喜する人",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:526:b276e0",
+      "source_hash": "b276e0",
+      "sequence": 208,
+      "source_line": 526,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "秋が待ち遠しい人<br>冬が短くて助かる人 困る人",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:527:7a86e8fa",
+      "source_hash": "7a86e8fa",
+      "sequence": 209,
+      "source_line": 527,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "置かれている状況によって感じ方はさまざまのようだが<br>みんなからある種の焦燥のようなものを感じるのは<br>僕の不安が滲み出ている表れだろうか",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:528:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 210,
+      "source_line": 528,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:529:daac3fc1",
+      "source_hash": "daac3fc1",
+      "sequence": 211,
+      "source_line": 529,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…さてと…今日一日の仕事も終わりましたし…<br>ちょっとだけ行きますかね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:530:193ec1a0",
+      "source_hash": "193ec1a0",
+      "sequence": 212,
+      "source_line": 530,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あの場所へ――",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

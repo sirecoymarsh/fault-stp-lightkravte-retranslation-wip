@@ -1,0 +1,977 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-11.part01",
+  "script": "ch02-11",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch02-11:16:afe6c61e",
+      "source_hash": "afe6c61e",
+      "sequence": 0,
+      "source_line": 16,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "おおい 入るぞ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:21:5e8acaad",
+      "source_hash": "5e8acaad",
+      "sequence": 1,
+      "source_line": 21,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぐ ぐず………！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:22:fd920e56",
+      "source_hash": "fd920e56",
+      "sequence": 2,
+      "source_line": 22,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "なんだお前？ 泣いてるのか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:24:43d3fe33",
+      "source_hash": "43d3fe33",
+      "sequence": 3,
+      "source_line": 24,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いや……寝不足であくびしただけだよ……<br>気にしないで",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:25:baf089ff",
+      "source_hash": "baf089ff",
+      "sequence": 4,
+      "source_line": 25,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:26:72c4b80c",
+      "source_hash": "72c4b80c",
+      "sequence": 5,
+      "source_line": 26,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "そうか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:28:82e4b552",
+      "source_hash": "82e4b552",
+      "sequence": 6,
+      "source_line": 28,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "うん それよりさ―――あった？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:30:24ffc7c4",
+      "source_hash": "24ffc7c4",
+      "sequence": 7,
+      "source_line": 30,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ああ…わかってる こいつだろ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:33:20f34485",
+      "source_hash": "20f34485",
+      "sequence": 8,
+      "source_line": 33,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そう…それ！ 借りていいよね？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:34:e622d87f",
+      "source_hash": "e622d87f",
+      "sequence": 9,
+      "source_line": 34,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "借りるもなにも<br>ペンクラフトのものなんだったらお前にやるよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:35:ce8dcab8",
+      "source_hash": "ce8dcab8",
+      "sequence": 10,
+      "source_line": 35,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "母ちゃんも そのほうがきっと浮かばれるってもんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:37:ab9a764b",
+      "source_hash": "ab9a764b",
+      "sequence": 11,
+      "source_line": 37,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ ありがとう父さん！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:38:14312dc2",
+      "source_hash": "14312dc2",
+      "sequence": 12,
+      "source_line": 38,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "そんな古いもんもらってなに喜んでるのかしらねえが…<br>やることやったらさっさと寝ろよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:51:9ec44e31",
+      "source_hash": "9ec44e31",
+      "sequence": 13,
+      "source_line": 51,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:52:5badef05",
+      "source_hash": "5badef05",
+      "sequence": 14,
+      "source_line": 52,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こ これだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:53:c91848e1",
+      "source_hash": "c91848e1",
+      "sequence": 15,
+      "source_line": 53,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "夢の中で出てきたあれと…全く同じ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:64:40eb3b82",
+      "source_hash": "40eb3b82",
+      "sequence": 16,
+      "source_line": 64,
+      "speaker_id": "mer",
+      "speaker_name": "메를리사",
+      "voice_id": "",
+      "ja": "だからこれを使って ペンクラフトのピントを合わせるのよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:65:ca26bcc6",
+      "source_hash": "ca26bcc6",
+      "sequence": 17,
+      "source_line": 65,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:66:5dd5884e",
+      "source_hash": "5dd5884e",
+      "sequence": 18,
+      "source_line": 66,
+      "speaker_id": "mer",
+      "speaker_name": "메를리사",
+      "voice_id": "",
+      "ja": "ここに置いておいたら<br>ペンクラフトの光が集まりやすくなるのよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:67:149b34f9",
+      "source_hash": "149b34f9",
+      "sequence": 19,
+      "source_line": 67,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "全然わからないよ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:80:b106ecb7",
+      "source_hash": "b106ecb7",
+      "sequence": 20,
+      "source_line": 80,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうだ…そんなことがあった…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:81:388dcd0",
+      "source_hash": "388dcd0",
+      "sequence": 21,
+      "source_line": 81,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "掠れているライトクラフトの文字を…<br>集中させるアイテム…！！！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:82:dd377ea0",
+      "source_hash": "dd377ea0",
+      "sequence": 22,
+      "source_line": 82,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こ これどうやって使うんだろう…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:83:281c4939",
+      "source_hash": "281c4939",
+      "sequence": 23,
+      "source_line": 83,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "サイフォンの先には<br>もう１つのリーディングストーンのようなものが<br>設置されている",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:84:fda94644",
+      "source_hash": "fda94644",
+      "sequence": 24,
+      "source_line": 84,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "距離はこれでいいのかな？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:85:5aaa10ef",
+      "source_hash": "5aaa10ef",
+      "sequence": 25,
+      "source_line": 85,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "よく見ると サイフォンの中心には<br>手持ちのリーディングストーンを設置できそうな<br>窪みがあった",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:86:1ab24648",
+      "source_hash": "1ab24648",
+      "sequence": 26,
+      "source_line": 86,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こ これをここに設置して…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:87:8f6c0ee7",
+      "source_hash": "8f6c0ee7",
+      "sequence": 27,
+      "source_line": 87,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "この物体がいったいどういうものなのか 正直わからない…<br>父さんも知らないみたいだし",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:88:9d9d9b99",
+      "source_hash": "9d9d9b99",
+      "sequence": 28,
+      "source_line": 88,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "これでダメだったら…どうしよう…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:89:2d02e7af",
+      "source_hash": "2d02e7af",
+      "sequence": 29,
+      "source_line": 89,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "明日また図書館へ行って<br>ソネッタさんに相談してみようかな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:90:ce24430c",
+      "source_hash": "ce24430c",
+      "sequence": 30,
+      "source_line": 90,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ……め めまいがする…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:91:7f0ba3bd",
+      "source_hash": "7f0ba3bd",
+      "sequence": 31,
+      "source_line": 91,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あ あとちょっと…<br>あとちょっとでなにかが掴めそうなのに…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:92:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 32,
+      "source_line": 92,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:93:6a7d4e7d",
+      "source_hash": "6a7d4e7d",
+      "sequence": 33,
+      "source_line": 93,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………ん？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:94:f522cd3a",
+      "source_hash": "f522cd3a",
+      "sequence": 34,
+      "source_line": 94,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な なんだこれ…！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:96:1ca12008",
+      "source_hash": "1ca12008",
+      "sequence": 35,
+      "source_line": 96,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "リーディングストーンが設置された側部に<br>小さなダイアルのようなものがある",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:98:8563afc4",
+      "source_hash": "8563afc4",
+      "sequence": 36,
+      "source_line": 98,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "これは……回すのかな…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:101:3471d73c",
+      "source_hash": "3471d73c",
+      "sequence": 37,
+      "source_line": 101,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "しっかりと油が刺されているのだろうか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:102:fbbff721",
+      "source_hash": "fbbff721",
+      "sequence": 38,
+      "source_line": 102,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "しっとりとした なめらかなアクションで<br>設置台が細かく上下する",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:103:38b7b1f0",
+      "source_hash": "38b7b1f0",
+      "sequence": 39,
+      "source_line": 103,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こ これだ！ そ そうだ…これを調整して…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:104:dcad7278",
+      "source_hash": "dcad7278",
+      "sequence": 40,
+      "source_line": 104,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ！！！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:106:93b760ed",
+      "source_hash": "93b760ed",
+      "sequence": 41,
+      "source_line": 106,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんらかのピントが合ったのだろう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:107:4dcf97a5",
+      "source_hash": "4dcf97a5",
+      "sequence": 42,
+      "source_line": 107,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "光が集中し 僕が先ほどまで<br>ライトクラフトで筆記していた場所に<br>光が綺麗な円状で集まった",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:108:6b969a69",
+      "source_hash": "6b969a69",
+      "sequence": 43,
+      "source_line": 108,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "どう見ても これが正しい位置…だと思う",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:111:fc4ced0f",
+      "source_hash": "fc4ced0f",
+      "sequence": 44,
+      "source_line": 111,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そして しばらくすると――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:114:7427bb42",
+      "source_hash": "7427bb42",
+      "sequence": 45,
+      "source_line": 114,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:115:d1b845b7",
+      "source_hash": "d1b845b7",
+      "sequence": 46,
+      "source_line": 115,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "台座の上に置かれていたリーディングストーンの上部に<br>淡い光が集まり始めた",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:116:fee43175",
+      "source_hash": "fee43175",
+      "sequence": 47,
+      "source_line": 116,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "や やった…も もしかして…これでいいのか！？！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:117:bf6a1771",
+      "source_hash": "bf6a1771",
+      "sequence": 48,
+      "source_line": 117,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そう―――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:118:310de79e",
+      "source_hash": "310de79e",
+      "sequence": 49,
+      "source_line": 118,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "『解像度』という言葉がどうしても気になっていた",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:119:811e99eb",
+      "source_hash": "811e99eb",
+      "sequence": 50,
+      "source_line": 119,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "昔の掠れてるライトクラフトが読めるようになる装置…<br>それって要するに 掠れている『意思』の<br>解像度を上げるっていう意味なのでは？？？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:120:9dfc5332",
+      "source_hash": "9dfc5332",
+      "sequence": 51,
+      "source_line": 120,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "つまり そこに『意思』はあるけど<br>ただのリーディングストーンじゃ<br>『解像』しきれないってことなのでは？？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:121:b746944e",
+      "source_hash": "b746944e",
+      "sequence": 52,
+      "source_line": 121,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "だからライトクラフトで書いた<br>僕の『丸とアタリの十字』は 実はそこにあって…<br>解像しきれていない…というだけなのでは？？？？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:134:9ec44e31",
+      "source_hash": "9ec44e31",
+      "sequence": 53,
+      "source_line": 134,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:135:7d2461be",
+      "source_hash": "7d2461be",
+      "sequence": 54,
+      "source_line": 135,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ちょ ちょっと厳しいかな…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:136:cf9380f6",
+      "source_hash": "cf9380f6",
+      "sequence": 55,
+      "source_line": 136,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "わからない…<br>手探りでやるには限界があるのかしれない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:138:4a092c6b",
+      "source_hash": "4a092c6b",
+      "sequence": 56,
+      "source_line": 138,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "けど…他に道は残されていないんだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:140:39ada456",
+      "source_hash": "39ada456",
+      "sequence": 57,
+      "source_line": 140,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "このまま続けるしかない！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:142:a7a401cc",
+      "source_hash": "a7a401cc",
+      "sequence": 58,
+      "source_line": 142,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "や やるぞ……！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:144:2b8853df",
+      "source_hash": "2b8853df",
+      "sequence": 59,
+      "source_line": 144,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "やってやるぞおおおおお！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:155:e23e72d",
+      "source_hash": "e23e72d",
+      "sequence": 60,
+      "source_line": 155,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ああああああああああああああああああああああぁぁぁぁぁぁ……………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:157:5c0260e3",
+      "source_hash": "5c0260e3",
+      "sequence": 61,
+      "source_line": 157,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あれから数時間が経過した",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:158:23c239fd",
+      "source_hash": "23c239fd",
+      "sequence": 62,
+      "source_line": 158,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "サイフォンはうんともすんとも言わない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:159:aa3f4cb3",
+      "source_hash": "aa3f4cb3",
+      "sequence": 63,
+      "source_line": 159,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ピントの合わせ方がだめなのか<br>そもそも使い方自体間違っているのか<br>何も起こる様子がないのだ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:160:6d05d65a",
+      "source_hash": "6d05d65a",
+      "sequence": 64,
+      "source_line": 160,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "上部の淡い光もただふわふわと浮上しているだけで<br>集結するような雰囲気もない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:164:2d45419",
+      "source_hash": "2d45419",
+      "sequence": 65,
+      "source_line": 164,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ダメじゃん！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:166:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 66,
+      "source_line": 166,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:168:47592b41",
+      "source_hash": "47592b41",
+      "sequence": 67,
+      "source_line": 168,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "だ だめ…なのか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:169:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 68,
+      "source_line": 169,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:172:9e29ac88",
+      "source_hash": "9e29ac88",
+      "sequence": 69,
+      "source_line": 172,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "これでもダメとなると…もう…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:174:1a3a4d66",
+      "source_hash": "1a3a4d66",
+      "sequence": 70,
+      "source_line": 174,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………ねむ…………いな……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:175:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 71,
+      "source_line": 175,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:181:13f01daa",
+      "source_hash": "13f01daa",
+      "sequence": 72,
+      "source_line": 181,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ねえ…母さん…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:182:6d5a39f3",
+      "source_hash": "6d5a39f3",
+      "sequence": 73,
+      "source_line": 182,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あれは 僕へのヒントじゃなかったのかい？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:183:691c5706",
+      "source_hash": "691c5706",
+      "sequence": 74,
+      "source_line": 183,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕は次は…どうしたら…<br>いい…んだ…ろ…………………う……………",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-11:184:728bc10a",
+      "source_hash": "728bc10a",
+      "sequence": 75,
+      "source_line": 184,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………………………",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

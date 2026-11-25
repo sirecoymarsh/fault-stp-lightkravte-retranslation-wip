@@ -1,0 +1,1355 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-03.part01",
+  "script": "ch01-03",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": [
+      {
+        "uid": "ch01-03:305:365ad22e",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "『さっさと帰ったほうがいい』",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:306:a55cffa4",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "そう思う自分と 『<ruby=\"・\">そ</ruby><ruby=\"・\">れ</ruby>』に惹かれる自分と<br>まるで魔法にでもかかったように 意識が二つに分裂する",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:307:e3dafee4",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "いつもはここまで悩まない…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:308:4792a4cd",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "きっと間が悪いかもしれない 今は",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:309:c1c618ee",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "つい昨日就望に落ちたこのタイミングでは",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch01-03:27:85a19129",
+      "source_hash": "85a19129",
+      "sequence": 0,
+      "source_line": 27,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "あ カージ君<br>果物は奥に置いといてくれる？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:30:aba38800",
+      "source_hash": "aba38800",
+      "sequence": 1,
+      "source_line": 30,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:31:dccb44f9",
+      "source_hash": "dccb44f9",
+      "sequence": 2,
+      "source_line": 31,
+      "speaker_id": "coo",
+      "speaker_name": "요리사",
+      "voice_id": "",
+      "ja": "もっと奥だ 奥！<br>そんなところに置いたら通行の邪魔だ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:34:a2fafa21",
+      "source_hash": "a2fafa21",
+      "sequence": 3,
+      "source_line": 34,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ひ ひぃ…<br>ご ごめんなさい！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:35:19c130b3",
+      "source_hash": "19c130b3",
+      "sequence": 4,
+      "source_line": 35,
+      "speaker_id": "coo",
+      "speaker_name": "요리사",
+      "voice_id": "",
+      "ja": "あ バ…バカ<br>皮むいたサラナッツを温床エリアに置くやつがあるか！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:36:99ab519d",
+      "source_hash": "99ab519d",
+      "sequence": 5,
+      "source_line": 36,
+      "speaker_id": "coo",
+      "speaker_name": "요리사",
+      "voice_id": "",
+      "ja": "カピカピになっちまうだろうが！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:38:d2f4493c",
+      "source_hash": "d2f4493c",
+      "sequence": 6,
+      "source_line": 38,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぎゃ ぎゃああ す すみません！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:40:33dfc3ff",
+      "source_hash": "33dfc3ff",
+      "sequence": 7,
+      "source_line": 40,
+      "speaker_id": "coo",
+      "speaker_name": "요리사",
+      "voice_id": "",
+      "ja": "お前…本当に果樹園の息子なのかよ<br>ここらへん基礎中の基礎だろうが！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:43:c693949e",
+      "source_hash": "c693949e",
+      "sequence": 8,
+      "source_line": 43,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "すみません すみません…！<br>最近ちょっと寝不足気味でして！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:45:63f8bcb3",
+      "source_hash": "63f8bcb3",
+      "sequence": 9,
+      "source_line": 45,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "カージ君ちょっと来てもらえるかしら！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:48:bbc11c49",
+      "source_hash": "bbc11c49",
+      "sequence": 10,
+      "source_line": 48,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はいー！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:50:404280f9",
+      "source_hash": "404280f9",
+      "sequence": 11,
+      "source_line": 50,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "先日送ってもらったルルベリーだけど<br>ちょっと甘みが強すぎたわ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:52:2a5bb492",
+      "source_hash": "2a5bb492",
+      "sequence": 12,
+      "source_line": 52,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "厨房で処理するよりも<br>育てるときにリクエストがあるんだけど…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:55:1d093352",
+      "source_hash": "1d093352",
+      "sequence": 13,
+      "source_line": 55,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "って ちょっとカージ君 聞いてる？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:58:ba60a9a",
+      "source_hash": "ba60a9a",
+      "sequence": 14,
+      "source_line": 58,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はいはい！<br>聞いておリマスです！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:61:577960d7",
+      "source_hash": "577960d7",
+      "sequence": 15,
+      "source_line": 61,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "それとお父様にイチゴの件<br>ありがとうって伝えておいてください",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:63:66a1195e",
+      "source_hash": "66a1195e",
+      "sequence": 16,
+      "source_line": 63,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "こんな時期なのに相変わらず注文通りの素晴らしい出来で<br>バッチリだったわ…って…あ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:65:ff5f1820",
+      "source_hash": "ff5f1820",
+      "sequence": 17,
+      "source_line": 65,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "そこ！！ セルフィーネ様！！<br>カウンターの裏！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:69:9a5691de",
+      "source_hash": "9a5691de",
+      "sequence": 18,
+      "source_line": 69,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "う うわ！？<br>な なんだなんだ！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:75:bf3cba22",
+      "source_hash": "bf3cba22",
+      "sequence": 19,
+      "source_line": 75,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "あーーーっ！<br>もう見つかっちゃった！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:79:3b980fe4",
+      "source_hash": "3b980fe4",
+      "sequence": 20,
+      "source_line": 79,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "ふふふ…甘いですね セルフィーネ様！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:80:4e46460a",
+      "source_hash": "4e46460a",
+      "sequence": 21,
+      "source_line": 80,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "料理長ともなると 人と話してる時でも<br>常に気を張り巡らしているものですよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:83:a8179cd8",
+      "source_hash": "a8179cd8",
+      "sequence": 22,
+      "source_line": 83,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "あーあー…<br>やっぱりミリさんには勝てないのかなー…<br>残念だな〜…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:84:3f7727b",
+      "source_hash": "3f7727b",
+      "sequence": 23,
+      "source_line": 84,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "もうこのまま帰るしかないかー<br>悲しいな〜",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:88:2244522a",
+      "source_hash": "2244522a",
+      "sequence": 24,
+      "source_line": 88,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "セルフィーネ姫様ってこんなところにも<br>顔を出していらっしゃるのか…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:90:fad0bdc8",
+      "source_hash": "fad0bdc8",
+      "sequence": 25,
+      "source_line": 90,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "でも なんであんなわざとらしい話し方…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:92:bf34a884",
+      "source_hash": "bf34a884",
+      "sequence": 26,
+      "source_line": 92,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "それで話の続きだけど…<br>来月はお客様がいらっしゃるので<br>ナルカドの数をいつもの２倍に…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:93:d291d8d5",
+      "source_hash": "d291d8d5",
+      "sequence": 27,
+      "source_line": 93,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "はい わかりました",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:95:e5079964",
+      "source_hash": "e5079964",
+      "sequence": 28,
+      "source_line": 95,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:96:46d36042",
+      "source_hash": "46d36042",
+      "sequence": 29,
+      "source_line": 96,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:97:14cd327f",
+      "source_hash": "14cd327f",
+      "sequence": 30,
+      "source_line": 97,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ええと…ど どうされました？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:101:4e31b",
+      "source_hash": "4e31b",
+      "sequence": 31,
+      "source_line": 101,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "はっ！！ あああああ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:103:7edaaaad",
+      "source_hash": "7edaaaad",
+      "sequence": 32,
+      "source_line": 103,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え！？ な 何が！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:110:14df95e4",
+      "source_hash": "14df95e4",
+      "sequence": 33,
+      "source_line": 110,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "誰か！ セルフィーネ様の居場所チェック！<br>いま運ばれてきた 柘榴のストックを確認して！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:113:2362b9cf",
+      "source_hash": "2362b9cf",
+      "sequence": 34,
+      "source_line": 113,
+      "speaker_id": "coo",
+      "speaker_name": "요리사",
+      "voice_id": "",
+      "ja": "はい！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:116:353bcc5e",
+      "source_hash": "353bcc5e",
+      "sequence": 35,
+      "source_line": 116,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "あちゃー…やられたかもしれないわ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:118:325debae",
+      "source_hash": "325debae",
+      "sequence": 36,
+      "source_line": 118,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "カージ君…！！ 探して セルフィーネ様を！<br>まだこのフロアにいるはずよ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:120:7740d95",
+      "source_hash": "7740d95",
+      "sequence": 37,
+      "source_line": 120,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え えええ！？<br>ど どうしたんですか！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:122:4768249e",
+      "source_hash": "4768249e",
+      "sequence": 38,
+      "source_line": 122,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "柘榴…柘榴の数が合わないわ…！<br>奪還しないと食べられちゃう！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:123:b6faa4c9",
+      "source_hash": "b6faa4c9",
+      "sequence": 39,
+      "source_line": 123,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "だ 奪還って…りんごじゃあるまいし 柘榴って<br>そんな簡単に食べられるものじゃないでしょう！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:125:fc56c432",
+      "source_hash": "fc56c432",
+      "sequence": 40,
+      "source_line": 125,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "甘いわ カージ君！<br>セルフィーネ様ほどになると その場でかち割って<br>素手で中身をこそぎとって食べてしまうのよ！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:127:b3075fe5",
+      "source_hash": "b3075fe5",
+      "sequence": 41,
+      "source_line": 127,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "野生動物ですか！？<br>ってそんな食べ方しても美味しくないでしょう！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:128:38d3f365",
+      "source_hash": "38d3f365",
+      "sequence": 42,
+      "source_line": 128,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "いまのセルフィーネ様の行動に<br>理論を求めてはいけないわ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:130:cae4f39f",
+      "source_hash": "cae4f39f",
+      "sequence": 43,
+      "source_line": 130,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "とにかく探すのを手伝って！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:132:1edd50ae",
+      "source_hash": "1edd50ae",
+      "sequence": 44,
+      "source_line": 132,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はいはい！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:156:b38e385d",
+      "source_hash": "b38e385d",
+      "sequence": 45,
+      "source_line": 156,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "で でも…さ 探すって…どこを探せばいいんだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:167:ae077bfb",
+      "source_hash": "ae077bfb",
+      "sequence": 46,
+      "source_line": 167,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "せ セルフィーネ様〜…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:179:491d7b40",
+      "source_hash": "491d7b40",
+      "sequence": 47,
+      "source_line": 179,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なんて…逃げてる人が名前呼ばれたくらいで<br>出てくるはずないよな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:180:f8374567",
+      "source_hash": "f8374567",
+      "sequence": 48,
+      "source_line": 180,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いいのかな…城の中勝手にうろついて…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:181:3ca1f10a",
+      "source_hash": "3ca1f10a",
+      "sequence": 49,
+      "source_line": 181,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "一応ミリ様に頼まれたから<br>許可は得てるってことになるんだろうけど…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:183:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 50,
+      "source_line": 183,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:185:842da007",
+      "source_hash": "842da007",
+      "sequence": 51,
+      "source_line": 185,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そ それにしても緊張する",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:186:5928f576",
+      "source_hash": "5928f576",
+      "sequence": 52,
+      "source_line": 186,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "城内のこんな奥まで来ることなんてほとんどないからな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:189:d99ea8da",
+      "source_hash": "d99ea8da",
+      "sequence": 53,
+      "source_line": 189,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ん？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:192:e564aad3",
+      "source_hash": "e564aad3",
+      "sequence": 54,
+      "source_line": 192,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こ これは柘榴のたべかす…！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:194:448b5527",
+      "source_hash": "448b5527",
+      "sequence": 55,
+      "source_line": 194,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ということは こっちの方向で合ってるのかしら？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:206:1164c0e",
+      "source_hash": "1164c0e",
+      "sequence": 56,
+      "source_line": 206,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………いや",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:207:baa2efc4",
+      "source_hash": "baa2efc4",
+      "sequence": 57,
+      "source_line": 207,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あちこち歩き回ってたら結局外に出てしまったぞ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:209:9542e74",
+      "source_hash": "9542e74",
+      "sequence": 58,
+      "source_line": 209,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あれ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:213:73cc5f3d",
+      "source_hash": "73cc5f3d",
+      "sequence": 59,
+      "source_line": 213,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こ これは…比較的新しい柘榴のたべかす…！<br>どういうルートを徘徊してるんだ セルフィーネ様は！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:215:3b434fce",
+      "source_hash": "3b434fce",
+      "sequence": 60,
+      "source_line": 215,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "というか 本当に城内を徘徊しながら<br>丸ごとの柘榴を食べ散らかしてるのか？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:217:7c8c4492",
+      "source_hash": "7c8c4492",
+      "sequence": 61,
+      "source_line": 217,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ざ 柘榴だぞ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:220:824fe39c",
+      "source_hash": "824fe39c",
+      "sequence": 62,
+      "source_line": 220,
+      "speaker_id": "gua2",
+      "speaker_name": "위병",
+      "voice_id": "",
+      "ja": "あ ちょっとそこの君！<br>さっきからうろうろしてるけど 何か用事かな？<br>通行書ある？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:222:215b422e",
+      "source_hash": "215b422e",
+      "sequence": 63,
+      "source_line": 222,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ いえ！<br>その…セルフィーネ様を探しておりまして！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:223:f09f4f9d",
+      "source_hash": "f09f4f9d",
+      "sequence": 64,
+      "source_line": 223,
+      "speaker_id": "gua2",
+      "speaker_name": "위병",
+      "voice_id": "",
+      "ja": "は…？ セルフィーネ様を探してる？<br>これまたなんで？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:226:8c46a1d4",
+      "source_hash": "8c46a1d4",
+      "sequence": 65,
+      "source_line": 226,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あ やばい！<br>怪訝に見られてるぞ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:227:51b7b29d",
+      "source_hash": "51b7b29d",
+      "sequence": 66,
+      "source_line": 227,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "こ これってあれだ！<br>とりあえず拘束されて尋問されるパターンなのでは！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:229:15059bbf",
+      "source_hash": "15059bbf",
+      "sequence": 67,
+      "source_line": 229,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ いえ…あの…その…<br>み ミリ様に頼まれて その…柘榴が…<br>姫が逃げておりまして！！！！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:231:31cd0d94",
+      "source_hash": "31cd0d94",
+      "sequence": 68,
+      "source_line": 231,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ああ 噛みまくり！！！<br>絶対怪しいと思われてる！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:233:b57b15d0",
+      "source_hash": "b57b15d0",
+      "sequence": 69,
+      "source_line": 233,
+      "speaker_id": "gua2",
+      "speaker_name": "위병",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:235:ba9969d2",
+      "source_hash": "ba9969d2",
+      "sequence": 70,
+      "source_line": 235,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あのあの…ぼ ぼくは か じ…<br>あの…か 果樹園の…あれ…あの",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:236:4cacf9e0",
+      "source_hash": "4cacf9e0",
+      "sequence": 71,
+      "source_line": 236,
+      "speaker_id": "gua2",
+      "speaker_name": "위병",
+      "voice_id": "",
+      "ja": "ああ…そうか…また始まったんだね…柘榴戦争が…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:237:8de5a5a4",
+      "source_hash": "8de5a5a4",
+      "sequence": 72,
+      "source_line": 237,
+      "speaker_id": "gua2",
+      "speaker_name": "위병",
+      "voice_id": "",
+      "ja": "制服を着てないからわからなかったよ<br>君 厨房の人なんだね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:239:18e31c3f",
+      "source_hash": "18e31c3f",
+      "sequence": 73,
+      "source_line": 239,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え！？ あ いや…<br>そういうわけじゃないんですが そのような感じです！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:240:ec2e0ffe",
+      "source_hash": "ec2e0ffe",
+      "sequence": 74,
+      "source_line": 240,
+      "speaker_id": "gua2",
+      "speaker_name": "위병",
+      "voice_id": "",
+      "ja": "……そうか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:241:ed3aee44",
+      "source_hash": "ed3aee44",
+      "sequence": 75,
+      "source_line": 241,
+      "speaker_id": "gua2",
+      "speaker_name": "위병",
+      "voice_id": "",
+      "ja": "柘榴を狙ったセルフィーネ様は…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:242:b57b15d0",
+      "source_hash": "b57b15d0",
+      "sequence": 76,
+      "source_line": 242,
+      "speaker_id": "gua2",
+      "speaker_name": "위병",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:244:d556994d",
+      "source_hash": "d556994d",
+      "sequence": 77,
+      "source_line": 244,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "青年はバツの悪そうな表情を浮かべ 黙りこくってしまった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:246:8c326d2c",
+      "source_hash": "8c326d2c",
+      "sequence": 78,
+      "source_line": 246,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ど どうしたんだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:249:9e0eb2a6",
+      "source_hash": "9e0eb2a6",
+      "sequence": 79,
+      "source_line": 249,
+      "speaker_id": "gua2",
+      "speaker_name": "위병",
+      "voice_id": "",
+      "ja": "いや…なんでもない…<br>とりあえず幸運を祈るよ 気をつけて",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:251:93ed4e09",
+      "source_hash": "93ed4e09",
+      "sequence": 80,
+      "source_line": 251,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え ど どういうことですか！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:252:4359be69",
+      "source_hash": "4359be69",
+      "sequence": 81,
+      "source_line": 252,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "柘榴戦争ってなに！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:254:8a24677c",
+      "source_hash": "8a24677c",
+      "sequence": 82,
+      "source_line": 254,
+      "speaker_id": "gua2",
+      "speaker_name": "위병",
+      "voice_id": "",
+      "ja": "とりあえず ここは通ってないはずだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:255:4186842f",
+      "source_hash": "4186842f",
+      "sequence": 83,
+      "source_line": 255,
+      "speaker_id": "gua2",
+      "speaker_name": "위병",
+      "voice_id": "",
+      "ja": "城の中をあたってくれ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:270:2efaa816",
+      "source_hash": "2efaa816",
+      "sequence": 84,
+      "source_line": 270,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "結局一回りして厨房に戻ってきたけど",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:271:497ec1a0",
+      "source_hash": "497ec1a0",
+      "sequence": 85,
+      "source_line": 271,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あの…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:274:20b689ae",
+      "source_hash": "20b689ae",
+      "sequence": 86,
+      "source_line": 274,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "カージ君！ セルフィーネ様は！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:276:d6fb1dc",
+      "source_hash": "d6fb1dc",
+      "sequence": 87,
+      "source_line": 276,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ま まだ見つかっておりません！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:278:493e0d69",
+      "source_hash": "493e0d69",
+      "sequence": 88,
+      "source_line": 278,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "！！！ ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:280:530ea415",
+      "source_hash": "530ea415",
+      "sequence": 89,
+      "source_line": 280,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "そ そう…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:282:d1f88274",
+      "source_hash": "d1f88274",
+      "sequence": 90,
+      "source_line": 282,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "大丈夫ですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:284:e4d278f0",
+      "source_hash": "e4d278f0",
+      "sequence": 91,
+      "source_line": 284,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "ふ…負けたわ<br>今日は…完敗よ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:285:c8f2124b",
+      "source_hash": "c8f2124b",
+      "sequence": 92,
+      "source_line": 285,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "これだけ時間が経っても見つからないってことは<br>今日の柘榴はLOSTということ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:286:de9a4b79",
+      "source_hash": "de9a4b79",
+      "sequence": 93,
+      "source_line": 286,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "多分そうでしょうね…<br>食べかすがあったので",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:288:2f60ee57",
+      "source_hash": "2f60ee57",
+      "sequence": 94,
+      "source_line": 288,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あの…もしよろしければ<br>追加で持ってこれると思いますが…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:290:9a6acd34",
+      "source_hash": "9a6acd34",
+      "sequence": 95,
+      "source_line": 290,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "違う…違うのよカージ君",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:291:ccf05b54",
+      "source_hash": "ccf05b54",
+      "sequence": 96,
+      "source_line": 291,
+      "speaker_id": "mil",
+      "speaker_name": "밀리",
+      "voice_id": "",
+      "ja": "これは…戦いなの 実害など取るに足らない…<br>勝敗が全てだから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:293:71117789",
+      "source_hash": "71117789",
+      "sequence": 97,
+      "source_line": 293,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はあ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:295:29dd3bf7",
+      "source_hash": "29dd3bf7",
+      "sequence": 98,
+      "source_line": 295,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ミリさんおちゃめな人だなー…<br>いくつなんだろう",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:304:f646f041",
+      "source_hash": "f646f041",
+      "sequence": 99,
+      "source_line": 304,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "厨房を後にして出口へ向かおうとすると<br>無意識に足取りがふと止まる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

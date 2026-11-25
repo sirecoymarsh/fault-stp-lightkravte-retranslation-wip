@@ -1,0 +1,5 @@
+{
+  "status": "FAIL_RESIDUE",
+  "reason": "x162~542,y118~166: PHOENIXX 로고가 아닌 인명 자리의 밝은 영문 조각 345픽셀 잔존.",
+  "release_ready": false
+}

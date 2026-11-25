@@ -1,0 +1,2113 @@
+{
+  "schema_version": 1,
+  "work_id": "fault-stp-lightkravte-ja-ko-gemini-retranslation",
+  "preparation_model": "Codex internal (GPT-5.5 runtime)",
+  "use_rule": "현재 화자와 실제 수신자의 directed_relationships를 우선한다. 수신자가 모호하면 직전/직후 문맥으로 판정하고 확정 불가 시 issues에 기록한다.",
+  "global_prohibitions": [
+    "화자 전체의 말투를 모든 상대에게 복사하지 않는다.",
+    "3인 이상 대화에서 직전 화자를 수신자로 자동 가정하지 않는다.",
+    "원문에 없는 성격·심리·친밀도·적대감을 새로 만들지 않는다."
+  ],
+  "profiles": [
+    {
+      "speaker_id": "kaj",
+      "display_name": "카지",
+      "source_line_count": 2614,
+      "baseline_voice": "젊은 남성 주인공. 평소에는 소심하고 말더듬이 많으며, 윗사람·여성에게 공손하다. 독백과 친구에게는 편한 말투.",
+      "baseline_rules": "僕는 대화 관계에 따라 ‘저/나’, 독백은 자연스러운 1인칭. 더듬음은 ‘저, 저기…’, ‘그, 그게…’처럼 한국어 호흡으로 재구성한다. 플로라·왕족에게는 존댓말.",
+      "directed_relationships": [
+        {
+          "addressee": "self_or_reader",
+          "group": "독백·서술",
+          "speech_level": "해라체/내적 구어",
+          "address_terms": [],
+          "first_person": [
+            "나"
+          ],
+          "second_person": [],
+          "preferred_endings": [
+            "-다",
+            "-지",
+            "-나"
+          ],
+          "rhythm": "짧고 주저하는 호흡. 원문에 있는 말더듬과 망설임만 자연스럽게 재현.",
+          "warmth": "내향적·자기검열",
+          "command_strength": "낮음",
+          "emotional_variants": {
+            "panic": "문장을 짧게 끊되 의미를 추가하지 않는다.",
+            "confidence": "성장 국면에서도 과장된 영웅 말투를 피한다."
+          },
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-00:109:875f76fe",
+            "ch01-00:110:4f5099d6",
+            "ch01-00:121:811fa4fd"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        },
+        {
+          "addressee": "flo",
+          "group": "플로라",
+          "speech_level": "존댓말",
+          "address_terms": [
+            "플로라 님"
+          ],
+          "first_person": [
+            "저"
+          ],
+          "second_person": [
+            "플로라 님"
+          ],
+          "preferred_endings": [
+            "-요",
+            "-습니다"
+          ],
+          "rhythm": "친밀하지만 공손하고 다소 서툰 말투.",
+          "warmth": "높음",
+          "command_strength": "낮음",
+          "emotional_variants": {
+            "panic": "더듬음 허용",
+            "serious": "간결한 존댓말"
+          },
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-00:307:608b459b",
+            "ch01-00:313:b85ab230",
+            "ch01-00:338:48a30b03"
+          ],
+          "evidence_scope": "relationship_name_or_addressing"
+        },
+        {
+          "addressee": "sel",
+          "group": "왕족",
+          "speech_level": "높임말",
+          "address_terms": [
+            "셀피네 공주님",
+            "전하"
+          ],
+          "first_person": [
+            "저"
+          ],
+          "second_person": [
+            "공주님",
+            "전하"
+          ],
+          "preferred_endings": [
+            "-습니다",
+            "-십니까",
+            "-요"
+          ],
+          "rhythm": "격식을 우선하고 긴장감을 원문만큼만 반영.",
+          "warmth": "존경",
+          "command_strength": "매우 낮음",
+          "emotional_variants": {
+            "private": "상황이 허락해도 기본 높임을 유지"
+          },
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-03:88:2244522a",
+            "ch01-03:167:ae077bfb",
+            "ch01-03:213:73cc5f3d"
+          ],
+          "evidence_scope": "relationship_name_or_addressing"
+        },
+        {
+          "addressee": "oug",
+          "group": "부친",
+          "speech_level": "가족 간 반말",
+          "address_terms": [
+            "아버지"
+          ],
+          "first_person": [
+            "나"
+          ],
+          "second_person": [
+            "아버지"
+          ],
+          "preferred_endings": [
+            "-어",
+            "-잖아",
+            "-지"
+          ],
+          "rhythm": "주눅 들거나 반발하는 아들 말투.",
+          "warmth": "복합적",
+          "command_strength": "낮음",
+          "emotional_variants": {
+            "conflict": "반발은 가능하나 모욕 어휘를 임의로 세게 만들지 않는다."
+          },
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-01:74:576379",
+            "ch01-01:90:e880299d",
+            "ch01-01:176:9477e287"
+          ],
+          "evidence_scope": "relationship_name_or_addressing"
+        },
+        {
+          "addressee": "elders_and_craftsmen",
+          "group": "켄드리드·리그스·유리 장인·연장자",
+          "speech_level": "존댓말",
+          "address_terms": [
+            "선생님",
+            "어르신",
+            "이름+님(원문 근거 시)"
+          ],
+          "first_person": [
+            "저"
+          ],
+          "second_person": [],
+          "preferred_endings": [
+            "-요",
+            "-습니다"
+          ],
+          "rhythm": "질문과 사과가 많은 공손한 말투.",
+          "warmth": "존중",
+          "command_strength": "낮음",
+          "emotional_variants": {
+            "urgent": "급박해도 반말로 바꾸지 않는다."
+          },
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-00:109:875f76fe",
+            "ch01-00:110:4f5099d6",
+            "ch01-00:121:811fa4fd"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        },
+        {
+          "addressee": "peers",
+          "group": "리토나·미샤·소네타 등 또래/지인",
+          "speech_level": "관계별 존댓말 우선",
+          "address_terms": [
+            "이름+씨/님(원문 관계에 따름)"
+          ],
+          "first_person": [
+            "저",
+            "나"
+          ],
+          "second_person": [],
+          "preferred_endings": [
+            "-요",
+            "-어"
+          ],
+          "rhythm": "장면의 기존 관계와 직전 호칭을 우선한다.",
+          "warmth": "중립~친근",
+          "command_strength": "낮음",
+          "emotional_variants": {
+            "uncertain": "반말/존댓말이 모호하면 존댓말 쪽으로 보수적으로 처리하고 issues에 기록."
+          },
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-00:109:875f76fe",
+            "ch01-00:110:4f5099d6",
+            "ch01-00:121:811fa4fd"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-00:109:875f76fe",
+        "ch01-00:110:4f5099d6",
+        "ch01-00:121:811fa4fd"
+      ],
+      "status": "locked"
+    },
+    {
+      "speaker_id": "<narration>",
+      "display_name": "서술/카지 내면",
+      "source_line_count": 1289,
+      "baseline_voice": "대부분 카지의 1인칭 서술. 장면 도입부는 객관적 문어, 내면은 구어적 감정이 섞인다.",
+      "baseline_rules": "회상·사건 서술은 ‘-했다/-였다’, 즉각적인 내면 질문은 ‘-인가?/…지?’를 쓴다. 영어판의 과장이나 추가 설명을 그대로 들여오지 않는다.",
+      "directed_relationships": [
+        {
+          "addressee": "reader",
+          "group": "서술·카지 내면",
+          "speech_level": "담백한 해라체",
+          "address_terms": [],
+          "first_person": [
+            "나"
+          ],
+          "second_person": [],
+          "preferred_endings": [
+            "-다",
+            "-었다"
+          ],
+          "rhythm": "원문의 관찰 순서와 정보량을 지키는 자연스러운 한국어 문장.",
+          "warmth": "중립",
+          "command_strength": "없음",
+          "emotional_variants": {
+            "lyrical": "원문에 없는 분위기·심리·수식어를 보태지 않는다."
+          },
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-00:28:6d375c5c",
+            "ch01-00:29:83b7e8eb",
+            "ch01-00:30:4b3b1a"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-00:28:6d375c5c",
+        "ch01-00:29:83b7e8eb",
+        "ch01-00:30:4b3b1a"
+      ],
+      "status": "locked"
+    },
+    {
+      "speaker_id": "flo",
+      "display_name": "플로라",
+      "source_line_count": 582,
+      "baseline_voice": "밝고 친근한 젊은 귀족 여성. 평소 반말과 부드러운 여성어, 공무·왕족 모드에서는 절제된 존댓말.",
+      "baseline_rules": "카지와 동료에게 친근한 반말. 의도적으로 공적인 통보를 할 때만 정중체. 지나치게 공주풍으로 만들지 않는다.",
+      "directed_relationships": [
+        {
+          "addressee": "kaj",
+          "group": "카지",
+          "speech_level": "친근한 반말",
+          "address_terms": [
+            "카지 군"
+          ],
+          "first_person": [
+            "나"
+          ],
+          "second_person": [
+            "카지 군",
+            "너"
+          ],
+          "preferred_endings": [
+            "-어",
+            "-지",
+            "-니?"
+          ],
+          "rhythm": "밝고 솔직하며 템포가 빠르다.",
+          "warmth": "높음",
+          "command_strength": "낮음~중간",
+          "emotional_variants": {
+            "public": "공적인 자리에서는 존댓말 전환 가능",
+            "worry": "다정함을 유지하되 감정을 원문보다 키우지 않는다."
+          },
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-00:376:6b6a0a89",
+            "ch01-00:395:d37dfd1",
+            "ch01-00:403:a8c0e7fe"
+          ],
+          "evidence_scope": "relationship_name_or_addressing"
+        },
+        {
+          "addressee": "royalty_or_public",
+          "group": "왕족·공적 상대",
+          "speech_level": "존댓말",
+          "address_terms": [
+            "공주님",
+            "이름+님"
+          ],
+          "first_person": [
+            "저"
+          ],
+          "second_person": [],
+          "preferred_endings": [
+            "-요",
+            "-습니다"
+          ],
+          "rhythm": "밝음을 유지한 공손한 말투.",
+          "warmth": "예의 바름",
+          "command_strength": "낮음",
+          "emotional_variants": {},
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-00:311:24938048",
+            "ch01-00:319:280b58df",
+            "ch01-00:326:6f2fc1f6"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-00:311:24938048",
+        "ch01-00:319:280b58df",
+        "ch01-00:326:6f2fc1f6"
+      ],
+      "status": "locked"
+    },
+    {
+      "speaker_id": "rit",
+      "display_name": "리토나",
+      "source_line_count": 413,
+      "baseline_voice": "무뚝뚝하고 직설적이며 건조한 농담을 하는 젊은 여성. 거친 중성적 반말.",
+      "baseline_rules": "짧은 ‘-다/-냐/-지’ 중심. 욕설은 원문 강도까지만. 셀피네 등 왕족에게 말할 때는 절제된 존댓말로 전환.",
+      "directed_relationships": [
+        {
+          "addressee": "kaj",
+          "group": "카지",
+          "speech_level": "거친 반말",
+          "address_terms": [
+            "카지"
+          ],
+          "first_person": [
+            "나"
+          ],
+          "second_person": [
+            "너"
+          ],
+          "preferred_endings": [
+            "-어",
+            "-지",
+            "-냐"
+          ],
+          "rhythm": "짧고 직설적. 욕설과 공격성은 원문 강도 이상으로 올리지 않는다.",
+          "warmth": "낮음~숨은 배려",
+          "command_strength": "중간",
+          "emotional_variants": {
+            "protective": "배려를 설명문처럼 덧붙이지 않고 행동/대사에 드러난 만큼만 번역."
+          },
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-04:205:e1479f15",
+            "ch02-12:902:f661900d",
+            "ch02-12:921:abf1ed6b"
+          ],
+          "evidence_scope": "relationship_name_or_addressing"
+        },
+        {
+          "addressee": "son",
+          "group": "소네타",
+          "speech_level": "반말",
+          "address_terms": [
+            "소네타"
+          ],
+          "first_person": [
+            "나"
+          ],
+          "second_person": [
+            "너"
+          ],
+          "preferred_endings": [
+            "-어",
+            "-지",
+            "-냐"
+          ],
+          "rhythm": "‘선배’ 호칭을 귀찮아하거나 제지하는 날카로운 템포.",
+          "warmth": "낮음",
+          "command_strength": "중간",
+          "emotional_variants": {},
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-04:123:b1f85d37",
+            "ch02-17:98:322b11c5"
+          ],
+          "evidence_scope": "relationship_name_or_addressing"
+        },
+        {
+          "addressee": "sel",
+          "group": "왕족",
+          "speech_level": "절제된 존댓말",
+          "address_terms": [
+            "공주님",
+            "전하"
+          ],
+          "first_person": [
+            "저"
+          ],
+          "second_person": [],
+          "preferred_endings": [
+            "-습니다",
+            "-습니까"
+          ],
+          "rhythm": "무뚝뚝하되 예법은 지킨다.",
+          "warmth": "절제",
+          "command_strength": "낮음",
+          "emotional_variants": {},
+          "status": "locked",
+          "evidence_uids": [
+            "ch02-17:234:49edd5a2",
+            "ch02-18:364:b94fcf52",
+            "ch03-07:103:82f75095"
+          ],
+          "evidence_scope": "relationship_name_or_addressing"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-04:120:4778c26",
+        "ch01-04:123:b1f85d37",
+        "ch01-04:130:c76af362"
+      ],
+      "status": "locked"
+    },
+    {
+      "speaker_id": "oug",
+      "display_name": "오그즈",
+      "source_line_count": 308,
+      "baseline_voice": "카지의 아버지. 투박하고 장난기 있는 중년 남성, 속정이 깊다.",
+      "baseline_rules": "카지에게 편한 반말과 ‘녀석/아들’ 계열. 진지한 장면에서도 지나치게 점잖아지지 않는다.",
+      "directed_relationships": [
+        {
+          "addressee": "kaj",
+          "group": "아들 카지",
+          "speech_level": "거친 반말",
+          "address_terms": [
+            "카지",
+            "녀석"
+          ],
+          "first_person": [
+            "나"
+          ],
+          "second_person": [
+            "너"
+          ],
+          "preferred_endings": [
+            "-다",
+            "-냐",
+            "-해"
+          ],
+          "rhythm": "권위적이고 직설적인 아버지 말투.",
+          "warmth": "낮음~내재",
+          "command_strength": "높음",
+          "emotional_variants": {
+            "anger": "욕설·모욕은 원문 범위를 넘기지 않는다."
+          },
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-01:66:2e0a388a",
+            "ch01-01:75:86cbb79f",
+            "ch01-06:145:8da14eb2"
+          ],
+          "evidence_scope": "relationship_name_or_addressing"
+        },
+        {
+          "addressee": "adult_peers",
+          "group": "동료 장인·성인",
+          "speech_level": "거친 반말 또는 해라체",
+          "address_terms": [],
+          "first_person": [
+            "나"
+          ],
+          "second_person": [
+            "자네",
+            "너"
+          ],
+          "preferred_endings": [
+            "-다",
+            "-지"
+          ],
+          "rhythm": "단정적이고 현실적.",
+          "warmth": "중립",
+          "command_strength": "중간",
+          "emotional_variants": {},
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-01:66:2e0a388a",
+            "ch01-01:75:86cbb79f",
+            "ch01-01:80:ea1a9308"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-01:66:2e0a388a",
+        "ch01-01:75:86cbb79f",
+        "ch01-01:80:ea1a9308"
+      ],
+      "status": "locked"
+    },
+    {
+      "speaker_id": "mis",
+      "display_name": "미샤",
+      "source_line_count": 240,
+      "baseline_voice": "거리 출신의 거칠고 호방한 남성. 요리에는 진지하고 속내는 섬세하다.",
+      "baseline_rules": "俺의 거친 반말을 ‘나/내가’, 어미는 ‘-잖아/-거든/-냐’. 비속어는 자연스럽되 번역에서 더 세게 만들지 않는다.",
+      "directed_relationships": [
+        {
+          "addressee": "kaj_and_peers",
+          "group": "카지·또래",
+          "speech_level": "남성적인 반말",
+          "address_terms": [
+            "카지"
+          ],
+          "first_person": [
+            "나"
+          ],
+          "second_person": [
+            "너"
+          ],
+          "preferred_endings": [
+            "-어",
+            "-냐",
+            "-지"
+          ],
+          "rhythm": "거칠고 활달하되 원문에 없는 욕설을 넣지 않는다.",
+          "warmth": "친근",
+          "command_strength": "중간",
+          "emotional_variants": {},
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-04:27:b1fca5f6",
+            "ch01-04:33:ec525ace",
+            "ch01-04:38:a6e848c0"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-04:27:b1fca5f6",
+        "ch01-04:33:ec525ace",
+        "ch01-04:38:a6e848c0"
+      ],
+      "status": "locked"
+    },
+    {
+      "speaker_id": "son",
+      "display_name": "소네타",
+      "source_line_count": 231,
+      "baseline_voice": "장난스럽고 빠른 말투의 젊은 여성. っす/～やす와 자기 호칭 ミーチ가 특징.",
+      "baseline_rules": "‘-슴다/-임다/-죠’ 계열을 섞되 모든 문장에 기계적으로 붙이지 않는다. カージ氏는 ‘카지 씨’, ミーチ는 ‘미치’로 유지.",
+      "directed_relationships": [
+        {
+          "addressee": "kaj",
+          "group": "카지",
+          "speech_level": "친근한 존댓말",
+          "address_terms": [
+            "카지 씨"
+          ],
+          "first_person": [
+            "미치",
+            "저"
+          ],
+          "second_person": [
+            "카지 씨"
+          ],
+          "preferred_endings": [
+            "-요",
+            "-죠"
+          ],
+          "rhythm": "발랄하고 장난스럽다. 자기 지칭 ‘미치’는 원문 용례에 맞춰 유지.",
+          "warmth": "높음",
+          "command_strength": "낮음",
+          "emotional_variants": {},
+          "status": "locked",
+          "evidence_uids": [
+            "ch02-01:125:dd905405",
+            "ch02-01:130:712c18e8",
+            "ch02-01:252:51f38721"
+          ],
+          "evidence_scope": "relationship_name_or_addressing"
+        },
+        {
+          "addressee": "rit",
+          "group": "리토나",
+          "speech_level": "존댓말",
+          "address_terms": [
+            "리토나 선배"
+          ],
+          "first_person": [
+            "미치",
+            "저"
+          ],
+          "second_person": [
+            "리토나 선배"
+          ],
+          "preferred_endings": [
+            "-요",
+            "-죠"
+          ],
+          "rhythm": "상대가 싫어해도 ‘선배’ 호칭을 쓰는 장난기.",
+          "warmth": "높음",
+          "command_strength": "낮음",
+          "emotional_variants": {},
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-04:98:1f2f15f8",
+            "ch02-01:418:f4f58d36",
+            "ch02-01:424:1728d940"
+          ],
+          "evidence_scope": "relationship_name_or_addressing"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-04:80:20871b0b",
+        "ch01-04:89:4f8b5a3f",
+        "ch01-04:98:1f2f15f8"
+      ],
+      "status": "locked"
+    },
+    {
+      "speaker_id": "ken",
+      "display_name": "켄드리드",
+      "source_line_count": 145,
+      "baseline_voice": "냉소적이고 퉁명스러운 은퇴 기술자. 핵심을 찌르는 연장자.",
+      "baseline_rules": "짧고 거친 반말. ‘꼬마/애송이’는 문맥상 사용하되 매번 반복하지 않는다. 기술 설명은 간결하고 정확하게.",
+      "directed_relationships": [
+        {
+          "addressee": "kaj_or_juniors",
+          "group": "카지·후배",
+          "speech_level": "연장자의 거친 반말",
+          "address_terms": [
+            "카지",
+            "애송이(원문 근거 시)"
+          ],
+          "first_person": [
+            "나"
+          ],
+          "second_person": [
+            "너"
+          ],
+          "preferred_endings": [
+            "-다",
+            "-냐",
+            "-해라"
+          ],
+          "rhythm": "짧고 퉁명스럽고 단정적.",
+          "warmth": "낮음",
+          "command_strength": "높음",
+          "emotional_variants": {},
+          "status": "locked",
+          "evidence_uids": [
+            "ch02-02:25:6881afa2",
+            "ch02-02:30:1fd187a3",
+            "ch02-02:34:87e346a9"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch02-02:25:6881afa2",
+        "ch02-02:30:1fd187a3",
+        "ch02-02:34:87e346a9"
+      ],
+      "status": "locked"
+    },
+    {
+      "speaker_id": "rig",
+      "display_name": "리그스",
+      "source_line_count": 143,
+      "baseline_voice": "침착하고 사려 깊은 남성. 평소에는 무게감 있는 반말, 위기 때는 단호하다.",
+      "baseline_rules": "‘-군/-지/-다’의 차분한 어조. 영어판처럼 과도하게 장황하게 보충하지 않는다.",
+      "directed_relationships": [
+        {
+          "addressee": "kaj_or_juniors",
+          "group": "카지·후배",
+          "speech_level": "차분한 하대",
+          "address_terms": [
+            "카지 군",
+            "자네"
+          ],
+          "first_person": [
+            "나"
+          ],
+          "second_person": [
+            "자네"
+          ],
+          "preferred_endings": [
+            "-군",
+            "-지",
+            "-다"
+          ],
+          "rhythm": "이성적이고 설명적이며 감정 과장을 피한다.",
+          "warmth": "중립",
+          "command_strength": "중간",
+          "emotional_variants": {},
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-04:40:184b59d9",
+            "ch01-04:42:39a75cc9",
+            "ch01-04:233:c9c3f826"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-04:40:184b59d9",
+        "ch01-04:42:39a75cc9",
+        "ch01-04:233:c9c3f826"
+      ],
+      "status": "locked"
+    },
+    {
+      "speaker_id": "sel",
+      "display_name": "셀피네",
+      "source_line_count": 108,
+      "baseline_voice": "평소에는 장난기 많고 천진한 공주. 왕권·비상 상황에서는 엄정한 군주 말투로 급변한다.",
+      "baseline_rules": "일상은 밝은 반말. 我/貴様/王의 의식적 군주 모드에서는 ‘짐/그대/왕’과 장중한 ‘-노라/-하라’를 제한적으로 사용.",
+      "directed_relationships": [
+        {
+          "addressee": "citizens_or_audience",
+          "group": "백성·공적 청중",
+          "speech_level": "군주다운 격식체",
+          "address_terms": [
+            "여러분",
+            "그대들(원문 근거 시)"
+          ],
+          "first_person": [
+            "저",
+            "짐(원문 근거 시)"
+          ],
+          "second_person": [],
+          "preferred_endings": [
+            "-습니다",
+            "-십시오"
+          ],
+          "rhythm": "우아하고 또렷하며 공적 책임감이 드러난다.",
+          "warmth": "절제",
+          "command_strength": "중간~높음",
+          "emotional_variants": {
+            "monarch": "위엄을 강화하되 고어체를 임의로 만들지 않는다."
+          },
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-03:75:bf3cba22",
+            "ch01-03:83:a8179cd8",
+            "ch01-03:84:3f7727b"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        },
+        {
+          "addressee": "trusted_companions",
+          "group": "측근·동행",
+          "speech_level": "품위 있는 존댓말",
+          "address_terms": [
+            "이름+님/씨(원문에 따름)"
+          ],
+          "first_person": [
+            "저"
+          ],
+          "second_person": [],
+          "preferred_endings": [
+            "-요",
+            "-습니다"
+          ],
+          "rhythm": "사적인 온기를 조금 보이되 왕족의 품위를 유지.",
+          "warmth": "중간",
+          "command_strength": "낮음",
+          "emotional_variants": {},
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-03:75:bf3cba22",
+            "ch01-03:83:a8179cd8",
+            "ch01-03:84:3f7727b"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-03:75:bf3cba22",
+        "ch01-03:83:a8179cd8",
+        "ch01-03:84:3f7727b"
+      ],
+      "status": "locked"
+    },
+    {
+      "speaker_id": "wig",
+      "display_name": "와이튼",
+      "source_line_count": 91,
+      "baseline_voice": "예의 바르고 눈치 빠른 기사단 지망생. 친구 사이에서는 부드러운 반말.",
+      "baseline_rules": "연장자·카지에게 기본 존댓말, 동년배 친구에게 반말. 지나치게 고풍스럽게 하지 않는다.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "장면 상대",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "원문의 위계와 감정 강도를 우선",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch01-07:158:7797c498",
+            "ch01-07:159:5c40bc83",
+            "ch01-07:175:e9a499ff"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-07:158:7797c498",
+        "ch01-07:159:5c40bc83",
+        "ch01-07:175:e9a499ff"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "qla",
+      "display_name": "크라우",
+      "source_line_count": 87,
+      "baseline_voice": "명랑하고 친근하지만 예술 평가에는 냉정하게 직언하는 거장.",
+      "baseline_rules": "카지에게 부드러운 반말과 ‘카지 군’. 진단·미술 용어는 정확히, 잔인할 정도의 솔직함은 완화하지 않는다.",
+      "directed_relationships": [
+        {
+          "addressee": "kaj",
+          "group": "카지",
+          "speech_level": "친근한 반말",
+          "address_terms": [
+            "카지 오빠"
+          ],
+          "first_person": [
+            "나"
+          ],
+          "second_person": [
+            "오빠"
+          ],
+          "preferred_endings": [
+            "-어",
+            "-지",
+            "-지?"
+          ],
+          "rhythm": "어리고 솔직한 호흡.",
+          "warmth": "높음",
+          "command_strength": "낮음",
+          "emotional_variants": {},
+          "status": "locked",
+          "evidence_uids": [
+            "ch01-07:1058:2630d5de",
+            "ch01-07:1075:6b27cdf0",
+            "ch01-07:1126:83e5491e"
+          ],
+          "evidence_scope": "relationship_name_or_addressing"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-07:949:18ba5c6",
+        "ch01-07:950:e37f0174",
+        "ch01-07:952:b1b95fae"
+      ],
+      "status": "locked"
+    },
+    {
+      "speaker_id": "adi",
+      "display_name": "아디아",
+      "source_line_count": 83,
+      "baseline_voice": "밝고 다정하며 솔직한 젊은 여성. 꿈에 관해서는 진지하다.",
+      "baseline_rules": "카지에게 친근한 반말. あたし는 ‘나’. 응원 장면을 교훈조로 과장하지 않는다.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "동료 또는 지인",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "장면 관계에 맞는 자연스러운 구어체",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch01-00:115:2ea4e70a",
+            "ch01-00:117:9c14f7e8",
+            "ch01-00:123:eda85e9d"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-00:115:2ea4e70a",
+        "ch01-00:117:9c14f7e8",
+        "ch01-00:123:eda85e9d"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "ban",
+      "display_name": "두건 쓴 유리 장인",
+      "source_line_count": 61,
+      "baseline_voice": "인정 많은 중년 장인. 업계 사정에는 현실적이고 동료에게는 구어적.",
+      "baseline_rules": "카지에게 친근한 반말, 장인끼리의 대화는 거친 구어체. 오그즈에 대한 존경은 살린다.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "고객·다른 장인",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "성인 남성 장인의 현장 말투",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch02-15:21:b1c5b353",
+            "ch02-15:23:7c7f67e4",
+            "ch02-15:24:d7ef1c28"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch02-15:21:b1c5b353",
+        "ch02-15:23:7c7f67e4",
+        "ch02-15:24:d7ef1c28"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "dil",
+      "display_name": "디타",
+      "source_line_count": 47,
+      "baseline_voice": "성급하고 허세가 있지만 여동생을 아끼는 청소년 남성. 흥분하면 더듬는다.",
+      "baseline_rules": "거친 또래 반말. 공격성 아래의 불안과 당황을 더듬음으로 드러낸다.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "장면 상대",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "원문의 거리감을 보존하는 자연스러운 구어체",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch01-07:155:db1f8da4",
+            "ch01-07:162:ed7aa334",
+            "ch01-07:202:4d1a63d7"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-07:155:db1f8da4",
+        "ch01-07:162:ed7aa334",
+        "ch01-07:202:4d1a63d7"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "tos",
+      "display_name": "토스카",
+      "source_line_count": 40,
+      "baseline_voice": "호쾌하고 붙임성 좋은 중년 기사. 위기 때는 군인다운 명령조.",
+      "baseline_rules": "평소 큰 웃음과 반말, 의료·경계 상황에서는 짧은 명령형.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "장면 상대",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "원문의 태도와 위계를 우선",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch01-07:884:e058d2eb",
+            "ch01-07:895:5143971b",
+            "ch01-07:900:2333f771"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-07:884:e058d2eb",
+        "ch01-07:895:5143971b",
+        "ch01-07:900:2333f771"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "gla",
+      "display_name": "유리 장인",
+      "source_line_count": 39,
+      "baseline_voice": "바쁘고 냉정한 직업 장인. 의뢰의 공정성과 자격을 중시한다.",
+      "baseline_rules": "업무적인 반말/해요체 혼합. 거절 논리를 흐리거나 악인처럼 과장하지 않는다.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "고객·다른 장인",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "장인의 실무적 말투",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch02-06:17:22a2335",
+            "ch02-06:21:2fccb422",
+            "ch02-06:22:e65cd543"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch02-06:17:22a2335",
+        "ch02-06:21:2fccb422",
+        "ch02-06:22:e65cd543"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "old",
+      "display_name": "연배 있는 유리 장인",
+      "source_line_count": 32,
+      "baseline_voice": "노련하고 현실적인 장인. 편견을 꾸짖고 기술을 정확히 평가한다.",
+      "baseline_rules": "중년 이상의 편한 반말, 담백한 업계 어휘.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "젊은이·다른 장인",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "연배 있는 장인의 말투",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch03-05:10:1ccf7654",
+            "ch03-05:11:3404803a",
+            "ch03-05:18:2c30e23f"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch03-05:10:1ccf7654",
+        "ch03-05:11:3404803a",
+        "ch03-05:18:2c30e23f"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "mil",
+      "display_name": "밀리",
+      "source_line_count": 27,
+      "baseline_voice": "유능하고 단호한 여성 요리장. 공주에게는 예의를 지키면서도 엄하게 대한다.",
+      "baseline_rules": "직원에게 지시형, 셀피네에게 존댓말. 코미디 장면의 속도감을 살린다.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "장면 상대",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "원문의 연령과 관계를 보수적으로 반영",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch01-03:27:85a19129",
+            "ch01-03:45:63f8bcb3",
+            "ch01-03:50:404280f9"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-03:27:85a19129",
+        "ch01-03:45:63f8bcb3",
+        "ch01-03:50:404280f9"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "jil",
+      "display_name": "질름",
+      "source_line_count": 22,
+      "baseline_voice": "소심하고 걱정 많은 청소년. 자주 더듬지만 양심적이다.",
+      "baseline_rules": "부드러운 또래 반말과 자연스러운 더듬음.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "장면 상대",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "원문의 연령과 관계를 보수적으로 반영",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch01-07:165:a71a5306",
+            "ch01-07:169:40b39d54",
+            "ch01-07:177:e9840dd2"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-07:165:a71a5306",
+        "ch01-07:169:40b39d54",
+        "ch01-07:177:e9840dd2"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "???",
+      "display_name": "미상 화자",
+      "source_line_count": 22,
+      "baseline_voice": "여러 인물이 공유하는 미확정 ID라 하나의 말투를 부여하면 안 된다.",
+      "baseline_rules": "같은 장면의 앞뒤 화자·영어 참고·등장 연출로 매번 판별한다.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "미상 상대",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "화자와 수신자를 확정하지 말고 중립 문장 사용",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch01-00:289:6d9d8525",
+            "ch01-06:25:485e8f28",
+            "ch01-06:26:c98535ff"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-00:289:6d9d8525",
+        "ch01-06:25:485e8f28",
+        "ch01-06:26:c98535ff"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "mer",
+      "display_name": "메를리사",
+      "source_line_count": 18,
+      "baseline_voice": "카지를 다정하게 대하는 어머니 같은 여성. 여유롭고 따뜻하다.",
+      "baseline_rules": "카지에게 ‘카지야’와 부드러운 반말. 설명도 포근한 호흡을 유지.",
+      "directed_relationships": [
+        {
+          "addressee": "kaj",
+          "group": "카지",
+          "speech_level": "가까운 연장자의 반말",
+          "address_terms": [
+            "카지야"
+          ],
+          "first_person": [
+            "나"
+          ],
+          "second_person": [
+            "카지",
+            "너"
+          ],
+          "preferred_endings": [
+            "-어",
+            "-렴",
+            "-구나"
+          ],
+          "rhythm": "부드럽고 돌보는 듯한 말투.",
+          "warmth": "높음",
+          "command_strength": "낮음~중간",
+          "emotional_variants": {},
+          "status": "locked",
+          "evidence_uids": [
+            "ch02-09:109:a317d301",
+            "ch02-09:111:735a780",
+            "ch02-09:120:e06356ac"
+          ],
+          "evidence_scope": "relationship_name_or_addressing"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch02-09:109:a317d301",
+        "ch02-09:111:735a780",
+        "ch02-09:115:81862cd2"
+      ],
+      "status": "locked"
+    },
+    {
+      "speaker_id": "qua",
+      "display_name": "쿠알라",
+      "source_line_count": 17,
+      "baseline_voice": "예의 바르고 상냥한 소녀. 오빠에게는 가까운 반말.",
+      "baseline_rules": "カージお兄さん은 ‘카지 오빠’. 낯선 연장자에게는 존댓말.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "장면 상대",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "원문의 위계와 관계를 우선",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch01-07:220:9244e671",
+            "ch01-07:446:2459351f",
+            "ch01-07:460:192c7bb2"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-07:220:9244e671",
+        "ch01-07:446:2459351f",
+        "ch01-07:460:192c7bb2"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "cer",
+      "display_name": "세라로",
+      "source_line_count": 16,
+      "baseline_voice": "정중하고 우아하지만 속내를 알 수 없는 남성. 웃음과 압박감이 공존한다.",
+      "baseline_rules": "격식 있는 존댓말. 위협을 노골적인 욕설로 바꾸지 말고 공손함 자체가 불길하게 들리게 한다.",
+      "directed_relationships": [
+        {
+          "addressee": "interlocutor",
+          "group": "대화 상대",
+          "speech_level": "우아한 존댓말",
+          "address_terms": [],
+          "first_person": [
+            "저"
+          ],
+          "second_person": [],
+          "preferred_endings": [
+            "-군요",
+            "-겠어요",
+            "-랍니다"
+          ],
+          "rhythm": "세련되고 불길한 여운. 원문에 없는 시적 수식은 금지.",
+          "warmth": "표면상 친절",
+          "command_strength": "낮음",
+          "emotional_variants": {
+            "menace": "위협을 노골적인 욕설로 바꾸지 않는다."
+          },
+          "status": "locked",
+          "evidence_uids": [
+            "ch03-10:22:b6f00d20",
+            "ch03-10:25:cf040ea",
+            "ch03-10:26:a9212529"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch03-10:22:b6f00d20",
+        "ch03-10:25:cf040ea",
+        "ch03-10:26:a9212529"
+      ],
+      "status": "locked"
+    },
+    {
+      "speaker_id": "mel",
+      "display_name": "멜포트",
+      "source_line_count": 14,
+      "baseline_voice": "플로라를 보살피는 연상의 여성 기술자/돌봄 제공자. 온화하고 현실적.",
+      "baseline_rules": "플로라에게 다정한 반말, 의학·마나 설명은 정확하게.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "카지·주변 인물",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "보호자/연장자 맥락의 차분한 말투",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch02-12:1198:c5980e23",
+            "ch02-12:1202:973fb51",
+            "ch02-12:1203:b21d561c"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch02-12:1198:c5980e23",
+        "ch02-12:1202:973fb51",
+        "ch02-12:1203:b21d561c"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "red",
+      "display_name": "붉은 머리 여성",
+      "source_line_count": 14,
+      "baseline_voice": "고통과 폭주로 정상 발화가 무너진 상태.",
+      "baseline_rules": "원문의 반복, 탁점, 대문자 효과와 태그를 최대한 보존한다. 판독 가능한 명령만 한국어로 옮긴다.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "장면 상대",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "신원이 확정되기 전 고유 보이스를 임의 부여하지 않음",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch03-04:848:ebb8d938",
+            "ch03-04:870:517f286b",
+            "ch03-04:919:26ec9828"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch03-04:848:ebb8d938",
+        "ch03-04:870:517f286b",
+        "ch03-04:919:26ec9828"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "gua2",
+      "display_name": "위병",
+      "source_line_count": 13,
+      "baseline_voice": "평상시에는 시민 응대형, 침입 상황에서는 고압적인 경계 말투.",
+      "baseline_rules": "장면 상태에 따라 해요체/명령체를 구분.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "시민·방문객",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "직무상 공손하거나 명령적인 말투",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch01-03:220:824fe39c",
+            "ch01-03:223:f09f4f9d",
+            "ch01-03:233:b57b15d0"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-03:220:824fe39c",
+        "ch01-03:223:f09f4f9d",
+        "ch01-03:233:b57b15d0"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "mobf1",
+      "display_name": "접수원",
+      "source_line_count": 11,
+      "baseline_voice": "밝고 매끄러운 서비스 존댓말.",
+      "baseline_rules": "안내 문구는 짧고 자연스러운 한국어 UI/서비스 표현.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "방문객",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "접수 업무의 공손한 존댓말",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch01-00:191:35fad5c7",
+            "ch01-00:196:84524cae",
+            "ch01-00:199:60ee8e3a"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-00:191:35fad5c7",
+        "ch01-00:196:84524cae",
+        "ch01-00:199:60ee8e3a"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "gua",
+      "display_name": "경비",
+      "source_line_count": 7,
+      "baseline_voice": "비상 상황에서도 침착하게 설명하는 경비원.",
+      "baseline_rules": "시민에게 해요체, 지시는 분명하게.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "시민·방문객",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "경비 업무의 간결한 존댓말/명령체",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch03-04:427:9f4f51c1",
+            "ch03-04:429:16bfe74b",
+            "ch03-04:434:6a5b1b09"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch03-04:427:9f4f51c1",
+        "ch03-04:429:16bfe74b",
+        "ch03-04:434:6a5b1b09"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "coo",
+      "display_name": "요리사",
+      "source_line_count": 5,
+      "baseline_voice": "성미 급하고 거친 주방 실무자.",
+      "baseline_rules": "짧은 명령형과 핀잔. 원문 이상의 욕설은 금지.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "손님·동료",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "요리사의 실무적이고 친근한 말투",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch01-03:31:dccb44f9",
+            "ch01-03:35:19c130b3",
+            "ch01-03:36:99ab519d"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-03:31:dccb44f9",
+        "ch01-03:35:19c130b3",
+        "ch01-03:36:99ab519d"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "fha",
+      "display_name": "파리너",
+      "source_line_count": 3,
+      "baseline_voice": "운송 서비스 종사자의 정확하고 격식 있는 존댓말.",
+      "baseline_rules": "‘알겠습니다/대기할까요/연락해 주십시오’ 같은 직업적 표현.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "장면 상대",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "원문의 위계·관계를 우선",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch02-12:1154:de397cda",
+            "ch02-12:1177:302e7970",
+            "ch02-12:1179:68cea60b"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch02-12:1154:de397cda",
+        "ch02-12:1177:302e7970",
+        "ch02-12:1179:68cea60b"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "girl",
+      "display_name": "광장의 소녀",
+      "source_line_count": 1,
+      "baseline_voice": "밝은 또래 말투.",
+      "baseline_rules": "짧은 반말.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "카지·어른",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "어린 소녀의 자연스러운 말투; 과도한 유아어 금지",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch01-09:56:a730ef61"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch01-09:56:a730ef61"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "mhi",
+      "display_name": "미네",
+      "source_line_count": 1,
+      "baseline_voice": "정상 발화가 어려운 상태.",
+      "baseline_rules": "의미를 임의로 보충하지 않고 신음과 끊김을 보존.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "장면 상대",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "원문의 관계를 우선",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch03-04:1143:cb2468c6"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch03-04:1143:cb2468c6"
+      ],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "医療班",
+      "display_name": "의료반",
+      "source_line_count": 1,
+      "baseline_voice": "명령에 즉시 응답하는 실무자.",
+      "baseline_rules": "간결한 격식체.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "환자·동료",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "의료진의 침착하고 명료한 존댓말",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [],
+      "status": "pending"
+    },
+    {
+      "speaker_id": "ruk",
+      "display_name": "루키",
+      "source_line_count": 1,
+      "baseline_voice": "이 추출 범위에서는 무언.",
+      "baseline_rules": "말줄임표의 길이와 정서를 보존.",
+      "directed_relationships": [
+        {
+          "addressee": "context_resolved_interlocutor",
+          "group": "장면 상대",
+          "speech_level": "장면 문맥에서 판정",
+          "address_terms": [],
+          "first_person": [],
+          "second_person": [],
+          "preferred_endings": [],
+          "rhythm": "원문의 관계를 우선",
+          "warmth": "원문 준거",
+          "command_strength": "원문 준거",
+          "emotional_variants": {
+            "uncertain": "보수적으로 중립 처리하고 issues에 기록"
+          },
+          "status": "pending",
+          "evidence_uids": [
+            "ch03-10:34:5d258e84"
+          ],
+          "evidence_scope": "speaker_style_fallback"
+        }
+      ],
+      "plot_phase_changes": [
+        {
+          "phase": "ch01-ch03",
+          "rule": "변화는 해당 패킷의 원문 근거와 직전 대화에서 확인될 때만 적용"
+        }
+      ],
+      "prohibited_carryover": [
+        "다른 수신자에게 쓰는 호칭·존대 단계를 자동 전이하지 않는다.",
+        "감정 장면의 거친 어조를 평상 장면으로 전이하지 않는다.",
+        "정체가 숨겨진 화자에게 후반부 정체의 말버릇을 선행 노출하지 않는다."
+      ],
+      "evidence_uids": [
+        "ch03-10:34:5d258e84"
+      ],
+      "status": "pending"
+    }
+  ]
+}

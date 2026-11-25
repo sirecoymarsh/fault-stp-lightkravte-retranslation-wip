@@ -1,0 +1,984 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-15.part01",
+  "script": "ch02-15",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch02-15:8:87e775ca",
+      "source_hash": "87e775ca",
+      "sequence": 0,
+      "source_line": 8,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "画家を目指した時から<br>あらゆる方面のお願いをあらゆる人から断られてきた",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:9:4cc74f72",
+      "source_hash": "4cc74f72",
+      "sequence": 1,
+      "source_line": 9,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "だから 断られるのには慣れている…というか慣れた",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:10:befd0a19",
+      "source_hash": "befd0a19",
+      "sequence": 2,
+      "source_line": 10,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "いいじゃないか 別に ダメだって言われても―――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:11:a310dbb7",
+      "source_hash": "a310dbb7",
+      "sequence": 3,
+      "source_line": 11,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "はじめはいちいち傷ついていたけど<br>最近はあんまり気にならなくなってきたのだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:12:f8dd9263",
+      "source_hash": "f8dd9263",
+      "sequence": 4,
+      "source_line": 12,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "だったら頼み続ければいい 誰かがうんと言うまで",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:13:86c26a20",
+      "source_hash": "86c26a20",
+      "sequence": 5,
+      "source_line": 13,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "長期戦に持ち込もうと―――<br>根気さえあればなんとかなると そう思っていた",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:14:b7ed1f63",
+      "source_hash": "b7ed1f63",
+      "sequence": 6,
+      "source_line": 14,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "体があげる痛みを堪えながらあちこちを回り<br>異変に気づいたのは<br>その日１０件目の工房についた時だった",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:21:b1c5b353",
+      "source_hash": "b1c5b353",
+      "sequence": 7,
+      "source_line": 21,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "おうおう やっぱりここにも来るか お前さん",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:22:b3b9e94c",
+      "source_hash": "b3b9e94c",
+      "sequence": 8,
+      "source_line": 22,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…え？ 僕…ですか？<br>ど どうして僕が来ることがわかってたんです？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:23:7c7f67e4",
+      "source_hash": "7c7f67e4",
+      "sequence": 9,
+      "source_line": 23,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "他にも色々知ってるぜ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:24:d7ef1c28",
+      "source_hash": "d7ef1c28",
+      "sequence": 10,
+      "source_line": 24,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "例えばお前さん 画家を目指してるとかね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:25:465a96d1",
+      "source_hash": "465a96d1",
+      "sequence": 11,
+      "source_line": 25,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "なんか補助用のレンズが欲しいんだろ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:26:b86c38e3",
+      "source_hash": "b86c38e3",
+      "sequence": 12,
+      "source_line": 26,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？……な なんでそこまで知ってるんですか！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:27:f1e42b58",
+      "source_hash": "f1e42b58",
+      "sequence": 13,
+      "source_line": 27,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "それよりもさ カージ君だっけ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:28:4314b18b",
+      "source_hash": "4314b18b",
+      "sequence": 14,
+      "source_line": 28,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "なんでこんなに断られてるのに<br>しつこく硝子工房を回ってるんだ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:29:9ce514d3",
+      "source_hash": "9ce514d3",
+      "sequence": 15,
+      "source_line": 29,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "この店で１０件目くらいだよな 今日",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:30:c55c802",
+      "source_hash": "c55c802",
+      "sequence": 16,
+      "source_line": 30,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………そ そこまで情報が割れてるんですか……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:31:5e2b707e",
+      "source_hash": "5e2b707e",
+      "sequence": 17,
+      "source_line": 31,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "ははは まあな<br>グラスクラフターズギルドの連携を<br>甘く見たらいけねえってことだ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:32:3a35cbfb",
+      "source_hash": "3a35cbfb",
+      "sequence": 18,
+      "source_line": 32,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぜ……全部筒抜けだと………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:33:c36148be",
+      "source_hash": "c36148be",
+      "sequence": 19,
+      "source_line": 33,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "ああ そうでなくてもアルティストや<br>アルチザン業界ってのは狭いからな<br>大体の噂は耳にしちまうんだよ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:34:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 20,
+      "source_line": 34,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:35:9b0c62a3",
+      "source_hash": "9b0c62a3",
+      "sequence": 21,
+      "source_line": 35,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なんか…ここまでくると噂レベルじゃないと思うのですが",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:36:649a0748",
+      "source_hash": "649a0748",
+      "sequence": 22,
+      "source_line": 36,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕みたいなしがない画家志望の噂話なんかして<br>いいことあるんですか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:37:1e4c8f4f",
+      "source_hash": "1e4c8f4f",
+      "sequence": 23,
+      "source_line": 37,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "しがない？ お前は『しがない人間』じゃないだろう？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:38:2d6d9d9",
+      "source_hash": "2d6d9d9",
+      "sequence": 24,
+      "source_line": 38,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "オバーグ果樹園の後継だろうが",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:39:e7cf2622",
+      "source_hash": "e7cf2622",
+      "sequence": 25,
+      "source_line": 39,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え え………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:40:d9c240cb",
+      "source_hash": "d9c240cb",
+      "sequence": 26,
+      "source_line": 40,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "ある意味一大事なんだぞ？<br>お前さんとこの果物はファンが多いからな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:41:2a0a8780",
+      "source_hash": "2a0a8780",
+      "sequence": 27,
+      "source_line": 41,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "おれも若い頃はオバーグさんに<br>相当お世話になったってもんよ…<br>そのうち恩返しをしてやりてえ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:42:cd6ecd1a",
+      "source_hash": "cd6ecd1a",
+      "sequence": 28,
+      "source_line": 42,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はあ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:43:5d574914",
+      "source_hash": "5d574914",
+      "sequence": 29,
+      "source_line": 43,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "さて だいたい内容は把握してるから<br>聞くまでもないと思うが 今日はどのようなご用件で？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:44:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 30,
+      "source_line": 44,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:45:4a387a23",
+      "source_hash": "4a387a23",
+      "sequence": 31,
+      "source_line": 45,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は 話が筒抜けなんでしたら遠慮なく聞きますが…<br>とあるレンズを作って欲しいんです",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:46:e6d53b6a",
+      "source_hash": "e6d53b6a",
+      "sequence": 32,
+      "source_line": 46,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "設計図も一応素人ながらに書いて持ってきました",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:47:7908aa3a",
+      "source_hash": "7908aa3a",
+      "sequence": 33,
+      "source_line": 47,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "どれ 見せてみろ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:48:9f4f17d3",
+      "source_hash": "9f4f17d3",
+      "sequence": 34,
+      "source_line": 48,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え………！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:49:b7d35111",
+      "source_hash": "b7d35111",
+      "sequence": 35,
+      "source_line": 49,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "なんだよ？ 設計図書いたんだろ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:50:b5c1b3fa",
+      "source_hash": "b5c1b3fa",
+      "sequence": 36,
+      "source_line": 50,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "見せてみろって 素人のものでもいいから",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:51:453edeeb",
+      "source_hash": "453edeeb",
+      "sequence": 37,
+      "source_line": 51,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いえ…すみません…<br>設計図を実際見てもらえる段階まできたのは<br>あなたが初めてなので",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:52:ce8d6b38",
+      "source_hash": "ce8d6b38",
+      "sequence": 38,
+      "source_line": 52,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "おれは 他の連中と違って心が広いんだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:53:9afe177",
+      "source_hash": "9afe177",
+      "sequence": 39,
+      "source_line": 53,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "しかも オバーグさんの倅さんの話なら<br>聞かないわけにはいかねえってもんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:54:8b2634d9",
+      "source_hash": "8b2634d9",
+      "sequence": 40,
+      "source_line": 54,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "よ よろしくお願いします！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:55:20a4de1b",
+      "source_hash": "20a4de1b",
+      "sequence": 41,
+      "source_line": 55,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "どれどれ…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:57:c5713754",
+      "source_hash": "c5713754",
+      "sequence": 42,
+      "source_line": 57,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:58:9ec44e31",
+      "source_hash": "9ec44e31",
+      "sequence": 43,
+      "source_line": 58,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:59:913d2a80",
+      "source_hash": "913d2a80",
+      "sequence": 44,
+      "source_line": 59,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "あー…なるほどね<br>こりゃだめよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:60:19f41176",
+      "source_hash": "19f41176",
+      "sequence": 45,
+      "source_line": 60,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:61:4882a295",
+      "source_hash": "4882a295",
+      "sequence": 46,
+      "source_line": 61,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "これはちょっと作れないね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:62:30561c04",
+      "source_hash": "30561c04",
+      "sequence": 47,
+      "source_line": 62,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いや…ちょっと待ってください…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:63:57ee27dc",
+      "source_hash": "57ee27dc",
+      "sequence": 48,
+      "source_line": 63,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "同じようなことを最初の工房でも言われたんですが…<br>理由を―――！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:64:42204527",
+      "source_hash": "42204527",
+      "sequence": 49,
+      "source_line": 64,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "理由を教えてください！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:65:2c684de6",
+      "source_hash": "2c684de6",
+      "sequence": 50,
+      "source_line": 65,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "技術的に無理なんだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:66:a3eb8eda",
+      "source_hash": "a3eb8eda",
+      "sequence": 51,
+      "source_line": 66,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "なるほどね…だからか<br>これではっきりした",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:67:3f41a145",
+      "source_hash": "3f41a145",
+      "sequence": 52,
+      "source_line": 67,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え ど どういうことですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:68:b0dd35b2",
+      "source_hash": "b0dd35b2",
+      "sequence": 53,
+      "source_line": 68,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "カージ君が頼んだ人ってさ<br>みんな職人だからプライド高いのよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:69:4a4d97a6",
+      "source_hash": "4a4d97a6",
+      "sequence": 54,
+      "source_line": 69,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "できないことを認めるのが恥ずかしいんだよ<br>だからきっといろいろ理由をつけて断ってきたのさ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:70:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 55,
+      "source_line": 70,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:71:2b67bc10",
+      "source_hash": "2b67bc10",
+      "sequence": 56,
+      "source_line": 71,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ……そんな！？<br>それは こ 根本的に不可能という意味ですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:72:34a75d53",
+      "source_hash": "34a75d53",
+      "sequence": 57,
+      "source_line": 72,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "そうさ<br>これは ルゼンハイドのギルドは愚か――",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:73:406301a8",
+      "source_hash": "406301a8",
+      "sequence": 58,
+      "source_line": 73,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "グラスクラフトが本場のヴァストアルカの職人に<br>持っていっても作ってはもらえない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:74:3f46f48a",
+      "source_hash": "3f46f48a",
+      "sequence": 59,
+      "source_line": 74,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ちょ ちょっと待ってください！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:75:ce3a1ff6",
+      "source_hash": "ce3a1ff6",
+      "sequence": 60,
+      "source_line": 75,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "図書館から借りた設計図を元に描いているので<br>レンズの設計自体は既存のもののはずです！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:76:5d82bcd1",
+      "source_hash": "5d82bcd1",
+      "sequence": 61,
+      "source_line": 76,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "不可能と断られる理由が全くわからないのですが！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:77:70a565b3",
+      "source_hash": "70a565b3",
+      "sequence": 62,
+      "source_line": 77,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "基礎がなってない素人さんに説明するのも難しいんだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:78:3038e607",
+      "source_hash": "3038e607",
+      "sequence": 63,
+      "source_line": 78,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "悪いことは言わないよ カージ君<br>このレンズのことは諦めなさい",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:79:a153afc7",
+      "source_hash": "a153afc7",
+      "sequence": 64,
+      "source_line": 79,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "親父さんもきっとそのほうが喜ぶよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:88:2fad03d4",
+      "source_hash": "2fad03d4",
+      "sequence": 65,
+      "source_line": 88,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "ようよう 俺だ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:89:95a1d956",
+      "source_hash": "95a1d956",
+      "sequence": 66,
+      "source_line": 89,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "ああ ここにも来たぜ<br>情報通りだったな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:90:2585a932",
+      "source_hash": "2585a932",
+      "sequence": 67,
+      "source_line": 90,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:91:4561bfaa",
+      "source_hash": "4561bfaa",
+      "sequence": 68,
+      "source_line": 91,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "大丈夫 完全に芽を摘んでおいた…ったく<br>お前たちもそれっぽい断り方をすればいいんだよ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:92:a3b71839",
+      "source_hash": "a3b71839",
+      "sequence": 69,
+      "source_line": 92,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "倅さんもかわいそうによ<br>可能性があるように見せたら<br>次の工房あたるに決まってるだろう",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:93:7c8ca9cb",
+      "source_hash": "7c8ca9cb",
+      "sequence": 70,
+      "source_line": 93,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "ああ……大丈夫だ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:94:d889607f",
+      "source_hash": "d889607f",
+      "sequence": 71,
+      "source_line": 94,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "わかってるって―――<br>余計なことはなにひとつ言ってねえから安心しな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:95:79ccc665",
+      "source_hash": "79ccc665",
+      "sequence": 72,
+      "source_line": 95,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "ん〜……別になにも？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:96:7955058b",
+      "source_hash": "7955058b",
+      "sequence": 73,
+      "source_line": 96,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "技術的に不可能だから<br>どこ行っても断られるぞって言っただけだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-15:97:5029ad1f",
+      "source_hash": "5029ad1f",
+      "sequence": 74,
+      "source_line": 97,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "だからよ 言い方の問題なんだって…<br>もうちょっと親身なふりをだな――",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

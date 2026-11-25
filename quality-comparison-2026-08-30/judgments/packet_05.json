@@ -1,0 +1,542 @@
+{
+  "schema_version": 1,
+  "reviewer": "Codex internal",
+  "entries": [
+    {
+      "uid": "ch02-08:115:b944f3a3",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 한숨 표기"
+    },
+    {
+      "uid": "ch02-09:12:3cd62254",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 긴 침묵 표기"
+    },
+    {
+      "uid": "ch02-09:78:b468d479",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "制限의 반복을 「제한」으로 이어 받은 A가 정확하고 문장도 자연스럽다"
+    },
+    {
+      "uid": "ch02-09:261:cb934251",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 3,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "종결 혼합"
+        ]
+      },
+      "severity": "minor",
+      "reason": "둘 다 뜻은 맞다. A가 오그즈의 단정적인 -다체를 일관되게 유지하고 B는 -어/-다를 섞는다"
+    },
+    {
+      "uid": "ch02-10d:19:4a7b757b",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 2,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "호칭·거리감 변화"
+        ]
+      },
+      "severity": "major",
+      "reason": "母さん을 「엄마」로 유지한 A가 카지의 기록 보이스에 맞다. B는 「어머니」와 문어체로 거리감을 높였다"
+    },
+    {
+      "uid": "ch02-10d:20:9483fca",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 1,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "기록체 존대 오류"
+        ]
+      },
+      "severity": "major",
+      "reason": "そう思うんだ는 평서형 기록이다. A가 맞고 B는 존댓말로 바꿨다"
+    },
+    {
+      "uid": "ch02-10d:25:e9c6ebe8",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 짧은 단편"
+    },
+    {
+      "uid": "ch02-11:16:afe6c61e",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 부친의 진입 대사"
+    },
+    {
+      "uid": "ch02-11:104:dcad7278",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 감탄 표기"
+    },
+    {
+      "uid": "ch02-11:183:691c5706",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 1,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "독백 존대 오류"
+        ]
+      },
+      "severity": "major",
+      "reason": "카지의 절망한 독백이다. A는 평서형을 유지하고 B는 「저는/걸까요」 존댓말로 보이스가 깨진다"
+    },
+    {
+      "uid": "ch02-12:320:7443d2f",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 숨찬 발화"
+    },
+    {
+      "uid": "ch02-12:613:8517a892",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 2,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "루비 base 의미 오독"
+        ]
+      },
+      "severity": "major",
+      "reason": "鎹는 사람을 잇는 결속의 비유다. A의 「결속의 규율」이 문맥상 정확하고 B의 「꺾쇠」는 표면 한자만 옮겼다"
+    },
+    {
+      "uid": "ch02-12:727:d4072a5b",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "시제 약화"
+        ]
+      },
+      "severity": "minor",
+      "reason": "大丈夫는 여기서 앞으로 괜찮을 것이라는 위로다. A가 시제를 정확히 살렸다"
+    },
+    {
+      "uid": "ch02-12:880:d66c0fd9",
+      "preferred": "A",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby manual 검토 필요"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby manual 검토 필요"
+        ]
+      },
+      "severity": "minor",
+      "reason": "둘 다 의도적 혀 꼬임을 재현한다. A가 원래 문장을 더 알아볼 수 있게 남겼다"
+    },
+    {
+      "uid": "ch02-12:886:b12dd90e",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "B가 리토나의 질문을 자연스러운 반말로 재구성했다. A는 과거형과 뒤늦은 지시어가 어색하다"
+    },
+    {
+      "uid": "ch02-12:962:4487eef",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "돼 있대라는 전언 증설"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "분명으로 확실성 상승"
+        ]
+      },
+      "severity": "minor",
+      "reason": "둘 다 確か의 불확실성을 제대로 살리지 못했지만 B가 설명 대사로 더 자연스럽다"
+    },
+    {
+      "uid": "ch02-12:969:261b2f36",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "더듬음 위치 이동"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "こ こんなに의 더듬음은 「이, 이렇게나」가 정확하다. A는 더듬음을 감도로 옮겼다"
+    },
+    {
+      "uid": "ch02-12:1214:dde2808f",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 1,
+        "issues": [
+          "감사 이유 증설"
+        ]
+      },
+      "severity": "major",
+      "reason": "원문은 「항상 감사합니다」뿐이다. B는 「늘 신경 써 주셔서」라는 감사 이유를 새로 만들었다"
+    },
+    {
+      "uid": "ch02-12:1228:87a9980d",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 2,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "수신자 지향 오류"
+        ]
+      },
+      "severity": "major",
+      "reason": "멜리사는 바로 앞에서 플로라에게 말한다. A는 직접 호칭하고 B는 갑자기 3인칭으로 바꾼다"
+    },
+    {
+      "uid": "ch02-12:1408:c72c78f8",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby 후검수"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby 후검수"
+        ]
+      },
+      "severity": "minor",
+      "reason": "B의 「남의 마나 기운을 쐬면」이 자연스럽고 의미도 유지한다. 양쪽 모두 ruby 후검수가 필요하다"
+    },
+    {
+      "uid": "ch02-13:36:ab25da17",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "원문의 정중한 と思います에는 A의 격식 있는 종결이 조금 더 가깝다"
+    },
+    {
+      "uid": "ch02-13:65:119a3566",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 2,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "관계 존대 약화"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "카지는 플로라 님과 언니를 높여 말한다. B가 언니분·마음을 터놓아 주시는 관계 존대를 유지하고 A는 낮췄다"
+    },
+    {
+      "uid": "ch02-13:76:1e665e69",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch02-13:95:a27ca19a",
+      "preferred": "B",
+      "A": {
+        "fidelity": 2,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "어휘 의미·강도 변경"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "薄汚い는 도덕적으로 추악하고 더럽다는 뜻이다. B가 정확하며 A의 「천박하기 그지없는」은 의미와 강도를 바꾼다"
+    },
+    {
+      "uid": "ch02-14:32:b3d6734f",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    }
+  ],
+  "review_status": "complete_blind",
+  "entries_reviewed": 25
+}

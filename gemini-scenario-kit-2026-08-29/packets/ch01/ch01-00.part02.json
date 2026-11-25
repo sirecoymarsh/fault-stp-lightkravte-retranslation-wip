@@ -1,0 +1,1382 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-00.part02",
+  "script": "ch01-00",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch01-00:316:a0630ae6",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "い いや そうじゃなくて！！<br>も もしかして士官様としてここにいらっしゃるのですか？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-00:318:d854371e",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "そそ",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-00:319:280b58df",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "今 ちょっと人手が足りないらしくてさ…<br>私もヘルプとして駆り出されてるってわけなの",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-00:321:5b7bb93b",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "そ そうだったんですね…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-00:322:b3d6734f",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "…………",
+        "do_not_translate": true
+      }
+    ],
+    "after": [
+      {
+        "uid": "ch01-00:552:93e89bf3",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "全部門前払いだったんです！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-00:555:840984d7",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "そ そう…だったの…",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch01-00:324:1bca4d4",
+      "source_hash": "1bca4d4",
+      "sequence": 100,
+      "source_line": 324,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あの…ということは 僕の個人情報は全てだだ漏れ…<br>ってことですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:326:6f2fc1f6",
+      "source_hash": "6f2fc1f6",
+      "sequence": 101,
+      "source_line": 326,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "まあ私には…ね あはは…<br>も…問題あるかしら？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:328:3b6138e9",
+      "source_hash": "3b6138e9",
+      "sequence": 102,
+      "source_line": 328,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いやあの 問題云々以前に…<br>普通にめちゃくちゃ恥ずかしいんですけど…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:330:19d03667",
+      "source_hash": "19d03667",
+      "sequence": 103,
+      "source_line": 330,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "だ 大丈夫よ 私も士官としてここにいる以上<br>守秘義務があるから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:331:c72f64f9",
+      "source_hash": "c72f64f9",
+      "sequence": 104,
+      "source_line": 331,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ここで話すことは 外部には漏らさないから安心して",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:334:f5245439",
+      "source_hash": "f5245439",
+      "sequence": 105,
+      "source_line": 334,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "し しかし そう言われましても…<br>抵抗があるにはあるというか…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:336:b16db194",
+      "source_hash": "b16db194",
+      "sequence": 106,
+      "source_line": 336,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "はぁー…<br>私みたいなひよっこじゃ不安かなぁ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:338:48a30b03",
+      "source_hash": "48a30b03",
+      "sequence": 107,
+      "source_line": 338,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ああ い いえ めっそうもありません！<br>む むしろフローラ様とこのように一緒にいられる時間が…あ いや…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:341:af41a066",
+      "source_hash": "af41a066",
+      "sequence": 108,
+      "source_line": 341,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ふ フローラ様とお話させて頂けるなど<br>本来なら感謝感激なのですが…ただ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:344:3973bafd",
+      "source_hash": "3973bafd",
+      "sequence": 109,
+      "source_line": 344,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ただ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:346:c9baa01e",
+      "source_hash": "c9baa01e",
+      "sequence": 110,
+      "source_line": 346,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "た ただ…あの…やはり恥ずかしさの方が勝るというか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:348:8f213a25",
+      "source_hash": "8f213a25",
+      "sequence": 111,
+      "source_line": 348,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "うーんでも困ったわね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:350:fb0fa5e4",
+      "source_hash": "fb0fa5e4",
+      "sequence": 112,
+      "source_line": 350,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "さっきも言ったけど 今繁忙期だから 就望生側の都合でキャンセルされちゃうと<br>次いつ面接予約取れるかわからないのよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:351:499998c",
+      "source_hash": "499998c",
+      "sequence": 113,
+      "source_line": 351,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "今季を逃したくないなら<br>今回は私で我慢してくれないかしら？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:354:1cf25cd2",
+      "source_hash": "1cf25cd2",
+      "sequence": 114,
+      "source_line": 354,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "お おおお……おお………！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:357:8d9b4626",
+      "source_hash": "8d9b4626",
+      "sequence": 115,
+      "source_line": 357,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "え え…ど どうしたの？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:362:7707f0d5",
+      "source_hash": "7707f0d5",
+      "sequence": 116,
+      "source_line": 362,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "私で我慢…！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:365:74c76c22",
+      "source_hash": "74c76c22",
+      "sequence": 117,
+      "source_line": 365,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "私で我慢…！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:369:26823db3",
+      "source_hash": "26823db3",
+      "sequence": 118,
+      "source_line": 369,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "わ 私で我慢などという 哀愁を帯びたフローラ様には<br>似つかわしくない言葉をつかわせてしまったなんて…<br>ぼ 僕は…僕は！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:372:f231fa7f",
+      "source_hash": "f231fa7f",
+      "sequence": 119,
+      "source_line": 372,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "これって…男として恥ずかしいやつなのでは！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:376:6b6a0a89",
+      "source_hash": "6b6a0a89",
+      "sequence": 120,
+      "source_line": 376,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ちょ ちょっと…大丈夫カージくん？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:378:f8d9c599",
+      "source_hash": "f8d9c599",
+      "sequence": 121,
+      "source_line": 378,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ご ごめんね。本当に嫌ならやっぱ予定の入れ直しを…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:381:e4b25dce",
+      "source_hash": "e4b25dce",
+      "sequence": 122,
+      "source_line": 381,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いえ フローラ様！！<br>このような不束者ですが よろしくお願いいたします！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:383:e0f971c1",
+      "source_hash": "e0f971c1",
+      "sequence": 123,
+      "source_line": 383,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "？？？？<br>え ええ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:395:d37dfd1",
+      "source_hash": "d37dfd1",
+      "sequence": 124,
+      "source_line": 395,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "えーっと…あれ<br>カージ君って今日で就望登録3回目なんだ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:396:8d9c058a",
+      "source_hash": "8d9c058a",
+      "sequence": 125,
+      "source_line": 396,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい<br>実は…ちょっと苦戦気味でして…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:397:a8e61343",
+      "source_hash": "a8e61343",
+      "sequence": 126,
+      "source_line": 397,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そっかー…ここにいるって事は<br>果樹園の方は継がないことにしたんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:400:ea8a9b07",
+      "source_hash": "ea8a9b07",
+      "sequence": 127,
+      "source_line": 400,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "はい そうですね…ちょっと別な仕事をしようと思いまして",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:401:3d351645",
+      "source_hash": "3d351645",
+      "sequence": 128,
+      "source_line": 401,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "なるほどなるほど…で 職業志望は…<br>え…が 画家！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:402:b143b1b",
+      "source_hash": "b143b1b",
+      "sequence": 129,
+      "source_line": 402,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい！<br>絵を描く仕事に就きたいなー なんて",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:403:a8c0e7fe",
+      "source_hash": "a8c0e7fe",
+      "sequence": 130,
+      "source_line": 403,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "凄いじゃないカージ君！<br>画家になりたいなんて ちょっと意外だわ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:404:7b760974",
+      "source_hash": "7b760974",
+      "sequence": 131,
+      "source_line": 404,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうでしょうか あはは<br>やはり僕にこんな洒落た職業は似合いませんか…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:405:33567620",
+      "source_hash": "33567620",
+      "sequence": 132,
+      "source_line": 405,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "いやそうじゃなくて…<br>なんていうか 私は果樹園を継ぐとばかり思っていたから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:406:a656d889",
+      "source_hash": "a656d889",
+      "sequence": 133,
+      "source_line": 406,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そっかー…<br>カージ君も 色々と悩んで頑張ってるのね<br>共感するわー…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:407:f1ef5c1",
+      "source_hash": "f1ef5c1",
+      "sequence": 134,
+      "source_line": 407,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "きょ 恐縮です",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:412:68eff58c",
+      "source_hash": "68eff58c",
+      "sequence": 135,
+      "source_line": 412,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "えっとじゃあ 結果の方の発表ね………ん？<br>んんー……？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:413:37b78967",
+      "source_hash": "37b78967",
+      "sequence": 136,
+      "source_line": 413,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "……………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:414:2820fd9",
+      "source_hash": "2820fd9",
+      "sequence": 137,
+      "source_line": 414,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…ど どうなさいましたか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:415:a5f4309",
+      "source_hash": "a5f4309",
+      "sequence": 138,
+      "source_line": 415,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "え…えーとね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:416:33dcb344",
+      "source_hash": "33dcb344",
+      "sequence": 139,
+      "source_line": 416,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "た 単刀直入にアンケート結果の方から伝えるけど…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:417:a50ee45b",
+      "source_hash": "a50ee45b",
+      "sequence": 140,
+      "source_line": 417,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "素人から本職の方まで40人ずつあなたの絵を見せて<br>割り出された画家としての今回の職業支持率は…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:420:e9ece9d8",
+      "source_hash": "e9ece9d8",
+      "sequence": 141,
+      "source_line": 420,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "6.9%…って出てるわね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:428:56e8c3c3",
+      "source_hash": "56e8c3c3",
+      "sequence": 142,
+      "source_line": 428,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え ええ！？<br>って ま まさか前回の15％をさらに下回るなんて…！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:429:9387a5cc",
+      "source_hash": "9387a5cc",
+      "sequence": 143,
+      "source_line": 429,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な なんでですか！<br>あれからかなり練習したんですよ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:430:68846086",
+      "source_hash": "68846086",
+      "sequence": 144,
+      "source_line": 430,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ま 全く成長してないって…！！<br>っていや むしろ下がってるなんて納得がいきませんよ…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:435:62f88963",
+      "source_hash": "62f88963",
+      "sequence": 145,
+      "source_line": 435,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "メモによると 今回は調査時にオバーグ果樹園の<br>息子さんであることを公表したらしいわね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:436:39729e5",
+      "source_hash": "39729e5",
+      "sequence": 146,
+      "source_line": 436,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "だから総合的に家業を継いだ方が社会貢献できる…<br>つまり功利的だという声が多かった<br>…と…いう結果になってるみたい",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:437:15b84a68",
+      "source_hash": "15b84a68",
+      "sequence": 147,
+      "source_line": 437,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ちなみに 果樹園の継承なら満場一致で支持率も100％とメモには書かれてる…わね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:438:973c3be4",
+      "source_hash": "973c3be4",
+      "sequence": 148,
+      "source_line": 438,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なななな 何でそんな素性を明かすようなことを…<br>か 家庭の事情なんて他人には関係ないのに…！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:439:3b8654ff",
+      "source_hash": "3b8654ff",
+      "sequence": 149,
+      "source_line": 439,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "調査の方法は士官がそれぞれ独自に決めるから<br>こればかりはなんとも…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:440:6fee124d",
+      "source_hash": "6fee124d",
+      "sequence": 150,
+      "source_line": 440,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "カージ君の場合は 果樹園の４代目だからね…<br>最初の２回で考慮されなかったことの方が不思議なくらい",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:441:49f26086",
+      "source_hash": "49f26086",
+      "sequence": 151,
+      "source_line": 441,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "うぐぐぐ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:442:a081667f",
+      "source_hash": "a081667f",
+      "sequence": 152,
+      "source_line": 442,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "流石にこの成績だと<br>今回も画家としての本職登録は見送りということに…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:443:f5e9fded",
+      "source_hash": "f5e9fded",
+      "sequence": 153,
+      "source_line": 443,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんな！<br>始まって30秒で終わりだなんて！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:444:8dc643f9",
+      "source_hash": "8dc643f9",
+      "sequence": 154,
+      "source_line": 444,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "も もうちょっと何とかならないのですか！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:445:f698a3f3",
+      "source_hash": "f698a3f3",
+      "sequence": 155,
+      "source_line": 445,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "手助けしてあげたいのは山々なんだけど<br>画家みたいなアルティスト系の仕事は世間からの評価が<br>重めに判断されちゃうのよ…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:446:bf216b29",
+      "source_hash": "bf216b29",
+      "sequence": 156,
+      "source_line": 446,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "30％くらいまでいけたら他の救済措置も<br>あったんだろうけど…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:447:56104892",
+      "source_hash": "56104892",
+      "sequence": 157,
+      "source_line": 447,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ここまで需要がないと言われちゃうと…<br>ご ごめんね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:450:c8569571",
+      "source_hash": "c8569571",
+      "sequence": 158,
+      "source_line": 450,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんな…そんな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:451:bde1481c",
+      "source_hash": "bde1481c",
+      "sequence": 159,
+      "source_line": 451,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……が…がが…く……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:464:a9bb128",
+      "source_hash": "a9bb128",
+      "sequence": 160,
+      "source_line": 464,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぐぐぐ…ふ フローラさん！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:467:699c8d59",
+      "source_hash": "699c8d59",
+      "sequence": 161,
+      "source_line": 467,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "は はい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:470:3651b42",
+      "source_hash": "3651b42",
+      "sequence": 162,
+      "source_line": 470,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "何故ルゼンハイドの就望活動は他人の意見に<br>ここまで左右されなければいけないのですか！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:472:792b832c",
+      "source_hash": "792b832c",
+      "sequence": 163,
+      "source_line": 472,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕は…ぼ 僕の人生を生きたいだけなのに…！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:474:455d0f07",
+      "source_hash": "455d0f07",
+      "sequence": 164,
+      "source_line": 474,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "い いや あのねカージ君…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:476:5b1aa209",
+      "source_hash": "5b1aa209",
+      "sequence": 165,
+      "source_line": 476,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "本職登録ができないってだけで<br>国は別にあなたに絵を描くなって<br>言ってるんじゃないのよ？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:478:3b1da0f0",
+      "source_hash": "3b1da0f0",
+      "sequence": 166,
+      "source_line": 478,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "絵を描くのは個人の自由なんだから",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:481:84ed274c",
+      "source_hash": "84ed274c",
+      "sequence": 167,
+      "source_line": 481,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "本職としては果樹園を継いで<br>絵の方は趣味に留めておく…じゃだめなの？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:483:e416a88e",
+      "source_hash": "e416a88e",
+      "sequence": 168,
+      "source_line": 483,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いやその…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:484:f601f1e2",
+      "source_hash": "f601f1e2",
+      "sequence": 169,
+      "source_line": 484,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "逆に聞きたいんだけど<br>画家として本職登録したい理由って…？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:486:f01104c",
+      "source_hash": "f01104c",
+      "sequence": 170,
+      "source_line": 486,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "本職登録しないと<br>ただの<tip=\"basic_status\">ベーシックステータス</tip>じゃないですか！",
+      "required_tokens": [
+        "<br>",
+        "<tip=\"basic_status\">",
+        "</tip>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:488:32ce363a",
+      "source_hash": "32ce363a",
+      "sequence": 171,
+      "source_line": 488,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ベーシックステータスの生活水準が嫌だってこと？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:489:4c08b4db",
+      "source_hash": "4c08b4db",
+      "sequence": 172,
+      "source_line": 489,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "でも 果樹園を継げば<br>ベーシックステータスじゃなくなるわよね？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:491:fc3d59cd",
+      "source_hash": "fc3d59cd",
+      "sequence": 173,
+      "source_line": 491,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "せ 生活水準の問題じゃないんです…！<br>ぼ 僕には…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:493:2e502489",
+      "source_hash": "2e502489",
+      "sequence": 174,
+      "source_line": 493,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぼ ぼ 僕には…<br>夢があるんです…！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:496:5d934d9",
+      "source_hash": "5d934d9",
+      "sequence": 175,
+      "source_line": 496,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "夢？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:497:50d9634b",
+      "source_hash": "50d9634b",
+      "sequence": 176,
+      "source_line": 497,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そう…僕は…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:503:bed0fbcd",
+      "source_hash": "bed0fbcd",
+      "sequence": 177,
+      "source_line": 503,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕は…日々日常で出会う さまざまな美しい女性達を…<br>絵という形に残したいのです！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:507:84a9c04",
+      "source_hash": "84a9c04",
+      "sequence": 178,
+      "source_line": 507,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:508:bb5f6006",
+      "source_hash": "bb5f6006",
+      "sequence": 179,
+      "source_line": 508,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そ…そう…なんだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:510:640ff232",
+      "source_hash": "640ff232",
+      "sequence": 180,
+      "source_line": 510,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ま まあ 動機は一旦置いておくとして…<br>それくらい本職じゃなくてもできるんじゃないかしら？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:513:28c48cf7",
+      "source_hash": "28c48cf7",
+      "sequence": 181,
+      "source_line": 513,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "で できないですよ！<br>絶対に無理んぽっしぶる！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:515:85b50a74",
+      "source_hash": "85b50a74",
+      "sequence": 182,
+      "source_line": 515,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "え どうして？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:517:a268c97c",
+      "source_hash": "a268c97c",
+      "sequence": 183,
+      "source_line": 517,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "だだだ だって 本職の画家でもないやつが<br>見知らぬ美女に突然声をかけたら 通報されちゃいますよ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:519:24469073",
+      "source_hash": "24469073",
+      "sequence": 184,
+      "source_line": 519,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "つ 通報される声の掛け方って…！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:521:9f827752",
+      "source_hash": "9f827752",
+      "sequence": 185,
+      "source_line": 521,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "い いくらなんでも そんな過激な反応されるわけ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:523:b64a75f0",
+      "source_hash": "b64a75f0",
+      "sequence": 186,
+      "source_line": 523,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "それに ぼ…僕は気が小さいので<br>肩書きがないまま女性に声をかけるなんてもう<br>不安で不安で…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:525:d3d67a3",
+      "source_hash": "d3d67a3",
+      "sequence": 187,
+      "source_line": 525,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "これは…過去にどっかでやらかしちゃったのかな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:527:235a1beb",
+      "source_hash": "235a1beb",
+      "sequence": 188,
+      "source_line": 527,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "でも 夢のためなら……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:529:b5f581d3",
+      "source_hash": "b5f581d3",
+      "sequence": 189,
+      "source_line": 529,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "で でも…できないものはできないんで！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:531:449688cc",
+      "source_hash": "449688cc",
+      "sequence": 190,
+      "source_line": 531,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "うーん…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:532:a71a0bc1",
+      "source_hash": "a71a0bc1",
+      "sequence": 191,
+      "source_line": 532,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:534:5e6954f2",
+      "source_hash": "5e6954f2",
+      "sequence": 192,
+      "source_line": 534,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あ そうだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:536:a884d8a5",
+      "source_hash": "a884d8a5",
+      "sequence": 193,
+      "source_line": 536,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "じゃ アトリエに入門してみるっていうのはどうかしら？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:537:3afa0a42",
+      "source_hash": "3afa0a42",
+      "sequence": 194,
+      "source_line": 537,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "セレンハイド邸の斡旋を通していないところもあって<br>アトリエ側が入門を許可してくれたら<br>仮の本職登録ができるけど？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:539:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 195,
+      "source_line": 539,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:541:18c87e2e",
+      "source_hash": "18c87e2e",
+      "sequence": 196,
+      "source_line": 541,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…もう……た…です",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:543:2c53b7d6",
+      "source_hash": "2c53b7d6",
+      "sequence": 197,
+      "source_line": 543,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "え？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:546:901b3c86",
+      "source_hash": "901b3c86",
+      "sequence": 198,
+      "source_line": 546,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "それも もう…一通り回ったんです！！<br>手当たり次第！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:549:13fe9355",
+      "source_hash": "13fe9355",
+      "sequence": 199,
+      "source_line": 549,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "でも 今のシーズン どこも実務経験がないと<br>受け入れてくれなくて…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

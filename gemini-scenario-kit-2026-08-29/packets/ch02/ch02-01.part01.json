@@ -1,0 +1,1345 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-01.part01",
+  "script": "ch02-01",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": [
+      {
+        "uid": "ch02-01:220:651b4c74",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "し…知らなかった…！！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-01:221:40c687d5",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "子供の頃から普通に家にあったし<br>頼んだら普通に貰えたから<br>みんな同じなんだと思ってた…！！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-01:223:aac9a75",
+        "speaker_id": "son",
+        "speaker_name": "소네타",
+        "ja": "しかし そんな名誉あるオバーグ果樹園を捨ててまで<br>人生を絵に注ぎたいなんて めちゃくちゃロックで<br>カッコいいじゃないっすか",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-01:226:c69a43ed",
+        "speaker_id": "son",
+        "speaker_name": "소네타",
+        "ja": "大人達からしたら不謹慎でしょうが<br>ミーチはガチで応援しますよ",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-01:228:caf88d09",
+        "speaker_id": "son",
+        "speaker_name": "소네타",
+        "ja": "他人の期待なんてクソくらえってね にっししし",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch02-01:15:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 0,
+      "source_line": 15,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:17:38093a5a",
+      "source_hash": "38093a5a",
+      "sequence": 1,
+      "source_line": 17,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……ん？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:19:66af6886",
+      "source_hash": "66af6886",
+      "sequence": 2,
+      "source_line": 19,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ふと 手元に置かれている本に視線が奪われた",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:21:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 3,
+      "source_line": 21,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:23:e72559d1",
+      "source_hash": "e72559d1",
+      "sequence": 4,
+      "source_line": 23,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "どうしていままで気づかなかったのだろうか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:24:a719fda7",
+      "source_hash": "a719fda7",
+      "sequence": 5,
+      "source_line": 24,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "本の背表紙には『ペンクラフト再現版』と記されていた",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:25:e0f7a3fb",
+      "source_hash": "e0f7a3fb",
+      "sequence": 6,
+      "source_line": 25,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "どういうことだろう…？ ペンクラフトが再現されていないものも存在するということだろうか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:27:7f972cd7",
+      "source_hash": "7f972cd7",
+      "sequence": 7,
+      "source_line": 27,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "古文のまま印刷されているのか<br>それとも解読されたものの翻訳版が存在しているのか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:28:2d44c74f",
+      "source_hash": "2d44c74f",
+      "sequence": 8,
+      "source_line": 28,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "おそらく前者だとは思うけど<br>どちらにせよ制作過程が気になる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:30:d94605df",
+      "source_hash": "d94605df",
+      "sequence": 9,
+      "source_line": 30,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "もしも…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:31:8b8c90ae",
+      "source_hash": "8b8c90ae",
+      "sequence": 10,
+      "source_line": 31,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "もしもだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:32:a9bc87e2",
+      "source_hash": "a9bc87e2",
+      "sequence": 11,
+      "source_line": 32,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ペンクラフトで浮上した光を<br>そのまま本に刷る方法があるとしたら…？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:34:e72dae4a",
+      "source_hash": "e72dae4a",
+      "sequence": 12,
+      "source_line": 34,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あっても全然不思議じゃないはずだ…<br>だって 世の中にはこんなにもいろんな本が<br>普及しているんだから",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:36:697fa23c",
+      "source_hash": "697fa23c",
+      "sequence": 13,
+      "source_line": 36,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "場合によっては…2の課題<br>「浮上した光の『絵』をなんらかの媒体で保存する方法」<br>は いきなりクリアできるかもしれない",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:38:23fc5ef4",
+      "source_hash": "23fc5ef4",
+      "sequence": 14,
+      "source_line": 38,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "少し…調査するしかないな こりゃ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:39:dc268ef9",
+      "source_hash": "dc268ef9",
+      "sequence": 15,
+      "source_line": 39,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:40:f7d9ba49",
+      "source_hash": "f7d9ba49",
+      "sequence": 16,
+      "source_line": 40,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "よく考えたら 僕はなにも知らないも同然なんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:41:c7dee977",
+      "source_hash": "c7dee977",
+      "sequence": 17,
+      "source_line": 41,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "本はよく読むけど それが形になる工程については…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:42:a255bbad",
+      "source_hash": "a255bbad",
+      "sequence": 18,
+      "source_line": 42,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それは世界を大きく変えた<br>ある意味マナクラフトより偉大な大発明",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:43:8e931102",
+      "source_hash": "8e931102",
+      "sequence": 19,
+      "source_line": 43,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "――――印刷技術",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:44:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 20,
+      "source_line": 44,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:54:431fac4",
+      "source_hash": "431fac4",
+      "sequence": 21,
+      "source_line": 54,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "もう 居ても立っても居られなかった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:55:41cf4529",
+      "source_hash": "41cf4529",
+      "sequence": 22,
+      "source_line": 55,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "考える前に体が勝手に動いた",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:56:70b2a95d",
+      "source_hash": "70b2a95d",
+      "sequence": 23,
+      "source_line": 56,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "無意識に 目指したそこは…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:72:61a361cc",
+      "source_hash": "61a361cc",
+      "sequence": 24,
+      "source_line": 72,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "さ さて…来てみたはいいけど…ど どうしよう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:73:fb24c134",
+      "source_hash": "fb24c134",
+      "sequence": 25,
+      "source_line": 73,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "別に本そのものに興味があるわけじゃないんだけど…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:75:ea45f3bf",
+      "source_hash": "ea45f3bf",
+      "sequence": 26,
+      "source_line": 75,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いまのところ 他にできることはないんだ…<br>とりあえず印刷に関する本でも探してみようかな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:77:3eff9842",
+      "source_hash": "3eff9842",
+      "sequence": 27,
+      "source_line": 77,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "んー あれれー？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:79:11475292",
+      "source_hash": "11475292",
+      "sequence": 28,
+      "source_line": 79,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…こ この声は",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:83:3fa07009",
+      "source_hash": "3fa07009",
+      "sequence": 29,
+      "source_line": 83,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "あれれれー？？<br>オバーグ果樹園の息子さんじゃないっすか！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:86:2c672851",
+      "source_hash": "2c672851",
+      "sequence": 30,
+      "source_line": 86,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ソ ソネッタさん！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:88:41e58bee",
+      "source_hash": "41e58bee",
+      "sequence": 31,
+      "source_line": 88,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "ヴィーっす！ 奇遇っすね こんなところで会うなんて！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:90:406e7d17",
+      "source_hash": "406e7d17",
+      "sequence": 32,
+      "source_line": 90,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ それはこっちのセリフですよ<br>ソネッタさんこそ こんなところでなにを？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:92:529a48b6",
+      "source_hash": "529a48b6",
+      "sequence": 33,
+      "source_line": 92,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "んー？ 言わなかったっすか？<br>ミーチは暇な時に ここで司書してるんすよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:93:51289a56",
+      "source_hash": "51289a56",
+      "sequence": 34,
+      "source_line": 93,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうなんですね ルゼンハイド大図書館で司書を…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:94:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 35,
+      "source_line": 94,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:96:585f68df",
+      "source_hash": "585f68df",
+      "sequence": 36,
+      "source_line": 96,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "って…え！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:97:741396fd",
+      "source_hash": "741396fd",
+      "sequence": 37,
+      "source_line": 97,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "し 司書って…！！ と 図書館の司書ですか！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:99:7726f36c",
+      "source_hash": "7726f36c",
+      "sequence": 38,
+      "source_line": 99,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "そそ…って 他に司書が勤める場所なんてないっしょ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:101:9ae9f5bf",
+      "source_hash": "9ae9f5bf",
+      "sequence": 39,
+      "source_line": 101,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "マ マジですか！？<br>ルゼンハイド大図書館って そんなアルバイト感覚で<br>働ける場所なんですか！？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:103:ea16ebc9",
+      "source_hash": "ea16ebc9",
+      "sequence": 40,
+      "source_line": 103,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "いやー ここの楽屋裏に入るには<br>ちょーっとコネが必要っすねー…ししし",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:105:4c87642",
+      "source_hash": "4c87642",
+      "sequence": 41,
+      "source_line": 105,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な…ななな！？ や やっぱり…<br>思っていた通り ソネッタさんも凄い人だったんだ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:107:facbca73",
+      "source_hash": "facbca73",
+      "sequence": 42,
+      "source_line": 107,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "は？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:109:f89da53d",
+      "source_hash": "f89da53d",
+      "sequence": 43,
+      "source_line": 109,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "音楽もプロ並みに上手い思ってましたが…<br>司書までされてるなんて…<br>インテリミュージシャンじゃないですか…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:111:ef10a2ab",
+      "source_hash": "ef10a2ab",
+      "sequence": 44,
+      "source_line": 111,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "ししし すごい？ めちゃすご？<br>ミーチのこと見直したっすか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:113:55dc2221",
+      "source_hash": "55dc2221",
+      "sequence": 45,
+      "source_line": 113,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いやー…そりゃそうですよね…<br>ミィシャさん達とつるんでる人たちは<br>基本普通じゃない人だし…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:115:b3c8ac8a",
+      "source_hash": "b3c8ac8a",
+      "sequence": 46,
+      "source_line": 115,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "いや…そこまで真に受けられると…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:117:87d6b53a",
+      "source_hash": "87d6b53a",
+      "sequence": 47,
+      "source_line": 117,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "や やっぱりあそこでは僕が一番の凡人なんだ…<br>みんなと一緒につるむ資格なんてもとからなくて",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:118:cf80637e",
+      "source_hash": "cf80637e",
+      "sequence": 48,
+      "source_line": 118,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ミィシャさんが優しいから一緒にいさせてもらえてて…<br>（ぶつぶつぶつ…）",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:120:9b88dd21",
+      "source_hash": "9b88dd21",
+      "sequence": 49,
+      "source_line": 120,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "おーい…戻ってこーい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:121:ad3122c1",
+      "source_hash": "ad3122c1",
+      "sequence": 50,
+      "source_line": 121,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "って…凄いもなにもないっすよ<br>神でもあるまいし みんなただの人",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:123:d3202ff0",
+      "source_hash": "d3202ff0",
+      "sequence": 51,
+      "source_line": 123,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "人の子程度に怖気付くのはおかしいっすよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:125:dd905405",
+      "source_hash": "dd905405",
+      "sequence": 52,
+      "source_line": 125,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "ん〜…カージ氏は純情っすね〜！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:126:2aa5c402",
+      "source_hash": "2aa5c402",
+      "sequence": 53,
+      "source_line": 126,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "悪い人とかいたら すぐ騙されちゃいそうっす",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:128:9b46b7fd",
+      "source_hash": "9b46b7fd",
+      "sequence": 54,
+      "source_line": 128,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ひ 否定できないのが悔しいです",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:130:712c18e8",
+      "source_hash": "712c18e8",
+      "sequence": 55,
+      "source_line": 130,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "んじゃ<br>そんなカージ氏には特別にタネ明かしをするとしますかね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:132:e8526044",
+      "source_hash": "e8526044",
+      "sequence": 56,
+      "source_line": 132,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "実は この図書館での仕事は とある中の人に頼まれたからお手伝いしてるって感じでしてね<br>特別入れてもらってる感じなんすよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:133:93e120ef",
+      "source_hash": "93e120ef",
+      "sequence": 57,
+      "source_line": 133,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "正式に司書として雇われようと思ったら<br>ミーチなんかじゃ斡旋の時点で落とされるっす",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:134:f7d52ffd",
+      "source_hash": "f7d52ffd",
+      "sequence": 58,
+      "source_line": 134,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "これといって アカデミーでの成績もいいわけじゃないし<br>司書に興味があるかって言われてもそうでもないし",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:136:493c0d92",
+      "source_hash": "493c0d92",
+      "sequence": 59,
+      "source_line": 136,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "その他 役にたつような仕事も<br>ロクにしたことないっすからね 支持率0％っすよ 0ぱー",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:137:16a83554",
+      "source_hash": "16a83554",
+      "sequence": 60,
+      "source_line": 137,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうだったんですか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:139:aedfcdc6",
+      "source_hash": "aedfcdc6",
+      "sequence": 61,
+      "source_line": 139,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "でも ほらぁ…ほんとのこと言っても<br>大して面白くないっしょ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:141:798e3bfe",
+      "source_hash": "798e3bfe",
+      "sequence": 62,
+      "source_line": 141,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "黙ってたら ミーチの株あがりまくりだったのに<br>もったいないことしたっす",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:143:4fb3f26c",
+      "source_hash": "4fb3f26c",
+      "sequence": 63,
+      "source_line": 143,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "人生は多少ミステリーがあったほうがワクワクするんすよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:145:4f9c4d75",
+      "source_hash": "4f9c4d75",
+      "sequence": 64,
+      "source_line": 145,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いや ソネッタさん十分謎多いですよ…<br>ラインヴァスタやフローラ様とも<br>以前から交流があるみたいですし",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:147:b83b821a",
+      "source_hash": "b83b821a",
+      "sequence": 65,
+      "source_line": 147,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "プロ顔負けで音楽もめちゃくちゃ上手いのに<br>プロ目指してないし…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:148:ef167557",
+      "source_hash": "ef167557",
+      "sequence": 66,
+      "source_line": 148,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "コネとはいえ図書館で司書のアシスタントしてるし<br>カッコ良いですし もう意味わかんないっす",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:150:c07cb8ae",
+      "source_hash": "c07cb8ae",
+      "sequence": 67,
+      "source_line": 150,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "はい〜！ 口癖真似るの禁止っすー！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:152:418bd28c",
+      "source_hash": "418bd28c",
+      "sequence": 68,
+      "source_line": 152,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "ミーチのしてることなんて全部瑣末ごと瑣末ごと！<br>気にしない気にしない！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:154:4963dd0c",
+      "source_hash": "4963dd0c",
+      "sequence": 69,
+      "source_line": 154,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な なんだかなー…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:156:c3edcbdf",
+      "source_hash": "c3edcbdf",
+      "sequence": 70,
+      "source_line": 156,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "さてと なにか探し物っすか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:157:9b867d45",
+      "source_hash": "9b867d45",
+      "sequence": 71,
+      "source_line": 157,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "図書館来てるってことは本っすよね？<br>ミーチが見つけてきやしょうか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:159:6d9292fe",
+      "source_hash": "6d9292fe",
+      "sequence": 72,
+      "source_line": 159,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ いや…その…実はなんていうか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:168:4a8ee0d4",
+      "source_hash": "4a8ee0d4",
+      "sequence": 73,
+      "source_line": 168,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "ほほおぉーう…それで<br>なんとなくモヤモヤしたから図書館に来たと",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:170:8d955b1d",
+      "source_hash": "8d955b1d",
+      "sequence": 74,
+      "source_line": 170,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうなんです…笑ってください…この具体性のなさに",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:172:c1f50eb4",
+      "source_hash": "c1f50eb4",
+      "sequence": 75,
+      "source_line": 172,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "いんやー<br>人間そんな常に明確な目的持って行動できないっすよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:174:730d183",
+      "source_hash": "730d183",
+      "sequence": 76,
+      "source_line": 174,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "ふら〜っと思うがままに行動するのも<br>ミーチ的には全然ありだとおもうっす",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:175:fd70fdcb",
+      "source_hash": "fd70fdcb",
+      "sequence": 77,
+      "source_line": 175,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "恐縮です…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:177:21d5259a",
+      "source_hash": "21d5259a",
+      "sequence": 78,
+      "source_line": 177,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "えーと その前にちょっと話を戻すんすけど… ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:179:d9ae0d32",
+      "source_hash": "d9ae0d32",
+      "sequence": 79,
+      "source_line": 179,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "『家でリーディングストーンを使って<br>古書の解読をしてた』って言いやしたけど…<br>これってどういうことっすか？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:182:2e0b6ac",
+      "source_hash": "2e0b6ac",
+      "sequence": 80,
+      "source_line": 182,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "まさか 家にあるわけじゃないっすよね？<br>ペンクラフトを纏った原本の再現版が？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:184:cfc9618",
+      "source_hash": "cfc9618",
+      "sequence": 81,
+      "source_line": 184,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え はい…ありますが なにかおかしいでしょうか…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:187:74147afe",
+      "source_hash": "74147afe",
+      "sequence": 82,
+      "source_line": 187,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:188:90833d92",
+      "source_hash": "90833d92",
+      "sequence": 83,
+      "source_line": 188,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "そのすっとぼけ具合…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:190:b76e267c",
+      "source_hash": "b76e267c",
+      "sequence": 84,
+      "source_line": 190,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "いやーオバーグの倅殿…冗談がきついっすね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:192:418f17a3",
+      "source_hash": "418f17a3",
+      "sequence": 85,
+      "source_line": 192,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？ ど どうしてですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:194:13f67b32",
+      "source_hash": "13f67b32",
+      "sequence": 86,
+      "source_line": 194,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "ペンクラフトが再現されている本が家にあるって<br>かなり凄いことなんっすよ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:195:a989de0e",
+      "source_hash": "a989de0e",
+      "sequence": 87,
+      "source_line": 195,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "非常に貴重なものですからね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:197:fbcbd6c4",
+      "source_hash": "fbcbd6c4",
+      "sequence": 88,
+      "source_line": 197,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…ええ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:199:34003325",
+      "source_hash": "34003325",
+      "sequence": 89,
+      "source_line": 199,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "いやー…さすが<br>お城に直接仕えてるような名誉ある果樹園の家柄…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:201:3989ce4f",
+      "source_hash": "3989ce4f",
+      "sequence": 90,
+      "source_line": 201,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "支給される嗜好品も<br>グレードがぐっと上がるってわけっすね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:203:e86ad556",
+      "source_hash": "e86ad556",
+      "sequence": 91,
+      "source_line": 203,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え え え！？ そ そんなすごいものなんですか？？<br>本が貴重であることは理解してましたが…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:205:54a7bc75",
+      "source_hash": "54a7bc75",
+      "sequence": 92,
+      "source_line": 205,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "原本の再現版なんて…それなりの仕事や<br>功績を残した家じゃないと 貰えないっすよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:207:694a5752",
+      "source_hash": "694a5752",
+      "sequence": 93,
+      "source_line": 207,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうか…だからわざわざ本にそう書いてあったのか…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:209:356869e",
+      "source_hash": "356869e",
+      "sequence": 94,
+      "source_line": 209,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "みんな家に本がないなら どこで練習するんですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:212:b2cfba5c",
+      "source_hash": "b2cfba5c",
+      "sequence": 95,
+      "source_line": 212,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ソネッタさんが人差し指を上にあげる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:214:21647a83",
+      "source_hash": "21647a83",
+      "sequence": 96,
+      "source_line": 214,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…ここ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:215:df16f4e7",
+      "source_hash": "df16f4e7",
+      "sequence": 97,
+      "source_line": 215,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "わ わざわざ 大図書館まで来るんですか？<br>たかがペンクラフトのために…？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:217:97dd2b59",
+      "source_hash": "97dd2b59",
+      "sequence": 98,
+      "source_line": 217,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "お おおっと シチズンオバーグ<br>特権階級のおごりが漏れ出てるぞー ヴァクト ヴァクト",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:219:46d36042",
+      "source_hash": "46d36042",
+      "sequence": 99,
+      "source_line": 219,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

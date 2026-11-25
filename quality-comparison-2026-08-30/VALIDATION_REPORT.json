@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "independent_validator": "validate_comparison.py",
+  "checks": {
+    "blind_packets": 8,
+    "judgment_packets": 8,
+    "unique_uids": 200,
+    "complete_blind_judgments": 200,
+    "representative_rows": 150,
+    "risk_rows": 50,
+    "raw_catalog_hashes_verified": 46,
+    "gemini_source_files": 93,
+    "gemini_source_rows": 6746,
+    "sampled_candidate_strings_match_current_sources": 400,
+    "preference_existing": 93,
+    "preference_gemini": 55,
+    "preference_tie": 52,
+    "all_non_tie_sign_test_p": 0.002244365752749707
+  },
+  "verdict": {
+    "better_base": "existing",
+    "confidence": "high for base-selection decision; not a substitute for full 6,746-line semantic QA",
+    "recommended_use": "Retain existing translation as base. Use Gemini as a secondary comparison source and adopt only line-level improvements confirmed against Japanese."
+  }
+}

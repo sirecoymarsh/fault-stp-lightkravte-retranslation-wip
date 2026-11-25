@@ -1,0 +1,682 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch03-05.part01",
+  "script": "ch03-05",
+  "chapter": "ch03",
+  "story_phase": "후반·위기와 결말",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch03-05:9:892fc118",
+      "source_hash": "892fc118",
+      "sequence": 0,
+      "source_line": 9,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "あの…話聞きましたか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:10:1ccf7654",
+      "source_hash": "1ccf7654",
+      "sequence": 1,
+      "source_line": 10,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:11:3404803a",
+      "source_hash": "3404803a",
+      "sequence": 2,
+      "source_line": 11,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "ああ 持ちきりだよ…ギルドはいまその話で",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:16:aa43353e",
+      "source_hash": "aa43353e",
+      "sequence": 3,
+      "source_line": 16,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "送り主…本当に誰だかわからないのですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:17:abbf49",
+      "source_hash": "abbf49",
+      "sequence": 4,
+      "source_line": 17,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "シグニチャーが残るでしょう？<br>解析すれば誰がやったかくらい…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:18:2c30e23f",
+      "source_hash": "2c30e23f",
+      "sequence": 5,
+      "source_line": 18,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "もちろん解析はされるだろうが<br>発表されるかどうかはお上次第だな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:19:17e862aa",
+      "source_hash": "17e862aa",
+      "sequence": 6,
+      "source_line": 19,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "ええ…なんですか それ<br>陰謀くさいっすね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:21:1ccf7654",
+      "source_hash": "1ccf7654",
+      "sequence": 7,
+      "source_line": 21,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:22:69241196",
+      "source_hash": "69241196",
+      "sequence": 8,
+      "source_line": 22,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "本当に誰だかわからないんですか？<br>クラウさんに直接レンズを送ってくるやつなんて<br>そういないでしょう？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:23:c26593b4",
+      "source_hash": "c26593b4",
+      "sequence": 9,
+      "source_line": 23,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "心当たりはある<br>っていうか 俺に言わせてみりゃ<br>こいつ以外考えられない",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:24:72fc5036",
+      "source_hash": "72fc5036",
+      "sequence": 10,
+      "source_line": 24,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "ま まさか…ケンドリッドさんとか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:25:ce4171f1",
+      "source_hash": "ce4171f1",
+      "sequence": 11,
+      "source_line": 25,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "は？ バカかお前…なんでケンドリッドさんが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:26:b740dfda",
+      "source_hash": "b740dfda",
+      "sequence": 12,
+      "source_line": 26,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "いえ…その…<br>あの方はヴァストアルカの硝子職人だったんですよね？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:27:47ce7775",
+      "source_hash": "47ce7775",
+      "sequence": 13,
+      "source_line": 27,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "ルゼンハイドのギルドに<br>入れなかったことを恨んでるとか…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:28:80fa5ab",
+      "source_hash": "80fa5ab",
+      "sequence": 14,
+      "source_line": 28,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "あの人の場合 退職するために越してきたんだから<br>入れなかったんじゃなくて 入らなかったんだよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:29:a9b51848",
+      "source_hash": "a9b51848",
+      "sequence": 15,
+      "source_line": 29,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "ただのリタイアだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:30:59baf12e",
+      "source_hash": "59baf12e",
+      "sequence": 16,
+      "source_line": 30,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "し しかし…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:31:ea28e88e",
+      "source_hash": "ea28e88e",
+      "sequence": 17,
+      "source_line": 31,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "お前さんさ…なにかあったらすぐにそうやって<br>外国人に目をつけるのよした方がいいぞ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:32:57850a3b",
+      "source_hash": "57850a3b",
+      "sequence": 18,
+      "source_line": 32,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "沽券にかかわる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:33:58afc378",
+      "source_hash": "58afc378",
+      "sequence": 19,
+      "source_line": 33,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "い いやだって ギルドに入ってないなら<br>尚更蚊帳の外ですよね？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:34:9ddf03a5",
+      "source_hash": "9ddf03a5",
+      "sequence": 20,
+      "source_line": 34,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "独自にレンズの研究をしていて…<br>ルゼンハイドのギルドやクラウさんに<br>喧嘩を売ってるとか？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:35:ad998dcf",
+      "source_hash": "ad998dcf",
+      "sequence": 21,
+      "source_line": 35,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "…動機ってものを考えてみろよ<br>静かに隠居生活しにきた人がなんでわざわざ<br>んな波風立てるようなことするんだよ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:36:ef0f933e",
+      "source_hash": "ef0f933e",
+      "sequence": 22,
+      "source_line": 36,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "でもだったら誰が？？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:37:1ccf7654",
+      "source_hash": "1ccf7654",
+      "sequence": 23,
+      "source_line": 37,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:38:8e2ee7e0",
+      "source_hash": "8e2ee7e0",
+      "sequence": 24,
+      "source_line": 38,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "いるだろ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:41:4f9a0ef5",
+      "source_hash": "4f9a0ef5",
+      "sequence": 25,
+      "source_line": 41,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "免許もとらずに『 <ruby=\"ヴァストアルカブルー\"><tip=\"vhastoralkat_blue\">バスブル</tip></ruby> 』を作ろうとしてる問題児が",
+      "required_tokens": [
+        "<ruby=\"ヴァストアルカブルー\">",
+        "<tip=\"vhastoralkat_blue\">",
+        "</tip>",
+        "</ruby>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:46:11fdd6f1",
+      "source_hash": "11fdd6f1",
+      "sequence": 26,
+      "source_line": 46,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "………あ…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:47:24fb19a0",
+      "source_hash": "24fb19a0",
+      "sequence": 27,
+      "source_line": 47,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "最近あのガキが作った代物が<br>バザールに出回ってるんだが…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:48:2d082aef",
+      "source_hash": "2d082aef",
+      "sequence": 28,
+      "source_line": 48,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:49:51042f0c",
+      "source_hash": "51042f0c",
+      "sequence": 29,
+      "source_line": 49,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "あれは…ちょっと異常だな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:51:3a5e118f",
+      "source_hash": "3a5e118f",
+      "sequence": 30,
+      "source_line": 51,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "そ そんなに凄いんですか？<br>あんな年齢でオヤジさんを唸らせるほど？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:52:a4e2a61d",
+      "source_hash": "a4e2a61d",
+      "sequence": 31,
+      "source_line": 52,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "いや…経験を積んだ者と比べりゃ当然荒が目立つ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:53:4bc0153c",
+      "source_hash": "4bc0153c",
+      "sequence": 32,
+      "source_line": 53,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "目的を考えずに作ってるから<br>何を作ってもとっ散らかった印象を受ける",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:54:911a8e79",
+      "source_hash": "911a8e79",
+      "sequence": 33,
+      "source_line": 54,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "少なくとも『上級』の仕事じゃない―――<br>まだ な",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:55:5342cf14",
+      "source_hash": "5342cf14",
+      "sequence": 34,
+      "source_line": 55,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "それなら何が異常なんですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:56:1ccf7654",
+      "source_hash": "1ccf7654",
+      "sequence": 35,
+      "source_line": 56,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:57:82b69981",
+      "source_hash": "82b69981",
+      "sequence": 36,
+      "source_line": 57,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "…多様性と上達のスピードだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:58:b794597c",
+      "source_hash": "b794597c",
+      "sequence": 37,
+      "source_line": 58,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "ついこの間までビー玉作ってたと思ったら<br>瞬く間にコップや食器―――<br>挙げ句の果てレンズときた",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:59:d0612871",
+      "source_hash": "d0612871",
+      "sequence": 38,
+      "source_line": 59,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "しかも ヘリコイド付きで映写される<br>イメージサークルの大きさを<br>キャンバスの大きさに合わせて調整できるらしい",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:60:631cfc4d",
+      "source_hash": "631cfc4d",
+      "sequence": 39,
+      "source_line": 60,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "解像度が甘いから使い物にこそならないが…<br>あれはリファインされたら画期的なものになるぞ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:61:2585a932",
+      "source_hash": "2585a932",
+      "sequence": 40,
+      "source_line": 61,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:62:4df36bf5",
+      "source_hash": "4df36bf5",
+      "sequence": 41,
+      "source_line": 62,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "同じ『硝子』っていう素材なんだから<br>グラスクラフターとしていろいろ試してみるのは<br>当然なんだが…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:63:7615ee92",
+      "source_hash": "7615ee92",
+      "sequence": 42,
+      "source_line": 63,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "…あそこまで幅広くモノを形にできるやつは<br>俺は見たことがない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:64:2585a932",
+      "source_hash": "2585a932",
+      "sequence": 43,
+      "source_line": 64,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:65:59facda0",
+      "source_hash": "59facda0",
+      "sequence": 44,
+      "source_line": 65,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "なにが…したいんすかね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:66:2d082aef",
+      "source_hash": "2d082aef",
+      "sequence": 45,
+      "source_line": 66,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:68:95c29941",
+      "source_hash": "95c29941",
+      "sequence": 46,
+      "source_line": 68,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "喧嘩を売りたいんだろう？ 伝統に",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:69:d7560ffb",
+      "source_hash": "d7560ffb",
+      "sequence": 47,
+      "source_line": 69,
+      "speaker_id": "ban",
+      "speaker_name": "두건 쓴 유리 장인",
+      "voice_id": "",
+      "ja": "……え？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:70:157b32dc",
+      "source_hash": "157b32dc",
+      "sequence": 48,
+      "source_line": 70,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "『私は 一人でも戦える』",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:71:aba7d8a3",
+      "source_hash": "aba7d8a3",
+      "sequence": 49,
+      "source_line": 71,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "『お前たちの軌跡なんかに頼らなくても』",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-05:72:8c7fb7e9",
+      "source_hash": "8c7fb7e9",
+      "sequence": 50,
+      "source_line": 72,
+      "speaker_id": "old",
+      "speaker_name": "연배 있는 유리 장인",
+      "voice_id": "",
+      "ja": "そう言いたいんだろ？",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

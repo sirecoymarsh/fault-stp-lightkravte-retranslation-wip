@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-10d.part01",
+  "script": "ch02-10d",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch02-10d:15:d7997acb",
+      "source_hash": "d7997acb",
+      "sequence": 0,
+      "source_line": 15,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "母さんへ<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-10d:17:7eee3d30",
+      "source_hash": "7eee3d30",
+      "sequence": 1,
+      "source_line": 17,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "見守ってくれているのかな？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-10d:18:3437a837",
+      "source_hash": "3437a837",
+      "sequence": 2,
+      "source_line": 18,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あれがヒントじゃないなんて信じられないよ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-10d:19:4a7b757b",
+      "source_hash": "4a7b757b",
+      "sequence": 3,
+      "source_line": 19,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "やっぱり、答えは母さんの中にある―――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-10d:20:9483fca",
+      "source_hash": "9483fca",
+      "sequence": 4,
+      "source_line": 20,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そう思うんだ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-10d:22:a913db35",
+      "source_hash": "a913db35",
+      "sequence": 5,
+      "source_line": 22,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "父さんは…ちゃんと母さんの持ち物を持っててくれてるらしいよ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-10d:23:1c954819",
+      "source_hash": "1c954819",
+      "sequence": 6,
+      "source_line": 23,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんか一途だよね。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-10d:24:629c70bb",
+      "source_hash": "629c70bb",
+      "sequence": 7,
+      "source_line": 24,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんかそういうのっていいよね。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-10d:25:e9c6ebe8",
+      "source_hash": "e9c6ebe8",
+      "sequence": 8,
+      "source_line": 25,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんか",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

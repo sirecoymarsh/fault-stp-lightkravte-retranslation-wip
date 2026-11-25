@@ -1,0 +1,1360 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-12.part04",
+  "script": "ch02-12",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch02-12:599:81246d1f",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "みんなね…<br>リトナみたいな人と出会って実感していくんだと思うの",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:600:50be36d5",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "実際私だって…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:601:e1463a55",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "……………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:602:9816f9ca",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "私だって そういうところあるから…<br>全然変じゃないと思うわ",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:604:266893b1",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "ふ フローラ様が…ですか！？<br>ラインヴァスタに対して！？",
+        "do_not_translate": true
+      }
+    ],
+    "after": [
+      {
+        "uid": "ch02-12:798:fd2e48e0",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "勝てるのですか？ ラインヴァスタに？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:800:4f0c756c",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "あーさっきの話？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:802:29185543",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "は はい…なんかずっと気になってしまって…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:803:95fb3d4f",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "しょ 勝敗ってどういう意味なんでしょうか…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:805:80b2a024",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "そう！",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch02-12:605:57c7f2c5",
+      "source_hash": "57c7f2c5",
+      "sequence": 300,
+      "source_line": 605,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんなの想像できないのですが！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:606:a71a0bc1",
+      "source_hash": "a71a0bc1",
+      "sequence": 301,
+      "source_line": 606,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:607:f72879cb",
+      "source_hash": "f72879cb",
+      "sequence": 302,
+      "source_line": 607,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "セレンハイドってさ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:609:b8f18426",
+      "source_hash": "b8f18426",
+      "sequence": 303,
+      "source_line": 609,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "昔からラインヴァスタと<br>競争させられていたって話は知ってる？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:611:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 304,
+      "source_line": 611,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:612:5aae14f2",
+      "source_hash": "5aae14f2",
+      "sequence": 305,
+      "source_line": 612,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……はい 存じております",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:613:8517a892",
+      "source_hash": "8517a892",
+      "sequence": 306,
+      "source_line": 613,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "『<ruby=\"かすがい\">鎹</ruby>の掟』というやつですよね？",
+      "required_tokens": [
+        "<ruby=\"かすがい\">",
+        "</ruby>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:618:22a2c5d6",
+      "source_hash": "22a2c5d6",
+      "sequence": 307,
+      "source_line": 618,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "――――鎹の掟",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:619:cbf7988b",
+      "source_hash": "cbf7988b",
+      "sequence": 308,
+      "source_line": 619,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "<br>それは有事の際には、セレンハイド家が抑止力として動くという、暗黙のルールのようなものだ。",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:620:f365191a",
+      "source_hash": "f365191a",
+      "sequence": 309,
+      "source_line": 620,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "その昔、セレンハイドこそがルゼンハイドを護る分家であり至高の名家だった。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:621:fc35b7a8",
+      "source_hash": "fc35b7a8",
+      "sequence": 310,
+      "source_line": 621,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "しかし、アライアンス協定が結ばれ、事態は一変した。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:622:b991864b",
+      "source_hash": "b991864b",
+      "sequence": 311,
+      "source_line": 622,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "隣国のヴァストアルカは兄弟国であるルゼンハイドに友情の証として、自国が誇る最高にして最強の名家をルゼンハイドに預けたのだった。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:624:14ab6937",
+      "source_hash": "14ab6937",
+      "sequence": 312,
+      "source_line": 624,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "<br>――――ラインヴァスタ家。",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:625:4cc859cb",
+      "source_hash": "4cc859cb",
+      "sequence": 313,
+      "source_line": 625,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "<br>外国人の血が王の首を護る。",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:626:200e8f6b",
+      "source_hash": "200e8f6b",
+      "sequence": 314,
+      "source_line": 626,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "これ以上の信頼の証は存在しない。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:627:79df08c9",
+      "source_hash": "79df08c9",
+      "sequence": 315,
+      "source_line": 627,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "その時交わされた友好の誓いは今でも続いており、ルゼンハイドとヴァストアルカは兄弟国として世にその名を轟かせている。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:632:e7e8de53",
+      "source_hash": "e7e8de53",
+      "sequence": 316,
+      "source_line": 632,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "セレンハイドに課せられた使命は<br>ラインヴァスタの強さを常に超えること―――",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:633:3b4ca1b1",
+      "source_hash": "3b4ca1b1",
+      "sequence": 317,
+      "source_line": 633,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "万が一仲違いが発生した場合<br>私たちはラインヴァスタを<ruby=\"たお\">斃</ruby>せるだけの力が<br>なければならない",
+      "required_tokens": [
+        "<br>",
+        "<ruby=\"たお\">",
+        "</ruby>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:635:2e9473a4",
+      "source_hash": "2e9473a4",
+      "sequence": 318,
+      "source_line": 635,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:637:d0a3de16",
+      "source_hash": "d0a3de16",
+      "sequence": 319,
+      "source_line": 637,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぼ 僕がいうのもなんですが…<br>それこそ古いしきたりなのでは？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:638:94cebac2",
+      "source_hash": "94cebac2",
+      "sequence": 320,
+      "source_line": 638,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あり得るのですか？ <br>ラインヴァスタと仲違いをするなんて…<br>もう長い長い時間が経っているじゃないですか？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:640:bef55b1",
+      "source_hash": "bef55b1",
+      "sequence": 321,
+      "source_line": 640,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ふふふ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:641:3d51852c",
+      "source_hash": "3d51852c",
+      "sequence": 322,
+      "source_line": 641,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あり得る あり得ないじゃないのよ カージ君",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:642:6cf0fad8",
+      "source_hash": "6cf0fad8",
+      "sequence": 323,
+      "source_line": 642,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "それに どれだけ時間が経っていようと―――<br>関係ないの",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:643:9ec44e31",
+      "source_hash": "9ec44e31",
+      "sequence": 324,
+      "source_line": 643,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:645:b2aa9157",
+      "source_hash": "b2aa9157",
+      "sequence": 325,
+      "source_line": 645,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "政治ってね…<br>ルゼンハイドとかヴァストアルカとかのレベルになると<br>力の保持とさらなる技術の発展が全てになるの",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:646:3e5855c0",
+      "source_hash": "3e5855c0",
+      "sequence": 326,
+      "source_line": 646,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そこには善悪も 道徳も 正義も存在しない<br>なんなら人間的な感情も存在しない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:647:28145d11",
+      "source_hash": "28145d11",
+      "sequence": 327,
+      "source_line": 647,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そんなものは 国民を納得させるためのツールでしかない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:649:5d071f11",
+      "source_hash": "5d071f11",
+      "sequence": 328,
+      "source_line": 649,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "政治は 力が全て―――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:650:b1526eb8",
+      "source_hash": "b1526eb8",
+      "sequence": 329,
+      "source_line": 650,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "まるで自然の中に織り込まれている掟のようなもので<br>ただひたすら数字が大きくなる選択をしていくだけ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:651:f81ef2eb",
+      "source_hash": "f81ef2eb",
+      "sequence": 330,
+      "source_line": 651,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ルゼンハイドがラインヴァスタ家を受け入れたのも<br>何十というシナリオの計算がされた上で出た結果であって",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:652:1423ed92",
+      "source_hash": "1423ed92",
+      "sequence": 331,
+      "source_line": 652,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "その中には私たちが<br>抑止力として働くという不測の事態も含まれている",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:654:e1107b62",
+      "source_hash": "e1107b62",
+      "sequence": 332,
+      "source_line": 654,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ただ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:655:aad27dd6",
+      "source_hash": "aad27dd6",
+      "sequence": 333,
+      "source_line": 655,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ただ…それだけのことよ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:657:a87e393e",
+      "source_hash": "a87e393e",
+      "sequence": 334,
+      "source_line": 657,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……そんな…打算まみれな……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:658:6dccddb3",
+      "source_hash": "6dccddb3",
+      "sequence": 335,
+      "source_line": 658,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…ゆ 夢も希望もないじゃないですか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:659:59897e13",
+      "source_hash": "59897e13",
+      "sequence": 336,
+      "source_line": 659,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "真の信頼関係というものは存在しないというのですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:661:55a15346",
+      "source_hash": "55a15346",
+      "sequence": 337,
+      "source_line": 661,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "『万が一のロス』が大したことない<br>個人同士の信頼関係ならありえるかもね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:663:3370eaaa",
+      "source_hash": "3370eaaa",
+      "sequence": 338,
+      "source_line": 663,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "でも 国みたいな規模での無条件の信頼なんて…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:665:871439",
+      "source_hash": "871439",
+      "sequence": 339,
+      "source_line": 665,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あるはずないじゃない そんなもの",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:667:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 340,
+      "source_line": 667,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:669:752734d6",
+      "source_hash": "752734d6",
+      "sequence": 341,
+      "source_line": 669,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "とはいったものの……<br>頭がついていかないんだ 私も",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:671:19f41176",
+      "source_hash": "19f41176",
+      "sequence": 342,
+      "source_line": 671,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:672:c6de5200",
+      "source_hash": "c6de5200",
+      "sequence": 343,
+      "source_line": 672,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "理屈はわかるけどさー………<br>納得いかないっていうの？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:673:b7fe04aa",
+      "source_hash": "b7fe04aa",
+      "sequence": 344,
+      "source_line": 673,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "疲れるわー こんな考え方……<br>いくら正しいとはいえさ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:675:4808ecae",
+      "source_hash": "4808ecae",
+      "sequence": 345,
+      "source_line": 675,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "だって…身も蓋もないんだもん",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:676:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 346,
+      "source_line": 676,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:677:82231e0f",
+      "source_hash": "82231e0f",
+      "sequence": 347,
+      "source_line": 677,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "や やっぱり国を護る貴族様達は…<br>住む世界が違うのですね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:679:ff39f384",
+      "source_hash": "ff39f384",
+      "sequence": 348,
+      "source_line": 679,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ふふふ なに それさっきから？<br>もしかして皮肉かな？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:681:fda8ed01",
+      "source_hash": "fda8ed01",
+      "sequence": 349,
+      "source_line": 681,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "と とんでもないです…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:683:cff650c8",
+      "source_hash": "cff650c8",
+      "sequence": 350,
+      "source_line": 683,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "フローラ様は政治や国の行方を考えているのに ぼ 僕は…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:684:2d52a72d",
+      "source_hash": "2d52a72d",
+      "sequence": 351,
+      "source_line": 684,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…絵が描けるだのどうのだので悩んで…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:685:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 352,
+      "source_line": 685,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:688:cf45b9ec",
+      "source_hash": "cf45b9ec",
+      "sequence": 353,
+      "source_line": 688,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "比べられるものじゃないわよ カージ君",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:689:bf07d13d",
+      "source_hash": "bf07d13d",
+      "sequence": 354,
+      "source_line": 689,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あなたは あなたの生きたいように生きるのよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:690:2e1e9c06",
+      "source_hash": "2e1e9c06",
+      "sequence": 355,
+      "source_line": 690,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ルゼンハイドはそれを可能にするために<br>戦ってきたんだから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:693:9ec44e31",
+      "source_hash": "9ec44e31",
+      "sequence": 356,
+      "source_line": 693,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:694:ee3c2fed",
+      "source_hash": "ee3c2fed",
+      "sequence": 357,
+      "source_line": 694,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕は……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:695:e391089",
+      "source_hash": "e391089",
+      "sequence": 358,
+      "source_line": 695,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:696:623cfa89",
+      "source_hash": "623cfa89",
+      "sequence": 359,
+      "source_line": 696,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕は………なんて………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:698:b578e70f",
+      "source_hash": "b578e70f",
+      "sequence": 360,
+      "source_line": 698,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんて小さいんだろう…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:718:2976c383",
+      "source_hash": "2976c383",
+      "sequence": 361,
+      "source_line": 718,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "ごめんくださ〜い",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:719:720fcce2",
+      "source_hash": "720fcce2",
+      "sequence": 362,
+      "source_line": 719,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:720:56584f19",
+      "source_hash": "56584f19",
+      "sequence": 363,
+      "source_line": 720,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "うーむ…いないみたいだな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:724:493df4da",
+      "source_hash": "493df4da",
+      "sequence": 364,
+      "source_line": 724,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "大丈夫かなカージ君…こんなにレッスンに来ないなんて…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:725:6071909f",
+      "source_hash": "6071909f",
+      "sequence": 365,
+      "source_line": 725,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "一言も連絡がなかったのか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:726:c0ea4821",
+      "source_hash": "c0ea4821",
+      "sequence": 366,
+      "source_line": 726,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "うん…通信ラインは結んでないから",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:727:d4072a5b",
+      "source_hash": "d4072a5b",
+      "sequence": 367,
+      "source_line": 727,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "大丈夫…きっと何か事情があるんだろう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:728:302c6227",
+      "source_hash": "302c6227",
+      "sequence": 368,
+      "source_line": 728,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "止り木のほうに来たら 俺からも声をかけておこう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:729:9cfea44e",
+      "source_hash": "9cfea44e",
+      "sequence": 369,
+      "source_line": 729,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "うん お願いね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:748:4f26de5d",
+      "source_hash": "4f26de5d",
+      "sequence": 370,
+      "source_line": 748,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ふぅー………やっとひと段落ってところかしらね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:749:75dd5f5c",
+      "source_hash": "75dd5f5c",
+      "sequence": 371,
+      "source_line": 749,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ま まさか…最後の…さ 最後まで…<br>だ…だれ…誰もこない……とは…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:752:85fa25d0",
+      "source_hash": "85fa25d0",
+      "sequence": 372,
+      "source_line": 752,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ぜぃぜぃ…く くそー…ぜぃ…<br>ミ ミィシャやリッグズはどこへ行ったんだ…！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:753:86f151c3",
+      "source_hash": "86f151c3",
+      "sequence": 373,
+      "source_line": 753,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "あ あ…あいつらここに…住み着いてるんじゃないのか！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:755:c7303e76",
+      "source_hash": "c7303e76",
+      "sequence": 374,
+      "source_line": 755,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "はーい 二人ともおつかれ様 冷たいジュースよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:756:9614951c",
+      "source_hash": "9614951c",
+      "sequence": 375,
+      "source_line": 756,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "それと ミィシャほどのものじゃないけど<br>軽い夕食も用意しておいたわ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:757:9d9fbf37",
+      "source_hash": "9d9fbf37",
+      "sequence": 376,
+      "source_line": 757,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "なんと私の手作りです〜！ じゃじゃああ〜ん♡",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:759:38391f2d",
+      "source_hash": "38391f2d",
+      "sequence": 377,
+      "source_line": 759,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ふ …フローラ様の…て てて 手作り料理…！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:760:b370507",
+      "source_hash": "b370507",
+      "sequence": 378,
+      "source_line": 760,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え あ……あ！！！<br>あ ありがとうござい…ます…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:762:17d7c2f7",
+      "source_hash": "17d7c2f7",
+      "sequence": 379,
+      "source_line": 762,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ほらほら あんたもちょっとは喜びなさいよ<br>もう休んでいいからさ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:764:5a86569f",
+      "source_hash": "5a86569f",
+      "sequence": 380,
+      "source_line": 764,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "い いや…まじで…ちょっと…ま待ってくれ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:765:d95c0667",
+      "source_hash": "d95c0667",
+      "sequence": 381,
+      "source_line": 765,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "い いますぐ飲み食いしたら戻しそうだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:766:c39168d",
+      "source_hash": "c39168d",
+      "sequence": 382,
+      "source_line": 766,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "……ぜぃ…ぜぃぜぃ……ぜぃ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:767:8fe6fcb5",
+      "source_hash": "8fe6fcb5",
+      "sequence": 383,
+      "source_line": 767,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ちょ ちょっと…涼んでくる……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:772:51550f27",
+      "source_hash": "51550f27",
+      "sequence": 384,
+      "source_line": 772,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あちゃー…大丈夫かな あいつ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:775:e3f60239",
+      "source_hash": "e3f60239",
+      "sequence": 385,
+      "source_line": 775,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ふうううぁぁーーーーっ<br>い 生き返りますね ジュース！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:777:625bc866",
+      "source_hash": "625bc866",
+      "sequence": 386,
+      "source_line": 777,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "アクアメロンジュースは 疲労回復にきくのよ〜！<br>私も家でよく飲んでるの…って それくらい知ってるか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:778:df188d68",
+      "source_hash": "df188d68",
+      "sequence": 387,
+      "source_line": 778,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "オバーグ果樹園のものだからね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:780:41858cf",
+      "source_hash": "41858cf",
+      "sequence": 388,
+      "source_line": 780,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ふーーっ…<br>いやーしかし こんなに疲れてる時に飲むのは最高ですね！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:781:e2bafa61",
+      "source_hash": "e2bafa61",
+      "sequence": 389,
+      "source_line": 781,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕もここまで体を動かしたのは久しぶりです",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:783:343a9513",
+      "source_hash": "343a9513",
+      "sequence": 390,
+      "source_line": 783,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ふふふ<br>明日は筋肉痛になってるかもね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:785:d8a1c3cf",
+      "source_hash": "d8a1c3cf",
+      "sequence": 391,
+      "source_line": 785,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "か 確実かも…ですね…あはは…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:787:6be5af4c",
+      "source_hash": "6be5af4c",
+      "sequence": 392,
+      "source_line": 787,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "しっかし 大丈夫かなー…リトナのやつ…<br>まさかここまで体力ないとは思わなかったわ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:789:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 393,
+      "source_line": 789,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:791:3934070e",
+      "source_hash": "3934070e",
+      "sequence": 394,
+      "source_line": 791,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ん？ どうしたのカージ君？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:792:89d0531",
+      "source_hash": "89d0531",
+      "sequence": 395,
+      "source_line": 792,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いえ…<br>やっぱりフローラ様はすごい方だなーと思いまして",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:794:9b73fa1",
+      "source_hash": "9b73fa1",
+      "sequence": 396,
+      "source_line": 794,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "え なーに いきなり？ ってか またそれ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:795:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 397,
+      "source_line": 795,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:796:18d32260",
+      "source_hash": "18d32260",
+      "sequence": 398,
+      "source_line": 796,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あの…つ つかぬことをお聞きしますが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:797:2969bad4",
+      "source_hash": "2969bad4",
+      "sequence": 399,
+      "source_line": 797,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "フローラ様は…その…",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "schema_version": 1,
+  "reviewer": "Codex internal",
+  "entries": [
+    {
+      "uid": "ch01-00:110:4f5099d6",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "둘 다 정확하나 「어떠신가요」가 공손한 장면에 조금 더 자연스럽다"
+    },
+    {
+      "uid": "ch01-00:191:35fad5c7",
+      "preferred": "A",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "pending 고유어"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "pending 고유어"
+        ]
+      },
+      "severity": "minor",
+      "reason": "A의 「어떤 일로 찾아오셨나요」가 접수 응대로 더 자연스럽고 B의 「용무」는 다소 딱딱하다"
+    },
+    {
+      "uid": "ch01-00:219:8a5af62c",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "고식이 어색함"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "pending 발음 표기"
+        ]
+      },
+      "severity": "minor",
+      "reason": "B가 古式를 자연스럽게 풀고 감탄의 생략을 살렸다. 표기는 별도 확정 필요"
+    },
+    {
+      "uid": "ch01-00:237:ce4cb594",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "코골이 강도 증설"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "ぐー는 보통 잠든 숨소리다. A의 「드르렁」은 코골이 강도를 새로 보탠다"
+    },
+    {
+      "uid": "ch01-00:238:ed9e0dfe",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch01-00:510:640ff232",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "본직 어색"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "본직 어색"
+        ]
+      },
+      "severity": "minor",
+      "reason": "둘 다 本職을 「본직」으로 옮겨 어색하지만 B의 문장 호흡이 조금 낫다"
+    },
+    {
+      "uid": "ch01-01:66:2e0a388a",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일하며 부친의 거친 진입 대사에 맞다"
+    },
+    {
+      "uid": "ch01-01:250:be544658",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "「좋아하는 건가」가 자기 질문의 한국어 호흡에 더 자연스럽다"
+    },
+    {
+      "uid": "ch01-01:281:346f7298",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "광학 미채가 번역투"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "B의 「광학 위장」과 열거 호흡이 자연스럽고 의미도 정확하다"
+    },
+    {
+      "uid": "ch01-02d:25:99fc1a6a",
+      "preferred": "B",
+      "A": {
+        "fidelity": 2,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "시간 의미 오독"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "決まった時間은 정해진 시각인데 A는 일정 시간 동안이라는 지속시간으로 바꿨다"
+    },
+    {
+      "uid": "ch01-02d:80:1a7f19af",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 3,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "B가 부친의 거친 반말과 종결을 더 잘 살렸다"
+    },
+    {
+      "uid": "ch01-02d:106:b3d6734f",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch01-02d:133:f1ce599d",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 3,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "아들에게 주의를 끄는 おい는 이 장면에서 「야」가 더 직접적이다"
+    },
+    {
+      "uid": "ch01-03:31:dccb44f9",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 2,
+        "directed_voice": 3,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "명령문 호흡 어색"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "A의 「더 안쪽이다」는 명령으로 부자연스럽다. B가 현장 지시 말투에 가깝다"
+    },
+    {
+      "uid": "ch01-03:278:493e0d69",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 비명 표기"
+    },
+    {
+      "uid": "ch01-03:348:884b8c71",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby 속성은 후검수 대상"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "수식 범위 오독",
+          "따위 뉘앙스 증설"
+        ]
+      },
+      "severity": "major",
+      "reason": "B의 「힘 따위」는 원문에서 白い布를 한정하는 ただの를 힘으로 옮겨 경멸 뉘앙스를 추가했다"
+    },
+    {
+      "uid": "ch01-03:391:78121dda",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "둘 다 비명을 재현하지만 A가 원문의 길고 끊기는 장음을 더 가깝게 보존한다"
+    },
+    {
+      "uid": "ch01-03:522:3f53fc7a",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 1,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "심한 번역투"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "A의 「주문의 교차가 극단적」은 심한 번역투다. B는 주문 시기가 겹친다는 뜻을 자연스럽게 복원했다"
+    },
+    {
+      "uid": "ch01-04:27:b1fca5f6",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch01-04:120:4778c26",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "어휘 선택 부정확",
+          "ruby 표시 부자연"
+        ]
+      },
+      "severity": "major",
+      "reason": "A가 姦しい의 실제 뜻인 시끄럽다를 자연스럽게 살렸다. B의 「요란하군」은 문맥상 덜 정확하고 ruby 표시도 부자연스럽다"
+    },
+    {
+      "uid": "ch01-04:246:a65ec2e",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "결합 표현 어색"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "통신 라인이 연결되어 있다는 B가 문맥에 자연스럽고 A의 「맺으셨죠」는 어색하다"
+    },
+    {
+      "uid": "ch01-04:386:b4e5bbed",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "관용구 직역"
+        ]
+      },
+      "severity": "minor",
+      "reason": "目を奪われる는 한국어로 시선을 빼앗기다가 자연스럽다. B는 일본어 관용구를 직역했다"
+    },
+    {
+      "uid": "ch01-04:519:54b90261",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "표현 어색"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "고정관념으로 의미 구체화"
+        ]
+      },
+      "severity": "minor",
+      "reason": "문맥은 카지의 과도한 귀족 의식이므로 B의 고정관념이 자연스럽다. 다만 원문보다 해석이 조금 구체적이다"
+    },
+    {
+      "uid": "ch01-05d:39:35e114e2",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 1,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "독백 존대 오류"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "독백인데 A가 「걸까요/없겠지만요」 존댓말로 바뀌었다. B가 카지 내면의 해라체를 유지한다"
+    },
+    {
+      "uid": "ch01-05d:50:df5cbc58",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 1,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "독백 존대 오류"
+        ]
+      },
+      "severity": "major",
+      "reason": "독백 종결은 반말이어야 한다. B의 「싶어요」는 화자 보이스가 깨진다"
+    }
+  ],
+  "review_status": "complete_blind",
+  "entries_reviewed": 25
+}

@@ -1,0 +1,536 @@
+{
+  "schema_version": 1,
+  "reviewer": "Codex internal",
+  "entries": [
+    {
+      "uid": "ch02-01:279:a4c12419",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 3,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "말투 혼합이 다소 어색"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "소네타의 장난스러운 사투리형 말투와 脱線의 관용 표현을 B가 더 자연스럽게 살렸다"
+    },
+    {
+      "uid": "ch02-01:337:b3d6734f",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch02-01:421:90434ee8",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "불필요한 영문 병기"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "시제 경미한 변화"
+        ]
+      },
+      "severity": "minor",
+      "reason": "B가 잠긴 표기 「클록스」를 지킨다. 「아니었나요」의 과거형은 경미한 어긋남이다"
+    },
+    {
+      "uid": "ch02-02:51:b3d6734f",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch02-02:88:14e0912f",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby 후검수"
+        ]
+      },
+      "severity": "minor",
+      "reason": "貶しに来た는 「헐뜯으러 왔나」가 간결하고 정확하다. B도 의미는 맞지만 ruby가 문장 흐름을 방해한다"
+    },
+    {
+      "uid": "ch02-02:112:67c5900d",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "불필요한 영문 병기"
+        ]
+      },
+      "severity": "major",
+      "reason": "A가 잠긴 표기 「클록스」를 지킨다. B의 영문 병기는 원문 표시와 계약에 없는 증설이다"
+    },
+    {
+      "uid": "ch02-02:144:f87e7b34",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "감정 강도 상승"
+        ]
+      },
+      "severity": "minor",
+      "reason": "恨まれる의 직접 의미는 「원망받는다」다. B의 「원한을 산다」는 감정 강도가 더 세다"
+    },
+    {
+      "uid": "ch02-02:171:e1402a65",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 3,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "욕설 강도 증설"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "ったく는 「나 참」에 가깝다. A의 「젠장」은 욕설 강도를 올렸고 B가 켄드리드의 거친 말투도 더 잘 살렸다"
+    },
+    {
+      "uid": "ch02-03:25:8bbbc141",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 2,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "호칭 누락"
+        ]
+      },
+      "severity": "major",
+      "reason": "아디아가 カージくん이라고 부른다. A는 「카지 군」을 보존하고 B는 호칭을 삭제했다"
+    },
+    {
+      "uid": "ch02-03:26:cd47e194",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch02-03:28:a142c98b",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "문장부호 외에는 동일하고 의미 차이는 없다"
+    },
+    {
+      "uid": "ch02-04:53:7566878",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 3,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "내면 종결 딱딱함"
+        ]
+      },
+      "severity": "minor",
+      "reason": "카지의 내적 정리이므로 A의 편한 종결이 맞다. B의 「아니다」는 지나치게 서술적이다"
+    },
+    {
+      "uid": "ch02-04:104:89030003",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "B가 같은 의미를 더 간결하고 자연스럽게 옮겼다"
+    },
+    {
+      "uid": "ch02-04:182:1e665e69",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch02-05d:15:fdac89c6",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 어머니께 쓰는 존댓말 기록"
+    },
+    {
+      "uid": "ch02-05d:18:a8429800",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "용어 띄어쓰기 불일치"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "잠긴 용어는 「마나크래프트」다. B가 표기와 편지 말투를 모두 자연스럽게 유지한다"
+    },
+    {
+      "uid": "ch02-05d:33:3f4e3479",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "短め는 글을 짧게 썼다는 뜻이다. A가 행위를 자연스럽게 보충했다"
+    },
+    {
+      "uid": "ch02-06:138:1e665e69",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch02-06:143:7a4ab4c7",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 2,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "부정적 뉘앙스 증설"
+        ]
+      },
+      "severity": "major",
+      "reason": "目を向ける는 관심을 보이거나 눈여겨본다는 뜻이다. B의 「거들떠보다」는 무시 전제의 뉘앙스를 추가한다"
+    },
+    {
+      "uid": "ch02-06:168:59018a47",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "둘 다 맞지만 장인의 대화에는 A의 「그림에 쓸 렌즈」가 조금 더 자연스럽다"
+    },
+    {
+      "uid": "ch02-07:37:16ff3daf",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 2,
+        "naturalness": 4,
+        "directed_voice": 3,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "의도적 발화 붕괴 누락"
+        ]
+      },
+      "severity": "major",
+      "reason": "원문은 심하게 더듬어 일그러진 자기소개다. A가 그 발화를 보존하고 B는 정상 문장으로 평탄화했다"
+    },
+    {
+      "uid": "ch02-07:150:75a50dd8",
+      "preferred": "B",
+      "A": {
+        "fidelity": 2,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "화행 강도 증설"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "――絵っすよね？는 단순 확인이다. B가 정확하고 A는 「거잖슴까」로 단정·압박을 추가한다"
+    },
+    {
+      "uid": "ch02-07:217:28ad50b",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "의미 차이는 거의 없고 B의 「그건」이 담화상 조금 더 자연스럽다"
+    },
+    {
+      "uid": "ch02-08:38:ffa53dd1",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "기술 과제 문맥에서 形にできる를 「구현할 수 있다」로 옮긴 A가 자연스럽다"
+    },
+    {
+      "uid": "ch02-08:71:7be2110a",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "중복 표현"
+        ]
+      },
+      "severity": "minor",
+      "reason": "A가 중복 없이 간결하다. B의 「뜻인 모양이다」는 한국어에서 군더더기다"
+    }
+  ],
+  "review_status": "complete_blind",
+  "entries_reviewed": 25
+}

@@ -1,0 +1,395 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-08.part01",
+  "script": "ch02-08",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch02-08:13:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 0,
+      "source_line": 13,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:14:1b39ef37",
+      "source_hash": "1b39ef37",
+      "sequence": 1,
+      "source_line": 14,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ちょっと また頭がパンクしそうなので 整理をしてみよう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:33:af5ba64a",
+      "source_hash": "af5ba64a",
+      "sequence": 2,
+      "source_line": 33,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "まず 研究を始めた時は<br>はっきりさせないといけないことが２つあった",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:38:ffa53dd1",
+      "source_hash": "ffa53dd1",
+      "sequence": 3,
+      "source_line": 38,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "１）ペンクラフトで形にできるものは 文字だけなのか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:48:774c508a",
+      "source_hash": "774c508a",
+      "sequence": 4,
+      "source_line": 48,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "２）形にした『絵』をなんらかの媒体で<br>保存する方法はないか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:53:9143f21c",
+      "source_hash": "9143f21c",
+      "sequence": 5,
+      "source_line": 53,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "２を確かめるために 僕は国外れに位置する<br>ヴァヴァーズバーさんのバーに足を運んで<br>本人に会ってきた",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:54:1b8e56c6",
+      "source_hash": "1b8e56c6",
+      "sequence": 6,
+      "source_line": 54,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "彼は２の課題の解決方法である<br>『リードクラフトで浮上した光の文字を印刷する方法』を知っていたから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:56:710ac96f",
+      "source_hash": "710ac96f",
+      "sequence": 7,
+      "source_line": 56,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "その技術は『意訳印刷』と呼ばれているらしく<br>原作を意図的に拡大解釈した本…みたいなものを<br>作る人がいるということで 個人でもできることがわかった",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:61:ea920591",
+      "source_hash": "ea920591",
+      "sequence": 8,
+      "source_line": 61,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そこで１の『絵』を形にしたいと言ったら…<br>情報量の話が出てきて 彼は『レンズ』を調べろと言った",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:63:d7c25d7b",
+      "source_hash": "d7c25d7b",
+      "sequence": 9,
+      "source_line": 63,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "この助言の意味は 正直まだはっきりとわからない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:66:5f6b8a07",
+      "source_hash": "5f6b8a07",
+      "sequence": 10,
+      "source_line": 66,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "でも 情報量の話をソネッタさんにしたら<br>『絵を形にしようとすると ライトクラフトの範疇じゃ<br>収まらないくらい情報量が多い』と言っていた",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:71:7be2110a",
+      "source_hash": "7be2110a",
+      "sequence": 11,
+      "source_line": 71,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "だから 『ライトクラフトだけで絵を描くことは<br>今の技術じゃ難しい』ってことらしい…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:72:52a14832",
+      "source_hash": "52a14832",
+      "sequence": 12,
+      "source_line": 72,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それと同時に<br>レンズの設計図も図書館からいろいろと借りてきた",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:96:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 13,
+      "source_line": 96,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:98:db8e0084",
+      "source_hash": "db8e0084",
+      "sequence": 14,
+      "source_line": 98,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ん…？ ちょ ちょっと待てよ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:100:dc74d3a8",
+      "source_hash": "dc74d3a8",
+      "sequence": 15,
+      "source_line": 100,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "うちにはヴァヴァーズバーさんが言っていたような<br>レンズはない…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:102:fbacded8",
+      "source_hash": "fbacded8",
+      "sequence": 16,
+      "source_line": 102,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "レンズはないけど 似たようなもの――<br>リーディングストーンならある",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:103:837a40b2",
+      "source_hash": "837a40b2",
+      "sequence": 17,
+      "source_line": 103,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "いままでずっと日記を書いてきた<br>ライトクラフト用のペンだってある",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:105:6d3512dc",
+      "source_hash": "6d3512dc",
+      "sequence": 18,
+      "source_line": 105,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………あ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:107:e1829373",
+      "source_hash": "e1829373",
+      "sequence": 19,
+      "source_line": 107,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "バカか！？ 僕は！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:108:87694925",
+      "source_hash": "87694925",
+      "sequence": 20,
+      "source_line": 108,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "た 試してみればいいんだ…簡単な形でもいいから！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:109:49cc9457",
+      "source_hash": "49cc9457",
+      "sequence": 21,
+      "source_line": 109,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そしたら 情報量の限界っていうものが<br>どういうものだかわかるはず…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:112:de6e957",
+      "source_hash": "de6e957",
+      "sequence": 22,
+      "source_line": 112,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "くそ…どうして僕っていつもこう…<br>肝心なところで抜けてるんだろう…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:113:8b473de5",
+      "source_hash": "8b473de5",
+      "sequence": 23,
+      "source_line": 113,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "こんなだから 舐められるんだろうな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:115:b944f3a3",
+      "source_hash": "b944f3a3",
+      "sequence": 24,
+      "source_line": 115,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "はぁ…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:116:c6f79005",
+      "source_hash": "c6f79005",
+      "sequence": 25,
+      "source_line": 116,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ことごとく自分が嫌になる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:118:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 26,
+      "source_line": 118,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:120:8fe98a6d",
+      "source_hash": "8fe98a6d",
+      "sequence": 27,
+      "source_line": 120,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "お 落ち込んでても仕方ない…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-08:121:eb1bd670",
+      "source_hash": "eb1bd670",
+      "sequence": 28,
+      "source_line": 121,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "とりあえず…まずは 簡単な形からだ…！",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

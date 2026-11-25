@@ -1,0 +1,522 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-12d.part01",
+  "script": "ch01-12d",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch01-12d:13:e1719d8e",
+      "source_hash": "e1719d8e",
+      "sequence": 0,
+      "source_line": 13,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "母さん<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:15:2dc61fc7",
+      "source_hash": "2dc61fc7",
+      "sequence": 1,
+      "source_line": 15,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "絵は…諦めないといけないかもしれない。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:16:11eadac7",
+      "source_hash": "11eadac7",
+      "sequence": 2,
+      "source_line": 16,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんか、障害があるのかもしれないって、偉い人が教えてくれたんだ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:17:fbf8f728",
+      "source_hash": "fbf8f728",
+      "sequence": 3,
+      "source_line": 17,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "正直ピンとこないんだけど思い当たる節がないと言ったら嘘になる。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:18:31ee5d7f",
+      "source_hash": "31ee5d7f",
+      "sequence": 4,
+      "source_line": 18,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "字汚いらしいからね…僕の。自分じゃあんまりわからないんだけど。<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:20:ebf0f8fe",
+      "source_hash": "ebf0f8fe",
+      "sequence": 5,
+      "source_line": 20,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "よく考えたら…クラウさんって、僕の目標だった人なんだよね。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:21:f16b79fd",
+      "source_hash": "f16b79fd",
+      "sequence": 6,
+      "source_line": 21,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "セラ様のあの絵を描いたのも、クラウさんなんだから…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:22:5d239169",
+      "source_hash": "5d239169",
+      "sequence": 7,
+      "source_line": 22,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんか笑えちゃうよね。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:23:e0cd3bac",
+      "source_hash": "e0cd3bac",
+      "sequence": 8,
+      "source_line": 23,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "がむしゃらに彼の影を追ったら、目標の人に引導を渡されてしまったよ。<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:26:e617967",
+      "source_hash": "e617967",
+      "sequence": 9,
+      "source_line": 26,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ここ数日、絵の練習はしていない。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:27:bffd46e1",
+      "source_hash": "bffd46e1",
+      "sequence": 10,
+      "source_line": 27,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "やる気がまったく出ないんだ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:28:41c4660e",
+      "source_hash": "41c4660e",
+      "sequence": 11,
+      "source_line": 28,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ずっと頭の中がぐちゃぐちゃでさ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:29:b085a2e1",
+      "source_hash": "b085a2e1",
+      "sequence": 12,
+      "source_line": 29,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "切り替えが早いのが特技なのに、今回のはちょっと長引きそうかもしれない。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:31:93bb8e77",
+      "source_hash": "93bb8e77",
+      "sequence": 13,
+      "source_line": 31,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ルゼンハイドのダイニングホールに入った時に思ったことがあるんだ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:32:9db86d90",
+      "source_hash": "9db86d90",
+      "sequence": 14,
+      "source_line": 32,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕はとてつもなく、ものすごく小さいんだって。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:33:ad18a918",
+      "source_hash": "ad18a918",
+      "sequence": 15,
+      "source_line": 33,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ホールにはすごい人たちが集まってたんだ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:34:75c34dae",
+      "source_hash": "75c34dae",
+      "sequence": 16,
+      "source_line": 34,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "騎士団をはじめ、お医者さんや画家や、国のエリート中のエリートと呼ばれる人達だった。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:35:1356af7b",
+      "source_hash": "1356af7b",
+      "sequence": 17,
+      "source_line": 35,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "みんなキラキラ光っていて、威厳と貫禄があって…住む世界が違う人達なんだな、って改めて思った。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:36:4c6c9fad",
+      "source_hash": "4c6c9fad",
+      "sequence": 18,
+      "source_line": 36,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "大人だからじゃない。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:37:b170de88",
+      "source_hash": "b170de88",
+      "sequence": 19,
+      "source_line": 37,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ワイトン君を見ても思ったんだ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:38:b3562e0e",
+      "source_hash": "b3562e0e",
+      "sequence": 20,
+      "source_line": 38,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "彼もきっと、近い将来向こうの世界の人になる――いや…ひょっとしたらもうなっているのかもしれない。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:40:7303e84e",
+      "source_hash": "7303e84e",
+      "sequence": 21,
+      "source_line": 40,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "彼からも、そういうオーラを感じるんだ。<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:42:54fa5cc4",
+      "source_hash": "54fa5cc4",
+      "sequence": 22,
+      "source_line": 42,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "世俗化が進んで、王族や貴族と一般市民の距離が縮まったとはいうけど",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:43:6a6b0a66",
+      "source_hash": "6a6b0a66",
+      "sequence": 23,
+      "source_line": 43,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "現実には越えられない壁がある。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:44:71839450",
+      "source_hash": "71839450",
+      "sequence": 24,
+      "source_line": 44,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "潜在意識の奥で、気づいてはいたんだ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:45:9c258fb0",
+      "source_hash": "9c258fb0",
+      "sequence": 25,
+      "source_line": 45,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕はどうあがいても向こうの世界へはいけないんだって。<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:47:f3ea702a",
+      "source_hash": "f3ea702a",
+      "sequence": 26,
+      "source_line": 47,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "でもね。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:48:ab9c085a",
+      "source_hash": "ab9c085a",
+      "sequence": 27,
+      "source_line": 48,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "どういう結果になろうと、友達が自分を許せと言ってくれたんだ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:49:739bd31f",
+      "source_hash": "739bd31f",
+      "sequence": 28,
+      "source_line": 49,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "自分を許すっていうのは、具体的にどういうことなんだろう。<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:51:1f9e1ec5",
+      "source_hash": "1f9e1ec5",
+      "sequence": 29,
+      "source_line": 51,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "諦めても落ち込むなってことなんだろうけど、やっぱりそう簡単にはいかないかな。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:52:8c1a2b0d",
+      "source_hash": "8c1a2b0d",
+      "sequence": 30,
+      "source_line": 52,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ただ、そんなふうに言ってくれる人がいること自体、すごく幸せなんじゃないかな。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:53:ba772181",
+      "source_hash": "ba772181",
+      "sequence": 31,
+      "source_line": 53,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "悪いことばかりじゃないよね。<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:55:2540ca6d",
+      "source_hash": "2540ca6d",
+      "sequence": 32,
+      "source_line": 55,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "正直、絵もそろそろ限界なんじゃないかなと思ってたんだ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:56:127c565d",
+      "source_hash": "127c565d",
+      "sequence": 33,
+      "source_line": 56,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "人並みに練習をしたら、人並みくらいに上達できるはずなのに全然うまくいかないから…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:57:c5110c26",
+      "source_hash": "c5110c26",
+      "sequence": 34,
+      "source_line": 57,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "聞くところによると、毎日きっかりちゃんと練習してる人のほうが少ないみたいだから、やっぱり何かがおかしいのかな。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:59:690df053",
+      "source_hash": "690df053",
+      "sequence": 35,
+      "source_line": 59,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "諦める。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:60:85fa57a6",
+      "source_hash": "85fa57a6",
+      "sequence": 36,
+      "source_line": 60,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "んんんんんんんんんん。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:61:9ef5e724",
+      "source_hash": "9ef5e724",
+      "sequence": 37,
+      "source_line": 61,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "諦めてどうしようううううううう。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:62:666d396a",
+      "source_hash": "666d396a",
+      "sequence": 38,
+      "source_line": 62,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "やりたいことはあるんだよ、はっきりしてる。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:63:f1266022",
+      "source_hash": "f1266022",
+      "sequence": 39,
+      "source_line": 63,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "フローラ様を見かけた時の気持ちを形にしたいんだ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-12d:64:4e555147",
+      "source_hash": "4e555147",
+      "sequence": 40,
+      "source_line": 64,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "でも具体的にどうしたらいいんんんののののかななななななななななななななな",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

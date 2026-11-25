@@ -1,0 +1,281 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-07.part02",
+  "script": "ch02-07",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch02-07:213:b3d6734f",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "…………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-07:215:a53ee4e0",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "と…ということは…技術そのものが存在していない と…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-07:217:28ad50b",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "それって…絶望的なのでは？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-07:219:292bcb89",
+        "speaker_id": "son",
+        "speaker_name": "소네타",
+        "ja": "んー…これはミーチの考えなんすけど<br>不可能じゃない気もするんすよね",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-07:221:a395ff80",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "え え………！？",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch02-07:223:4a1abad4",
+      "source_hash": "4a1abad4",
+      "sequence": 100,
+      "source_line": 223,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "だって そうっしょ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:224:5c4209a0",
+      "source_hash": "5c4209a0",
+      "sequence": 101,
+      "source_line": 224,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "一度に伝達する情報が多すぎるなら<br>どこかに一旦保管して 少しづつ移動するとか<br>方法はあるはずだと思うんすけどね",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:226:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 102,
+      "source_line": 226,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:228:3f562c37",
+      "source_hash": "3f562c37",
+      "sequence": 103,
+      "source_line": 228,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "リーディングストーンだって<br>ある意味同じようなことしてるじゃないっすか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:229:bf60f843",
+      "source_hash": "bf60f843",
+      "sequence": 104,
+      "source_line": 229,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "読み手の語彙と共鳴するまで時間がかかるわけっすから",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:230:9a17e0c6",
+      "source_hash": "9a17e0c6",
+      "sequence": 105,
+      "source_line": 230,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "文字程度だとあの小さなストーンの中にも<br>保管できるってことっすよね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:232:6b205172",
+      "source_hash": "6b205172",
+      "sequence": 106,
+      "source_line": 232,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:234:e774b732",
+      "source_hash": "e774b732",
+      "sequence": 107,
+      "source_line": 234,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ………あたまが…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:236:3a25d186",
+      "source_hash": "3a25d186",
+      "sequence": 108,
+      "source_line": 236,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "…だ 大丈夫っすか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:238:d36a99d5",
+      "source_hash": "d36a99d5",
+      "sequence": 109,
+      "source_line": 238,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "一度に色々考えすぎて…あたまがパンク…しそうです……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:240:70e240cd",
+      "source_hash": "70e240cd",
+      "sequence": 110,
+      "source_line": 240,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "そ そうっすか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:242:df6eb9fa",
+      "source_hash": "df6eb9fa",
+      "sequence": 111,
+      "source_line": 242,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "とりあえず 今日のところは設計図を持って<br>一旦おうちに戻るといいかも？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:244:bec2ebb7",
+      "source_hash": "bec2ebb7",
+      "sequence": 112,
+      "source_line": 244,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "時間を置いて考えるのも大事っすよ<br>急がば回れってね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:246:2fa6b93",
+      "source_hash": "2fa6b93",
+      "sequence": 113,
+      "source_line": 246,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ…そう…ですね…ちょっと そうしてみます…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:254:63bf8df5",
+      "source_hash": "63bf8df5",
+      "sequence": 114,
+      "source_line": 254,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "今日はありがとうございました",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:255:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 115,
+      "source_line": 255,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:256:6aab5cdb",
+      "source_hash": "6aab5cdb",
+      "sequence": 116,
+      "source_line": 256,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そして………取り乱して申し訳ありません…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-07:257:70f74efe",
+      "source_hash": "70f74efe",
+      "sequence": 117,
+      "source_line": 257,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "ほほーい きにするなっす！<br>でも 今度来る時はお静かにお願いしやすね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+{
+  "ch01-00:110:4f5099d6": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-00:191:35fad5c7": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-00:219:8a5af62c": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-00:237:ce4cb594": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-00:238:ed9e0dfe": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-00:510:640ff232": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-01:66:2e0a388a": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-01:250:be544658": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-01:281:346f7298": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-02d:25:99fc1a6a": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-02d:80:1a7f19af": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-02d:106:b3d6734f": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-02d:133:f1ce599d": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-03:31:dccb44f9": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-03:278:493e0d69": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-03:348:884b8c71": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-03:391:78121dda": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-03:522:3f53fc7a": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-04:27:b1fca5f6": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-04:120:4778c26": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-04:246:a65ec2e": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-04:386:b4e5bbed": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-04:519:54b90261": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-05d:39:35e114e2": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-05d:50:df5cbc58": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-05d:71:6091fb77": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-06:70:d1ce0617": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-06:189:4af1758a": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-06:239:82f6790d": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-06:246:e0cc7c0f": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-06:318:16927": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-06:469:f39d31d9": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-06:476:b3d6734f": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-07:37:a6c1c448": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-07:113:e97d459a": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-07:162:ed7aa334": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-07:257:9cac4288": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-07:560:e41944a6": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-07:582:f830673d": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-07:689:6682e80": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-07:841:31f405b0": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-07:918:8a94b077": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-07:1115:f6dc8e9d": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-07:1155:b92a358a": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-07:1307:4ee1154a": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-08d:20:f7ae9609": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-08d:22:f54d8c4c": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-08d:29:d6b09d94": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-09:86:a0a1b464": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-09:143:fe27e6f7": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-09:258:7fc181a3": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-09:284:e41e3e72": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-10:21:b2b4c631": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-10:129:851c03ed": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-10:146:b47a23ce": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-10:261:b3d6734f": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-11:206:c344ed6f": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-11:211:7ec67f18": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-11:263:46454f0a": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-11:463:7b517df9": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-11:575:9b4ab831": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-11:694:4d8304cc": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-11:729:3f2ec503": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-12d:17:fbf8f728": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-12d:36:4c6c9fad": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-12d:57:c5110c26": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-13:39:cfd7202a": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch01-13:55:fc2e2414": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch01-13:90:f8bf2d92": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-00d:19:d04bc1aa": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-00d:38:53b518b1": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-00d:52:ee0a583e": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-01:55:41cf4529": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-01:77:3eff9842": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-01:175:fd70fdcb": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-01:279:a4c12419": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-01:337:b3d6734f": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-01:421:90434ee8": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-02:51:b3d6734f": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-02:88:14e0912f": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-02:112:67c5900d": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-02:144:f87e7b34": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-02:171:e1402a65": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-03:25:8bbbc141": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-03:26:cd47e194": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-03:28:a142c98b": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-04:53:7566878": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-04:104:89030003": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-04:182:1e665e69": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-05d:15:fdac89c6": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-05d:18:a8429800": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-05d:33:3f4e3479": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-06:138:1e665e69": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-06:143:7a4ab4c7": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-06:168:59018a47": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-07:37:16ff3daf": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-07:150:75a50dd8": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-07:217:28ad50b": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-08:38:ffa53dd1": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-08:71:7be2110a": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-08:115:b944f3a3": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-09:12:3cd62254": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-09:78:b468d479": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-09:261:cb934251": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-10d:19:4a7b757b": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-10d:20:9483fca": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-10d:25:e9c6ebe8": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-11:16:afe6c61e": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-11:104:dcad7278": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-11:183:691c5706": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-12:320:7443d2f": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-12:613:8517a892": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-12:727:d4072a5b": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-12:880:d66c0fd9": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-12:886:b12dd90e": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-12:962:4487eef": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-12:969:261b2f36": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-12:1214:dde2808f": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-12:1228:87a9980d": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-12:1408:c72c78f8": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-13:36:ab25da17": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-13:65:119a3566": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-13:76:1e665e69": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-13:95:a27ca19a": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-14:32:b3d6734f": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-14:192:52342f8c": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-14:327:5b12bf73": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-14:366:8e1e4c74": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-15:14:b7ed1f63": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-15:35:9b0c62a3": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-15:57:c5713754": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-16:20:5264c336": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-16:26:8c348a97": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-16:60:93555c64": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-17:143:5acb58ed": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-17:217:57eb2e9c": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-17:271:55404aa7": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-18:38:fe4ac43a": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-18:145:8898c70c": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-18:167:1d3ca31": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-18:190:85a9e511": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-18:246:9b1d39ab": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-19:43:8d9a7f48": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-19:56:bbb94fb2": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-19:173:eea41296": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-20:79:a948d9c8": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-20:134:8d48292c": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-20:170:d55e5b5f": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-20:213:35020f6": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch02-20:246:742f7a4b": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch02-20:275:ecb251c7": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-00:28:2e08430f": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-00:47:33eab712": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-00:70:8ce2f514": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-00:144:847220aa": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-01:131:30fe1fcf": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-01:203:32c931": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-01:469:3cad1eda": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-02:197:96a828e": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-02:288:9de25c55": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-02:362:2b1b9f9": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-02:399:49c4aac9": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-02:522:7c6eed4a": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-02:546:da202a8e": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-03:84:1e665e69": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-03:127:e3b16366": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-03:173:9a5a6d0d": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-03:239:206b8591": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-03:275:82f54c5e": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-03:335:e042d3e1": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-03:341:b2dc25fb": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-03:367:e042d3e1": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-04:52:121c9248": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-04:124:6a9a9937": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-04:277:2c5d6537": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-04:436:c2f48853": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-04:517:d0639ee2": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-04:678:3cfda15": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-04:1152:1e665e69": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-04:1201:ff0684bb": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-05:16:aa43353e": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-05:32:57850a3b": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-05:51:3a5e118f": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-06:25:4f311fba": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-06:34:f2dc3fb9": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-06:64:23317b7b": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-07:35:eaad672a": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-07:104:ba3b6f87": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-07:126:57ab1628": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-08:72:cb5cca18": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-08:528:6063ab17": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-08:596:92d6d28a": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-08:801:89719543": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-08:929:fe4b08ee": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-09:76:7a2c0bd2": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-09:93:eada2b2e": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-09:108:6da14c11": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-10:21:2b68094f": {
+    "A": "gemini",
+    "B": "existing"
+  },
+  "ch03-10:35:9b21141d": {
+    "A": "existing",
+    "B": "gemini"
+  },
+  "ch03-10:49:1fff2ab3": {
+    "A": "existing",
+    "B": "gemini"
+  }
+}

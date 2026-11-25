@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-04.part03",
+  "script": "ch01-04",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch01-04:557:a71a0bc1",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "…………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:559:46589d60",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "本当は止り木になんて 来てちゃだめなんだろうけど…<br>今日はちょっとね…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:560:554c3c53",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "そうだ…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:562:a5589d20",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "来た時のフローラ様のあの表情は…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:564:56365e53",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "やっぱりなにか 気にかかることでも…？",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch01-04:566:1a537fe6",
+      "source_hash": "1a537fe6",
+      "sequence": 200,
+      "source_line": 566,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "んー？<br>セレンハイドでいることかな？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:568:ab89f7b7",
+      "source_hash": "ab89f7b7",
+      "sequence": 201,
+      "source_line": 568,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:570:5f481bff",
+      "source_hash": "5f481bff",
+      "sequence": 202,
+      "source_line": 570,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "はっははー ウソよ ウソ<br>半分冗談だから気にないで",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:571:599685e0",
+      "source_hash": "599685e0",
+      "sequence": 203,
+      "source_line": 571,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "誰だってあるでしょー<br>自分の状況がイヤになる日くらい…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:573:a4d62e4c",
+      "source_hash": "a4d62e4c",
+      "sequence": 204,
+      "source_line": 573,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうですか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:575:9298fa69",
+      "source_hash": "9298fa69",
+      "sequence": 205,
+      "source_line": 575,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "さてと さっさと食べにいきましょうか！<br>きっとお腹減ってるんだわ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:577:da81d61e",
+      "source_hash": "da81d61e",
+      "sequence": 206,
+      "source_line": 577,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "食欲なくても 食べたら元気でるパターンってやつ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:579:e3385f96",
+      "source_hash": "e3385f96",
+      "sequence": 207,
+      "source_line": 579,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ それもそうですね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:591:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 208,
+      "source_line": 591,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\resources.assets",
+    "path_id": 315,
+    "name": "Time_Lapse_3_Days",
+    "m_OriginalPath": "Assets/TEMP_NANINOVEL/Resources/Naninovel/Backgrounds/Time_Lapse_3_Days.m4v",
+    "m_FrameCount": "309",
+    "m_FrameRate": "24.0",
+    "m_ExternalResources": "StreamedResource(m_Offset=135744, m_Size=13530633, m_Source='resources.resource')"
+  },
+  {
+    "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\resources.assets",
+    "path_id": 316,
+    "name": "Timelapse_3Days",
+    "m_OriginalPath": "Assets/TEMP_NANINOVEL/Resources/Naninovel/Backgrounds/Timelapse_3Days/Timelapse_3Days.m4v",
+    "m_FrameCount": "309",
+    "m_FrameRate": "24.0",
+    "m_ExternalResources": "StreamedResource(m_Offset=13666377, m_Size=13530633, m_Source='resources.resource')"
+  },
+  {
+    "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\sharedassets0.assets",
+    "path_id": 45,
+    "name": "splash_aid_finalcut",
+    "m_OriginalPath": "Assets/00Assets/video/splash_aid_finalcut.m4v",
+    "m_FrameCount": "311",
+    "m_FrameRate": "23.976043701171875",
+    "m_ExternalResources": "StreamedResource(m_Offset=0, m_Size=12276280, m_Source='sharedassets0.resource')"
+  },
+  {
+    "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\sharedassets0.assets",
+    "path_id": 46,
+    "name": "splash_phoenixx_aid_mix",
+    "m_OriginalPath": "Assets/00Assets/video/splash_phoenixx_aid_mix.m4v",
+    "m_FrameCount": "82",
+    "m_FrameRate": "24.0",
+    "m_ExternalResources": "StreamedResource(m_Offset=12276280, m_Size=3696533, m_Source='sharedassets0.resource')"
+  },
+  {
+    "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+    "path_id": 1131879230445577983,
+    "name": "Kaji_Lightkravte_Scene_2",
+    "m_OriginalPath": "Assets/00Assets/video/Kaji_Lightkravte_Scene_2.m4v",
+    "m_FrameCount": "345",
+    "m_FrameRate": "60.0",
+    "m_ExternalResources": "StreamedResource(m_Offset=0, m_Size=5789727, m_Source='archive:/CAB-baad6f04f7d5f39fae7b6514e88829a2/CAB-baad6f04f7d5f39fae7b6514e88829a2.resource')"
+  },
+  {
+    "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+    "path_id": 3165098870238505860,
+    "name": "Kaji_Lightkravte_Scene_1a",
+    "m_OriginalPath": "Assets/00Assets/video/Kaji_Lightkravte_Scene_1a.m4v",
+    "m_FrameCount": "232",
+    "m_FrameRate": "24.0",
+    "m_ExternalResources": "StreamedResource(m_Offset=5789727, m_Size=9744642, m_Source='archive:/CAB-baad6f04f7d5f39fae7b6514e88829a2/CAB-baad6f04f7d5f39fae7b6514e88829a2.resource')"
+  },
+  {
+    "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+    "path_id": 4567142912781437405,
+    "name": "Time_Lapse_E_to_N",
+    "m_OriginalPath": "Assets/00Assets/video/Time_Lapse_E_to_N.m4v",
+    "m_FrameCount": "238",
+    "m_FrameRate": "24.0",
+    "m_ExternalResources": "StreamedResource(m_Offset=15534369, m_Size=9955571, m_Source='archive:/CAB-baad6f04f7d5f39fae7b6514e88829a2/CAB-baad6f04f7d5f39fae7b6514e88829a2.resource')"
+  },
+  {
+    "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+    "path_id": 4889731088626896316,
+    "name": "Kaji_Lightkravte_Scene_3",
+    "m_OriginalPath": "Assets/00Assets/video/Kaji_Lightkravte_Scene_3.m4v",
+    "m_FrameCount": "385",
+    "m_FrameRate": "60.0",
+    "m_ExternalResources": "StreamedResource(m_Offset=25489940, m_Size=3224131, m_Source='archive:/CAB-baad6f04f7d5f39fae7b6514e88829a2/CAB-baad6f04f7d5f39fae7b6514e88829a2.resource')"
+  },
+  {
+    "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+    "path_id": 6230989773728943169,
+    "name": "m_explosion_seq3",
+    "m_OriginalPath": "Assets/00Assets/video/m_explosion_seq3.m4v",
+    "m_FrameCount": "634",
+    "m_FrameRate": "60.0",
+    "m_ExternalResources": "StreamedResource(m_Offset=28714071, m_Size=7301390, m_Source='archive:/CAB-baad6f04f7d5f39fae7b6514e88829a2/CAB-baad6f04f7d5f39fae7b6514e88829a2.resource')"
+  },
+  {
+    "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+    "path_id": 7307858261213983060,
+    "name": "LIGHTKRAVTE_OP_Final_1080",
+    "m_OriginalPath": "Assets/00Assets/video/LIGHTKRAVTE_OP_Final_1080.m4v",
+    "m_FrameCount": "1792",
+    "m_FrameRate": "24.0",
+    "m_ExternalResources": "StreamedResource(m_Offset=36015461, m_Size=75760028, m_Source='archive:/CAB-baad6f04f7d5f39fae7b6514e88829a2/CAB-baad6f04f7d5f39fae7b6514e88829a2.resource')"
+  },
+  {
+    "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\ff6b7e8901bc64777b81b042dbef3161.bundle",
+    "path_id": -7099520783507638733,
+    "name": "Time_Lapse_3_Days",
+    "m_OriginalPath": "Assets/00Assets/video/Time_Lapse_3_Days.m4v",
+    "m_FrameCount": "309",
+    "m_FrameRate": "24.0",
+    "m_ExternalResources": "StreamedResource(m_Offset=0, m_Size=13530633, m_Source='archive:/CAB-b7701aad1e7411f003eb19d43b9592ed/CAB-b7701aad1e7411f003eb19d43b9592ed.resource')"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "status": "BLOCKED_NO_CLEAN_PLATE_AND_STATE_CLOSURE",
+  "full_video_generated": false,
+  "reason": "대표 프레임 진단 시안뿐이며 전체 영상이 아님. 원문 제거·배경 정합·애니메이션 미완성."
+}

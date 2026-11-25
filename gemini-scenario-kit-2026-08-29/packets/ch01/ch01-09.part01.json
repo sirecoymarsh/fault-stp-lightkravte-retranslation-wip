@@ -1,0 +1,1302 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-09.part01",
+  "script": "ch01-09",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": [
+      {
+        "uid": "ch01-09:232:943b439a",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "こ このまま これを持って帰って眺めたい！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-09:233:54c7dc43",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "２週間ぐらいずっと！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-09:236:11101b56",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "あ…あ！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-09:238:91b63e5e",
+        "speaker_id": "mis",
+        "speaker_name": "미샤",
+        "ja": "すげぇよな？ 一体どうなってるのか皆目検討がつかん",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-09:240:3a886be0",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "ど どうなってるんだ…！？ 前から写してるのに<br>フローラ様がいろんな角度で見えるぞ！？",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch01-09:18:3fa989de",
+      "source_hash": "3fa989de",
+      "sequence": 0,
+      "source_line": 18,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "えへ…あへへ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:19:d4a1e225",
+      "source_hash": "d4a1e225",
+      "sequence": 1,
+      "source_line": 19,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あー綺麗だな あのスカート<br>同じスタイルのやつ…彼女で三人目だ…へへ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:20:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 2,
+      "source_line": 20,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:23:57ba120",
+      "source_hash": "57ba120",
+      "sequence": 3,
+      "source_line": 23,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "――君は プロは諦めたほうがいい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:25:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 4,
+      "source_line": 25,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:26:2fac62bf",
+      "source_hash": "2fac62bf",
+      "sequence": 5,
+      "source_line": 26,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……くそ………！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:27:2119d1f7",
+      "source_hash": "2119d1f7",
+      "sequence": 6,
+      "source_line": 27,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "行くんじゃなかった…あんな場所！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:28:589e3f0c",
+      "source_hash": "589e3f0c",
+      "sequence": 7,
+      "source_line": 28,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なにか嫌な予感がしていた<br>まさかここまで的中するなんて…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:29:7258340c",
+      "source_hash": "7258340c",
+      "sequence": 8,
+      "source_line": 29,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "世界の見え方が違うって？<br>ひ 人を障害者確定みたいに言いやがって…！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:30:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 9,
+      "source_line": 30,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:32:34dc5d2b",
+      "source_hash": "34dc5d2b",
+      "sequence": 10,
+      "source_line": 32,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "いや…<br>仮にクラウ様が言ってることが本当だったとしてもだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:33:76acdc6",
+      "source_hash": "76acdc6",
+      "sequence": 11,
+      "source_line": 33,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "別に僕が障害者であろうがなかろうか<br>そんなことは本来どうでもいいのかもしれない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:34:384cb732",
+      "source_hash": "384cb732",
+      "sequence": 12,
+      "source_line": 34,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "だって現に僕は普通の生活を送れているのだから",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:35:f6c6f682",
+      "source_hash": "f6c6f682",
+      "sequence": 13,
+      "source_line": 35,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そこに病名がつこうがつくまいが 僕にとって実害はない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:36:6ad046ff",
+      "source_hash": "6ad046ff",
+      "sequence": 14,
+      "source_line": 36,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "一番イライラするのは…立証する方法がないってことだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:37:233a5983",
+      "source_hash": "233a5983",
+      "sequence": 15,
+      "source_line": 37,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "障害を負っているかもしれない…その本当の意味は？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:38:87a86475",
+      "source_hash": "87a86475",
+      "sequence": 16,
+      "source_line": 38,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "理想としている絵を描くことができない 視覚的…<br>あるいはまだ発見されていないタイプの知的障害…？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:39:59338707",
+      "source_hash": "59338707",
+      "sequence": 17,
+      "source_line": 39,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "医者でもわからない ような？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:40:5fad14cf",
+      "source_hash": "5fad14cf",
+      "sequence": 18,
+      "source_line": 40,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そんなものが存在してるなんて…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:41:ced52b9c",
+      "source_hash": "ced52b9c",
+      "sequence": 19,
+      "source_line": 41,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "クラウ様のような人が適当なこと言わないだろうし…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:42:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 20,
+      "source_line": 42,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:44:2d660bf",
+      "source_hash": "2d660bf",
+      "sequence": 21,
+      "source_line": 44,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "昨晩 クラウ様と会話後",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:45:fec9cbac",
+      "source_hash": "fec9cbac",
+      "sequence": 22,
+      "source_line": 45,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕はショックで何を言われても頭に入ってこなかった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:46:d334f332",
+      "source_hash": "d334f332",
+      "sequence": 23,
+      "source_line": 46,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "障害のせいで プロになれない…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:47:c0c90674",
+      "source_hash": "c0c90674",
+      "sequence": 24,
+      "source_line": 47,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…努力じゃどうにもならない…？？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:49:3df88d32",
+      "source_hash": "3df88d32",
+      "sequence": 25,
+      "source_line": 49,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "努力すれば どんなことでも可能だと思っていた",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:50:1d8d470e",
+      "source_hash": "1d8d470e",
+      "sequence": 26,
+      "source_line": 50,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "少なくとも そう教育されて育ってきた…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:51:e8763fa5",
+      "source_hash": "e8763fa5",
+      "sequence": 27,
+      "source_line": 51,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "うすうす気づいてはいた…周りの練習生と比べて明らかに上達のペースが遅い…というか皆無というか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:52:204e1158",
+      "source_hash": "204e1158",
+      "sequence": 28,
+      "source_line": 52,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "クラウ様のような人に『なにかが明らかにおかしい』って言われちゃうなんて…もう確定もいいところじゃないか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:53:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 29,
+      "source_line": 53,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:54:dbc062be",
+      "source_hash": "dbc062be",
+      "sequence": 30,
+      "source_line": 54,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ああ…なんかもう 頭がこんがらがってきたぞ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:56:a730ef61",
+      "source_hash": "a730ef61",
+      "sequence": 31,
+      "source_line": 56,
+      "speaker_id": "girl",
+      "speaker_name": "광장의 소녀",
+      "voice_id": "",
+      "ja": "あ みんなお待たせ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:57:ab12850c",
+      "source_hash": "ab12850c",
+      "sequence": 32,
+      "source_line": 57,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:59:5ac5cc3f",
+      "source_hash": "5ac5cc3f",
+      "sequence": 33,
+      "source_line": 59,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "また同じタイプのスカート",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:60:aed4cdc1",
+      "source_hash": "aed4cdc1",
+      "sequence": 34,
+      "source_line": 60,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "間違いない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:61:43c29c2f",
+      "source_hash": "43c29c2f",
+      "sequence": 35,
+      "source_line": 61,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "やっぱり最近はああいうのが流行ってるんだな〜<br>げへ…えへへへ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:67:a385dd77",
+      "source_hash": "a385dd77",
+      "sequence": 36,
+      "source_line": 67,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "おい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:74:d75995b6",
+      "source_hash": "d75995b6",
+      "sequence": 37,
+      "source_line": 74,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "お前 不審者そのものだぞ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:75:2c89d0c6",
+      "source_hash": "2c89d0c6",
+      "sequence": 38,
+      "source_line": 75,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "み ミィシャさん！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:79:448ab4f1",
+      "source_hash": "448ab4f1",
+      "sequence": 39,
+      "source_line": 79,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "前からむっつりすけべだとは思っていたが<br>まさか公共の場でここまで露骨に変態を晒すとはな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:80:894fa531",
+      "source_hash": "894fa531",
+      "sequence": 40,
+      "source_line": 80,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いえ これは人間観察の一環でして…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:81:2f8263b9",
+      "source_hash": "2f8263b9",
+      "sequence": 41,
+      "source_line": 81,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "だ 大丈夫…カージ君？ 今日は随分やつれてない…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:84:a4a77dad",
+      "source_hash": "a4a77dad",
+      "sequence": 42,
+      "source_line": 84,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ ふ フローラ様…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:86:a0a1b464",
+      "source_hash": "a0a1b464",
+      "sequence": 43,
+      "source_line": 86,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "し 私服！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:87:294d2d12",
+      "source_hash": "294d2d12",
+      "sequence": 44,
+      "source_line": 87,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "今日は私服なのですね！ 最近見れてなかった至福の私服！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:88:e7cd76ab",
+      "source_hash": "e7cd76ab",
+      "sequence": 45,
+      "source_line": 88,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ああ…フローラ様…あなたはなぜこう…<br>いつ見てもいいのですか…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:89:8802f783",
+      "source_hash": "8802f783",
+      "sequence": 46,
+      "source_line": 89,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ちょ ちょっと？ 大丈夫ってば？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:90:fdf660e9",
+      "source_hash": "fdf660e9",
+      "sequence": 47,
+      "source_line": 90,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "不器用なヤツだな<br>女ばっかり目で追ってるのが丸わかりだぞ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:91:70872194",
+      "source_hash": "70872194",
+      "sequence": 48,
+      "source_line": 91,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ ら ラインヴァスタ…！ お前もいたのか…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:96:f302e473",
+      "source_hash": "f302e473",
+      "sequence": 49,
+      "source_line": 96,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "あーあとな…前から言おうと思ってたんだが<br>そのラインヴァスタってのもそろそろやめてくれないか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:112:7851ece4",
+      "source_hash": "7851ece4",
+      "sequence": 50,
+      "source_line": 112,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "畏まられるのは好きじゃないんだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:113:3f2623a2",
+      "source_hash": "3f2623a2",
+      "sequence": 51,
+      "source_line": 113,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "し 下の名前で呼び合うほど仲良くなった覚えはないぞ…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:115:aa442ca9",
+      "source_hash": "aa442ca9",
+      "sequence": 52,
+      "source_line": 115,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "つまらないことに拘るな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:117:7e0713af",
+      "source_hash": "7e0713af",
+      "sequence": 53,
+      "source_line": 117,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんなことよりここで何してるんだよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:118:85d032fc",
+      "source_hash": "85d032fc",
+      "sequence": 54,
+      "source_line": 118,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "お お前 遊んでていいのかよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:119:f5e4bd09",
+      "source_hash": "f5e4bd09",
+      "sequence": 55,
+      "source_line": 119,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ガーディアンとしての修行はどうしたんだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:121:901c24ba",
+      "source_hash": "901c24ba",
+      "sequence": 56,
+      "source_line": 121,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ああ…引っ張り出されてんだよ この二人に<br>いやだって言ったのに",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:124:92cae672",
+      "source_hash": "92cae672",
+      "sequence": 57,
+      "source_line": 124,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "あ そうそう！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:125:d1e82d45",
+      "source_hash": "d1e82d45",
+      "sequence": 58,
+      "source_line": 125,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "見てみろよ カージ…すっげーんだぞ リトナのヤツ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:127:c3435d",
+      "source_hash": "c3435d",
+      "sequence": 59,
+      "source_line": 127,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…硝子細工…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:129:9d28445a",
+      "source_hash": "9d28445a",
+      "sequence": 60,
+      "source_line": 129,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "も もしかしてこれ<br>全部ラインヴァスタが作ったんですか！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:131:663251b9",
+      "source_hash": "663251b9",
+      "sequence": 61,
+      "source_line": 131,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そう！ ねえ めちゃめちゃ綺麗じゃない？？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:132:13f3ac37",
+      "source_hash": "13f3ac37",
+      "sequence": 62,
+      "source_line": 132,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "14歳でちょっとありえないよね この技術力",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:134:e7637484",
+      "source_hash": "e7637484",
+      "sequence": 63,
+      "source_line": 134,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "いちいちピーピーうるさいんだよ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:136:b5ea859b",
+      "source_hash": "b5ea859b",
+      "sequence": 64,
+      "source_line": 136,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "こんなのが いーっぱいラインヴァスタ邸に溢れてるのよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:137:51ec8ce2",
+      "source_hash": "51ec8ce2",
+      "sequence": 65,
+      "source_line": 137,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "結局捨てることになるなら バザールで欲しがる人に<br>あげちゃった方が功利になるでしょう？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:139:643b985f",
+      "source_hash": "643b985f",
+      "sequence": 66,
+      "source_line": 139,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "だったらバザールに参加するのは<br>お前たちだけでいいだろう…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:140:1fdcb0c4",
+      "source_hash": "1fdcb0c4",
+      "sequence": 67,
+      "source_line": 140,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "なぜ私まで連れ出されなきゃいかんのだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:142:e4180215",
+      "source_hash": "e4180215",
+      "sequence": 68,
+      "source_line": 142,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "自分が作ったもので他の人が幸せになる瞬間でしょう？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:143:fe27e6f7",
+      "source_hash": "fe27e6f7",
+      "sequence": 69,
+      "source_line": 143,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ちゃんと見届けなさいよ 最後まで",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:145:5e52bc62",
+      "source_hash": "5e52bc62",
+      "sequence": 70,
+      "source_line": 145,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "余計なお世話なんだけどな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:147:7a6ae9e8",
+      "source_hash": "7a6ae9e8",
+      "sequence": 71,
+      "source_line": 147,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ん？ これは",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:156:bf8de711",
+      "source_hash": "bf8de711",
+      "sequence": 72,
+      "source_line": 156,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "これはいったい…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:158:6786c080",
+      "source_hash": "6786c080",
+      "sequence": 73,
+      "source_line": 158,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "随分特徴的な形をしてますね…<br>この先端についているのは…虫眼鏡ですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:176:6000bc14",
+      "source_hash": "6000bc14",
+      "sequence": 74,
+      "source_line": 176,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そう よくぞ聞いてくれましたカージ君！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:177:b5ca4928",
+      "source_hash": "b5ca4928",
+      "sequence": 75,
+      "source_line": 177,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "それが一番すごいヤツ！見てみて！<br>ちょっとあっちにいくから！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:180:18b59313",
+      "source_hash": "18b59313",
+      "sequence": 76,
+      "source_line": 180,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "十歩ほど離れた場所へフローラ様が移動し<br>軽くポーズをとった",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:182:d99ced5e",
+      "source_hash": "d99ced5e",
+      "sequence": 77,
+      "source_line": 182,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "これは…どうすればいいのでしょうか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:183:96faf25a",
+      "source_hash": "96faf25a",
+      "sequence": 78,
+      "source_line": 183,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "レンズについているキャップを外して<br>フローラの方向へ向けてみな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:184:cd6ecd1a",
+      "source_hash": "cd6ecd1a",
+      "sequence": 79,
+      "source_line": 184,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はあ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:185:69a5469f",
+      "source_hash": "69a5469f",
+      "sequence": 80,
+      "source_line": 185,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ミィシャさんが言う通り レンズの先端には<br>蓋の役目をしているキャップがついていた",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:186:b93d11d7",
+      "source_hash": "b93d11d7",
+      "sequence": 81,
+      "source_line": 186,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "これを外す…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:188:849c2b5f",
+      "source_hash": "849c2b5f",
+      "sequence": 82,
+      "source_line": 188,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…うわ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:190:f989354f",
+      "source_hash": "f989354f",
+      "sequence": 83,
+      "source_line": 190,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "言われた通りにキャップを外すと レンズから光が入り<br>オブジェ内部が極彩色に染まる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:199:388f912c",
+      "source_hash": "388f912c",
+      "sequence": 84,
+      "source_line": 199,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "に 虹色に光った…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:200:ac580acb",
+      "source_hash": "ac580acb",
+      "sequence": 85,
+      "source_line": 200,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "あー…ピントがあってないから 色収差が発生してるんだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:201:156eb7e1",
+      "source_hash": "156eb7e1",
+      "sequence": 86,
+      "source_line": 201,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "それだけでも十分綺麗だけどな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:202:7896e3cc",
+      "source_hash": "7896e3cc",
+      "sequence": 87,
+      "source_line": 202,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "その前の方にについてるダイアルを回して<br>ピントを合わせてみるんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:203:71117789",
+      "source_hash": "71117789",
+      "sequence": 88,
+      "source_line": 203,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はあ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:204:cbf89217",
+      "source_hash": "cbf89217",
+      "sequence": 89,
+      "source_line": 204,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "くるくるとダイアルを回すと――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:208:ab89f7b7",
+      "source_hash": "ab89f7b7",
+      "sequence": 90,
+      "source_line": 208,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:209:6b205172",
+      "source_hash": "6b205172",
+      "sequence": 91,
+      "source_line": 209,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:210:b250959f",
+      "source_hash": "b250959f",
+      "sequence": 92,
+      "source_line": 210,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え えええ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:211:711ff96b",
+      "source_hash": "711ff96b",
+      "sequence": 93,
+      "source_line": 211,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "オブジェの中にある無数のガラスの板に…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:212:7b0e87a6",
+      "source_hash": "7b0e87a6",
+      "sequence": 94,
+      "source_line": 212,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な…！？ ななな！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:213:3d009c05",
+      "source_hash": "3d009c05",
+      "sequence": 95,
+      "source_line": 213,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "マジでめっちゃすげーよな…<br>初めてみた時 思わず声が出たよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:214:86d356db",
+      "source_hash": "86d356db",
+      "sequence": 96,
+      "source_line": 214,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ななな…こ これはいったいどういう！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:215:e071f60d",
+      "source_hash": "e071f60d",
+      "sequence": 97,
+      "source_line": 215,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ああ…光を曲げる練習をするついでに作った<br>ちょっとした習作だ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:216:d47fce20",
+      "source_hash": "d47fce20",
+      "sequence": 98,
+      "source_line": 216,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ひ 光を曲げる…って！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-09:217:20203d0a",
+      "source_hash": "20203d0a",
+      "sequence": 99,
+      "source_line": 217,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ああ…フローラ様が フローラ様がこんなに<br>あ あ あああああああ…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

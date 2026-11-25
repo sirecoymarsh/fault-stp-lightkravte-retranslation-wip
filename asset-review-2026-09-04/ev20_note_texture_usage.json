@@ -1,0 +1,22 @@
+{
+  "texture_path_id": 4011760718679768670,
+  "sprite_ids": [
+    -7822610958224720621
+  ],
+  "renderers": [
+    {
+      "renderer": -6950189877099855412,
+      "game_object": -3058627579134029169,
+      "game_object_name": "ev_20 無力なカージ",
+      "sprite": -7822610958224720621,
+      "sprite_name": "ev_20 無力なカージ"
+    }
+  ],
+  "containers": [
+    {
+      "path": "Assets/00Assets/ev/ev_20/ev_20.prefab",
+      "root": 105310457569554094,
+      "name": "ev_20"
+    }
+  ]
+}

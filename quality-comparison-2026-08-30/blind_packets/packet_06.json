@@ -1,0 +1,995 @@
+{
+  "schema_version": 1,
+  "instructions": "Judge A and B only against Japanese and raw-catalog context. Do not infer provider. Scores 0-4: fidelity, naturalness, directed_voice, no_unsupported_addition. preferred=A/B/tie.",
+  "entries": [
+    {
+      "uid": "ch02-14:192:52342f8c",
+      "script": "ch02-14",
+      "line_index": 192,
+      "source_hash": "52342f8c",
+      "speaker_id": "son",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 188,
+          "speaker_id": "son",
+          "ja": "……カージ氏 ちょっとライトクラフトに関する<br>図書館の本を片っ端から読んだほうがいいのでは…"
+        },
+        {
+          "line_index": 190,
+          "speaker_id": "kaj",
+          "ja": "そ そんな気がしてきました…"
+        }
+      ],
+      "ja": "このリーディングアンプというのは<br>経年劣化して薄まった意志の復元するためのものっすね",
+      "context_after": [
+        {
+          "line_index": 193,
+          "speaker_id": "son",
+          "ja": "これを使う必要があった…と？"
+        },
+        {
+          "line_index": 195,
+          "speaker_id": "kaj",
+          "ja": "は はい…かなり薄まって書き込まれていたみたいで<br>掘り出すのにすごく時間がかかりました"
+        }
+      ],
+      "candidate_A": "이 리딩 앰프라는 건<br>세월이 지나 닳고 옅어진 의지를 복원하기 위한 물건임다.",
+      "candidate_B": "이 리딩 앰프라는 건<br>세월이 흘러 희미해진 의지를 복원하는 물건임다."
+    },
+    {
+      "uid": "ch02-14:327:5b12bf73",
+      "script": "ch02-14",
+      "line_index": 327,
+      "source_hash": "5b12bf73",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 321,
+          "speaker_id": "kaj",
+          "ja": "……………"
+        },
+        {
+          "line_index": 324,
+          "speaker_id": "kaj",
+          "ja": "れ レンズで……"
+        }
+      ],
+      "ja": "――――光で……絵を描く…！？",
+      "context_after": [
+        {
+          "line_index": 329,
+          "speaker_id": "kaj",
+          "ja": "そ そんなこと…が…できるのでしょうか…ぼくに…！？"
+        },
+        {
+          "line_index": 333,
+          "speaker_id": "son",
+          "ja": "さあ それはわからないっす"
+        }
+      ],
+      "candidate_A": "――――빛으로…… 그림을 그린다…!?",
+      "candidate_B": "――――빛으로…… 그림을 그린다…?!"
+    },
+    {
+      "uid": "ch02-14:366:8e1e4c74",
+      "script": "ch02-14",
+      "line_index": 366,
+      "source_hash": "8e1e4c74",
+      "speaker_id": "son",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "Gemini issue record"
+      ],
+      "context_before": [
+        {
+          "line_index": 363,
+          "speaker_id": "kaj",
+          "ja": "そ それじゃ僕…ちょっと…いってきますね…！"
+        },
+        {
+          "line_index": 364,
+          "speaker_id": "kaj",
+          "ja": "一度家に帰って この間もらった設計図を<br>リードとライトの両方を考慮した設計に<br>書き直してみます！"
+        }
+      ],
+      "ja": "おお〜 ご武運をっす〜！！<br>びるせりおーっす！！！！",
+      "context_after": [],
+      "candidate_A": "오오~ 무운을 빕니다여~!!<br>빌세리오~ 임다!!!!",
+      "candidate_B": "오오〜, 건투를 빔다〜!!<br>빌세리오―임다!!!!"
+    },
+    {
+      "uid": "ch02-15:14:b7ed1f63",
+      "script": "ch02-15",
+      "line_index": 14,
+      "source_hash": "b7ed1f63",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 12,
+          "speaker_id": "",
+          "ja": "だったら頼み続ければいい 誰かがうんと言うまで"
+        },
+        {
+          "line_index": 13,
+          "speaker_id": "",
+          "ja": "長期戦に持ち込もうと―――<br>根気さえあればなんとかなると そう思っていた"
+        }
+      ],
+      "ja": "体があげる痛みを堪えながらあちこちを回り<br>異変に気づいたのは<br>その日１０件目の工房についた時だった",
+      "context_after": [
+        {
+          "line_index": 21,
+          "speaker_id": "ban",
+          "ja": "おうおう やっぱりここにも来るか お前さん"
+        },
+        {
+          "line_index": 22,
+          "speaker_id": "kaj",
+          "ja": "え…え？ 僕…ですか？<br>ど どうして僕が来ることがわかってたんです？"
+        }
+      ],
+      "candidate_A": "온몸이 쑤셔오는 통증을 참아가며 여기저기를 돌아다니다가,<br>이상함을 눈치챈 것은<br>그날 열 번째 공방에 도착했을 때였다.",
+      "candidate_B": "온몸이 지르는 비명을 견디며 이곳저곳을 돌아다니다<br>이변을 깨달은 건<br>그날 열 번째 공방에 도착했을 때였다."
+    },
+    {
+      "uid": "ch02-15:35:9b0c62a3",
+      "script": "ch02-15",
+      "line_index": 35,
+      "source_hash": "9b0c62a3",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 33,
+          "speaker_id": "ban",
+          "ja": "ああ そうでなくてもアルティストや<br>アルチザン業界ってのは狭いからな<br>大体の噂は耳にしちまうんだよ"
+        },
+        {
+          "line_index": 34,
+          "speaker_id": "kaj",
+          "ja": "……………"
+        }
+      ],
+      "ja": "なんか…ここまでくると噂レベルじゃないと思うのですが",
+      "context_after": [
+        {
+          "line_index": 36,
+          "speaker_id": "kaj",
+          "ja": "僕みたいなしがない画家志望の噂話なんかして<br>いいことあるんですか"
+        },
+        {
+          "line_index": 37,
+          "speaker_id": "ban",
+          "ja": "しがない？ お前は『しがない人間』じゃないだろう？"
+        }
+      ],
+      "candidate_A": "뭔가… 이 정도면 소문 수준이 아닌 것 같은데요.",
+      "candidate_B": "왠지… 이쯤 되면 소문 수준이 아닌 것 같은데요."
+    },
+    {
+      "uid": "ch02-15:57:c5713754",
+      "script": "ch02-15",
+      "line_index": 57,
+      "source_hash": "c5713754",
+      "speaker_id": "ban",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 54,
+          "speaker_id": "kaj",
+          "ja": "よ よろしくお願いします！"
+        },
+        {
+          "line_index": 55,
+          "speaker_id": "ban",
+          "ja": "どれどれ…………"
+        }
+      ],
+      "ja": "………………",
+      "context_after": [
+        {
+          "line_index": 58,
+          "speaker_id": "kaj",
+          "ja": "………………"
+        },
+        {
+          "line_index": 59,
+          "speaker_id": "ban",
+          "ja": "あー…なるほどね<br>こりゃだめよ"
+        }
+      ],
+      "candidate_A": "………………",
+      "candidate_B": "………………"
+    },
+    {
+      "uid": "ch02-16:20:5264c336",
+      "script": "ch02-16",
+      "line_index": 20,
+      "source_hash": "5264c336",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 18,
+          "speaker_id": "kaj",
+          "ja": "不可能…………"
+        },
+        {
+          "line_index": 19,
+          "speaker_id": "",
+          "ja": "そんなこと言われたら 諦めるしかねーべ？？？？？？"
+        }
+      ],
+      "ja": "でも なにがどう不可能なんだろう…",
+      "context_after": [
+        {
+          "line_index": 21,
+          "speaker_id": "kaj",
+          "ja": "………………"
+        },
+        {
+          "line_index": 23,
+          "speaker_id": "",
+          "ja": "１つ気づいてしまったことがある"
+        }
+      ],
+      "candidate_A": "하지만 대체 뭐가 어떻게 불가능하다는 거지…",
+      "candidate_B": "하지만 뭐가 어떻게 불가능하다는 걸까…"
+    },
+    {
+      "uid": "ch02-16:26:8c348a97",
+      "script": "ch02-16",
+      "line_index": 26,
+      "source_hash": "8c348a97",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 24,
+          "speaker_id": "",
+          "ja": "硝子作りに関して僕は 完全なる素人…"
+        },
+        {
+          "line_index": 25,
+          "speaker_id": "",
+          "ja": "だから何を言われても鵜呑みにするしかない"
+        }
+      ],
+      "ja": "無理だと言われて そこにどれだけ違和感を覚えても<br>何も言い返すことができないのだ",
+      "context_after": [
+        {
+          "line_index": 27,
+          "speaker_id": "kaj",
+          "ja": "………………"
+        },
+        {
+          "line_index": 28,
+          "speaker_id": "kaj",
+          "ja": "どうしようかな…マジで…"
+        }
+      ],
+      "candidate_A": "불가능하다는 말을 듣고 아무리 위화감이 들어도<br>반박할 수가 없는 것이다.",
+      "candidate_B": "불가능하다는 말을 듣고 아무리 위화감을 느낀다 한들,<br>그 어떤 말대꾸도 할 수가 없는 것이다."
+    },
+    {
+      "uid": "ch02-16:60:93555c64",
+      "script": "ch02-16",
+      "line_index": 60,
+      "source_hash": "93555c64",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 57,
+          "speaker_id": "",
+          "ja": "ということは ラインヴァスタは<br>レンズそのものは作れるということになる…"
+        },
+        {
+          "line_index": 58,
+          "speaker_id": "",
+          "ja": "レンズが作れる人……"
+        }
+      ],
+      "ja": "ラインヴァスタ…",
+      "context_after": [
+        {
+          "line_index": 61,
+          "speaker_id": "",
+          "ja": "リトナ＝ラインヴァスタ"
+        },
+        {
+          "line_index": 63,
+          "speaker_id": "kaj",
+          "ja": "あああああああああああああああああああああああ………"
+        }
+      ],
+      "candidate_A": "라인바스타…",
+      "candidate_B": "라인바스타…"
+    },
+    {
+      "uid": "ch02-17:143:5acb58ed",
+      "script": "ch02-17",
+      "line_index": 143,
+      "source_hash": "5acb58ed",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 141,
+          "speaker_id": "rit",
+          "ja": "そんな恐怖を全て受け入れ<br>毎日笑顔でファリンを漕いでいる"
+        },
+        {
+          "line_index": 142,
+          "speaker_id": "rit",
+          "ja": "なぜだかわかるか？"
+        }
+      ],
+      "ja": "え…え…",
+      "context_after": [
+        {
+          "line_index": 155,
+          "speaker_id": "rit",
+          "ja": "好きで好きでしょうがないからだ"
+        },
+        {
+          "line_index": 156,
+          "speaker_id": "rit",
+          "ja": "ファリンに乗り 様々な人々と出会い 水路の水を浄化し…<br>国の生命線を守るファリナーという仕事が"
+        }
+      ],
+      "candidate_A": "어… 어…",
+      "candidate_B": "어… 어…"
+    },
+    {
+      "uid": "ch02-17:217:57eb2e9c",
+      "script": "ch02-17",
+      "line_index": 217,
+      "source_hash": "57eb2e9c",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 200,
+          "speaker_id": "kaj",
+          "ja": "うう…"
+        },
+        {
+          "line_index": 216,
+          "speaker_id": "",
+          "ja": "く くそ…くそくそくそくそくそ！"
+        }
+      ],
+      "ja": "え 偉そうに…！ 自分のことを棚に上げて…<br>こ こっちの気も知らないで…！",
+      "context_after": [
+        {
+          "line_index": 219,
+          "speaker_id": "",
+          "ja": "な なんでこんなこと言われなきゃいけないんだ！"
+        },
+        {
+          "line_index": 220,
+          "speaker_id": "kaj",
+          "ja": "く………く…………"
+        }
+      ],
+      "candidate_A": "자, 잘난 척이나 하고…! 제 앞가림도 못 하면서…<br>내, 내 속도 모르면서…!",
+      "candidate_B": "자, 잘난 척은…! 자기 일은 제쳐 두고…<br>이, 이쪽 마음도 모르면서…!"
+    },
+    {
+      "uid": "ch02-17:271:55404aa7",
+      "script": "ch02-17",
+      "line_index": 271,
+      "source_hash": "55404aa7",
+      "speaker_id": "rit",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 266,
+          "speaker_id": "rit",
+          "ja": "…………"
+        },
+        {
+          "line_index": 268,
+          "speaker_id": "rit",
+          "ja": "強いて言うなら…"
+        }
+      ],
+      "ja": "垣間見えるからじゃないですかね…<br>打たれ弱いやつを見ると",
+      "context_after": [
+        {
+          "line_index": 273,
+          "speaker_id": "rit",
+          "ja": "……………"
+        },
+        {
+          "line_index": 274,
+          "speaker_id": "",
+          "ja": "――――自分が"
+        }
+      ],
+      "candidate_A": "언뜻언뜻 비쳐 보이기 때문이 아닐까 싶네요…<br>걸핏하면 무너져 내리는 나약한 녀석을 보고 있으면.",
+      "candidate_B": "얼핏 비치기 때문 아닐까요…<br>쉽게 꺾이는 녀석을 보면."
+    },
+    {
+      "uid": "ch02-18:38:fe4ac43a",
+      "script": "ch02-18",
+      "line_index": 38,
+      "source_hash": "fe4ac43a",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 36,
+          "speaker_id": "",
+          "ja": "そういう訓練を受けてきたわけでもないし"
+        },
+        {
+          "line_index": 37,
+          "speaker_id": "",
+          "ja": "レンズがダメなら…<br>リーディングストーンを使って試し続けるか？？"
+        }
+      ],
+      "ja": "違うサイズのものをいくつか重ねて…",
+      "context_after": [
+        {
+          "line_index": 39,
+          "speaker_id": "",
+          "ja": "いや…そんな数のリーディングストーンを<br>入手できるかどうかすらわからない…"
+        },
+        {
+          "line_index": 40,
+          "speaker_id": "",
+          "ja": "父さん あれ…すごく貴重なものだって言っていたし…"
+        }
+      ],
+      "candidate_A": "크기가 다른 것들을 몇 개 겹쳐서…",
+      "candidate_B": "크기가 다른 것들을 몇 개 겹쳐서…"
+    },
+    {
+      "uid": "ch02-18:145:8898c70c",
+      "script": "ch02-18",
+      "line_index": 145,
+      "source_hash": "8898c70c",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "Gemini issue record"
+      ],
+      "context_before": [
+        {
+          "line_index": 142,
+          "speaker_id": "sel",
+          "ja": "王族だからねー<br>たくさん勉強されられるね 面倒だけど"
+        },
+        {
+          "line_index": 144,
+          "speaker_id": "kaj",
+          "ja": "驚くべき吸収力かと…"
+        }
+      ],
+      "ja": "セルフィーネ様の御年齢で そこまで達者に<br>サンアリズタ語を使いこなせるのは<br>非常に稀なのではないでしょうか",
+      "context_after": [
+        {
+          "line_index": 147,
+          "speaker_id": "sel",
+          "ja": "……………"
+        },
+        {
+          "line_index": 149,
+          "speaker_id": "sel",
+          "ja": "…わたしなのか<ruby=\"パスダウン\"> 国 </ruby>なのか…どっちだろうね"
+        }
+      ],
+      "candidate_A": "셀피네 공주님의 연세에 그렇게나 유창하게<br>산아리즈타어를 구사하시는 것은<br>매우 드문 일이지 않을까 싶습니다만.",
+      "candidate_B": "셀피네 님의 연세에 그토록 능숙하게<br>산아리즈타어를 구사하는 분은<br>대단히 드물지 않을까요?"
+    },
+    {
+      "uid": "ch02-18:167:1d3ca31",
+      "script": "ch02-18",
+      "line_index": 167,
+      "source_hash": "1d3ca31",
+      "speaker_id": "sel",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 164,
+          "speaker_id": "sel",
+          "ja": "んー いいんじゃないかな"
+        },
+        {
+          "line_index": 166,
+          "speaker_id": "sel",
+          "ja": "思ってることをちゃんと言ってくれるから<br>裏表がなくてわたしは好きだよ"
+        }
+      ],
+      "ja": "リトナみたいに思ってることを<br>一切隠さないで話す人ってあんまりいないんだよ",
+      "context_after": [
+        {
+          "line_index": 169,
+          "speaker_id": "kaj",
+          "ja": "それって必ずしもいいことじゃないでしょう！？<br>社会の一員として機能しない人ですよ それ！"
+        },
+        {
+          "line_index": 171,
+          "speaker_id": "sel",
+          "ja": "きゃははは！ まあ いいのさいいのさ いまは"
+        }
+      ],
+      "candidate_A": "리토나처럼 생각하는 걸<br>전혀 숨기지 않고 말하는 사람은 거의 없거든.",
+      "candidate_B": "리토나처럼 생각하는 걸<br>조금도 숨기지 않고 말하는 사람은 별로 없거든."
+    },
+    {
+      "uid": "ch02-18:190:85a9e511",
+      "script": "ch02-18",
+      "line_index": 190,
+      "source_hash": "85a9e511",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 187,
+          "speaker_id": "kaj",
+          "ja": "いや フローラ様の時も十分萎縮してますよ…"
+        },
+        {
+          "line_index": 189,
+          "speaker_id": "sel",
+          "ja": "ぶー………"
+        }
+      ],
+      "ja": "………う",
+      "context_after": [
+        {
+          "line_index": 193,
+          "speaker_id": "kaj",
+          "ja": "し しかし…"
+        },
+        {
+          "line_index": 194,
+          "speaker_id": "kaj",
+          "ja": "姫――なんて綺麗な目をしているんだろう…"
+        }
+      ],
+      "candidate_A": "………윽.",
+      "candidate_B": "………으."
+    },
+    {
+      "uid": "ch02-18:246:9b1d39ab",
+      "script": "ch02-18",
+      "line_index": 246,
+      "source_hash": "9b1d39ab",
+      "speaker_id": "sel",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "large A/B length disparity"
+      ],
+      "context_before": [
+        {
+          "line_index": 240,
+          "speaker_id": "kaj",
+          "ja": "僕じゃなくてもルゼンハイドの市民だったら<br>相当ビビるリクエストかと…"
+        },
+        {
+          "line_index": 244,
+          "speaker_id": "kaj",
+          "ja": "と ところで…！ セルフィーネ様は本当に<br>僕の様子を見にこられただけなのですか？"
+        }
+      ],
+      "ja": "そだよ！",
+      "context_after": [
+        {
+          "line_index": 248,
+          "speaker_id": "kaj",
+          "ja": "そ 即答…"
+        },
+        {
+          "line_index": 249,
+          "speaker_id": "kaj",
+          "ja": "…………"
+        }
+      ],
+      "candidate_A": "맞아!",
+      "candidate_B": "응, 그래!"
+    },
+    {
+      "uid": "ch02-19:43:8d9a7f48",
+      "script": "ch02-19",
+      "line_index": 43,
+      "source_hash": "8d9a7f48",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 41,
+          "speaker_id": "",
+          "ja": "いや 違う…それだけじゃない"
+        },
+        {
+          "line_index": 42,
+          "speaker_id": "",
+          "ja": "ラインヴァスタにあれだけ 他力本願であることを<br>指摘されたばかりで後ろめたかった…から"
+        }
+      ],
+      "ja": "いくら都合がいいからって<br>あんな会話したあとじゃバツが悪い…から…",
+      "context_after": [
+        {
+          "line_index": 44,
+          "speaker_id": "kaj",
+          "ja": "………"
+        },
+        {
+          "line_index": 46,
+          "speaker_id": "",
+          "ja": "それとも僕は…"
+        }
+      ],
+      "candidate_A": "아무리 내게 좋은 기회라도<br>그런 대화를 나눈 뒤라면 면목이 없…으니까…",
+      "candidate_B": "제아무리 형편이 좋다 한들<br>그런 대화를 나눈 직후엔 면목이 없으니까…"
+    },
+    {
+      "uid": "ch02-19:56:bbb94fb2",
+      "script": "ch02-19",
+      "line_index": 56,
+      "source_hash": "bbb94fb2",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 53,
+          "speaker_id": "kaj",
+          "ja": "………"
+        },
+        {
+          "line_index": 54,
+          "speaker_id": "",
+          "ja": "耐えられないかもしれない…そんな屈辱"
+        }
+      ],
+      "ja": "くっ…",
+      "context_after": [
+        {
+          "line_index": 58,
+          "speaker_id": "kaj",
+          "ja": "あああああ…しかしある壁にぶちあたってることも<br>紛れもない事実ではあるんだよなー"
+        },
+        {
+          "line_index": 59,
+          "speaker_id": "kaj",
+          "ja": "…………"
+        }
+      ],
+      "candidate_A": "큭…",
+      "candidate_B": "큭…"
+    },
+    {
+      "uid": "ch02-19:173:eea41296",
+      "script": "ch02-19",
+      "line_index": 173,
+      "source_hash": "eea41296",
+      "speaker_id": "oug",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 169,
+          "speaker_id": "oug",
+          "ja": "な…あれ？ お前 まだ家にいたのかよ？"
+        },
+        {
+          "line_index": 171,
+          "speaker_id": "kaj",
+          "ja": "え…？ まだいるって？ 家にいたらいけなかったかしら？"
+        }
+      ],
+      "ja": "はぁ？ 大丈夫かよお前…<br>この時間はいつも夜間の絵のレッスンとやらに<br>行ってるんだろう？",
+      "context_after": [
+        {
+          "line_index": 174,
+          "speaker_id": "oug",
+          "ja": "それとも今日は休みなのか？"
+        },
+        {
+          "line_index": 175,
+          "speaker_id": "kaj",
+          "ja": "……………"
+        }
+      ],
+      "candidate_A": "뭐? 너 괜찮냐…<br>이 시간이면 늘 야간 그림 수업인가 뭔가 하러<br>나가 있잖아?",
+      "candidate_B": "하아? 너 괜찮은 거냐…<br>이 시간이면 늘 야간 그림 레슨인가 뭔가에<br>가 있잖냐?"
+    },
+    {
+      "uid": "ch02-20:79:a948d9c8",
+      "script": "ch02-20",
+      "line_index": 79,
+      "source_hash": "a948d9c8",
+      "speaker_id": "adi",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 76,
+          "speaker_id": "kaj",
+          "ja": "でも 上達していないことが<br>最近はっきりわかってしまって…"
+        },
+        {
+          "line_index": 77,
+          "speaker_id": "kaj",
+          "ja": "自分には向いていないんだな…<br>という意識が確固たるものとなりつつあります"
+        }
+      ],
+      "ja": "そう…なんだ…それもまた辛いね",
+      "context_after": [
+        {
+          "line_index": 80,
+          "speaker_id": "kaj",
+          "ja": "……………"
+        },
+        {
+          "line_index": 82,
+          "speaker_id": "kaj",
+          "ja": "アディアさんは…<br>別に絵描きを目指しているわけではないのですよね？"
+        }
+      ],
+      "candidate_A": "그렇…구나… 그것도 참 괴롭겠네.",
+      "candidate_B": "그렇… 구나… 그것도 정말 괴로운 일이지."
+    },
+    {
+      "uid": "ch02-20:134:8d48292c",
+      "script": "ch02-20",
+      "line_index": 134,
+      "source_hash": "8d48292c",
+      "speaker_id": "",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "large A/B length disparity"
+      ],
+      "context_before": [
+        {
+          "line_index": 128,
+          "speaker_id": "kaj",
+          "ja": "ぼ 僕は…僕は…"
+        },
+        {
+          "line_index": 131,
+          "speaker_id": "kaj",
+          "ja": "ど どうしたらいいと思いますか……………―――っ！"
+        }
+      ],
+      "ja": "はっ と",
+      "context_after": [
+        {
+          "line_index": 135,
+          "speaker_id": "",
+          "ja": "口からその言葉が漏れてしまってから 気づく"
+        },
+        {
+          "line_index": 137,
+          "speaker_id": "",
+          "ja": "―――僕はなんでこんなことを<br>アディアさんに聞いてしまったんだ？？"
+        }
+      ],
+      "candidate_A": "앗, 하고.",
+      "candidate_B": "핫."
+    },
+    {
+      "uid": "ch02-20:170:d55e5b5f",
+      "script": "ch02-20",
+      "line_index": 170,
+      "source_hash": "d55e5b5f",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 166,
+          "speaker_id": "adi",
+          "ja": "もちろん 本当に辛いんだったらいいんだけど…"
+        },
+        {
+          "line_index": 168,
+          "speaker_id": "adi",
+          "ja": "でも 私にはカージ君 諦めきれないように見えるよ？"
+        }
+      ],
+      "ja": "……そ そうですか？",
+      "context_after": [
+        {
+          "line_index": 171,
+          "speaker_id": "adi",
+          "ja": "だって カージ君が追い求めてるものって…"
+        },
+        {
+          "line_index": 172,
+          "speaker_id": "adi",
+          "ja": "リトナさんにそれだけいろいろ言われても<br>諦めきれないなんて相当大事な夢……なんでしょ？"
+        }
+      ],
+      "candidate_A": "……그, 그런가요?",
+      "candidate_B": "……그, 그런가요?"
+    },
+    {
+      "uid": "ch02-20:213:35020f6",
+      "script": "ch02-20",
+      "line_index": 213,
+      "source_hash": "35020f6",
+      "speaker_id": "adi",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "ruby semantic risk"
+      ],
+      "context_before": [
+        {
+          "line_index": 211,
+          "speaker_id": "adi",
+          "ja": "でもね…現実ってやっぱりそんなに甘くなくて…"
+        },
+        {
+          "line_index": 212,
+          "speaker_id": "adi",
+          "ja": "ファリナーってね<br>一定の移動量に比例して浄化しないといけない<br>水の量っていうのが決まってて"
+        }
+      ],
+      "ja": "ノルマを達成できないと<br><ruby=\"レギュラー\">ファーストフリート</ruby>には入れてもらないの",
+      "context_after": [
+        {
+          "line_index": 215,
+          "speaker_id": "kaj",
+          "ja": "結構…シビアなんですね"
+        },
+        {
+          "line_index": 217,
+          "speaker_id": "adi",
+          "ja": "あたし あんまり成績がよくなくてね"
+        }
+      ],
+      "candidate_A": "할당량을 달성하지 못하면<br><ruby=\"레귤러\">퍼스트 플리트</ruby>에는 들어갈 수 없어.",
+      "candidate_B": "할당량을 채우지 못하면<br><ruby=\"レギュラー\">퍼스트 플리트</ruby>에는 들어가지 못하거든."
+    },
+    {
+      "uid": "ch02-20:246:742f7a4b",
+      "script": "ch02-20",
+      "line_index": 246,
+      "source_hash": "742f7a4b",
+      "speaker_id": "rig",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 243,
+          "speaker_id": "rig",
+          "ja": "辛そうだな"
+        },
+        {
+          "line_index": 245,
+          "speaker_id": "adi",
+          "ja": "………へ？"
+        }
+      ],
+      "ja": "なにがあったのか知らないが<br>ファリナーは所謂昔でいうところの客商売というやつだ",
+      "context_after": [
+        {
+          "line_index": 247,
+          "speaker_id": "rig",
+          "ja": "乗せている者を不安にさせてしまうぞ？<br>そんな顔をしていると"
+        },
+        {
+          "line_index": 249,
+          "speaker_id": "adi",
+          "ja": "す す すみません…！<br>ちょ ちょっと疲れてるみたいで……！！"
+        }
+      ],
+      "candidate_A": "무슨 일이 있었는지는 모르겠지만,<br>파리너는 소위 옛날로 치면 손님을 상대하는 장사잖나.",
+      "candidate_B": "무슨 일이 있었는지는 모르겠지만<br>파리너는 소위 옛날식으로 말하면 접객업이라는 거다."
+    }
+  ]
+}

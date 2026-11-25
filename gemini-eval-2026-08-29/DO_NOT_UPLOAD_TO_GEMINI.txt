@@ -1,0 +1,8 @@
+이 폴더 전체를 Gemini에 업로드하지 마십시오.
+
+`control_uids_200.json`은 숨은 대조군의 정체를 담고 있고,
+`private_reference_*.json`은 Codex 기준 번역문을 담고 있습니다.
+Gemini 입력에는 기존 scenario kit ZIP만 사용합니다.
+결과 수집이 끝난 뒤 `compare_similarity.py`에 결과 폴더를 지정해 노출군/대조군 차이를 계산합니다.
+
+V3 NOTE: current kit 83ffe7c8103dc0a9fc0004877d057500774ddba562aa3a77626e6a27a54458b6 contains no Korean voice examples. The holdout remains private; exposed-vs-holdout comparison is archived for v1/v2 only.

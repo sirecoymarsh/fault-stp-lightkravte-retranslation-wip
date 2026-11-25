@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-11.part05",
+  "script": "ch01-11",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch01-11:736:60c04f8d",
+        "speaker_id": "rig",
+        "speaker_name": "리그스",
+        "ja": "お前になにがあったのかはわからない",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-11:737:a326d8e",
+        "speaker_id": "rig",
+        "speaker_name": "리그스",
+        "ja": "しかし絵を追求しようがしまいが…<br>どちらの答えが出たとしても<br>とりあえずいったん自分を許してやれ",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-11:738:4fb05b28",
+        "speaker_id": "rig",
+        "speaker_name": "리그스",
+        "ja": "進む道を決めるのはそこからでも遅くないだろう？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-11:753:ef201a77",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "ああ…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-11:754:f3cc9f56",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "なんか…長い長い１日だったな…",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch01-11:755:c3f30844",
+      "source_hash": "c3f30844",
+      "sequence": 400,
+      "source_line": 755,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "こんなに自分の話を人にしたのは初めてかもしれない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:756:c93f8162",
+      "source_hash": "c93f8162",
+      "sequence": 401,
+      "source_line": 756,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "しかしリッグズさん…すごいな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:757:281e7015",
+      "source_hash": "281e7015",
+      "sequence": 402,
+      "source_line": 757,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なんであんな貫禄があるんだろう…<br>同い年のはずなのに…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:759:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 403,
+      "source_line": 759,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:761:7c398356",
+      "source_hash": "7c398356",
+      "sequence": 404,
+      "source_line": 761,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "って…いかんいかん…<br>他人と自分を比べるなって言われたばかりなのに",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:762:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 405,
+      "source_line": 762,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

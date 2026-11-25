@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch03-02.part04",
+  "script": "ch03-02",
+  "chapter": "ch03",
+  "story_phase": "후반·위기와 결말",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch03-02:587:39d841ca",
+        "speaker_id": "mis",
+        "speaker_name": "미샤",
+        "ja": "さーな<br>でも儀式を受けることが嫌なら 他の方法を探さないと",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-02:588:6c7db714",
+        "speaker_id": "mis",
+        "speaker_name": "미샤",
+        "ja": "マナ操作の感覚とか 基本的なことを<br>全く理解してない状態で",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-02:589:12ef21f2",
+        "speaker_id": "mis",
+        "speaker_name": "미샤",
+        "ja": "命をかけてマナクラフトをしてる連中に<br>『こういうノンクラフトを作ってください』って<br>頼みにいくしかないぞ",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-02:590:b3d6734f",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "…………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-02:592:2ca7f7e1",
+        "speaker_id": "mis",
+        "speaker_name": "미샤",
+        "ja": "そんなんじゃいつまで経っても<br>自分のやりたいことはできないと思うけどね",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch03-02:594:c2d971b5",
+      "source_hash": "c2d971b5",
+      "sequence": 300,
+      "source_line": 594,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "し しかし…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:596:d8e62c26",
+      "source_hash": "d8e62c26",
+      "sequence": 301,
+      "source_line": 596,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "あんまりドラマチックなこと言いたくないんだけどさ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:597:9a2a6155",
+      "source_hash": "9a2a6155",
+      "sequence": 302,
+      "source_line": 597,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "『全てを失っても構わない』って―――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:598:c3c26aa1",
+      "source_hash": "c3c26aa1",
+      "sequence": 303,
+      "source_line": 598,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "ちょっとでも思えるようになると……結構楽になるぜ？",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

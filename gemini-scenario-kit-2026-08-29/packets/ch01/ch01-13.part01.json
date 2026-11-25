@@ -1,0 +1,845 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-13.part01",
+  "script": "ch01-13",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch01-13:13:d88beaa2",
+      "source_hash": "d88beaa2",
+      "sequence": 0,
+      "source_line": 13,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ああ…頭の中のぐちゃぐちゃが止まらない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:14:3b72c87b",
+      "source_hash": "3b72c87b",
+      "sequence": 1,
+      "source_line": 14,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "日記をこれ以上汚すのも気が引けるから<br>今日はこれくらいにしておこうかな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:16:cc82a2c1",
+      "source_hash": "cc82a2c1",
+      "sequence": 2,
+      "source_line": 16,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "というか 夜が更けてもうかなり経つから<br>そろそろ寝たほうがいいんだろうけど…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:17:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 3,
+      "source_line": 17,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:19:4de3b3c2",
+      "source_hash": "4de3b3c2",
+      "sequence": 4,
+      "source_line": 19,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "全然眠れそうにない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:21:5db1234d",
+      "source_hash": "5db1234d",
+      "sequence": 5,
+      "source_line": 21,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そういえば 最近本を全然読んでないな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:22:ed7cd037",
+      "source_hash": "ed7cd037",
+      "sequence": 6,
+      "source_line": 22,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "忙しくてそれどころじゃなかったからな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:37:f1bb19cc",
+      "source_hash": "f1bb19cc",
+      "sequence": 7,
+      "source_line": 37,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "『ウォール街に住む若奥様達の日記シリーズ』",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:38:73cd19ae",
+      "source_hash": "73cd19ae",
+      "sequence": 8,
+      "source_line": 38,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "このシリーズは趣味が悪いという人もいる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:39:cfd7202a",
+      "source_hash": "cfd7202a",
+      "sequence": 9,
+      "source_line": 39,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "昔の人達とはいえ<br>他人の日記を盗み読みしているわけだから<br>窃視症を助長するのではないかという考えがある",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:40:a5469270",
+      "source_hash": "a5469270",
+      "sequence": 10,
+      "source_line": 40,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "しかし 僕はそうは思わない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:41:3cdef441",
+      "source_hash": "3cdef441",
+      "sequence": 11,
+      "source_line": 41,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なぜならこのシリーズに関しては<br>『ペンクラフト』が駆使されているからだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:43:d75a51dc",
+      "source_hash": "d75a51dc",
+      "sequence": 12,
+      "source_line": 43,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "例え書かれている文字や表現が時とともに<br>廃れてしまっても ペンクラフトを使えばマナと<br>インクを駆使して『意志』を紙に刻みこむことができる",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:47:487d9ee7",
+      "source_hash": "487d9ee7",
+      "sequence": 13,
+      "source_line": 47,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "文字を通じ 光として浮上する 過去の軌跡――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:48:6a0ac438",
+      "source_hash": "6a0ac438",
+      "sequence": 14,
+      "source_line": 48,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それは時間が経過しても 想いを後世に残したいという<br>意志の表れだと思うのだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:49:de0f1314",
+      "source_hash": "de0f1314",
+      "sequence": 15,
+      "source_line": 49,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そんな想いで書かれている日記なら<br>きっと書いた人達もいろんな人に読んでもらいたい<br>という願望がどこかにあったに違いない",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:50:665515cd",
+      "source_hash": "665515cd",
+      "sequence": 16,
+      "source_line": 50,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "自分だけのために書き記すなら<br>そんな技術使わなくていいのだから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:51:27165307",
+      "source_hash": "27165307",
+      "sequence": 17,
+      "source_line": 51,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "その人達はどんな想いで日々を生きていたのか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:52:98dabb1e",
+      "source_hash": "98dabb1e",
+      "sequence": 18,
+      "source_line": 52,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕たちは この同じ土地で<br>同じ空気を吸い 同じ水を飲み暮らしている",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:53:e987239d",
+      "source_hash": "e987239d",
+      "sequence": 19,
+      "source_line": 53,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "違うのは 時間という軸のみ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:54:2bbbfb22",
+      "source_hash": "2bbbfb22",
+      "sequence": 20,
+      "source_line": 54,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ルゼンハイド国民であるということは<br>一体どういうことなのか―――",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:55:fc2e2414",
+      "source_hash": "fc2e2414",
+      "sequence": 21,
+      "source_line": 55,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "その答えは『時』の中にある",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:56:e4907a79",
+      "source_hash": "e4907a79",
+      "sequence": 22,
+      "source_line": 56,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "『時』という濾過器を通しても残り続ける文化こそが<br>確固たる『ルゼンハイド』の性質であり<br>今を生きる僕たちの基盤を作っている",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:57:28cadae7",
+      "source_hash": "28cadae7",
+      "sequence": 23,
+      "source_line": 57,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "考えるだけで いてもたってもいられなくなる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:58:f44479fd",
+      "source_hash": "f44479fd",
+      "sequence": 24,
+      "source_line": 58,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それは果てしなく尊いものだと 僕は思うのだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:59:6e7c164c",
+      "source_hash": "6e7c164c",
+      "sequence": 25,
+      "source_line": 59,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:77:e6f2cb94",
+      "source_hash": "e6f2cb94",
+      "sequence": 26,
+      "source_line": 77,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "だからだろう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:78:7a7c68a2",
+      "source_hash": "7a7c68a2",
+      "sequence": 27,
+      "source_line": 78,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ラインヴァスタみたいな軽率な人間を見ると<br>無性に腹が立つ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:79:4e029bd5",
+      "source_hash": "4e029bd5",
+      "sequence": 28,
+      "source_line": 79,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "文化や伝統を重んじない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:80:33be45a5",
+      "source_hash": "33be45a5",
+      "sequence": 29,
+      "source_line": 80,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あいつの行動は 我々の先祖達の絶え間ない歩みに<br>唾をかけるような態度に見えてならない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:82:73a40658",
+      "source_hash": "73a40658",
+      "sequence": 30,
+      "source_line": 82,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なんであんなガサツなやつから<br>こんな繊細なものが出てくるんだ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:84:8ccdf197",
+      "source_hash": "8ccdf197",
+      "sequence": 31,
+      "source_line": 84,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "世の中は不公平だ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:86:272e8f0",
+      "source_hash": "272e8f0",
+      "sequence": 32,
+      "source_line": 86,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "もらったオブジェを手に取ってみる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:87:d11321e2",
+      "source_hash": "d11321e2",
+      "sequence": 33,
+      "source_line": 87,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そしてやはりその中にフローラ様の姿がないことに<br>少しだけ肩が落ちる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:90:f8bf2d92",
+      "source_hash": "f8bf2d92",
+      "sequence": 34,
+      "source_line": 90,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "フローラ様…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:92:3597e6f7",
+      "source_hash": "3597e6f7",
+      "sequence": 35,
+      "source_line": 92,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "つい数日前に会ったのに 遠い昔のような気がしてならない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:94:dba51547",
+      "source_hash": "dba51547",
+      "sequence": 36,
+      "source_line": 94,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ああ…光もちょっとでいいから余韻みたいなのが<br>残ればいいのになー…残り香みたいに……なんちゃって",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:96:351b94e",
+      "source_hash": "351b94e",
+      "sequence": 37,
+      "source_line": 96,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ああ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:97:6c3c1a04",
+      "source_hash": "6c3c1a04",
+      "sequence": 38,
+      "source_line": 97,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "フローラ様と会いたい…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:98:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 39,
+      "source_line": 98,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:100:560daf7d",
+      "source_hash": "560daf7d",
+      "sequence": 40,
+      "source_line": 100,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…ん？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:102:d5f7da41",
+      "source_hash": "d5f7da41",
+      "sequence": 41,
+      "source_line": 102,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あれ？ ちょっと違うかな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:103:d02facfb",
+      "source_hash": "d02facfb",
+      "sequence": 42,
+      "source_line": 103,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "会いたくないわけじゃないけど どちらかというと…<br>見たいんだ 彼女の姿を",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:105:fc16d647",
+      "source_hash": "fc16d647",
+      "sequence": 43,
+      "source_line": 105,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "それだけで元気が出るような気がするから",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:107:9c9e1c8d",
+      "source_hash": "9c9e1c8d",
+      "sequence": 44,
+      "source_line": 107,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そう…それだけでいいんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:109:cb561c1d",
+      "source_hash": "cb561c1d",
+      "sequence": 45,
+      "source_line": 109,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そのうちフローラ様の肖像画を描いてみたかった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:110:252d8e03",
+      "source_hash": "252d8e03",
+      "sequence": 46,
+      "source_line": 110,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そうしたら いつでも見れるから",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:113:4e313d56",
+      "source_hash": "4e313d56",
+      "sequence": 47,
+      "source_line": 113,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ここに写ってたんだよなー…<br>無数のフローラ様が",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:115:8fe06faf",
+      "source_hash": "8fe06faf",
+      "sequence": 48,
+      "source_line": 115,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "後世に残す…彼女の姿を…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:116:9f3163c2",
+      "source_hash": "9f3163c2",
+      "sequence": 49,
+      "source_line": 116,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "それが僕の意志だったはず…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:118:d92a144c",
+      "source_hash": "d92a144c",
+      "sequence": 50,
+      "source_line": 118,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そう 結局僕がやりたいことは……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:127:e12522d9",
+      "source_hash": "e12522d9",
+      "sequence": 51,
+      "source_line": 127,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "！！！！！！！！！！！！！！！！！！！！！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:130:14ff09db",
+      "source_hash": "14ff09db",
+      "sequence": 52,
+      "source_line": 130,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:132:8729b528",
+      "source_hash": "8729b528",
+      "sequence": 53,
+      "source_line": 132,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ま 待てよ…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:134:92494214",
+      "source_hash": "92494214",
+      "sequence": 54,
+      "source_line": 134,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "意志を…光に集める…<br>光として…残す……？？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:136:fafc2661",
+      "source_hash": "fafc2661",
+      "sequence": 55,
+      "source_line": 136,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………………………………………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:138:3b0246b3",
+      "source_hash": "3b0246b3",
+      "sequence": 56,
+      "source_line": 138,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ま まてまてまてまて………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:152:f1c4d3ce",
+      "source_hash": "f1c4d3ce",
+      "sequence": 57,
+      "source_line": 152,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "文字に意志を込めて 光として残す…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:153:50df60b7",
+      "source_hash": "50df60b7",
+      "sequence": 58,
+      "source_line": 153,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "その原理は……『ペンクラフト』…って<br>ここにあるじゃないか！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:154:43244474",
+      "source_hash": "43244474",
+      "sequence": 59,
+      "source_line": 154,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "文字でなら 現にできているんだ…！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:155:852085ba",
+      "source_hash": "852085ba",
+      "sequence": 60,
+      "source_line": 155,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "文字の意志が…光として浮かび上がるんだ…<br>絵でできない理由は…？？？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:168:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 61,
+      "source_line": 168,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:169:4b3b2b8",
+      "source_hash": "4b3b2b8",
+      "sequence": 62,
+      "source_line": 169,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "も もし…もしもだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:170:868f3faa",
+      "source_hash": "868f3faa",
+      "sequence": 63,
+      "source_line": 170,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "もし…ペンクラフトの原理を利用して<br>文字じゃなくて僕の『想像』を<br>『絵』として込めることができれば…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-13:174:a24432aa",
+      "source_hash": "a24432aa",
+      "sequence": 64,
+      "source_line": 174,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "――――もしそんなことができたとしたら…！？",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

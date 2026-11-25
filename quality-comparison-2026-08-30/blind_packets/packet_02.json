@@ -1,0 +1,983 @@
+{
+  "schema_version": 1,
+  "instructions": "Judge A and B only against Japanese and raw-catalog context. Do not infer provider. Scores 0-4: fidelity, naturalness, directed_voice, no_unsupported_addition. preferred=A/B/tie.",
+  "entries": [
+    {
+      "uid": "ch01-05d:71:6091fb77",
+      "script": "ch01-05d",
+      "line_index": 71,
+      "source_hash": "6091fb77",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 68,
+          "speaker_id": "",
+          "ja": "これ以上続けても愚痴をこぼすだけになるから、今日はこのへんにしておこうと思います。"
+        },
+        {
+          "line_index": 69,
+          "speaker_id": "",
+          "ja": "やっと連日書くのを続けられたのにいきなり弱気なことをうじうじとごめんね。<br>"
+        }
+      ],
+      "ja": "<tip=\"vilserio\">イシュタ＝ヴォストーロ</tip>",
+      "context_after": [],
+      "candidate_A": "<tip=\"vilserio\">이슈타 보스토로</tip>",
+      "candidate_B": "<tip=\"vilserio\">이슈타 보스토로</tip>"
+    },
+    {
+      "uid": "ch01-06:70:d1ce0617",
+      "script": "ch01-06",
+      "line_index": 70,
+      "source_hash": "d1ce0617",
+      "speaker_id": "???",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 68,
+          "speaker_id": "???",
+          "ja": "加工物よりその地で採れた生のままの作物こそが<br>国の真の宝であるべきではないでしょうか！？"
+        },
+        {
+          "line_index": 69,
+          "speaker_id": "???",
+          "ja": "愚の骨頂！ 我々ルゼンハイドの民は<br>国としてのプライドを失いつつある！"
+        }
+      ],
+      "ja": "他国の焼き菓子文化にうつつを抜かしてるようじゃ…",
+      "context_after": [
+        {
+          "line_index": 72,
+          "speaker_id": "oug",
+          "ja": "突然押しかけてきて 価値観まで押し付けるんじゃねえ！<br>トーシロがわかったような口きくな！"
+        },
+        {
+          "line_index": 73,
+          "speaker_id": "oug",
+          "ja": "お前が果樹園のことを勉強してるのもわかったし<br>熱意も十分伝わったが 物事には順序ってものがあるんだ"
+        }
+      ],
+      "candidate_A": "다른 나라의 구운 과자 문화에 정신이 팔려서는…",
+      "candidate_B": "타국의 구움과자 문화 따위에 정신이 팔려 있어서야…"
+    },
+    {
+      "uid": "ch01-06:189:4af1758a",
+      "script": "ch01-06",
+      "line_index": 189,
+      "source_hash": "4af1758a",
+      "speaker_id": "oug",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "3+ speaker window",
+        "large A/B length disparity"
+      ],
+      "context_before": [
+        {
+          "line_index": 185,
+          "speaker_id": "oug",
+          "ja": "どうかなされたのですか？<br>こんな朝早くにお越しなさるとは珍しいですね"
+        },
+        {
+          "line_index": 188,
+          "speaker_id": "flo",
+          "ja": "えっと 今日はちょっと報告があります…"
+        }
+      ],
+      "ja": "報告？",
+      "context_after": [
+        {
+          "line_index": 191,
+          "speaker_id": "flo",
+          "ja": "はい 実は 暫く前から国内で<br><tip=\"beare\">ラック・ビーアル</tip>の被害が相次いでおります"
+        },
+        {
+          "line_index": 193,
+          "speaker_id": "oug",
+          "ja": "ビーアル…？？<br>国内って…ファームリングのほうではなく？"
+        }
+      ],
+      "candidate_A": "보고요?",
+      "candidate_B": "알려 줄 일?"
+    },
+    {
+      "uid": "ch01-06:239:82f6790d",
+      "script": "ch01-06",
+      "line_index": 239,
+      "source_hash": "82f6790d",
+      "speaker_id": "oug",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 237,
+          "speaker_id": "flo",
+          "ja": "オグズ様、今回の件は内容が内容です<br>情報の共有は最低限でお願い致します"
+        },
+        {
+          "line_index": 238,
+          "speaker_id": "flo",
+          "ja": "パニックを起こしたくないので"
+        }
+      ],
+      "ja": "承知しております<br>いまのところ 果樹園で勤務してる者だけに<br>とどめておきます",
+      "context_after": [
+        {
+          "line_index": 241,
+          "speaker_id": "oug",
+          "ja": "以上で宜しいでしょうかね<br>セレンハイド様"
+        },
+        {
+          "line_index": 243,
+          "speaker_id": "flo",
+          "ja": "はい 本日はご協力感謝いたします"
+        }
+      ],
+      "candidate_A": "잘 알고 있습니다.<br>현재로서는 과수원에 근무하는 자들로만<br>한정해 두겠습니다.",
+      "candidate_B": "알고 있습니다.<br>지금은 과수원에서 일하는 사람들에게만<br>알리겠습니다."
+    },
+    {
+      "uid": "ch01-06:246:e0cc7c0f",
+      "script": "ch01-06",
+      "line_index": 246,
+      "source_hash": "e0cc7c0f",
+      "speaker_id": "oug",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "Gemini issue record",
+        "3+ speaker window"
+      ],
+      "context_before": [
+        {
+          "line_index": 243,
+          "speaker_id": "flo",
+          "ja": "はい 本日はご協力感謝いたします"
+        },
+        {
+          "line_index": 245,
+          "speaker_id": "flo",
+          "ja": "イシュタリアーナ＝ヴィルセリオ"
+        }
+      ],
+      "ja": "イスタリアーナ＝ビルセリオ",
+      "context_after": [
+        {
+          "line_index": 254,
+          "speaker_id": "flo",
+          "ja": "ねえ カージ君<br>ちょっといいかな？"
+        },
+        {
+          "line_index": 256,
+          "speaker_id": "kaj",
+          "ja": "え は はい"
+        }
+      ],
+      "candidate_A": "이스타리아나 빌세리오.",
+      "candidate_B": "이스타리아나 빌세리오."
+    },
+    {
+      "uid": "ch01-06:318:16927",
+      "script": "ch01-06",
+      "line_index": 318,
+      "source_hash": "16927",
+      "speaker_id": "flo",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 315,
+          "speaker_id": "kaj",
+          "ja": "で では み ミィシャさんに伝えないと！<br>止り木のみんなが危ない！！"
+        },
+        {
+          "line_index": 317,
+          "speaker_id": "flo",
+          "ja": "伝えたわよ！！！"
+        }
+      ],
+      "ja": "そしたらあいつら<br>なんて言ったと思う！？！？！？！？",
+      "context_after": [
+        {
+          "line_index": 337,
+          "speaker_id": "mis",
+          "ja": "ああ…ああ…そうね<br>ビーアルね"
+        },
+        {
+          "line_index": 338,
+          "speaker_id": "rig",
+          "ja": "街のほうにまで出てくる強者が出てきたか…"
+        }
+      ],
+      "candidate_A": "그랬더니 그 녀석들,<br>뭐라고 했는지 알아?!?!?!",
+      "candidate_B": "그랬더니 그 녀석들이<br>뭐라고 했는지 알아!?!?!?!?"
+    },
+    {
+      "uid": "ch01-06:469:f39d31d9",
+      "script": "ch01-06",
+      "line_index": 469,
+      "source_hash": "f39d31d9",
+      "speaker_id": "flo",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "ruby semantic risk"
+      ],
+      "context_before": [
+        {
+          "line_index": 466,
+          "speaker_id": "kaj",
+          "ja": "…そ そうですよね…"
+        },
+        {
+          "line_index": 468,
+          "speaker_id": "flo",
+          "ja": "勘違いしないでね？<br>別に嫌われることが怖いんじゃない"
+        }
+      ],
+      "ja": "<ruby=\"止り木の\">あそこにいる</ruby>全員を敵に回してでも<br>私はみんなの安全を死守する責任があると思うの…<br>セレンハイドとして",
+      "context_after": [
+        {
+          "line_index": 470,
+          "speaker_id": "kaj",
+          "ja": "…………"
+        },
+        {
+          "line_index": 472,
+          "speaker_id": "flo",
+          "ja": "でもね…まだ この程度のことで<br>いちいちセレンハイドの名前を振りかざしたくないのよ…"
+        }
+      ],
+      "candidate_A": "<ruby=\"횃대의\">그곳에 있는</ruby> 모두를 적으로 돌리더라도<br>나는 모두의 안전을 사수할 책임이 있다고 생각해…<br>세렌하이드로서.",
+      "candidate_B": "<ruby=\"止り木の\">그곳에 있는</ruby> 전원을 적으로 돌려서라도<br>나는 모두의 안전을 사수할 책임이 있다고 봐…<br>세렌하이드로서."
+    },
+    {
+      "uid": "ch01-06:476:b3d6734f",
+      "script": "ch01-06",
+      "line_index": 476,
+      "source_hash": "b3d6734f",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 472,
+          "speaker_id": "flo",
+          "ja": "でもね…まだ この程度のことで<br>いちいちセレンハイドの名前を振りかざしたくないのよ…"
+        },
+        {
+          "line_index": 474,
+          "speaker_id": "flo",
+          "ja": "なにかある度にそんなことしてたら<br>本当に家柄を振りかざすしか脳のない<br>嫌味な貴族様になっちゃうからね"
+        }
+      ],
+      "ja": "…………",
+      "context_after": [
+        {
+          "line_index": 478,
+          "speaker_id": "flo",
+          "ja": "ね ねえ…カージ君！<br>矛盾してること覚悟で ちょっとだけ…<br>ちょっとだけ手伝ってくれないかな？"
+        },
+        {
+          "line_index": 480,
+          "speaker_id": "kaj",
+          "ja": "え…は はい？<br>ぼ 僕が手伝いですか？"
+        }
+      ],
+      "candidate_A": "…………",
+      "candidate_B": "…………"
+    },
+    {
+      "uid": "ch01-07:37:a6c1c448",
+      "script": "ch01-07",
+      "line_index": 37,
+      "source_hash": "a6c1c448",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 21,
+          "speaker_id": "kaj",
+          "ja": "ミィシャさん！<br>余り物の果物を持ってきました！"
+        }
+      ],
+      "ja": "…………",
+      "context_after": [
+        {
+          "line_index": 40,
+          "speaker_id": "",
+          "ja": "ってあれ おかしいな…"
+        },
+        {
+          "line_index": 41,
+          "speaker_id": "",
+          "ja": "止まり木に人がほとんどいないなんて<br>珍しいこともあるもんだ"
+        }
+      ],
+      "candidate_A": "…………",
+      "candidate_B": "…………"
+    },
+    {
+      "uid": "ch01-07:113:e97d459a",
+      "script": "ch01-07",
+      "line_index": 113,
+      "source_hash": "e97d459a",
+      "speaker_id": "",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "Gemini issue record"
+      ],
+      "context_before": [
+        {
+          "line_index": 107,
+          "speaker_id": "",
+          "ja": "色塗りまでする時間はないから<br>今日は素描までにしておくか"
+        },
+        {
+          "line_index": 112,
+          "speaker_id": "kaj",
+          "ja": "あ あれ？<br>誰だ…あの子…"
+        }
+      ],
+      "ja": "クロックス候補生の制服を着てる…！！",
+      "context_after": [
+        {
+          "line_index": 114,
+          "speaker_id": "kaj",
+          "ja": "ん…？ よく見ると…"
+        },
+        {
+          "line_index": 115,
+          "speaker_id": "kaj",
+          "ja": "…………"
+        }
+      ],
+      "candidate_A": "클록스 후보생 제복을 입고 있어…!!",
+      "candidate_B": "클록스 후보생 제복을 입고 있어…!!"
+    },
+    {
+      "uid": "ch01-07:162:ed7aa334",
+      "script": "ch01-07",
+      "line_index": 162,
+      "source_hash": "ed7aa334",
+      "speaker_id": "dil",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "ruby semantic risk",
+        "3+ speaker window"
+      ],
+      "context_before": [
+        {
+          "line_index": 158,
+          "speaker_id": "wig",
+          "ja": "この人は確か オバーグ果樹園のご子息……！<br>確か名前はカージさんだったかな？"
+        },
+        {
+          "line_index": 159,
+          "speaker_id": "wig",
+          "ja": "我々より２つほど上で…<br>セレンハイド様やラインヴァスタ嬢と同期のはず"
+        }
+      ],
+      "ja": "こ こんなやつがあの渋い<ruby=\"おっちゃん\">オグズ</ruby>の息子なのかよ…！？",
+      "context_after": [
+        {
+          "line_index": 165,
+          "speaker_id": "jil",
+          "ja": "……イ イメージと全然違うね…"
+        },
+        {
+          "line_index": 168,
+          "speaker_id": "kaj",
+          "ja": "え ちょ ちょっと！<br>ぼ 僕ってそんなに見るからに怪しいやつなの！？"
+        }
+      ],
+      "candidate_A": "이, 이런 녀석이 그 중후한 <ruby=\"아저씨\">오그즈</ruby> 아저씨 아들이라고…!?",
+      "candidate_B": "이, 이런 녀석이 그 중후한 <ruby=\"おっちゃん\">오그즈</ruby>의 아들이라고…!?"
+    },
+    {
+      "uid": "ch01-07:257:9cac4288",
+      "script": "ch01-07",
+      "line_index": 257,
+      "source_hash": "9cac4288",
+      "speaker_id": "dil",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "Gemini issue record",
+        "3+ speaker window"
+      ],
+      "context_before": [
+        {
+          "line_index": 252,
+          "speaker_id": "jil",
+          "ja": "ビーアルって言ったら<br>ルゼンハイドで最も獰猛な野生動物なんだよ？？"
+        },
+        {
+          "line_index": 254,
+          "speaker_id": "jil",
+          "ja": "毎年必ず何人か死人が出てるし…！"
+        }
+      ],
+      "ja": "お前も 曲がりなりにもクロックス候補生だろーが",
+      "context_after": [
+        {
+          "line_index": 258,
+          "speaker_id": "dil",
+          "ja": "いざとなったら 動物くらいクラフトでなんとかしろよ"
+        },
+        {
+          "line_index": 260,
+          "speaker_id": "jil",
+          "ja": "せ 戦闘のために入ったわけじゃないよ 僕は！"
+        }
+      ],
+      "candidate_A": "너도 명색이 클록스 후보생이잖아.",
+      "candidate_B": "너도 명색이 클록스 후보생이잖냐."
+    },
+    {
+      "uid": "ch01-07:560:e41944a6",
+      "script": "ch01-07",
+      "line_index": 560,
+      "source_hash": "e41944a6",
+      "speaker_id": "qua",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "ruby semantic risk",
+        "3+ speaker window"
+      ],
+      "context_before": [
+        {
+          "line_index": 556,
+          "speaker_id": "dil",
+          "ja": "考え？"
+        },
+        {
+          "line_index": 558,
+          "speaker_id": "qua",
+          "ja": "ねえワイトンさ…今夜確かあれ…会合あったよね？"
+        }
+      ],
+      "ja": "トスカ<ruby=\"お父さん\">おじ様</ruby>に頼んで<br>一度ランヴァイズさんに会ってもらったら？",
+      "context_after": [
+        {
+          "line_index": 566,
+          "speaker_id": "kaj",
+          "ja": "……………"
+        },
+        {
+          "line_index": 568,
+          "speaker_id": "kaj",
+          "ja": "あのーちょっとごめんね<br>やっぱり僕 疲れてるのかもしれない…"
+        }
+      ],
+      "candidate_A": "토스카 <ruby=\"아버지\">아저씨</ruby>께 부탁해서<br>란바이즈 씨를 한 번 만나 보면 어때?",
+      "candidate_B": "토스카 <ruby=\"お父さん\">아저씨</ruby>에게 부탁해서<br>한번 란바이즈 씨를 만나 보게 하는 건 어때?"
+    },
+    {
+      "uid": "ch01-07:582:f830673d",
+      "script": "ch01-07",
+      "line_index": 582,
+      "source_hash": "f830673d",
+      "speaker_id": "wig",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "Gemini issue record",
+        "3+ speaker window"
+      ],
+      "context_before": [
+        {
+          "line_index": 579,
+          "speaker_id": "jil",
+          "ja": "ぼ、僕も聞いたことない…かも…"
+        },
+        {
+          "line_index": 581,
+          "speaker_id": "wig",
+          "ja": "マジかよ二人とも…"
+        }
+      ],
+      "ja": "クロックスの一員として『ルゼンハイド』の<br>ミドルネームをもらってる貴族くらいは覚えておこうよ…",
+      "context_after": [
+        {
+          "line_index": 587,
+          "speaker_id": "kaj",
+          "ja": "……………"
+        },
+        {
+          "line_index": 588,
+          "speaker_id": "kaj",
+          "ja": "ラ ランヴァイズって…<br>アトリエ・ルゼンハイドの最高責任者…"
+        }
+      ],
+      "candidate_A": "클록스의 일원이라면 『루젠하이드』라는<br>미들 네임을 받은 귀족 정도는 알아 두자…",
+      "candidate_B": "클록스의 일원으로서 '루젠하이드'라는<br>미들네임을 하사받은 귀족 정도는 외워 두자고…"
+    },
+    {
+      "uid": "ch01-07:689:6682e80",
+      "script": "ch01-07",
+      "line_index": 689,
+      "source_hash": "6682e80",
+      "speaker_id": "jil",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 685,
+          "speaker_id": "dil",
+          "ja": "本人がいやだって言ってるなら別にいいんじゃね…<br>そこまでやる気ねーんだろ"
+        },
+        {
+          "line_index": 686,
+          "speaker_id": "dil",
+          "ja": "どうせ絵だって<br>果樹園のおぼっちゃんの気まぐれってやつだろ？"
+        }
+      ],
+      "ja": "べ 別にクラウさんに会わなくても絵は描けると思うけど…",
+      "context_after": [
+        {
+          "line_index": 692,
+          "speaker_id": "kaj",
+          "ja": "！！！"
+        },
+        {
+          "line_index": 693,
+          "speaker_id": "kaj",
+          "ja": "ち 違う…僕は…"
+        }
+      ],
+      "candidate_A": "굳, 굳이 크라우 씨를 안 만나도 그림은 그릴 수 있다고 생각하지만…",
+      "candidate_B": "벼, 별로 크라우 씨를 만나지 않아도 그림은 그릴 수 있지만…"
+    },
+    {
+      "uid": "ch01-07:841:31f405b0",
+      "script": "ch01-07",
+      "line_index": 841,
+      "source_hash": "31f405b0",
+      "speaker_id": "wig",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 838,
+          "speaker_id": "kaj",
+          "ja": "あ あいつはいいんだよ！ 着任してないんだから！"
+        },
+        {
+          "line_index": 839,
+          "speaker_id": "kaj",
+          "ja": "ってか そもそも降りるとか言って揉めてるから<br>大変なことになってるんだろう いま！"
+        }
+      ],
+      "ja": "しかし 着任するしないは形式的なものであって<br>伝統的に見れば高貴な血筋であることは<br>変わらないでしょう？",
+      "context_after": [
+        {
+          "line_index": 843,
+          "speaker_id": "wig",
+          "ja": "カージさんの中では どのラインから<br>尊厳が生まれるんですか？"
+        },
+        {
+          "line_index": 847,
+          "speaker_id": "kaj",
+          "ja": "称号を得て 正式にガーディアンになってからだ！"
+        }
+      ],
+      "candidate_A": "하지만 취임 여부는 형식적인 문제이고<br>전통적으로 보아 고귀한 혈통이라는 점은<br>달라지지 않잖아요?",
+      "candidate_B": "하지만 착임 여부는 형식적인 것이고,<br>전통적인 관점으로 보면 고귀한 혈통이라는 점은<br>변함없지 않나요?"
+    },
+    {
+      "uid": "ch01-07:918:8a94b077",
+      "script": "ch01-07",
+      "line_index": 918,
+      "source_hash": "8a94b077",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "3+ speaker window",
+        "large A/B length disparity"
+      ],
+      "context_before": [
+        {
+          "line_index": 913,
+          "speaker_id": "wig",
+          "ja": "とりあえず会わせてあげたいかな…<br>ダメもとでも 一応約束しちゃったから"
+        },
+        {
+          "line_index": 915,
+          "speaker_id": "tos",
+          "ja": "そうか だったらさっさと済ませるか 少年<br>持病が悪くならないうちにな"
+        }
+      ],
+      "ja": "ぜ ぜぇぜぇ…",
+      "context_after": [
+        {
+          "line_index": 920,
+          "speaker_id": "tos",
+          "ja": "おおうい クラウ！ちょっといいか？<br>さっき話してた少年 来てるぞ！"
+        },
+        {
+          "line_index": 922,
+          "speaker_id": "kaj",
+          "ja": "あぁ…あ…ぁあああああぁぁっぁぁぁっぁぁ"
+        }
+      ],
+      "candidate_A": "허, 헉헉…",
+      "candidate_B": "헤, 헤엑, 헤엑…"
+    },
+    {
+      "uid": "ch01-07:1115:f6dc8e9d",
+      "script": "ch01-07",
+      "line_index": 1115,
+      "source_hash": "f6dc8e9d",
+      "speaker_id": "wig",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "3+ speaker window",
+        "large A/B length disparity"
+      ],
+      "context_before": [
+        {
+          "line_index": 1110,
+          "speaker_id": "qla",
+          "ja": "本当に？<br>デッサンも変じゃない…と？"
+        },
+        {
+          "line_index": 1111,
+          "speaker_id": "kaj",
+          "ja": "え ええ 全然そんなふうには見えませんが…"
+        }
+      ],
+      "ja": "え…っ！！",
+      "context_after": [
+        {
+          "line_index": 1116,
+          "speaker_id": "tos",
+          "ja": "お おい…まじかよ少年<br>これが普通に見えるって？"
+        },
+        {
+          "line_index": 1118,
+          "speaker_id": "kaj",
+          "ja": "え？ ぼ 僕なにか変なこと言いました？"
+        }
+      ],
+      "candidate_A": "뭐…!",
+      "candidate_B": "에… 큭!!"
+    },
+    {
+      "uid": "ch01-07:1155:b92a358a",
+      "script": "ch01-07",
+      "line_index": 1155,
+      "source_hash": "b92a358a",
+      "speaker_id": "qla",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 1151,
+          "speaker_id": "kaj",
+          "ja": "は はい…その通りです"
+        },
+        {
+          "line_index": 1153,
+          "speaker_id": "qla",
+          "ja": "うーん…ちょっと見えてきたかな"
+        }
+      ],
+      "ja": "結論から言っちゃうけど 君は下手なんじゃなくて<br>何かがおかしいね…明らかに",
+      "context_after": [
+        {
+          "line_index": 1157,
+          "speaker_id": "qla",
+          "ja": "弟子入志願がすべて門前払いになるのもわかるし<br>6.9%っていう満場一致レベルでのマイナス評価も<br>納得がいく"
+        },
+        {
+          "line_index": 1159,
+          "speaker_id": "kaj",
+          "ja": "ど どういうことでしょうか？"
+        }
+      ],
+      "candidate_A": "결론부터 말하자면, 자네는 실력이 부족한 게 아니라<br>무언가가 이상하네… 명백하게.",
+      "candidate_B": "결론부터 말하자면 자네는 못 그리는 게 아니라<br>무언가가 이상해… 명백히."
+    },
+    {
+      "uid": "ch01-07:1307:4ee1154a",
+      "script": "ch01-07",
+      "line_index": 1307,
+      "source_hash": "4ee1154a",
+      "speaker_id": "qla",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "ruby semantic risk",
+        "3+ speaker window"
+      ],
+      "context_before": [
+        {
+          "line_index": 1303,
+          "speaker_id": "tos",
+          "ja": "ルゼンハイド…いや アライアンスのこの時代に抽象画で<br>肖像を描いたところで それを求めている人がいないんだよ"
+        },
+        {
+          "line_index": 1304,
+          "speaker_id": "wig",
+          "ja": "そ そうか…なるほど…！"
+        }
+      ],
+      "ja": "君の成長の余地や これらのモチベーションを潰してしまうかもしれないが…心を<ruby=\"悪魔\">セキュール</ruby>にして言わせてもらおう",
+      "context_after": [
+        {
+          "line_index": 1309,
+          "speaker_id": "qla",
+          "ja": "もし肖像画家を目指したいなら"
+        },
+        {
+          "line_index": 1315,
+          "speaker_id": "",
+          "ja": "―――君は プロは諦めたほうがいい"
+        }
+      ],
+      "candidate_A": "자네의 성장 여지나 앞으로의 동기부여를 꺾어 버리게 될지도 모르겠지만… 마음을 <ruby=\"悪魔\">세큐르</ruby>로 굳히고 말하도록 하지.",
+      "candidate_B": "자네의 성장 가능성과 이 모든 동기를 꺾을지도 모르지만… 마음을 <ruby=\"악마\">세큐르</ruby>처럼 모질게 먹고 말하겠네."
+    },
+    {
+      "uid": "ch01-08d:20:f7ae9609",
+      "script": "ch01-08d",
+      "line_index": 20,
+      "source_hash": "f7ae9609",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 19,
+          "speaker_id": "",
+          "ja": "ごめんね母さん"
+        }
+      ],
+      "ja": "今日はちょっと元気がなくて書けません<br>",
+      "context_after": [
+        {
+          "line_index": 22,
+          "speaker_id": "",
+          "ja": "もうだめかもしれない<br>"
+        },
+        {
+          "line_index": 24,
+          "speaker_id": "",
+          "ja": "だめ<br>"
+        }
+      ],
+      "candidate_A": "오늘은 조금 기운이 없어서 쓸 수가 없어요.<br>",
+      "candidate_B": "오늘은 기운이 좀 없어서 못 쓰겠어<br>"
+    },
+    {
+      "uid": "ch01-08d:22:f54d8c4c",
+      "script": "ch01-08d",
+      "line_index": 22,
+      "source_hash": "f54d8c4c",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 19,
+          "speaker_id": "",
+          "ja": "ごめんね母さん"
+        },
+        {
+          "line_index": 20,
+          "speaker_id": "",
+          "ja": "今日はちょっと元気がなくて書けません<br>"
+        }
+      ],
+      "ja": "もうだめかもしれない<br>",
+      "context_after": [
+        {
+          "line_index": 24,
+          "speaker_id": "",
+          "ja": "だめ<br>"
+        },
+        {
+          "line_index": 26,
+          "speaker_id": "",
+          "ja": "だめ<br>"
+        }
+      ],
+      "candidate_A": "이제 안 될지도 모르겠어요.<br>",
+      "candidate_B": "이젠 안 될지도 몰라<br>"
+    },
+    {
+      "uid": "ch01-08d:29:d6b09d94",
+      "script": "ch01-08d",
+      "line_index": 29,
+      "source_hash": "d6b09d94",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 26,
+          "speaker_id": "",
+          "ja": "だめ<br>"
+        },
+        {
+          "line_index": 28,
+          "speaker_id": "",
+          "ja": "あ<br>"
+        }
+      ],
+      "ja": "あ<br>",
+      "context_after": [],
+      "candidate_A": "아<br>",
+      "candidate_B": "아.<br>"
+    },
+    {
+      "uid": "ch01-09:86:a0a1b464",
+      "script": "ch01-09",
+      "line_index": 86,
+      "source_hash": "a0a1b464",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 81,
+          "speaker_id": "flo",
+          "ja": "だ 大丈夫…カージ君？ 今日は随分やつれてない…？"
+        },
+        {
+          "line_index": 84,
+          "speaker_id": "kaj",
+          "ja": "あ ふ フローラ様…！"
+        }
+      ],
+      "ja": "し 私服！",
+      "context_after": [
+        {
+          "line_index": 87,
+          "speaker_id": "",
+          "ja": "今日は私服なのですね！ 最近見れてなかった至福の私服！"
+        },
+        {
+          "line_index": 88,
+          "speaker_id": "kaj",
+          "ja": "ああ…フローラ様…あなたはなぜこう…<br>いつ見てもいいのですか…"
+        }
+      ],
+      "candidate_A": "사, 사복!",
+      "candidate_B": "사, 사복!"
+    },
+    {
+      "uid": "ch01-09:143:fe27e6f7",
+      "script": "ch01-09",
+      "line_index": 143,
+      "source_hash": "fe27e6f7",
+      "speaker_id": "flo",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 140,
+          "speaker_id": "rit",
+          "ja": "なぜ私まで連れ出されなきゃいかんのだ"
+        },
+        {
+          "line_index": 142,
+          "speaker_id": "flo",
+          "ja": "自分が作ったもので他の人が幸せになる瞬間でしょう？"
+        }
+      ],
+      "ja": "ちゃんと見届けなさいよ 最後まで",
+      "context_after": [
+        {
+          "line_index": 145,
+          "speaker_id": "rit",
+          "ja": "余計なお世話なんだけどな…"
+        },
+        {
+          "line_index": 147,
+          "speaker_id": "kaj",
+          "ja": "ん？ これは"
+        }
+      ],
+      "candidate_A": "똑똑히 지켜보라고, 끝까지.",
+      "candidate_B": "끝까지 똑똑히 지켜봐."
+    }
+  ]
+}

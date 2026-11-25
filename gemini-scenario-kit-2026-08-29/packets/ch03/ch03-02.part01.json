@@ -1,0 +1,1300 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch03-02.part01",
+  "script": "ch03-02",
+  "chapter": "ch03",
+  "story_phase": "후반·위기와 결말",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": [
+      {
+        "uid": "ch03-02:252:1a44f701",
+        "speaker_id": "mis",
+        "speaker_name": "미샤",
+        "ja": "おおおおおお！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-02:254:ec7665b9",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "なな…！？ あれ？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-02:255:323a80d0",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "さ さっきまでの強烈な匂いが…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-02:257:c18a5278",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "薄れているどころか<br>食欲をそそるほどまでの何かに進化している！？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-02:259:2bf65fca",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "え え！？ な なにが起こってるんですか これ！？",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch03-02:22:d3caeece",
+      "source_hash": "d3caeece",
+      "sequence": 0,
+      "source_line": 22,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "ふーん なるほど…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:23:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 1,
+      "source_line": 23,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:25:b28c835b",
+      "source_hash": "b28c835b",
+      "sequence": 2,
+      "source_line": 25,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "レンズもらっても うんともすんとも言わない始末でして…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:27:c87ff048",
+      "source_hash": "c87ff048",
+      "sequence": 3,
+      "source_line": 27,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "ほうほう…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:29:397bd28c",
+      "source_hash": "397bd28c",
+      "sequence": 4,
+      "source_line": 29,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "セルフィーネ姫のご提案は…断って正解だったと思います",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:30:4391f2e9",
+      "source_hash": "4391f2e9",
+      "sequence": 5,
+      "source_line": 30,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こんな姿 死んでも晒せないです…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:32:9a7150df",
+      "source_hash": "9a7150df",
+      "sequence": 6,
+      "source_line": 32,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "そうね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:33:b1fca5f6",
+      "source_hash": "b1fca5f6",
+      "sequence": 7,
+      "source_line": 33,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:35:bee76237",
+      "source_hash": "bee76237",
+      "sequence": 8,
+      "source_line": 35,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "あのさ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:37:a694315c",
+      "source_hash": "a694315c",
+      "sequence": 9,
+      "source_line": 37,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え は はい！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:39:f039ab5b",
+      "source_hash": "f039ab5b",
+      "sequence": 10,
+      "source_line": 39,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "悪いけど この話の続き―――<br>止り木でやっていいか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:41:e1a7c2c9",
+      "source_hash": "e1a7c2c9",
+      "sequence": 11,
+      "source_line": 41,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え え！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:64:e092c373",
+      "source_hash": "e092c373",
+      "sequence": 12,
+      "source_line": 64,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なな……！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:65:9de32675",
+      "source_hash": "9de32675",
+      "sequence": 13,
+      "source_line": 65,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "う うぁお………う……す すごい匂い",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:67:ec534feb",
+      "source_hash": "ec534feb",
+      "sequence": 14,
+      "source_line": 67,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "わかるぜ その顔<br>すげえ匂いだろ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:69:c53f9375",
+      "source_hash": "c53f9375",
+      "sequence": 15,
+      "source_line": 69,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え ええ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:70:512b57fd",
+      "source_hash": "512b57fd",
+      "sequence": 16,
+      "source_line": 70,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こ これってひょっとして…セボスですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:72:27f930b3",
+      "source_hash": "27f930b3",
+      "sequence": 17,
+      "source_line": 72,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "ああ ちょっと試したいことがあってな<br>３日ほど煮込むとこういう匂いになるみたいなんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:74:723dc7f1",
+      "source_hash": "723dc7f1",
+      "sequence": 18,
+      "source_line": 74,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "み ３日！？ ３日も煮込んでるんですか これ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:75:6f3f246",
+      "source_hash": "6f3f246",
+      "sequence": 19,
+      "source_line": 75,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "ああ しかも１日に１〜２回 古いやつ取り出して<br>新しいやついれて 灰汁を取ってって繰り返すんだぜ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:77:fe823e93",
+      "source_hash": "fe823e93",
+      "sequence": 20,
+      "source_line": 77,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "すげえ時間の無駄だろ？ 笑えるよな？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:79:676d12eb",
+      "source_hash": "676d12eb",
+      "sequence": 21,
+      "source_line": 79,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "きょ 強烈ですね…<br>セボスってそのままでもものすごい香りなのに",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:81:18b4baa7",
+      "source_hash": "18b4baa7",
+      "sequence": 22,
+      "source_line": 81,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "あー<br>食いづらいよな これ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:83:7eef4c5b",
+      "source_hash": "7eef4c5b",
+      "sequence": 23,
+      "source_line": 83,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "子供の頃死ぬほど嫌いだったわ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:85:dd5644ba",
+      "source_hash": "dd5644ba",
+      "sequence": 24,
+      "source_line": 85,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぼ 僕はいまでも苦手です…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:86:1f956f2a",
+      "source_hash": "1f956f2a",
+      "sequence": 25,
+      "source_line": 86,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ルゼンハイドじゃあまり使われない食品ですよね…<br>国民的に舌に合わないというか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:88:f65e1301",
+      "source_hash": "f65e1301",
+      "sequence": 26,
+      "source_line": 88,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "ははははは そうかもな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:90:7ecdbf93",
+      "source_hash": "7ecdbf93",
+      "sequence": 27,
+      "source_line": 90,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こ これはなにを作ってるんですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:91:8d23aecc",
+      "source_hash": "8d23aecc",
+      "sequence": 28,
+      "source_line": 91,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "見た目セボスだけ大量に煮ているように見えるのですが…<br>もしかして セボスの<ruby=\"出汁\">ストック</ruby>ですか？",
+      "required_tokens": [
+        "<br>",
+        "<ruby=\"出汁\">",
+        "</ruby>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:93:858df1dd",
+      "source_hash": "858df1dd",
+      "sequence": 29,
+      "source_line": 93,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "いや まんまこれがスープだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:95:c16c3039",
+      "source_hash": "c16c3039",
+      "sequence": 30,
+      "source_line": 95,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え………ええ！？ このまま飲むんですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:97:18b8d2da",
+      "source_hash": "18b8d2da",
+      "sequence": 31,
+      "source_line": 97,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "まあ もうちょい入れるものがあるけど<br>そうね これが基本だよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:99:4fd2514e",
+      "source_hash": "4fd2514e",
+      "sequence": 32,
+      "source_line": 99,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ま マジですか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:100:58137198",
+      "source_hash": "58137198",
+      "sequence": 33,
+      "source_line": 100,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ミィシャさん…こんなの飲むつもりなのか！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:101:90559398",
+      "source_hash": "90559398",
+      "sequence": 34,
+      "source_line": 101,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "熱で頭がイカれてしまったんじゃないだろうな！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:103:141347a",
+      "source_hash": "141347a",
+      "sequence": 35,
+      "source_line": 103,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "日が暮れる頃には終わるはずだ…<br>ちょっと手伝ってくれ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:105:4a312c53",
+      "source_hash": "4a312c53",
+      "sequence": 36,
+      "source_line": 105,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え まだ煮るの！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:107:562e2e44",
+      "source_hash": "562e2e44",
+      "sequence": 37,
+      "source_line": 107,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "安心しろ 終わったらちゃんと食わせてやるからさ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:109:84e131f2",
+      "source_hash": "84e131f2",
+      "sequence": 38,
+      "source_line": 109,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いやいやいやいやいやいや…ないかなこれは！？<br>いくらミィシャさんの料理でも！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:111:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 39,
+      "source_line": 111,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:113:ab891475",
+      "source_hash": "ab891475",
+      "sequence": 40,
+      "source_line": 113,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:115:7a428dc8",
+      "source_hash": "7a428dc8",
+      "sequence": 41,
+      "source_line": 115,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "へへへ…わかってるって<br>こんなんいらねーって思ってるんだろ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:118:74beb9a2",
+      "source_hash": "74beb9a2",
+      "sequence": 42,
+      "source_line": 118,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "まあ とりあえず騙されてくれ いまは",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:119:5560da92",
+      "source_hash": "5560da92",
+      "sequence": 43,
+      "source_line": 119,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "最後の最後で失敗したくねえんだ<br>お前の話はその後な",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:121:8e8c49a6",
+      "source_hash": "8e8c49a6",
+      "sequence": 44,
+      "source_line": 121,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい！わかりました",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:139:afcfd4fe",
+      "source_hash": "afcfd4fe",
+      "sequence": 45,
+      "source_line": 139,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な なんかもう鼻が曲がるのを通り越して<br>慣れてきてしまったぞ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:141:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 46,
+      "source_line": 141,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:142:cb799ffe",
+      "source_hash": "cb799ffe",
+      "sequence": 47,
+      "source_line": 142,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ それでも臭うけど…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:143:742fccaa",
+      "source_hash": "742fccaa",
+      "sequence": 48,
+      "source_line": 143,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:145:926a53ca",
+      "source_hash": "926a53ca",
+      "sequence": 49,
+      "source_line": 145,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "それにしても ミィシャさんすごい集中力だな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:147:b42567e4",
+      "source_hash": "b42567e4",
+      "sequence": 50,
+      "source_line": 147,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "おい カージ！ 今だ！ あれ もってこい あれ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:149:aba38800",
+      "source_hash": "aba38800",
+      "sequence": 51,
+      "source_line": 149,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:151:63bd8f91",
+      "source_hash": "63bd8f91",
+      "sequence": 52,
+      "source_line": 151,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "事前に言われていたスパイスが詰まった袋を手に取る",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:152:1ea2f716",
+      "source_hash": "1ea2f716",
+      "sequence": 53,
+      "source_line": 152,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ずしりと重い…<br>ただのスパイスの小袋じゃないことは確かだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:154:84371794",
+      "source_hash": "84371794",
+      "sequence": 54,
+      "source_line": 154,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "ふぅ……………いいか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:156:6c3e0588",
+      "source_hash": "6c3e0588",
+      "sequence": 55,
+      "source_line": 156,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "３日の苦労がパァになるか否か―――<br>ここが分かれ道だ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:158:c2ccaf61",
+      "source_hash": "c2ccaf61",
+      "sequence": 56,
+      "source_line": 158,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "いくぞ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:161:c7cffe1e",
+      "source_hash": "c7cffe1e",
+      "sequence": 57,
+      "source_line": 161,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な なにが起こるんだ！？<br>スパイスを入れて…？？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:165:fc09929",
+      "source_hash": "fc09929",
+      "sequence": 58,
+      "source_line": 165,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "火を超弱火に…そして蓋をして１０分くらいかな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:167:e28fb6bf",
+      "source_hash": "e28fb6bf",
+      "sequence": 59,
+      "source_line": 167,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "ふああああああ………お疲れ…！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:169:92d38fe9",
+      "source_hash": "92d38fe9",
+      "sequence": 60,
+      "source_line": 169,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "あとはオレがヘマしてなけりゃ これで終いさ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:171:c57bc316",
+      "source_hash": "c57bc316",
+      "sequence": 61,
+      "source_line": 171,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "お お疲れさまです",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:173:1d80598f",
+      "source_hash": "1d80598f",
+      "sequence": 62,
+      "source_line": 173,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "さてと―――レンズの話だったな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:175:b20c1dd",
+      "source_hash": "b20c1dd",
+      "sequence": 63,
+      "source_line": 175,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？ あ はい…そうでしたね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:176:235bb336",
+      "source_hash": "235bb336",
+      "sequence": 64,
+      "source_line": 176,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "自分でも忘れていた あまりにもすごい匂いだから",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:177:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 65,
+      "source_line": 177,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:179:be7c640a",
+      "source_hash": "be7c640a",
+      "sequence": 66,
+      "source_line": 179,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………あれ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:180:e6147863",
+      "source_hash": "e6147863",
+      "sequence": 67,
+      "source_line": 180,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "やっぱり鼻がおかしくなったのかな？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:181:99ff66c1",
+      "source_hash": "99ff66c1",
+      "sequence": 68,
+      "source_line": 181,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "きのせいか さっきより匂いが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:190:1146c8d6",
+      "source_hash": "1146c8d6",
+      "sequence": 69,
+      "source_line": 190,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "で 結局どこまでできたわけ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:192:d374cce1",
+      "source_hash": "d374cce1",
+      "sequence": 70,
+      "source_line": 192,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………え？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:194:75b61283",
+      "source_hash": "75b61283",
+      "sequence": 71,
+      "source_line": 194,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "え じゃねえよ レンズで絵描くって話",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:195:b9040148",
+      "source_hash": "b9040148",
+      "sequence": 72,
+      "source_line": 195,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "どこまでできてるわけ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:197:96a828e",
+      "source_hash": "96a828e",
+      "sequence": 73,
+      "source_line": 197,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ それが……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:198:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 74,
+      "source_line": 198,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:201:ee2c7919",
+      "source_hash": "ee2c7919",
+      "sequence": 75,
+      "source_line": 201,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "オレが思うに なにもできない―――だろ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:203:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 76,
+      "source_line": 203,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:204:7e05e90b",
+      "source_hash": "7e05e90b",
+      "sequence": 77,
+      "source_line": 204,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なんでわかるんですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:206:a28605e0",
+      "source_hash": "a28605e0",
+      "sequence": 78,
+      "source_line": 206,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "そら おまえ こちとら腐っても<br>クロックス高等学院の生徒ってことらしいからな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:207:bfef7b72",
+      "source_hash": "bfef7b72",
+      "sequence": 79,
+      "source_line": 207,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "クラフトのことくらいなら 多少わかるさ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:208:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 80,
+      "source_line": 208,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:209:6045f33d",
+      "source_hash": "6045f33d",
+      "sequence": 81,
+      "source_line": 209,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "これってやっぱり…<br>マナクラフトの部類に入るってことですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:211:554ae364",
+      "source_hash": "554ae364",
+      "sequence": 82,
+      "source_line": 211,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "そりゃそうだろ？ 前例がないんだから",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:212:8a433645",
+      "source_hash": "8a433645",
+      "sequence": 83,
+      "source_line": 212,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "オレやお前みたいな一般人が<br>ペンクラフトみたいなもんを使えるのは",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:213:a4ecb759",
+      "source_hash": "a4ecb759",
+      "sequence": 84,
+      "source_line": 213,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "先人のマナクラフターが<br>素人でも使えるアイテムを作ってくれたからだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:214:5c9d6ba2",
+      "source_hash": "5c9d6ba2",
+      "sequence": 85,
+      "source_line": 214,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "それがないなら 自分で作るしかないんだ―――<br>光にお前の意志を載っけるクラフトをな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:216:ff7e1e6f",
+      "source_hash": "ff7e1e6f",
+      "sequence": 86,
+      "source_line": 216,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な なんでこんなにできないものなのでしょうか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:218:ea582d98",
+      "source_hash": "ea582d98",
+      "sequence": 87,
+      "source_line": 218,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "ちょっと待った…そろそろだな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:219:2e3fb0f",
+      "source_hash": "2e3fb0f",
+      "sequence": 88,
+      "source_line": 219,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "こっち来い こっち",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:221:19f41176",
+      "source_hash": "19f41176",
+      "sequence": 89,
+      "source_line": 221,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:232:222d7bb1",
+      "source_hash": "222d7bb1",
+      "sequence": 90,
+      "source_line": 232,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "いいか？ 蓋を取るから 香りを嗅いでみろ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:234:b39bb820",
+      "source_hash": "b39bb820",
+      "sequence": 91,
+      "source_line": 234,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え え………え………！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:235:a7492d08",
+      "source_hash": "a7492d08",
+      "sequence": 92,
+      "source_line": 235,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "騙されたと思ってな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:237:4e5fa537",
+      "source_hash": "4e5fa537",
+      "sequence": 93,
+      "source_line": 237,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "いいか？ なにがあっても鍋の中にだけは吐くなよ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:239:4b33db93",
+      "source_hash": "4b33db93",
+      "sequence": 94,
+      "source_line": 239,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "もし吐くなら 離れろよ<br>男同士の約束だからな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:241:599d4faa",
+      "source_hash": "599d4faa",
+      "sequence": 95,
+      "source_line": 241,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんな！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:243:7c51e996",
+      "source_hash": "7c51e996",
+      "sequence": 96,
+      "source_line": 243,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "ほい！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:246:8fa8a7e9",
+      "source_hash": "8fa8a7e9",
+      "sequence": 97,
+      "source_line": 246,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "！！！！！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:248:150713d1",
+      "source_hash": "150713d1",
+      "sequence": 98,
+      "source_line": 248,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………あ あれ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-02:250:ab89f7b7",
+      "source_hash": "ab89f7b7",
+      "sequence": 99,
+      "source_line": 250,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え………",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-03T21:37:16.056863+00:00",
+  "translator_model": "Codex internal",
+  "game_root": "Y:\\GAME\\Fault StP LIGHTKRAVTE",
+  "state": "review_only_no_game_or_release_asset_modified",
+  "corrections": {
+    "applied": 16,
+    "scope": "status=fix only; optional/hold unchanged",
+    "provenance": "P:\\AI\\Codex\\projects\\_migrated_c_documents_codex\\2026-07-25\\new-chat\\work\\localization\\reports\\codex_confirmed_corrections_2026-09-04.json",
+    "validation": {
+      "files": 93,
+      "entries": 6746,
+      "complete": true,
+      "issues": {}
+    }
+  },
+  "audit_coverage": {
+    "unity_inputs": 16,
+    "unity_objects": 24968,
+    "textures_found": 1226,
+    "non_font_textures_rendered_and_reviewed": 1213,
+    "contact_sheets_reviewed": 26,
+    "text_assets": {
+      "total": 71,
+      "spine_atlas_metadata": 54,
+      "managed_text_locale_files": 15,
+      "line_breaking_tables": 2
+    },
+    "video_clips_reviewed": 11,
+    "op_second_by_second_frames": 75,
+    "monobehaviours": {
+      "total": 5221,
+      "generated_typetree_parsed": 5054,
+      "generated_typetree_errors": 167
+    },
+    "managed_visible_strings": 425,
+    "scenario_printtext": 6746,
+    "executable_version_strings_requiring_translation": 0
+  },
+  "actionable_assets": [
+    {
+      "id": "IMG-001",
+      "reachability": "active_startup",
+      "kind": "Texture2D/Sprite",
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\sharedassets0.assets",
+      "texture_path_id": 13,
+      "sprite_path_id": 33,
+      "name": "splash_aero_txt_jp",
+      "scene_object": "jp",
+      "source_text": [
+        "本記録はALICE IN DISSONANCEが",
+        "ルゼンハイドの出来事を観察し編集したものです。"
+      ],
+      "proposed_ko": [
+        "본 기록은 ALICE IN DISSONANCE가",
+        "루젠하이드에서 일어난 일을 관찰하고 편집한 것입니다."
+      ],
+      "implementation": "KoreanActive일 때 jp 표시층만 조건부 교체; 원본 언어 모드와 sa/en/zh-CN 층은 보존",
+      "status": "pending_user_review"
+    },
+    {
+      "id": "IMG-002",
+      "reachability": "active_startup",
+      "kind": "Texture2D/Sprite",
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\sharedassets0.assets",
+      "texture_path_id": 21,
+      "sprite_path_id": 38,
+      "name": "AiD_Splash_2022",
+      "scene_object": "Disclaimer",
+      "source_text_ja": [
+        "この物語は現時点ではフィクションです",
+        "実在する個人及び組織とはまだ関係ありません"
+      ],
+      "proposed_ko": [
+        "이 이야기는 현재로서는 허구입니다.",
+        "실존하는 개인 및 단체와는 아직 아무런 관련이 없습니다."
+      ],
+      "variants": {
+        "A": "일본어 블록만 한국어로 교체하고 영어·중국어 유지",
+        "B": "한국어 전용 화면으로 정리 (권장)"
+      },
+      "implementation": "KoreanActive 조건부 런타임 교체; 다른 언어에서는 원본 텍스처 유지",
+      "status": "pending_user_review"
+    },
+    {
+      "id": "IMG-003",
+      "reachability": "active_ch01-02d",
+      "kind": "Texture2D/Sprite",
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "texture_path_id": -3364026802204621321,
+      "name": "anime hare",
+      "source_text": "CHARACTER ANIMATOR / HARE KONATSU",
+      "proposed_ko": "캐릭터 애니메이터 / HARE KONATSU",
+      "status": "pending_user_review"
+    },
+    {
+      "id": "IMG-004",
+      "reachability": "active_ch01-02d",
+      "kind": "Texture2D/Sprite",
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "texture_path_id": 1441106173844391157,
+      "name": "Misaki_C",
+      "source_text": "LEAD CHARACTER ANIMATOR / MISAKI EYMARD",
+      "proposed_ko": "수석 캐릭터 애니메이터 / MISAKI EYMARD",
+      "status": "pending_user_review"
+    },
+    {
+      "id": "VID-001",
+      "reachability": "active_opening",
+      "kind": "VideoClip",
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "path_id": 7307858261213983060,
+      "name": "LIGHTKRAVTE_OP_Final_1080",
+      "role_blocks": 9,
+      "implementation": "역할명만 한국어화하고 인명·스튜디오·로고 보존; 1920x1080/24fps/오디오 구조 유지 재인코딩",
+      "status": "pending_user_review"
+    }
+  ],
+  "unreferenced_but_translatable": [
+    {
+      "id": "DEAD-IMG-001",
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "texture_path_id": -5485632158015552049,
+      "name": "Dmitry_c",
+      "source": "ENVIRONMENTAL ANIMATION BY",
+      "proposed_ko": "환경 애니메이션",
+      "status": "unreferenced"
+    },
+    {
+      "id": "DEAD-IMG-002",
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "texture_path_id": 5388313497103507111,
+      "name": "Munisix_C",
+      "source": "FAULT SERIES CREATED BY",
+      "proposed_ko": "fault 시리즈 원작",
+      "status": "unreferenced"
+    },
+    {
+      "id": "DEAD-IMG-003",
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "texture_path_id": -2492552238782808979,
+      "name": "Nyantastic_C",
+      "source": "MORALE OFFICERS",
+      "proposed_ko": "사기 진작 담당",
+      "status": "unreferenced"
+    },
+    {
+      "id": "DEAD-DEV-001",
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "texture_path_id": 4011760718679768670,
+      "name": "ev_20 無力なカージ",
+      "source": "仕上げ時ぼかし不要 / （背景ボケ暫定）",
+      "recommended_action": "정확한 ev_20은 시나리오에서 참조되지 않음. 노출 증거가 생기면 번역이 아니라 제작 메모 제거",
+      "status": "unreferenced_development_residue"
+    }
+  ],
+  "intentional_preserve": [
+    {
+      "name": "splash_aero_txt_x",
+      "reason": "zh-TW가 아니라 시작 장면의 sa(산아리즈타계 가상 문자) 층. 번역 대상 아님."
+    },
+    {
+      "name": "ev_06-1_read_text_oldbook (2 copies)",
+      "reason": "작중 가상 필기"
+    },
+    {
+      "name": "kenlens_test_text",
+      "reason": "작중 가상 필기"
+    },
+    {
+      "name": "2_think_text",
+      "reason": "작중 가상 필기"
+    },
+    {
+      "name": "brands/logos",
+      "reason": "fault, LIGHTKRAVTE, ALICE IN DISSONANCE, PHOENIXX, PROJECT WRITTEN 표기 보존"
+    },
+    {
+      "name": "credit names",
+      "reason": "기여자 인명·스튜디오명은 원문 표기 보존"
+    },
+    {
+      "name": "key_nav_icons",
+      "reason": "W/A/S/D/R/B 물리 키 표기"
+    }
+  ],
+  "review_drafts": [
+    {
+      "path": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\draft_not_for_build\\01_archive_text_ko_layer.png",
+      "sha256": "d9f07fccee930116797bc51bc7bb0386c25cf25d948ffd66fa5f74b6050a9339"
+    },
+    {
+      "path": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\draft_not_for_build\\01_archive_text_ko_preview.png",
+      "sha256": "3cbf60742670d306ce7e0e9a4669993c0747e3b88d4b0824538f4f6403c079c1"
+    },
+    {
+      "path": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\draft_not_for_build\\02_disclaimer_A_replace_japanese_only.png",
+      "sha256": "636947f4c8415c2b434663fe73a9849e3d06c0f84967cf155cbec9672f8ddec7"
+    },
+    {
+      "path": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\draft_not_for_build\\03_disclaimer_B_korean_only.png",
+      "sha256": "21c8ccb5247a20657e849d469deb891a965df788e1aa16d8c40b62bbbb25bfb3"
+    },
+    {
+      "path": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\draft_not_for_build\\04_active_credit_role_review.png",
+      "sha256": "b93b9ad86c60ce994abac6af1b9669c687a6844ac9e6a0537f1eaa9cb042a309"
+    },
+    {
+      "path": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\draft_not_for_build\\05_op_credit_translation_review.png",
+      "sha256": "403160ad972313303a952e7cd0927430abaf3f6a6b5496797bc856a40fcf6cc8"
+    }
+  ],
+  "decisions_required": [
+    {
+      "id": "D-001",
+      "question": "IMG-001 문구와 jp층 조건부 교체 방식을 승인할지",
+      "recommended": "approve"
+    },
+    {
+      "id": "D-002",
+      "question": "면책문 화면 A/B 중 어느 구성을 쓸지",
+      "recommended": "B"
+    },
+    {
+      "id": "D-003",
+      "question": "활성 크레딧 이미지 2개와 미사용 3개 모두 역할명을 한글화할지",
+      "recommended": "active_and_unreferenced_all"
+    },
+    {
+      "id": "D-004",
+      "question": "오프닝 영상의 9개 역할명을 한글화할지",
+      "recommended": "yes"
+    },
+    {
+      "id": "D-005",
+      "question": "미사용 ev_20 제작 메모를 건드릴지",
+      "recommended": "leave_unmodified"
+    }
+  ]
+}

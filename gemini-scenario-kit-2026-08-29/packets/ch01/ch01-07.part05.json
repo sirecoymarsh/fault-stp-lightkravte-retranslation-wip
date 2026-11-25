@@ -1,0 +1,1394 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-07.part05",
+  "script": "ch01-07",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch01-07:1091:905bb232",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "びりっ と",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:1092:a4cdb9f9",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "クラウさんはスケッチブックからページを破り取り<br>紙ひっくり返して天上の照明に向けた",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:1093:7317e4bc",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "先ほどの女性の絵が透けて見える<br>当然 絵は反転されているが…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:1096:b7ed9f4e",
+        "speaker_id": "qla",
+        "speaker_name": "크라우",
+        "ja": "今度はどうだい？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:1097:5ffa1ad2",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "え？",
+        "do_not_translate": true
+      }
+    ],
+    "after": [
+      {
+        "uid": "ch01-07:1282:b7034e21",
+        "speaker_id": "tos",
+        "speaker_name": "토스카",
+        "ja": "…………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:1284:2d42bfaa",
+        "speaker_id": "tos",
+        "speaker_name": "토스카",
+        "ja": "ま だよな…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:1286:21d3b44f",
+        "speaker_id": "wig",
+        "speaker_name": "와이튼",
+        "ja": "え ど どういうことですか？<br>どうして抽象画じゃだめなの？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:1287:3401eb2d",
+        "speaker_id": "wig",
+        "speaker_name": "와이튼",
+        "ja": "っていうか…別に多少の障害があっても それが<br>わかっているなら 抽象画でも独自の絵を生み出したり<br>通常とは違うアウトプットの方法があるのでは？？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:1288:7fe6ecc9",
+        "speaker_id": "tos",
+        "speaker_name": "토스카",
+        "ja": "へっ……",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch01-07:1100:36b116de",
+      "source_hash": "36b116de",
+      "sequence": 400,
+      "source_line": 1100,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "ん？ あ あれ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1103:75f1d46b",
+      "source_hash": "75f1d46b",
+      "sequence": 401,
+      "source_line": 1103,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "ん…んん？<br>な なんだ…さっきまでは普通に見えたのに",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1106:a6c1c448",
+      "source_hash": "a6c1c448",
+      "sequence": 402,
+      "source_line": 1106,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1108:b9dc811e",
+      "source_hash": "b9dc811e",
+      "sequence": 403,
+      "source_line": 1108,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？ どういうことでしょう？<br>先ほどと同じで 普通に見えますが？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1110:2a88a25f",
+      "source_hash": "2a88a25f",
+      "sequence": 404,
+      "source_line": 1110,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "本当に？<br>デッサンも変じゃない…と？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1111:a79bcda4",
+      "source_hash": "a79bcda4",
+      "sequence": 405,
+      "source_line": 1111,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え ええ 全然そんなふうには見えませんが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1115:f6dc8e9d",
+      "source_hash": "f6dc8e9d",
+      "sequence": 406,
+      "source_line": 1115,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "え…っ！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1116:42a7aad9",
+      "source_hash": "42a7aad9",
+      "sequence": 407,
+      "source_line": 1116,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "お おい…まじかよ少年<br>これが普通に見えるって？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1118:a0390fa8",
+      "source_hash": "a0390fa8",
+      "sequence": 408,
+      "source_line": 1118,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？ ぼ 僕なにか変なこと言いました？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1120:9d4926b0",
+      "source_hash": "9d4926b0",
+      "sequence": 409,
+      "source_line": 1120,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "え…だ だって明らかに…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1123:21cc5ea4",
+      "source_hash": "21cc5ea4",
+      "sequence": 410,
+      "source_line": 1123,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "し…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1126:83e5491e",
+      "source_hash": "83e5491e",
+      "sequence": 411,
+      "source_line": 1126,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "二人とも 少し黙っていてくれ<br>まずはカージ君の他人に影響されない<br>率直な意見を聞きたいんだ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1134:5571a780",
+      "source_hash": "5571a780",
+      "sequence": 412,
+      "source_line": 1134,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "その後 クラウさんは僕にいくつか指示を出した",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1135:a8a5e3b6",
+      "source_hash": "a8a5e3b6",
+      "sequence": 413,
+      "source_line": 1135,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "単純な形から始まり 立方体やら木",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1136:78ab2715",
+      "source_hash": "78ab2715",
+      "sequence": 414,
+      "source_line": 1136,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "無機物まで 最終的には女性の顔と<br>さまざまなものを言われるがままに描いてみた",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1140:afaa58a8",
+      "source_hash": "afaa58a8",
+      "sequence": 415,
+      "source_line": 1140,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "ちょ ど どうなってるんだ これ…！？<br>上手とか下手とかそういうレベルじゃ…？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1143:5cf031d3",
+      "source_hash": "5cf031d3",
+      "sequence": 416,
+      "source_line": 1143,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "な なんだこりゃ…<br>やる気あんのか この少年は…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1144:c7aa965a",
+      "source_hash": "c7aa965a",
+      "sequence": 417,
+      "source_line": 1144,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "それともクラウがしてるリクエストが<br>理解できていないのか…？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1146:d90a034d",
+      "source_hash": "d90a034d",
+      "sequence": 418,
+      "source_line": 1146,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あれ どうしたんですか<br>みなさん黙りこくって…？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1147:383333b7",
+      "source_hash": "383333b7",
+      "sequence": 419,
+      "source_line": 1147,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1149:8f91a89",
+      "source_hash": "8f91a89",
+      "sequence": 420,
+      "source_line": 1149,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "さて これはどう解釈したものか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1150:991d8427",
+      "source_hash": "991d8427",
+      "sequence": 421,
+      "source_line": 1150,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "君は…本格的に絵を描き始めて２年だっけ？<br>毎日数時間練習してるんだったよね？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1151:75e69bf6",
+      "source_hash": "75e69bf6",
+      "sequence": 422,
+      "source_line": 1151,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい…その通りです",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1153:852f9b4d",
+      "source_hash": "852f9b4d",
+      "sequence": 423,
+      "source_line": 1153,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "うーん…ちょっと見えてきたかな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1155:b92a358a",
+      "source_hash": "b92a358a",
+      "sequence": 424,
+      "source_line": 1155,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "結論から言っちゃうけど 君は下手なんじゃなくて<br>何かがおかしいね…明らかに",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1157:3b76b035",
+      "source_hash": "3b76b035",
+      "sequence": 425,
+      "source_line": 1157,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "弟子入志願がすべて門前払いになるのもわかるし<br>6.9%っていう満場一致レベルでのマイナス評価も<br>納得がいく",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1159:50682d4f",
+      "source_hash": "50682d4f",
+      "sequence": 426,
+      "source_line": 1159,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ど どういうことでしょうか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1162:555adb2b",
+      "source_hash": "555adb2b",
+      "sequence": 427,
+      "source_line": 1162,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "カージ君 驚かないで話半分で聞いてほしいんだけど",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1168:3151bb77",
+      "source_hash": "3151bb77",
+      "sequence": 428,
+      "source_line": 1168,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "もしかすると  君が見えている世界と<br>大多数の人が見えている世界は…<br>同じものじゃないのかもしれない",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1170:26f0a1e",
+      "source_hash": "26f0a1e",
+      "sequence": 429,
+      "source_line": 1170,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………え…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1173:69428886",
+      "source_hash": "69428886",
+      "sequence": 430,
+      "source_line": 1173,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "何人か知っているんだ<br>君とほぼ同じような症状を持つ人を",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1174:cd4215dd",
+      "source_hash": "cd4215dd",
+      "sequence": 431,
+      "source_line": 1174,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "彼らは 例え同じものを見てスケッチしたとしても<br>大多数が描くスケッチとは大きく異なるものを仕上げる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1176:945b9e86",
+      "source_hash": "945b9e86",
+      "sequence": 432,
+      "source_line": 1176,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "それこそ 見ている世界が違うと思うようなレベルでね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1178:437adac9",
+      "source_hash": "437adac9",
+      "sequence": 433,
+      "source_line": 1178,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1179:32ff363a",
+      "source_hash": "32ff363a",
+      "sequence": 434,
+      "source_line": 1179,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "医者の友達とこの件について話をする機会があってさ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1181:2a20d7ba",
+      "source_hash": "2a20d7ba",
+      "sequence": 435,
+      "source_line": 1181,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "カージ君 絵もそうだけど<br>ひょっとすると字も下手じゃないかい？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1183:8ed655b7",
+      "source_hash": "8ed655b7",
+      "sequence": 436,
+      "source_line": 1183,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1184:da20ea02",
+      "source_hash": "da20ea02",
+      "sequence": 437,
+      "source_line": 1184,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い 言われます…字がすごく汚いって",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1186:93e6af17",
+      "source_hash": "93e6af17",
+      "sequence": 438,
+      "source_line": 1186,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "そう…筆記や素描をする時に<br>みんなと同じように形にできない そういった症状だ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1188:97cec715",
+      "source_hash": "97cec715",
+      "sequence": 439,
+      "source_line": 1188,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "とりあえず…君はパースの解釈も 簡略化の概念も<br>光源の解釈も なにかがズレている",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1189:7dc99da2",
+      "source_hash": "7dc99da2",
+      "sequence": 440,
+      "source_line": 1189,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "『横から見たりんごを描いてくれ』と言われて<br>君が描いたこれは 丸ではなくほぼ四角だ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1191:a4ff6c2a",
+      "source_hash": "a4ff6c2a",
+      "sequence": 441,
+      "source_line": 1191,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "しかもヘタを中心に描くとは…どうしてこうなるんだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1192:d826e742",
+      "source_hash": "d826e742",
+      "sequence": 442,
+      "source_line": 1192,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "これだと上からになってしまう<br>リクエストは『横から』だったのに",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1193:b7de6195",
+      "source_hash": "b7de6195",
+      "sequence": 443,
+      "source_line": 1193,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "パースに関してもそう<br>近いものは大きく 遠いものは小さく描く",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1195:4c307c8e",
+      "source_hash": "4c307c8e",
+      "sequence": 444,
+      "source_line": 1195,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "これは子供でも言われればわかるはずなのに<br>君はその関係が理解できていないように思える",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1197:48ce681d",
+      "source_hash": "48ce681d",
+      "sequence": 445,
+      "source_line": 1197,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…え…え！？<br>そ そんな…言われた通り描いてるつもりなのですが！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1199:97845ad",
+      "source_hash": "97845ad",
+      "sequence": 446,
+      "source_line": 1199,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "そこが気になるんだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1201:1deabc3",
+      "source_hash": "1deabc3",
+      "sequence": 447,
+      "source_line": 1201,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "ちなみに さっきの反転した女性の顔だけどね…<br>僕はわざと崩して描いたんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1202:febbdd0a",
+      "source_hash": "febbdd0a",
+      "sequence": 448,
+      "source_line": 1202,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "左向きだと普通に見えて<br>反転したら歪んでるように見えるようにね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1203:c97115d7",
+      "source_hash": "c97115d7",
+      "sequence": 449,
+      "source_line": 1203,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "この視覚的な違和感は…絵の素人であるワイトン君や<br>芸術そのものにあまり興味がないトスカですら<br>一眼でわかった",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1204:866ef4ee",
+      "source_hash": "866ef4ee",
+      "sequence": 450,
+      "source_line": 1204,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "たとえ言語化ができなくても<br>『変だ』と思わないのは明らかにおかしい",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1205:ced42dd7",
+      "source_hash": "ced42dd7",
+      "sequence": 451,
+      "source_line": 1205,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "少なくとも…２年間 本気で毎日キャンバスや<br>スケッチブックに向かっている人の認識じゃないはず",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1208:a6c1c448",
+      "source_hash": "a6c1c448",
+      "sequence": 452,
+      "source_line": 1208,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1209:bc4e837b",
+      "source_hash": "bc4e837b",
+      "sequence": 453,
+      "source_line": 1209,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……そ それって……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1211:6230636b",
+      "source_hash": "6230636b",
+      "sequence": 454,
+      "source_line": 1211,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ それって…やはり僕には…<br>な なにか身体的な障害があるという意味…ですか…？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1213:b289cb33",
+      "source_hash": "b289cb33",
+      "sequence": 455,
+      "source_line": 1213,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "僕はそう思うよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1214:72ca9d4f",
+      "source_hash": "72ca9d4f",
+      "sequence": 456,
+      "source_line": 1214,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "極稀にいるんだ そういう生徒が",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1215:6b314669",
+      "source_hash": "6b314669",
+      "sequence": 457,
+      "source_line": 1215,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "その他のことは全然普通なのに<br>描くことになると壊滅的に下手っていうね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1217:fcce0e16",
+      "source_hash": "fcce0e16",
+      "sequence": 458,
+      "source_line": 1217,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "絵って別に魔法でもなんでもなくてさ<br>正しい練習方法で人並みの努力をすれば 誰であろうと<br>そこそこ上手くなるものなんだよ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1219:b373563c",
+      "source_hash": "b373563c",
+      "sequence": 459,
+      "source_line": 1219,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "だから『壊滅的に下手なまま』なんて人は<br>基本的にいないはずなんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1220:65a7255a",
+      "source_hash": "65a7255a",
+      "sequence": 460,
+      "source_line": 1220,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "となると 本人の意思や努力とは別の部分で<br>問題があるとしか思えない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1221:f8c30576",
+      "source_hash": "f8c30576",
+      "sequence": 461,
+      "source_line": 1221,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…し しかし…障害と言われてましても…<br>ど どうしたらいいのでしょうか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1222:7b91fd9a",
+      "source_hash": "7b91fd9a",
+      "sequence": 462,
+      "source_line": 1222,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "医者に診てもらうとか…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1224:d0a4702b",
+      "source_hash": "d0a4702b",
+      "sequence": 463,
+      "source_line": 1224,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "いや…医者に行ってもはっきりとした答えは<br>返ってこないだろう",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1225:ce1b1863",
+      "source_hash": "ce1b1863",
+      "sequence": 464,
+      "source_line": 1225,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "これは絵に携わってる人にしかわからない問題だ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1227:1151096d",
+      "source_hash": "1151096d",
+      "sequence": 465,
+      "source_line": 1227,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "通常の生活ができちゃうから 絵描きにでもなろうと<br>しない限り 見つかるようなものじゃない…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1228:374df849",
+      "source_hash": "374df849",
+      "sequence": 466,
+      "source_line": 1228,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "極めてレアな現象だから<br>医学的にまだ認知されていないんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1229:2e78482",
+      "source_hash": "2e78482",
+      "sequence": 467,
+      "source_line": 1229,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんな…！<br>ぼ 僕はでは いったいどうしたら…！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1231:400028e0",
+      "source_hash": "400028e0",
+      "sequence": 468,
+      "source_line": 1231,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "とりあえず これが障害であろうがなかろうが<br>絵に関してはなにかがおかしい",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1232:42da75d4",
+      "source_hash": "42da75d4",
+      "sequence": 469,
+      "source_line": 1232,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "いち絵描きとして 僕が断言できるのはここまでだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1234:7ee0a3a5",
+      "source_hash": "7ee0a3a5",
+      "sequence": 470,
+      "source_line": 1234,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ちょ ちょっと待ってください！<br>いきなりすぎて頭が追いつかなくて…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1235:623a9dee",
+      "source_hash": "623a9dee",
+      "sequence": 471,
+      "source_line": 1235,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "それって ぼ…僕に…<br>僕に絵は描けないということですか…！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1237:ffe9da43",
+      "source_hash": "ffe9da43",
+      "sequence": 472,
+      "source_line": 1237,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1239:9daeb4a0",
+      "source_hash": "9daeb4a0",
+      "sequence": 473,
+      "source_line": 1239,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "必ずしもそういうわけじゃない…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1240:14641a47",
+      "source_hash": "14641a47",
+      "sequence": 474,
+      "source_line": 1240,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "君と似たようなハンデを持ってる画家を<br>僕は何人か知ってはいる…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1242:10e8a152",
+      "source_hash": "10e8a152",
+      "sequence": 475,
+      "source_line": 1242,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "ただ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1243:ffe9da43",
+      "source_hash": "ffe9da43",
+      "sequence": 476,
+      "source_line": 1243,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1245:e0569c50",
+      "source_hash": "e0569c50",
+      "sequence": 477,
+      "source_line": 1245,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "この先の話をする前にちょっと聞きたいんだけど<br>君はそもそもどうして絵を描きたいと思ったんだい？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1246:e80ed98",
+      "source_hash": "e80ed98",
+      "sequence": 478,
+      "source_line": 1246,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "その目的がどこへ向かっているかで 話は違ってくる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1249:d190e6a5",
+      "source_hash": "d190e6a5",
+      "sequence": 479,
+      "source_line": 1249,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………ぼ 僕は…僕は…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1250:a6c1c448",
+      "source_hash": "a6c1c448",
+      "sequence": 480,
+      "source_line": 1250,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1251:c44bcf74",
+      "source_hash": "c44bcf74",
+      "sequence": 481,
+      "source_line": 1251,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕は…う 美しい女性の肖像画を<br>描きたかった…はずなのですが…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1252:a6c1c448",
+      "source_hash": "a6c1c448",
+      "sequence": 482,
+      "source_line": 1252,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1254:babf7ed8",
+      "source_hash": "babf7ed8",
+      "sequence": 483,
+      "source_line": 1254,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…人を…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1255:ab3cf96c",
+      "source_hash": "ab3cf96c",
+      "sequence": 484,
+      "source_line": 1255,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "人を描きたいんです 肖像画を…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1256:383333b7",
+      "source_hash": "383333b7",
+      "sequence": 485,
+      "source_line": 1256,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1259:85e3b709",
+      "source_hash": "85e3b709",
+      "sequence": 486,
+      "source_line": 1259,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "う うーん…しかしなあ…<br>お前さんのその画力で人を描くのは難しいんじゃねえか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1260:ffe9da43",
+      "source_hash": "ffe9da43",
+      "sequence": 487,
+      "source_line": 1260,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1262:3a5681d8",
+      "source_hash": "3a5681d8",
+      "sequence": 488,
+      "source_line": 1262,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "カージ君…君は 自己満足で絵を描いているのかい？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1264:5ffa1ad2",
+      "source_hash": "5ffa1ad2",
+      "sequence": 489,
+      "source_line": 1264,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1265:711bba1b",
+      "source_hash": "711bba1b",
+      "sequence": 490,
+      "source_line": 1265,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "君が楽しくて あるいは 君が描いた絵が<br>美しいと自分で思えればそれでいいのかい？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1266:ca714e5f",
+      "source_hash": "ca714e5f",
+      "sequence": 491,
+      "source_line": 1266,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1268:d5d1eb60",
+      "source_hash": "d5d1eb60",
+      "sequence": 492,
+      "source_line": 1268,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…い いやです…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1269:beeb379e",
+      "source_hash": "beeb379e",
+      "sequence": 493,
+      "source_line": 1269,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いろんな人に見てもらって…それで…<br>美しいと思う気持ちに…共感してもらいたい…です",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1271:402eef82",
+      "source_hash": "402eef82",
+      "sequence": 494,
+      "source_line": 1271,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "となると やっぱりプロになりたいんだね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1273:8e8ea7",
+      "source_hash": "8e8ea7",
+      "sequence": 495,
+      "source_line": 1273,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "なー それなんだったら もういっそのこと<br>抽象画にも振ってみるってのはどうだ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1275:7a567fe2",
+      "source_hash": "7a567fe2",
+      "sequence": 496,
+      "source_line": 1275,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "抽象画でも人は描けるだろう？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1276:4723efb9",
+      "source_hash": "4723efb9",
+      "sequence": 497,
+      "source_line": 1276,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "いや…それじゃ意味がないんだろう カージ君？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1278:8ed655b7",
+      "source_hash": "8ed655b7",
+      "sequence": 498,
+      "source_line": 1278,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1280:91ee7eb0",
+      "source_hash": "91ee7eb0",
+      "sequence": 499,
+      "source_line": 1280,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "肖像画に拘りをもってプロを目指してるなら<br>今の時代難しい…<br>人の絵を描くには時期があまりにも悪すぎる",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

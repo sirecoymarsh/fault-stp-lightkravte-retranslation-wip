@@ -1,0 +1,750 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-02d.part01",
+  "script": "ch01-02d",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch01-02d:18:8a5930cb",
+      "source_hash": "8a5930cb",
+      "sequence": 0,
+      "source_line": 18,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "某月某日<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:19:284834c",
+      "source_hash": "284834c",
+      "sequence": 1,
+      "source_line": 19,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "母さんへ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:20:e2487f06",
+      "source_hash": "e2487f06",
+      "sequence": 2,
+      "source_line": 20,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "日が空いてしまいましたね。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:21:4fa1bdda",
+      "source_hash": "4fa1bdda",
+      "sequence": 3,
+      "source_line": 21,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "最近は忙しくて、日記を書く暇がなかったんだ、ごめんね。<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:23:fb8ec15",
+      "source_hash": "fb8ec15",
+      "sequence": 4,
+      "source_line": 23,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "今日三度目の就望の結果を聞きに行ったんだけど、支持率が前より下がってしまったよ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:24:1245bd14",
+      "source_hash": "1245bd14",
+      "sequence": 5,
+      "source_line": 24,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんでこんなことになってしまったのか、正直まったくわからない…。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:25:99fc1a6a",
+      "source_hash": "99fc1a6a",
+      "sequence": 6,
+      "source_line": 25,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あの日から僕はちゃんと毎日決まった時間絵の練習をしてるのに、最終的には前より悪くなるなんてあんまりだよ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:31:bc741263",
+      "source_hash": "bc741263",
+      "sequence": 7,
+      "source_line": 31,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ちゃんとしたところで修行できればいいんだけど、それなりの経験がない人は門前払いするアトリエが多くて意味がわからない…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:32:cf70b8cb",
+      "source_hash": "cf70b8cb",
+      "sequence": 8,
+      "source_line": 32,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "経験がないから修行したいのに、その修行をするために経験が必要って、いったいどうしろと。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:34:cbe9dfa6",
+      "source_hash": "cbe9dfa6",
+      "sequence": 9,
+      "source_line": 34,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "聞くところによると、そういうところの入門は育てるつもりで弟子を入れてるんじゃなくて、即戦力としての人員がほしいんだって。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:35:76745886",
+      "source_hash": "76745886",
+      "sequence": 10,
+      "source_line": 35,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "実際うちの果樹園もそうみたいで、セレンハイドの斡旋所を通さない人は見習いであろうと基本的に雇わないみたい。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:36:be622552",
+      "source_hash": "be622552",
+      "sequence": 11,
+      "source_line": 36,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そう言われてしまうと納得せざるを得ないかな…弟子入りっていうシステム自体最近もうあまり聞かなくなってるからね。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:37:6305bd89",
+      "source_hash": "6305bd89",
+      "sequence": 12,
+      "source_line": 37,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "とりあえず、絵は初心に戻ってまた練習を続けてみようと思う。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:38:735e7232",
+      "source_hash": "735e7232",
+      "sequence": 13,
+      "source_line": 38,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "6.9%って、いくらなんでも低すぎると思うんだ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:39:f94dda58",
+      "source_hash": "f94dda58",
+      "sequence": 14,
+      "source_line": 39,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "来季までまた頑張って練習してみるよ…<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:48:7233c873",
+      "source_hash": "7233c873",
+      "sequence": 15,
+      "source_line": 48,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "その他近況報告<BR>",
+      "required_tokens": [
+        "<BR>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:52:d0eda477",
+      "source_hash": "d0eda477",
+      "sequence": 16,
+      "source_line": 52,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "シェストカーリン用の救援物資制作のために、<tip=\"season_tower\">季節棟</tip>をフル稼働させてるらしいけど、最近は夏の周期に入ったみたいで、ものすごく暑くなってきてるんだ。",
+      "required_tokens": [
+        "<tip=\"season_tower\">",
+        "</tip>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:53:a704fb3d",
+      "source_hash": "a704fb3d",
+      "sequence": 17,
+      "source_line": 53,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんか一年がギュッと濃縮されてるみたいで、すごく不思議な感じがするよ。知人の中には緊急事態を楽しんでるのがいるけど、僕はちょっと不安かな…。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:55:74c447d1",
+      "source_hash": "74c447d1",
+      "sequence": 18,
+      "source_line": 55,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "だって未だに信じられないんだもの。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:56:8f48392f",
+      "source_hash": "8f48392f",
+      "sequence": 19,
+      "source_line": 56,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "海の向こうで戦争が起きそうだなんてさ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:57:168e56e7",
+      "source_hash": "168e56e7",
+      "sequence": 20,
+      "source_line": 57,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ルゼンハイドやアライアンス内は平和そのものだから、ピンとこないんだ。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:60:2b95f0b4",
+      "source_hash": "2b95f0b4",
+      "sequence": 21,
+      "source_line": 60,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "シェストカーリンがアライアンスの加盟国になったら、ルゼンハイドも危ない状況に巻き込まれたりしないかな？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:62:c5d2c863",
+      "source_hash": "c5d2c863",
+      "sequence": 22,
+      "source_line": 62,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "考えるだけで恐ろしいけど、ヴァラ様やアライアンスが決めたことなんだから、大丈夫なんだとは思う。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:74:4ac6657d",
+      "source_hash": "4ac6657d",
+      "sequence": 23,
+      "source_line": 74,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "やばいやばい…<br>すっかり忘れそうになったんだが…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:78:20fc41d4",
+      "source_hash": "20fc41d4",
+      "sequence": 24,
+      "source_line": 78,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "うわ！？ <br>な、なにさ いきなり入ってこないでよ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:80:1a7f19af",
+      "source_hash": "1a7f19af",
+      "sequence": 25,
+      "source_line": 80,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "あ？<br>さっきから何度もノックしてるだろうが",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:82:74aa6cc5",
+      "source_hash": "74aa6cc5",
+      "sequence": 26,
+      "source_line": 82,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…え…？？<br>ご、ごごごめん全然気づかなかった…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:84:8fbc47f9",
+      "source_hash": "8fbc47f9",
+      "sequence": 27,
+      "source_line": 84,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "突然でほんと悪いんだが 明日宅配頼めるか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:86:25188180",
+      "source_hash": "25188180",
+      "sequence": 28,
+      "source_line": 86,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…い いいけど…<br>宅配ってどこに？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:88:20ee56a",
+      "source_hash": "20ee56a",
+      "sequence": 29,
+      "source_line": 88,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "お上さんの厨房だ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:90:aeffc77",
+      "source_hash": "aeffc77",
+      "sequence": 30,
+      "source_line": 90,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "る ルゼンハイド城！？<br>な なんでそんな大事な宅配忘れてるのよ！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:92:ec1a1208",
+      "source_hash": "ec1a1208",
+      "sequence": 31,
+      "source_line": 92,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "季節棟が稼働してから<br>いろんな予定が狂いまくりなんだよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:94:73f39f50",
+      "source_hash": "73f39f50",
+      "sequence": 32,
+      "source_line": 94,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "今のクルーだけじゃ<br>ぎりぎりノルマ達成できるか否かってところなんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:96:27194412",
+      "source_hash": "27194412",
+      "sequence": 33,
+      "source_line": 96,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんなにキツイんだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:98:3496ec32",
+      "source_hash": "3496ec32",
+      "sequence": 34,
+      "source_line": 98,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "おう だからちょっと手伝ってくれ<br>明日の朝 ルゼンハイド城な",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:99:e3cd7343",
+      "source_hash": "e3cd7343",
+      "sequence": 35,
+      "source_line": 99,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ミリ様にも話を通してある",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:106:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 36,
+      "source_line": 106,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:107:cb8deeb8",
+      "source_hash": "cb8deeb8",
+      "sequence": 37,
+      "source_line": 107,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "明日は早起きになっちゃいましたね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:115:1ccda58b",
+      "source_hash": "1ccda58b",
+      "sequence": 38,
+      "source_line": 115,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "果樹園の収穫のリズムが狂い始めてて、ルゼンハイド城の配達を忘れそうになるくらい、父さんはちょっと焦り気味だけど、うまいこと対処してるみたい。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:116:a3a4622c",
+      "source_hash": "a3a4622c",
+      "sequence": 39,
+      "source_line": 116,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ノルマとか言ってるけど、父さんのことだからきっと完璧な収穫を無駄なく配布するのに全力を注いでいるんだと思う。昔からそういう人だったし。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:117:fb5abd15",
+      "source_hash": "fb5abd15",
+      "sequence": 40,
+      "source_line": 117,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕も時間があるときは可能な限り手伝いはするつもりです。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:118:c0ca66a3",
+      "source_hash": "c0ca66a3",
+      "sequence": 41,
+      "source_line": 118,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "さてと。明日はルゼンハイド城に届け物があるから、早めに寝たほうがいいかな。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:120:7fedd16b",
+      "source_hash": "7fedd16b",
+      "sequence": 42,
+      "source_line": 120,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "とりあえず、最近の報告はこれくらいです。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:121:b604e484",
+      "source_hash": "b604e484",
+      "sequence": 43,
+      "source_line": 121,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "色々あるけど、<br>僕も父さんも元気にやってるから安心してね。<br>",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:123:18366806",
+      "source_hash": "18366806",
+      "sequence": 44,
+      "source_line": 123,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あなたの息子<br>カージ＝オバーグより",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:133:f1ce599d",
+      "source_hash": "f1ce599d",
+      "sequence": 45,
+      "source_line": 133,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "おい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:135:2dead4c8",
+      "source_hash": "2dead4c8",
+      "sequence": 46,
+      "source_line": 135,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "う うわ！？<br>な なにさ…もう！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:137:1a60735f",
+      "source_hash": "1a60735f",
+      "sequence": 47,
+      "source_line": 137,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "くくく…<br>さっさと寝ろよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:146:4ae7e7a6",
+      "source_hash": "4ae7e7a6",
+      "sequence": 48,
+      "source_line": 146,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "わ わかってるよ もう！<br>なんで何度も入ってくるんだよ！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:147:b17a755c",
+      "source_hash": "b17a755c",
+      "sequence": 49,
+      "source_line": 147,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "お前がビクビクしてるから<br>からかいたくなるんだよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:148:9f3f9da8",
+      "source_hash": "9f3f9da8",
+      "sequence": 50,
+      "source_line": 148,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "さっきからコソコソとなにしてるんだ？<br>もうちょっとどしっと構えたらどうなんだ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:150:b219cbe5",
+      "source_hash": "b219cbe5",
+      "sequence": 51,
+      "source_line": 150,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "よ 余計なお世話だよ！<br>に 日記書いてるだけだって",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:160:ce64da9a",
+      "source_hash": "ce64da9a",
+      "sequence": 52,
+      "source_line": 160,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "見ないでよね<br>プライベートなものなんだから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:163:18f884ab",
+      "source_hash": "18f884ab",
+      "sequence": 53,
+      "source_line": 163,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "はっ お前の汚い字で書いた日記なんて<br>見たって読めやしねえーよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:164:b52030bc",
+      "source_hash": "b52030bc",
+      "sequence": 54,
+      "source_line": 164,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぐ………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:171:d8411eb4",
+      "source_hash": "d8411eb4",
+      "sequence": 55,
+      "source_line": 171,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "絵の練習したら 字が汚いのも直るといいけどな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-02d:172:2192c616",
+      "source_hash": "2192c616",
+      "sequence": 56,
+      "source_line": 172,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "お、大きなお世話だよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

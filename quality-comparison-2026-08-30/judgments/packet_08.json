@@ -1,0 +1,535 @@
+{
+  "schema_version": 1,
+  "reviewer": "Codex internal",
+  "entries": [
+    {
+      "uid": "ch03-04:436:c2f48853",
+      "preferred": "B",
+      "A": {
+        "fidelity": 2,
+        "naturalness": 3,
+        "directed_voice": 1,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "핵심 의미 오독",
+          "경비 존대 오류"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "フリーのファリナー는 지금 이용 가능한 파리너다. B가 정확하고 경비의 존댓말도 유지하며 A는 「일반」으로 오독하고 반말한다"
+    },
+    {
+      "uid": "ch03-04:517:d0639ee2",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "チクチク는 찌릿하거나 따끔거리는 감각이다. A가 더 직접적이고 B의 「콕콕」은 외부에서 찌르는 동작에 가깝다"
+    },
+    {
+      "uid": "ch03-04:678:3cfda15",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "문장 호흡 어색"
+        ]
+      },
+      "severity": "minor",
+      "reason": "A의 「멋있게 나선 것까진」이 미샤의 자조 섞인 말투에 자연스럽다. B는 「맡아버린 것까진 좋았는데 말이지」가 늘어진다"
+    },
+    {
+      "uid": "ch03-04:1152:1e665e69",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch03-04:1201:ff0684bb",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "자기비하 강도 증설"
+        ]
+      },
+      "severity": "minor",
+      "reason": "문맥상 자기 존재가 작다는 짧은 독백이다. A가 원문의 시적 단편을 그대로 두고 B는 「보잘것없다」로 평가 강도를 올린다"
+    },
+    {
+      "uid": "ch03-05:16:aa43353e",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "둘 다 정중한 질문으로 의미를 정확히 옮겼다"
+    },
+    {
+      "uid": "ch03-05:32:57850a3b",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "행위 평가로 의미 이동"
+        ]
+      },
+      "severity": "minor",
+      "reason": "沽券にかかわる는 명예·체면이 걸린 문제라는 뜻이다. A가 장면의 장인 체면을 명확히 복원했다"
+    },
+    {
+      "uid": "ch03-05:51:3a5e118f",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 2,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "연장자 호칭 거침"
+        ]
+      },
+      "severity": "minor",
+      "reason": "Ban이 연장자 장인을 높여 묻는 장면이다. A의 「어르신/감탄시키다」가 관계에 맞고 B의 「영감님」은 거칠다"
+    },
+    {
+      "uid": "ch03-06:25:4f311fba",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 1,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "화자 존대 단계 오류"
+        ]
+      },
+      "severity": "major",
+      "reason": "원문은 아디아의 평체다. A가 유지하고 B는 「제/흘렀고요」 존댓말로 바꿨다"
+    },
+    {
+      "uid": "ch03-06:34:f2dc3fb9",
+      "preferred": "B",
+      "A": {
+        "fidelity": 2,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "어휘 의미 오독"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "無粋는 멋없고 눈치 없는 짓이라는 뜻이다. B가 정확하고 A의 「야속한」은 감정 의미를 바꾼다"
+    },
+    {
+      "uid": "ch03-06:64:23317b7b",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 긍정 대사"
+    },
+    {
+      "uid": "ch03-07:35:eaad672a",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "띄어쓰기 외에는 동일한 요청"
+    },
+    {
+      "uid": "ch03-07:104:ba3b6f87",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "둘 다 잠든 소리를 살렸고 A의 「새근」이 장면의 조용한 수면에 조금 더 어울린다"
+    },
+    {
+      "uid": "ch03-07:126:57ab1628",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 한숨 표기"
+    },
+    {
+      "uid": "ch03-08:72:cb5cca18",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch03-08:528:6063ab17",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "B가 오그즈의 짧고 거친 질문으로 자연스럽다. A는 「기다려 봐라」가 불필요하게 늘어진다"
+    },
+    {
+      "uid": "ch03-08:596:92d6d28a",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 1,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "비문"
+        ]
+      },
+      "severity": "major",
+      "reason": "信じられるかい는 「믿을 수 있겠어?」다. A가 정확하고 B의 「믿겨져」는 비문이다"
+    },
+    {
+      "uid": "ch03-08:801:89719543",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 2,
+        "naturalness": 3,
+        "directed_voice": 2,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "대명사 임의 구체화",
+          "호칭 관계 오류"
+        ]
+      },
+      "severity": "major",
+      "reason": "A가 두 번의 彼女를 일관되게 보존한다. B는 근거 없이 「그 사람/플로라 씨」로 바꾸며 카지의 호칭 관계도 흐린다"
+    },
+    {
+      "uid": "ch03-08:929:fe4b08ee",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "반복 효과 누락"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "出して出して의 재촉 반복을 B가 그대로 살렸다. A는 「얼른」으로 치환해 반복 효과를 잃었다"
+    },
+    {
+      "uid": "ch03-09:76:7a2c0bd2",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "目の届かないところ와 立派に育つ를 A의 「눈이 닿지 않는 곳/어엿하게 자라다」가 자연스럽게 묶는다"
+    },
+    {
+      "uid": "ch03-09:93:eada2b2e",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch03-09:108:6da14c11",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 짧은 응답"
+    },
+    {
+      "uid": "ch03-10:21:2b68094f",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch03-10:35:9b21141d",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 2,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "세라로 존댓말 약화"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "용어 불일치",
+          "과도한 문어화"
+        ]
+      },
+      "severity": "major",
+      "reason": "A가 잠긴 「광학 위장」과 원문 정보량을 지킨다. B는 「광학미채」로 용어가 흔들리고 정경·형상화로 문체를 과도하게 문어화했다"
+    },
+    {
+      "uid": "ch03-10:49:1fff2ab3",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 호명"
+    }
+  ],
+  "review_status": "complete_blind",
+  "entries_reviewed": 25
+}

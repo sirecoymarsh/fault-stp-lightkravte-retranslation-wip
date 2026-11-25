@@ -1,0 +1,1293 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch03-08.part01",
+  "script": "ch03-08",
+  "chapter": "ch03",
+  "story_phase": "후반·위기와 결말",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": [
+      {
+        "uid": "ch03-08:525:cc91637d",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "記憶から描く練習をしてるんだけど なかなか難しくてね…<br>レッスンをつけてもらった方がいいかも…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-08:528:6063ab17",
+        "speaker_id": "oug",
+        "speaker_name": "오그즈",
+        "ja": "ちょっと待て お前いまなんて言った？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-08:530:c1e11afa",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "え あああ…公民館で絵のレッスンをしてる人達がいるから<br>受けに行こうかな なんて",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-08:532:88c6ce85",
+        "speaker_id": "oug",
+        "speaker_name": "오그즈",
+        "ja": "違う…母さんの髪の色だよ",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-08:534:63be4ca6",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "？？ ブロンドがどうしたの？",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch03-08:21:866835c5",
+      "source_hash": "866835c5",
+      "sequence": 0,
+      "source_line": 21,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "カージが煤けたレンズを取り出した",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:22:3f565648",
+      "source_hash": "3f565648",
+      "sequence": 1,
+      "source_line": 22,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "レンズ手垢などと呼ぶには生ぬるいほどあちこち焦げて<br>硝子の部分まで変色していた",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:23:936f7c54",
+      "source_hash": "936f7c54",
+      "sequence": 2,
+      "source_line": 23,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "やはり 怪我の理由はこれか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:25:f9c03785",
+      "source_hash": "f9c03785",
+      "sequence": 3,
+      "source_line": 25,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "相当無理したのか それとも下手を打ったのか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:27:2fa4d29b",
+      "source_hash": "2fa4d29b",
+      "sequence": 4,
+      "source_line": 27,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "くくく…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:33:655ebe98",
+      "source_hash": "655ebe98",
+      "sequence": 5,
+      "source_line": 33,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ちょっといいかな こっちを向いてもらって",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:34:a1ba2548",
+      "source_hash": "a1ba2548",
+      "sequence": 6,
+      "source_line": 34,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ん？ ああ…具体的にはどうすればいいんだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:37:1c3cb67c",
+      "source_hash": "1c3cb67c",
+      "sequence": 7,
+      "source_line": 37,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "はは…君の―――<br>素のままでいてくれればいいんだよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:38:eab62fa8",
+      "source_hash": "eab62fa8",
+      "sequence": 8,
+      "source_line": 38,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ほう？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:45:e7cd8b84",
+      "source_hash": "e7cd8b84",
+      "sequence": 9,
+      "source_line": 45,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そういうとカージは目を閉じ 大きく深呼吸をした",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:72:cb5cca18",
+      "source_hash": "cb5cca18",
+      "sequence": 10,
+      "source_line": 72,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:73:dd7e665d",
+      "source_hash": "dd7e665d",
+      "sequence": 11,
+      "source_line": 73,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "素のままでいろとは具体的にはどう…すればいいんだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:74:e204ff8f",
+      "source_hash": "e204ff8f",
+      "sequence": 12,
+      "source_line": 74,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "レンズのほうを向いているだけでいいとはどういう……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:94:1ab0691f",
+      "source_hash": "1ab0691f",
+      "sequence": 13,
+      "source_line": 94,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "うわ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:95:8e340a77",
+      "source_hash": "8e340a77",
+      "sequence": 14,
+      "source_line": 95,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "っ――――！！！！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:101:f1405ffd",
+      "source_hash": "f1405ffd",
+      "sequence": 15,
+      "source_line": 101,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "カージが手にするレンズの周囲が<ruby=\"くゆ\">燻</ruby>る―――！！",
+      "required_tokens": [
+        "<ruby=\"くゆ\">",
+        "</ruby>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:102:27204af5",
+      "source_hash": "27204af5",
+      "sequence": 16,
+      "source_line": 102,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "な なにが起こってる…んだ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:117:c5c060c1",
+      "source_hash": "c5c060c1",
+      "sequence": 17,
+      "source_line": 117,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………っ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:122:c3e9268f",
+      "source_hash": "c3e9268f",
+      "sequence": 18,
+      "source_line": 122,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "リトナ＝ラインヴァスタ…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:126:f71c2143",
+      "source_hash": "f71c2143",
+      "sequence": 19,
+      "source_line": 126,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "これが………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:180:db4d4dca",
+      "source_hash": "db4d4dca",
+      "sequence": 20,
+      "source_line": 180,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕の答え",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:185:54635dc1",
+      "source_hash": "54635dc1",
+      "sequence": 21,
+      "source_line": 185,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "だあああああああ―――っっ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:213:67c213dd",
+      "source_hash": "67c213dd",
+      "sequence": 22,
+      "source_line": 213,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:214:71baf103",
+      "source_hash": "71baf103",
+      "sequence": 23,
+      "source_line": 214,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "――――な！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:215:cf588245",
+      "source_hash": "cf588245",
+      "sequence": 24,
+      "source_line": 215,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "な なんだ！？ なんだこれは！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:217:f5831581",
+      "source_hash": "f5831581",
+      "sequence": 25,
+      "source_line": 217,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "焦げと錆の匂いが部屋を充満する",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:218:26b51e2f",
+      "source_hash": "26b51e2f",
+      "sequence": 26,
+      "source_line": 218,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "この独特な匂い―――それはマナの消化不足",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:219:7d12e899",
+      "source_hash": "7d12e899",
+      "sequence": 27,
+      "source_line": 219,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "シナジーの比率を間違えた時の匂いだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:221:f0f5be5f",
+      "source_hash": "f0f5be5f",
+      "sequence": 28,
+      "source_line": 221,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "へ 下手くそ…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:229:ca460edd",
+      "source_hash": "ca460edd",
+      "sequence": 29,
+      "source_line": 229,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "で できた！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:232:bf302999",
+      "source_hash": "bf302999",
+      "sequence": 30,
+      "source_line": 232,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "しかし――カージはガッツポーズを決めていた",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:233:1d865d60",
+      "source_hash": "1d865d60",
+      "sequence": 31,
+      "source_line": 233,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "彼の前に置かれたキャンバスには…<br>うっすらとボケた人物が投影されていた",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:240:257004fd",
+      "source_hash": "257004fd",
+      "sequence": 32,
+      "source_line": 240,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ど どいうことだ こ これは！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:242:80301ab2",
+      "source_hash": "80301ab2",
+      "sequence": 33,
+      "source_line": 242,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そう…その人物とは 私であった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:243:e391e414",
+      "source_hash": "e391e414",
+      "sequence": 34,
+      "source_line": 243,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "これは絵…なのか？？ いやでも…服が違う！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:244:a1a65082",
+      "source_hash": "a1a65082",
+      "sequence": 35,
+      "source_line": 244,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "これは…どう見ても ルゼンハイドのガーディアン服……！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:245:c560a5d8",
+      "source_hash": "c560a5d8",
+      "sequence": 36,
+      "source_line": 245,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "しかもこの表情…こんな表情してたか？ 私！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:246:7668d432",
+      "source_hash": "7668d432",
+      "sequence": 37,
+      "source_line": 246,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あっあっはは………よかった…できた……<br>燃えずに…はは…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:247:6d508730",
+      "source_hash": "6d508730",
+      "sequence": 38,
+      "source_line": 247,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ここで燃やしちゃったら 超カッコ悪いからね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:248:ed459942",
+      "source_hash": "ed459942",
+      "sequence": 39,
+      "source_line": 248,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ちょ…そんなことより待て！<br>こ これは…レンズを通した光を焼きつけたのか？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:249:83a85087",
+      "source_hash": "83a85087",
+      "sequence": 40,
+      "source_line": 249,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "でも 違う…背景も 光源も！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:250:f16abe3c",
+      "source_hash": "f16abe3c",
+      "sequence": 41,
+      "source_line": 250,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "どういうカラクリなんだ これは…！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:263:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 42,
+      "source_line": 263,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:265:ed79e1b2",
+      "source_hash": "ed79e1b2",
+      "sequence": 43,
+      "source_line": 265,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "イメージ…なんだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:268:4e1b5a19",
+      "source_hash": "4e1b5a19",
+      "sequence": 44,
+      "source_line": 268,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕がリトナ＝ラインヴァスタという人物を<br>思い浮かべた時に 想像する君だ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:280:81885e56",
+      "source_hash": "81885e56",
+      "sequence": 45,
+      "source_line": 280,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "そ 想像をする…私のイメージ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:292:f5da147",
+      "source_hash": "f5da147",
+      "sequence": 46,
+      "source_line": 292,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "レンズで集めた光は…ペンクラフトなんかじゃ<br>到底描写しきれない情報量があった",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:293:eab03a2",
+      "source_hash": "eab03a2",
+      "sequence": 47,
+      "source_line": 293,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "その全てをレンズに留めるのも<br>不可能なくらいの情報量だ…<br>込める側から情報が漏れていく",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:294:761df0e2",
+      "source_hash": "761df0e2",
+      "sequence": 48,
+      "source_line": 294,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "でも その光は基盤を作るのには…十分な情報量…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:304:9d0efc20",
+      "source_hash": "9d0efc20",
+      "sequence": 49,
+      "source_line": 304,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "失われる情報は 僕の『イメージ』で補う",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:305:8c784a90",
+      "source_hash": "8c784a90",
+      "sequence": 50,
+      "source_line": 305,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "その程度のマナは 練れるようになった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:308:58b57b9d",
+      "source_hash": "58b57b9d",
+      "sequence": 51,
+      "source_line": 308,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こうすることで出来上がるんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:315:31a2bb51",
+      "source_hash": "31a2bb51",
+      "sequence": 52,
+      "source_line": 315,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "被写体の姿と 僕の中のイメージが融合して生まれる<br>一枚の『絵』を作り出すクラフト―――",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:323:18420c1d",
+      "source_hash": "18420c1d",
+      "sequence": 53,
+      "source_line": 323,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "―――光の ライトクラフトが",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:338:1b0b6a12",
+      "source_hash": "1b0b6a12",
+      "sequence": 54,
+      "source_line": 338,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:340:58150409",
+      "source_hash": "58150409",
+      "sequence": 55,
+      "source_line": 340,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…そうか…くくく…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:341:3964f6b2",
+      "source_hash": "3964f6b2",
+      "sequence": 56,
+      "source_line": 341,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "やはり受けたんだな…お前？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:343:dc7aa641",
+      "source_hash": "dc7aa641",
+      "sequence": 57,
+      "source_line": 343,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "―――オフィア？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:361:1b171eb5",
+      "source_hash": "1b171eb5",
+      "sequence": 58,
+      "source_line": 361,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "本当に…いいんだな カージ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:365:9d9cc86",
+      "source_hash": "9d9cc86",
+      "sequence": 59,
+      "source_line": 365,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "お前 それが何を意味しているか<br>ちゃんと理解してるんだろうな？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:383:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 60,
+      "source_line": 383,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:386:ff77ca2b",
+      "source_hash": "ff77ca2b",
+      "sequence": 61,
+      "source_line": 386,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…うん",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:405:d9a5ba6f",
+      "source_hash": "d9a5ba6f",
+      "sequence": 62,
+      "source_line": 405,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "見つかったんだな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:407:97a2f81e",
+      "source_hash": "97a2f81e",
+      "sequence": 63,
+      "source_line": 407,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "人生を賭けられるくらい 大事なものが",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:422:dcfa3afb",
+      "source_hash": "dcfa3afb",
+      "sequence": 64,
+      "source_line": 422,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "きっかけ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:432:8ce83f2f",
+      "source_hash": "8ce83f2f",
+      "sequence": 65,
+      "source_line": 432,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "……………え？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:441:efcf3493",
+      "source_hash": "efcf3493",
+      "sequence": 66,
+      "source_line": 441,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕がさ なんで絵を描きたいと思ったのか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:444:812c0f41",
+      "source_hash": "812c0f41",
+      "sequence": 67,
+      "source_line": 444,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "リトナには特別に教えてあげるよ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:445:716de868",
+      "source_hash": "716de868",
+      "sequence": 68,
+      "source_line": 445,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:462:21bf2b00",
+      "source_hash": "21bf2b00",
+      "sequence": 69,
+      "source_line": 462,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "肖像画は 特別な人間が特別な時にしか残さない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:463:9e06004f",
+      "source_hash": "9e06004f",
+      "sequence": 70,
+      "source_line": 463,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "セレンハイド邸でさえ肖像画なんてほとんど飾られていない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:464:81b5e8ff",
+      "source_hash": "81b5e8ff",
+      "sequence": 71,
+      "source_line": 464,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "少なくとも一般に公開されているものはせいぜいメインホールに飾られているアンゼ様のものくらいだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:465:5bcd9a43",
+      "source_hash": "5bcd9a43",
+      "sequence": 72,
+      "source_line": 465,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "でも あれは思い出とかじゃなくて彼女が現行セレンハイドの長である象徴として飾られている",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:466:4744e67c",
+      "source_hash": "4744e67c",
+      "sequence": 73,
+      "source_line": 466,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "権力を保持しているのは誰なのかひとめ見てわかるように…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:467:d059904f",
+      "source_hash": "d059904f",
+      "sequence": 74,
+      "source_line": 467,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "今は権力を振りかざすとかそういう風潮はなくなったけど<br>受け継がれてきた文化は残ってる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:469:7f896c55",
+      "source_hash": "7f896c55",
+      "sequence": 75,
+      "source_line": 469,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "肖像画っていうのはいつの時代でも特別なものであって多くは生み出せない…絵を描くのはそれだけの労力が必要だから",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:470:85fba281",
+      "source_hash": "85fba281",
+      "sequence": 76,
+      "source_line": 470,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それだけ時間をとるものだから",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:471:34b683e",
+      "source_hash": "34b683e",
+      "sequence": 77,
+      "source_line": 471,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そのせいか セレンハイド邸のどこを見ても…フローラ様の絵は見当たらない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:472:60543423",
+      "source_hash": "60543423",
+      "sequence": 78,
+      "source_line": 472,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そして もちろん姉のミィネ様の絵も…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:473:6d51e7af",
+      "source_hash": "6d51e7af",
+      "sequence": 79,
+      "source_line": 473,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "もしかしたら 本館の居住区の方にはあるのかもしれないけど<br>どのみち数はきっと限られているはずだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:475:2b68094f",
+      "source_hash": "2b68094f",
+      "sequence": 80,
+      "source_line": 475,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:492:5718a759",
+      "source_hash": "5718a759",
+      "sequence": 81,
+      "source_line": 492,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "お前そろそろ髪切ったらどうだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:493:7daf69db",
+      "source_hash": "7daf69db",
+      "sequence": 82,
+      "source_line": 493,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ボッサボサじゃないかよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:495:ef0a12c3",
+      "source_hash": "ef0a12c3",
+      "sequence": 83,
+      "source_line": 495,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…もうそんな時期になった…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:497:22c291e9",
+      "source_hash": "22c291e9",
+      "sequence": 84,
+      "source_line": 497,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ああ もうめんどくさいなあ…<br>髪なんて１０年くらい伸びないでいいのに",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:499:4426a36f",
+      "source_hash": "4426a36f",
+      "sequence": 85,
+      "source_line": 499,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ばかなこと言ってないで 切ってこい<br>みっともねえ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:500:5c32317b",
+      "source_hash": "5c32317b",
+      "sequence": 86,
+      "source_line": 500,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "じゃないと 夜寝てる間に父ちゃんが切っちまうぞ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:502:e65847e9",
+      "source_hash": "e65847e9",
+      "sequence": 87,
+      "source_line": 502,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ それだけは勘弁を！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:504:9a845c18",
+      "source_hash": "9a845c18",
+      "sequence": 88,
+      "source_line": 504,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "お なにしてんだよ お前？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:505:f3313624",
+      "source_hash": "f3313624",
+      "sequence": 89,
+      "source_line": 505,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "古本読んでないお前を見るのなんて久しぶりだな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:507:f47050e1",
+      "source_hash": "f47050e1",
+      "sequence": 90,
+      "source_line": 507,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "う うんちょっとね<br>棚の整理をしてたら 昔使ってた絵の具が出てきたからさ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:508:a4039b4c",
+      "source_hash": "a4039b4c",
+      "sequence": 91,
+      "source_line": 508,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "久々に絵でも描いてみようかな なんて<br>これが思ったより楽しくてさ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:510:3824927c",
+      "source_hash": "3824927c",
+      "sequence": 92,
+      "source_line": 510,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "そうか それはよかったな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:511:260bccd4",
+      "source_hash": "260bccd4",
+      "sequence": 93,
+      "source_line": 511,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "趣味は幅広く持ったほうがいい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:513:e1568",
+      "source_hash": "e1568",
+      "sequence": 94,
+      "source_line": 513,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "仕方ないな…絵の具切らしてるから<br>調達するついでに髪の毛も切ってくるかー",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:515:923ff9d5",
+      "source_hash": "923ff9d5",
+      "sequence": 95,
+      "source_line": 515,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "絵の具なんて たくさんあるじゃないか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:517:a45afcbb",
+      "source_hash": "a45afcbb",
+      "sequence": 96,
+      "source_line": 517,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "黄色がないんだよ！ 切らしちゃったんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:519:cbb889c7",
+      "source_hash": "cbb889c7",
+      "sequence": 97,
+      "source_line": 519,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ほう…これは金髪の女なのか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:521:5a506df8",
+      "source_hash": "5a506df8",
+      "sequence": 98,
+      "source_line": 521,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…な なに言ってるんだよ 父さん！<br>確かにまだ下手かもしれないけどさーもう…<br>母さんだよ これは！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-08:523:8f4a4f3e",
+      "source_hash": "8f4a4f3e",
+      "sequence": 99,
+      "source_line": 523,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "………え？",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

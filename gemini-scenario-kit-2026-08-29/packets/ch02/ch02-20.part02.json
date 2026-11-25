@@ -1,0 +1,675 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-20.part02",
+  "script": "ch02-20",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch02-20:188:49e3d90d",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "だからルゼンハイドの水路は飲めるほど綺麗で<br>アライアンス<ruby=\"いち\">一</ruby>美しいと言われているんですよね？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-20:190:b29435fe",
+        "speaker_id": "adi",
+        "speaker_name": "아디아",
+        "ja": "うん",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-20:192:f29d075e",
+        "speaker_id": "adi",
+        "speaker_name": "아디아",
+        "ja": "あたしも<br>おじいちゃん達に聞かされてる程度なんだけどね…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-20:193:f113aeaf",
+        "speaker_id": "adi",
+        "speaker_name": "아디아",
+        "ja": "水路が汚いと 国そのものの士気がすごく下がるんだって",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-20:194:5e70766a",
+        "speaker_id": "adi",
+        "speaker_name": "아디아",
+        "ja": "あんまり汚れちゃうと<br>専用の浄化施設を設けないといけなくなるし…",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch02-20:196:d1d6ec49",
+      "source_hash": "d1d6ec49",
+      "sequence": 100,
+      "source_line": 196,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "病気の蔓延とモラルの低下にも繋がって<br>とにかくいいことがないんだって 水が汚いと",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:197:bfdd1228",
+      "source_hash": "bfdd1228",
+      "sequence": 101,
+      "source_line": 197,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "おじいちゃんたちの世代の人はよく言ってたらしいんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:199:a09f747b",
+      "source_hash": "a09f747b",
+      "sequence": 102,
+      "source_line": 199,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "『国の水は 国民の精神と心を表している』って",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:200:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 103,
+      "source_line": 200,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:202:11e1aa6d",
+      "source_hash": "11e1aa6d",
+      "sequence": 104,
+      "source_line": 202,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "ファリナーはね 見えないところで<br>国を元気づけてるんだよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:204:29bc0e6a",
+      "source_hash": "29bc0e6a",
+      "sequence": 105,
+      "source_line": 204,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "あたし それってすごく素敵なことだと思ってね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:205:9071c037",
+      "source_hash": "9071c037",
+      "sequence": 106,
+      "source_line": 205,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "子供の頃からずっとファリナーになりたい<br>なりたいって思ってたんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:207:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 107,
+      "source_line": 207,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:208:33beddd",
+      "source_hash": "33beddd",
+      "sequence": 108,
+      "source_line": 208,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "と とても…アディアさんらしいです…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:211:22a575fd",
+      "source_hash": "22a575fd",
+      "sequence": 109,
+      "source_line": 211,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "でもね…現実ってやっぱりそんなに甘くなくて…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:212:8c113a25",
+      "source_hash": "8c113a25",
+      "sequence": 110,
+      "source_line": 212,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "ファリナーってね<br>一定の移動量に比例して浄化しないといけない<br>水の量っていうのが決まってて",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:213:35020f6",
+      "source_hash": "35020f6",
+      "sequence": 111,
+      "source_line": 213,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "ノルマを達成できないと<br><ruby=\"レギュラー\">ファーストフリート</ruby>には入れてもらないの",
+      "required_tokens": [
+        "<br>",
+        "<ruby=\"レギュラー\">",
+        "</ruby>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:215:6e27b4ad",
+      "source_hash": "6e27b4ad",
+      "sequence": 112,
+      "source_line": 215,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "結構…シビアなんですね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:217:20ed8e46",
+      "source_hash": "20ed8e46",
+      "sequence": 113,
+      "source_line": 217,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "あたし あんまり成績がよくなくてね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:218:194667a2",
+      "source_hash": "194667a2",
+      "sequence": 114,
+      "source_line": 218,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "すごく大変なんだ 浄化って",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:220:1d90898",
+      "source_hash": "1d90898",
+      "sequence": 115,
+      "source_line": 220,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "でね 後輩の子に 水路の浄化がとても上手が子がいて",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:221:9df68e41",
+      "source_hash": "9df68e41",
+      "sequence": 116,
+      "source_line": 221,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "その子は運転もすごく上手で<br>どんどん成績でも抜かれちゃって",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:223:934e18c1",
+      "source_hash": "934e18c1",
+      "sequence": 117,
+      "source_line": 223,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "あたし…一時期<tip=\"third_fleet\">サードフリート</tip>にまで落ちちゃって…<br>すごく落ち込んでいたことがあるだ",
+      "required_tokens": [
+        "<tip=\"third_fleet\">",
+        "</tip>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:224:ea4421ac",
+      "source_hash": "ea4421ac",
+      "sequence": 118,
+      "source_line": 224,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "でもその時にね たまたまよく乗せていたリッグズ君に――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:243:5238e20f",
+      "source_hash": "5238e20f",
+      "sequence": 119,
+      "source_line": 243,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "辛そうだな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:245:1f2699b8",
+      "source_hash": "1f2699b8",
+      "sequence": 120,
+      "source_line": 245,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "………へ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:246:742f7a4b",
+      "source_hash": "742f7a4b",
+      "sequence": 121,
+      "source_line": 246,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "なにがあったのか知らないが<br>ファリナーは所謂昔でいうところの客商売というやつだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:247:6d222e1",
+      "source_hash": "6d222e1",
+      "sequence": 122,
+      "source_line": 247,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "乗せている者を不安にさせてしまうぞ？<br>そんな顔をしていると",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:249:aadc538",
+      "source_hash": "aadc538",
+      "sequence": 123,
+      "source_line": 249,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "す す すみません…！<br>ちょ ちょっと疲れてるみたいで……！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:250:41d2f37b",
+      "source_hash": "41d2f37b",
+      "sequence": 124,
+      "source_line": 250,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:253:396ff1b7",
+      "source_hash": "396ff1b7",
+      "sequence": 125,
+      "source_line": 253,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "そうか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:254:c88215f6",
+      "source_hash": "c88215f6",
+      "sequence": 126,
+      "source_line": 254,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "疲れているのなら 休むに適したいい場所を教えよう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:273:3ce6f7ff",
+      "source_hash": "3ce6f7ff",
+      "sequence": 127,
+      "source_line": 273,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ それで止り木に招待されたんですか…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:275:ecb251c7",
+      "source_hash": "ecb251c7",
+      "sequence": 128,
+      "source_line": 275,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "そうなの！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:277:56cbd373",
+      "source_hash": "56cbd373",
+      "sequence": 129,
+      "source_line": 277,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "それでリッグズ君やミィシャ君たち 他のみんなと出会って",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:279:825be8bf",
+      "source_hash": "825be8bf",
+      "sequence": 130,
+      "source_line": 279,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "それ以降いろいろあったんだけどね…<br>みんなと時間を過ごすことで 思い出せたんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:281:8bbdb33d",
+      "source_hash": "8bbdb33d",
+      "sequence": 131,
+      "source_line": 281,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "あたしはやっぱり人といるのが楽しくて<br>いろんな人と出会える<br>ファリナーの仕事が大好きだから―――",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:283:89b398cd",
+      "source_hash": "89b398cd",
+      "sequence": 132,
+      "source_line": 283,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "だから 他の人に抜かれたり 比べられたり<br>どれだけカッコ悪くても…<br>あたしはあたしがやりたいことを追い求めようって",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:285:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 133,
+      "source_line": 285,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:287:91b093f3",
+      "source_hash": "91b093f3",
+      "sequence": 134,
+      "source_line": 287,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "えへへ…ごめんね 自分の話になっちゃって",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:289:cba4df23",
+      "source_hash": "cba4df23",
+      "sequence": 135,
+      "source_line": 289,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いえ…そんな…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:291:9cc466e4",
+      "source_hash": "9cc466e4",
+      "sequence": 136,
+      "source_line": 291,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "カージ君も 夢とまたちゃんと向き合うことができれば<br>きっとやらないといけない答えはみつかると思うな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:292:67ad8000",
+      "source_hash": "67ad8000",
+      "sequence": 137,
+      "source_line": 292,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "難しく考えすぎてませんか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:294:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 138,
+      "source_line": 294,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:295:290e2a4c",
+      "source_hash": "290e2a4c",
+      "sequence": 139,
+      "source_line": 295,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕のやりたいこと…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:296:554c3c53",
+      "source_hash": "554c3c53",
+      "sequence": 140,
+      "source_line": 296,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そうだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:324:4e7f4cd5",
+      "source_hash": "4e7f4cd5",
+      "sequence": 141,
+      "source_line": 324,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それは絵を描くことそのものじゃ…ないんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:325:f9174c8",
+      "source_hash": "f9174c8",
+      "sequence": 142,
+      "source_line": 325,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "もちろん絵に未練はあるけど 飲まれてはダメなんだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:326:30befe97",
+      "source_hash": "30befe97",
+      "sequence": 143,
+      "source_line": 326,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "絵の世界に",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:327:c02fd309",
+      "source_hash": "c02fd309",
+      "sequence": 144,
+      "source_line": 327,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "目的を見失ってはいけないんだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:329:f54988cb",
+      "source_hash": "f54988cb",
+      "sequence": 145,
+      "source_line": 329,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ありがとうございます…アディアさん",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:330:e36032b4",
+      "source_hash": "e36032b4",
+      "sequence": 146,
+      "source_line": 330,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "うん！ 気にしないでいいよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:331:6d9d038b",
+      "source_hash": "6d9d038b",
+      "sequence": 147,
+      "source_line": 331,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "じゃあ どうしようか カージ君？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-20:338:27955c12",
+      "source_hash": "27955c12",
+      "sequence": 148,
+      "source_line": 338,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "―――レッスン続ける？",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

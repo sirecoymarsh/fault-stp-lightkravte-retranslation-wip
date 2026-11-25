@@ -1,0 +1,562 @@
+{
+  "schema_version": 1,
+  "reviewer": "Codex internal",
+  "entries": [
+    {
+      "uid": "ch01-05d:71:6091fb77",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 고유어 표기"
+    },
+    {
+      "uid": "ch01-06:70:d1ce0617",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 2,
+        "issues": [
+          "따위 강도 증설"
+        ]
+      },
+      "severity": "major",
+      "reason": "A가 타국 과자 문화에 정신이 팔렸다는 뜻을 그대로 옮겼다. B의 「따위」는 원문에 없는 멸시 강도를 추가한다"
+    },
+    {
+      "uid": "ch01-06:189:4af1758a",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 3,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "말투 다소 어색"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 3,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "보고를 알려 줄 일로 의역"
+        ]
+      },
+      "severity": "minor",
+      "reason": "報告이라는 핵심 명사를 보존한 A가 더 충실하다. 다만 부친 말투로는 둘 다 매끄럽지 않다"
+    },
+    {
+      "uid": "ch01-06:239:82f6790d",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "목적어 불명확"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "major",
+      "reason": "문맥상 비밀을 과수원 근무자에게만 알리겠다는 뜻이다. B가 목적어를 복원해 자연스럽고 A는 무엇을 한정하는지 흐리다"
+    },
+    {
+      "uid": "ch01-06:246:e0cc7c0f",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "pending 표기"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "pending 표기"
+        ]
+      },
+      "severity": "none",
+      "reason": "동일한 pending 고유어 표기"
+    },
+    {
+      "uid": "ch01-06:318:16927",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "B의 주어 연결이 자연스럽다. 두 번역 모두 과도한 물음표는 원문 강도를 재현한다"
+    },
+    {
+      "uid": "ch01-06:469:f39d31d9",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby 후검수"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "전원 표현이 다소 딱딱함",
+          "ruby 후검수"
+        ]
+      },
+      "severity": "minor",
+      "reason": "둘 다 의미는 맞지만 A의 「모두」와 「생각해」가 플로라의 자연스러운 말투에 조금 더 맞다"
+    },
+    {
+      "uid": "ch01-06:476:b3d6734f",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch01-07:37:a6c1c448",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 침묵 표기"
+    },
+    {
+      "uid": "ch01-07:113:e97d459a",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "pending 용어"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "pending 용어"
+        ]
+      },
+      "severity": "none",
+      "reason": "동일한 pending 용어 표기"
+    },
+    {
+      "uid": "ch01-07:162:ed7aa334",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "호칭 중복"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby 후검수"
+        ]
+      },
+      "severity": "major",
+      "reason": "B가 「오그즈의 아들」을 자연스럽게 옮겼다. A는 「오그즈 아저씨 아들」로 호칭이 중복되어 어색하다"
+    },
+    {
+      "uid": "ch01-07:257:9cac4288",
+      "preferred": "B",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 3,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "B의 「잖냐」가 딜의 거친 반말을 더 잘 살린다"
+    },
+    {
+      "uid": "ch01-07:560:e41944a6",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby 후검수"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 3,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "조사·존대 약화",
+          "ruby 후검수"
+        ]
+      },
+      "severity": "minor",
+      "reason": "おじ様의 공손한 호칭에는 A의 「아저씨께」가 맞다. B의 「에게」는 거리감이 낮아진다"
+    },
+    {
+      "uid": "ch01-07:582:f830673d",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "A의 「알아 두자」가 覚えておこうよ의 권유에 자연스럽다. B의 「외워 두자고」는 다소 거칠다"
+    },
+    {
+      "uid": "ch01-07:689:6682e80",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "번역투"
+        ]
+      },
+      "severity": "minor",
+      "reason": "別に会わなくても는 「굳이 만나지 않아도」가 자연스럽다. B의 「별로 … 않아도」는 일본어 간섭이다"
+    },
+    {
+      "uid": "ch01-07:841:31f405b0",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 1,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "용어 선택 어색"
+        ]
+      },
+      "severity": "major",
+      "reason": "着任은 직위 취임이다. A가 정확하고 B의 「착임」은 한국어에서 매우 어색하다"
+    },
+    {
+      "uid": "ch01-07:918:8a94b077",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "ぜぇぜぇ의 헐떡임은 A의 「헉헉」이 자연스럽다"
+    },
+    {
+      "uid": "ch01-07:1115:f6dc8e9d",
+      "preferred": "A",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "감탄 의미 다소 구체화"
+        ]
+      },
+      "B": {
+        "fidelity": 2,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 1,
+        "issues": [
+          "고통 소리 증설"
+        ]
+      },
+      "severity": "major",
+      "reason": "B는 단순한 놀람 え…っ에 「큭」이라는 고통·억눌림 소리를 추가했다. A도 「뭐」로 해석했지만 추가는 적다"
+    },
+    {
+      "uid": "ch01-07:1155:b92a358a",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "완곡화"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "minor",
+      "reason": "下手를 「못 그리다」로 직접 옮긴 B가 정확하다. A의 「실력이 부족하다」는 완곡화다"
+    },
+    {
+      "uid": "ch01-07:1307:4ee1154a",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 2,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby 의미 관계 불명확"
+        ]
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "ruby 후검수"
+        ]
+      },
+      "severity": "major",
+      "reason": "B가 악마/세큐르의 아테지 의미를 한국어 문장에 자연스럽게 반영했다. A의 「세큐르로 굳히고」는 결합이 어색하다"
+    },
+    {
+      "uid": "ch01-08d:20:f7ae9609",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 1,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "편지 존대 단계 오류"
+        ]
+      },
+      "severity": "major",
+      "reason": "어머니에게 쓰는 편지의 です/ます체다. A는 존댓말을 유지하고 B는 반말로 바꿨다"
+    },
+    {
+      "uid": "ch01-08d:22:f54d8c4c",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 1,
+        "no_unsupported_addition": 4,
+        "issues": [
+          "편지 존대 단계 오류"
+        ]
+      },
+      "severity": "major",
+      "reason": "앞뒤와 같은 어머니에게 보내는 편지다. A의 존댓말이 맞고 B의 반말은 보이스 오류다"
+    },
+    {
+      "uid": "ch01-08d:29:d6b09d94",
+      "preferred": "A",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "문장부호 추가"
+        ]
+      },
+      "severity": "minor",
+      "reason": "원문은 한 글자 감탄과 줄바꿈뿐이다. B의 마침표는 불필요하다"
+    },
+    {
+      "uid": "ch01-09:86:a0a1b464",
+      "preferred": "tie",
+      "A": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "B": {
+        "fidelity": 4,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 4,
+        "issues": []
+      },
+      "severity": "none",
+      "reason": "동일한 감탄 번역"
+    },
+    {
+      "uid": "ch01-09:143:fe27e6f7",
+      "preferred": "B",
+      "A": {
+        "fidelity": 3,
+        "naturalness": 3,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "강도 다소 상승"
+        ]
+      },
+      "B": {
+        "fidelity": 3,
+        "naturalness": 4,
+        "directed_voice": 4,
+        "no_unsupported_addition": 3,
+        "issues": [
+          "강도 다소 상승"
+        ]
+      },
+      "severity": "minor",
+      "reason": "둘 다 ちゃんと를 「똑똑히」로 다소 세게 옮겼지만 B의 어순이 자연스럽다"
+    }
+  ],
+  "review_status": "complete_blind",
+  "entries_reviewed": 25
+}

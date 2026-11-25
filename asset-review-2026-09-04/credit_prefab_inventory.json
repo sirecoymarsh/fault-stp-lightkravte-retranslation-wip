@@ -1,0 +1,462 @@
+[
+  {
+    "prefab": "AnimHare",
+    "root_path_id": -3606827252760512153,
+    "game_objects": 2,
+    "sprites": [
+      {
+        "game_object": "name",
+        "sprite_path_id": -6050411654281200068,
+        "sprite_name": "anime hare",
+        "texture_path_id": -3364026802204621321,
+        "texture_name": "anime hare"
+      }
+    ],
+    "components": [
+      {
+        "game_object": "AnimHare",
+        "type": "Transform",
+        "path_id": -3907651608331564255
+      },
+      {
+        "game_object": "AnimHare",
+        "type": "MonoBehaviour",
+        "path_id": -7628230634625780902
+      },
+      {
+        "game_object": "AnimHare",
+        "type": "MonoBehaviour",
+        "path_id": -6995943566772525540
+      },
+      {
+        "game_object": "AnimHare",
+        "type": "Animator",
+        "path_id": -2887690953806902293
+      },
+      {
+        "game_object": "name",
+        "type": "Transform",
+        "path_id": -3738613269923880344
+      },
+      {
+        "game_object": "name",
+        "type": "SpriteRenderer",
+        "path_id": 5379990659999304615
+      }
+    ]
+  },
+  {
+    "prefab": "AnimOrph",
+    "root_path_id": 4608774493347846922,
+    "game_objects": 2,
+    "sprites": [
+      {
+        "game_object": "name",
+        "sprite_path_id": -5429657580153342888,
+        "sprite_name": "anime dmitry",
+        "texture_path_id": -2930094059954211240,
+        "texture_name": "anime dmitry"
+      }
+    ],
+    "components": [
+      {
+        "game_object": "AnimOrph",
+        "type": "Transform",
+        "path_id": 3561368132111003948
+      },
+      {
+        "game_object": "AnimOrph",
+        "type": "MonoBehaviour",
+        "path_id": 5233911015106057604
+      },
+      {
+        "game_object": "AnimOrph",
+        "type": "MonoBehaviour",
+        "path_id": -3967814915633996244
+      },
+      {
+        "game_object": "AnimOrph",
+        "type": "Animator",
+        "path_id": -7612607959444427165
+      },
+      {
+        "game_object": "name",
+        "type": "Transform",
+        "path_id": 5714403278676416937
+      },
+      {
+        "game_object": "name",
+        "type": "SpriteRenderer",
+        "path_id": 6542744382679037099
+      }
+    ]
+  },
+  {
+    "prefab": "Dmitry",
+    "root_path_id": 807641189593886643,
+    "game_objects": 2,
+    "sprites": [
+      {
+        "game_object": "name",
+        "sprite_path_id": 4122105576503275972,
+        "sprite_name": "Dmitry_c",
+        "texture_path_id": -5485632158015552049,
+        "texture_name": "Dmitry_c"
+      }
+    ],
+    "components": [
+      {
+        "game_object": "Dmitry",
+        "type": "Transform",
+        "path_id": 687054555964048543
+      },
+      {
+        "game_object": "Dmitry",
+        "type": "MonoBehaviour",
+        "path_id": 8958635026512114429
+      },
+      {
+        "game_object": "Dmitry",
+        "type": "MonoBehaviour",
+        "path_id": -6679613972697561800
+      },
+      {
+        "game_object": "Dmitry",
+        "type": "Animator",
+        "path_id": 980255063694099374
+      },
+      {
+        "game_object": "name",
+        "type": "Transform",
+        "path_id": 6397682924161336821
+      },
+      {
+        "game_object": "name",
+        "type": "SpriteRenderer",
+        "path_id": 1665132531008496541
+      }
+    ]
+  },
+  {
+    "prefab": "Kawamura",
+    "root_path_id": 547191142685002715,
+    "game_objects": 2,
+    "sprites": [
+      {
+        "game_object": "name",
+        "sprite_path_id": -8147055751405792061,
+        "sprite_name": "Kawamura_C",
+        "texture_path_id": 54422250404592837,
+        "texture_name": "Kawamura_C"
+      }
+    ],
+    "components": [
+      {
+        "game_object": "Kawamura",
+        "type": "Transform",
+        "path_id": 4956842600283059628
+      },
+      {
+        "game_object": "Kawamura",
+        "type": "MonoBehaviour",
+        "path_id": 2913927653290317406
+      },
+      {
+        "game_object": "Kawamura",
+        "type": "MonoBehaviour",
+        "path_id": -2242241858952509800
+      },
+      {
+        "game_object": "Kawamura",
+        "type": "Animator",
+        "path_id": -5284702545081222126
+      },
+      {
+        "game_object": "name",
+        "type": "Transform",
+        "path_id": 6892642780178349403
+      },
+      {
+        "game_object": "name",
+        "type": "SpriteRenderer",
+        "path_id": 8508497909741098954
+      }
+    ]
+  },
+  {
+    "prefab": "Misaki",
+    "root_path_id": -6069696302452410667,
+    "game_objects": 2,
+    "sprites": [
+      {
+        "game_object": "name",
+        "sprite_path_id": -3679046593782042352,
+        "sprite_name": "Misaki_C",
+        "texture_path_id": 1441106173844391157,
+        "texture_name": "Misaki_C"
+      }
+    ],
+    "components": [
+      {
+        "game_object": "Misaki",
+        "type": "Transform",
+        "path_id": 3755055025477176345
+      },
+      {
+        "game_object": "Misaki",
+        "type": "MonoBehaviour",
+        "path_id": -6756678297182805691
+      },
+      {
+        "game_object": "Misaki",
+        "type": "MonoBehaviour",
+        "path_id": -4965484804956379322
+      },
+      {
+        "game_object": "Misaki",
+        "type": "Animator",
+        "path_id": -826257882496146074
+      },
+      {
+        "game_object": "name",
+        "type": "Transform",
+        "path_id": 159910896484183999
+      },
+      {
+        "game_object": "name",
+        "type": "SpriteRenderer",
+        "path_id": -1053830285460720319
+      }
+    ]
+  },
+  {
+    "prefab": "Munisix",
+    "root_path_id": -5282571763426597478,
+    "game_objects": 2,
+    "sprites": [
+      {
+        "game_object": "name",
+        "sprite_path_id": -7306643172830990204,
+        "sprite_name": "Munisix_C",
+        "texture_path_id": 5388313497103507111,
+        "texture_name": "Munisix_C"
+      }
+    ],
+    "components": [
+      {
+        "game_object": "Munisix",
+        "type": "Transform",
+        "path_id": -7679797302127907414
+      },
+      {
+        "game_object": "Munisix",
+        "type": "MonoBehaviour",
+        "path_id": -2257043476519576354
+      },
+      {
+        "game_object": "Munisix",
+        "type": "MonoBehaviour",
+        "path_id": 4564437024147845077
+      },
+      {
+        "game_object": "Munisix",
+        "type": "Animator",
+        "path_id": 5297289012423347426
+      },
+      {
+        "game_object": "name",
+        "type": "Transform",
+        "path_id": 1724747514081350430
+      },
+      {
+        "game_object": "name",
+        "type": "SpriteRenderer",
+        "path_id": 7431552022882591046
+      }
+    ]
+  },
+  {
+    "prefab": "Nyantastic",
+    "root_path_id": -4292624363844718653,
+    "game_objects": 2,
+    "sprites": [
+      {
+        "game_object": "name",
+        "sprite_path_id": 4149005965356257514,
+        "sprite_name": "Nyantastic_C",
+        "texture_path_id": -2492552238782808979,
+        "texture_name": "Nyantastic_C"
+      }
+    ],
+    "components": [
+      {
+        "game_object": "Nyantastic",
+        "type": "Transform",
+        "path_id": 5616783503539243620
+      },
+      {
+        "game_object": "Nyantastic",
+        "type": "MonoBehaviour",
+        "path_id": -520636342224999345
+      },
+      {
+        "game_object": "Nyantastic",
+        "type": "MonoBehaviour",
+        "path_id": -2580966915552077150
+      },
+      {
+        "game_object": "Nyantastic",
+        "type": "Animator",
+        "path_id": 8190988710893605229
+      },
+      {
+        "game_object": "name",
+        "type": "Transform",
+        "path_id": 7028518438536624746
+      },
+      {
+        "game_object": "name",
+        "type": "SpriteRenderer",
+        "path_id": 317640073217393586
+      }
+    ]
+  },
+  {
+    "prefab": "Oda",
+    "root_path_id": 4624205571196225161,
+    "game_objects": 2,
+    "sprites": [
+      {
+        "game_object": "name",
+        "sprite_path_id": -4624217351345344758,
+        "sprite_name": "Oda_C",
+        "texture_path_id": 7085922524199086053,
+        "texture_name": "Oda_C"
+      }
+    ],
+    "components": [
+      {
+        "game_object": "Oda",
+        "type": "Transform",
+        "path_id": -2913642168014058585
+      },
+      {
+        "game_object": "Oda",
+        "type": "MonoBehaviour",
+        "path_id": -4655038689798390097
+      },
+      {
+        "game_object": "Oda",
+        "type": "MonoBehaviour",
+        "path_id": 3690007782363079958
+      },
+      {
+        "game_object": "Oda",
+        "type": "Animator",
+        "path_id": 8487134030603554503
+      },
+      {
+        "game_object": "name",
+        "type": "Transform",
+        "path_id": 7107021310787555101
+      },
+      {
+        "game_object": "name",
+        "type": "SpriteRenderer",
+        "path_id": 8249821330599318547
+      }
+    ]
+  },
+  {
+    "prefab": "ProjectWritten",
+    "root_path_id": -6070244169597966149,
+    "game_objects": 2,
+    "sprites": [
+      {
+        "game_object": "name",
+        "sprite_path_id": 7091981615228113325,
+        "sprite_name": "PROJECT WRITTEN_c",
+        "texture_path_id": -744590697920757633,
+        "texture_name": "PROJECT WRITTEN_c"
+      }
+    ],
+    "components": [
+      {
+        "game_object": "ProjectWritten",
+        "type": "Transform",
+        "path_id": -2853148537549108226
+      },
+      {
+        "game_object": "ProjectWritten",
+        "type": "MonoBehaviour",
+        "path_id": -8875474414686876703
+      },
+      {
+        "game_object": "ProjectWritten",
+        "type": "MonoBehaviour",
+        "path_id": -7806585475323095558
+      },
+      {
+        "game_object": "ProjectWritten",
+        "type": "Animator",
+        "path_id": -948367588165524547
+      },
+      {
+        "game_object": "name",
+        "type": "Transform",
+        "path_id": -2692666128741133839
+      },
+      {
+        "game_object": "name",
+        "type": "SpriteRenderer",
+        "path_id": 8290307879802064605
+      }
+    ]
+  },
+  {
+    "prefab": "Sakamoto",
+    "root_path_id": -3272392211698237930,
+    "game_objects": 2,
+    "sprites": [
+      {
+        "game_object": "name",
+        "sprite_path_id": 938390343287989173,
+        "sprite_name": "Sakamoto_c",
+        "texture_path_id": 4446406976104965605,
+        "texture_name": "Sakamoto_c"
+      }
+    ],
+    "components": [
+      {
+        "game_object": "Sakamoto",
+        "type": "Transform",
+        "path_id": 1123359881398128853
+      },
+      {
+        "game_object": "Sakamoto",
+        "type": "MonoBehaviour",
+        "path_id": -6494793873939436591
+      },
+      {
+        "game_object": "Sakamoto",
+        "type": "MonoBehaviour",
+        "path_id": -5978317371762103778
+      },
+      {
+        "game_object": "Sakamoto",
+        "type": "Animator",
+        "path_id": 6730370337718700770
+      },
+      {
+        "game_object": "name",
+        "type": "Transform",
+        "path_id": -6866956484876975358
+      },
+      {
+        "game_object": "name",
+        "type": "SpriteRenderer",
+        "path_id": -1001506183935924719
+      }
+    ]
+  }
+]

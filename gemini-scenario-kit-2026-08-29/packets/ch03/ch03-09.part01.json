@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch03-09.part01",
+  "script": "ch03-09",
+  "chapter": "ch03",
+  "story_phase": "후반·위기와 결말",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch03-09:22:12efda29",
+      "source_hash": "12efda29",
+      "sequence": 0,
+      "source_line": 22,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "いらっしゃ………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:28:1c32236",
+      "source_hash": "1c32236",
+      "sequence": 1,
+      "source_line": 28,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:31:b927a6e7",
+      "source_hash": "b927a6e7",
+      "sequence": 2,
+      "source_line": 31,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "お前さんは確かオバーグ果樹園の…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:34:e0b1997a",
+      "source_hash": "e0b1997a",
+      "sequence": 3,
+      "source_line": 34,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:37:9dd3c7df",
+      "source_hash": "9dd3c7df",
+      "sequence": 4,
+      "source_line": 37,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "……ちっ…あいつ受けやがったのか……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:40:9a2181fc",
+      "source_hash": "9a2181fc",
+      "sequence": 5,
+      "source_line": 40,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "―――オフィア",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:42:baf089ff",
+      "source_hash": "baf089ff",
+      "sequence": 6,
+      "source_line": 42,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:44:e12c749c",
+      "source_hash": "e12c749c",
+      "sequence": 7,
+      "source_line": 44,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ああ<br>暫く前にね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:47:1eddef5",
+      "source_hash": "1eddef5",
+      "sequence": 8,
+      "source_line": 47,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "ちっ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:49:b5d43377",
+      "source_hash": "b5d43377",
+      "sequence": 9,
+      "source_line": 49,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "……先に言っておくが<br>俺はちょっとヒントを出しただけだ―――<br>直接オフィアを受けろなんて一言も……",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:64:7b1f30f9",
+      "source_hash": "7b1f30f9",
+      "sequence": 10,
+      "source_line": 64,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:66:e20dc3f0",
+      "source_hash": "e20dc3f0",
+      "sequence": 11,
+      "source_line": 66,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "息子が…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:69:3dd3687b",
+      "source_hash": "3dd3687b",
+      "sequence": 12,
+      "source_line": 69,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "息子が あそこまで何かに夢中になってるのは―――<br>初めてかもしれない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:71:80d21a7f",
+      "source_hash": "80d21a7f",
+      "sequence": 13,
+      "source_line": 71,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "気合いの入れようが違う",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:73:2a5e41e7",
+      "source_hash": "2a5e41e7",
+      "sequence": 14,
+      "source_line": 73,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:75:cd80805c",
+      "source_hash": "cd80805c",
+      "sequence": 15,
+      "source_line": 75,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "不思議なもんだぜ…おしめ変えて飯食わして<br>クソ忙しい日々に追われて―――",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:76:7a2c0bd2",
+      "source_hash": "7a2c0bd2",
+      "sequence": 16,
+      "source_line": 76,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "気づいたら俺の目の届かないところで<br>立派に育ってるんだからな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:78:1c32236",
+      "source_hash": "1c32236",
+      "sequence": 17,
+      "source_line": 78,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:81:375c9f3a",
+      "source_hash": "375c9f3a",
+      "sequence": 18,
+      "source_line": 81,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "大人になってやがったよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:85:2a5e41e7",
+      "source_hash": "2a5e41e7",
+      "sequence": 19,
+      "source_line": 85,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:87:e69770b9",
+      "source_hash": "e69770b9",
+      "sequence": 20,
+      "source_line": 87,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "男なんてそんなものだろう？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:91:fe888bb5",
+      "source_hash": "fe888bb5",
+      "sequence": 21,
+      "source_line": 91,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "…ちがいねえ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:93:eada2b2e",
+      "source_hash": "eada2b2e",
+      "sequence": 22,
+      "source_line": 93,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:96:f948de0b",
+      "source_hash": "f948de0b",
+      "sequence": 23,
+      "source_line": 96,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "さて なにか一杯入れてくれねえか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:98:5c2fbcf6",
+      "source_hash": "5c2fbcf6",
+      "sequence": 24,
+      "source_line": 98,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "これから本格的に<br>果樹園の後継者を探さないといけないんでね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:106:eada2b2e",
+      "source_hash": "eada2b2e",
+      "sequence": 25,
+      "source_line": 106,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-09:108:6da14c11",
+      "source_hash": "6da14c11",
+      "sequence": 26,
+      "source_line": 108,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "―――――ああ",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

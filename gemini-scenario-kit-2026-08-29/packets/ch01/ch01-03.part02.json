@@ -1,0 +1,1395 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-03.part02",
+  "script": "ch01-03",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch01-03:290:9a6acd34",
+        "speaker_id": "mil",
+        "speaker_name": "밀리",
+        "ja": "違う…違うのよカージ君",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:291:ccf05b54",
+        "speaker_id": "mil",
+        "speaker_name": "밀리",
+        "ja": "これは…戦いなの 実害など取るに足らない…<br>勝敗が全てだから",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:293:71117789",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "は はあ…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:295:29dd3bf7",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "ミリさんおちゃめな人だなー…<br>いくつなんだろう",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:304:f646f041",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "厨房を後にして出口へ向かおうとすると<br>無意識に足取りがふと止まる",
+        "do_not_translate": true
+      }
+    ],
+    "after": [
+      {
+        "uid": "ch01-03:516:2f0c5155",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "はあああああ…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:518:371e463a",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "お城の件を終えたあとさらに６件",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:519:c3aff0c2",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "今日は特に忙しかった…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:520:a61080ad",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "うーん…思った以上に余り物が出ちゃったな",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-03:522:3f53fc7a",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "季節が圧縮されているせいで<br>春物と夏物の注文の交差がいつもより極端になっていて オーダーを正確にこなすのが大変になってきている",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch01-03:305:365ad22e",
+      "source_hash": "365ad22e",
+      "sequence": 100,
+      "source_line": 305,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "『さっさと帰ったほうがいい』",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:306:a55cffa4",
+      "source_hash": "a55cffa4",
+      "sequence": 101,
+      "source_line": 306,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そう思う自分と 『<ruby=\"・\">そ</ruby><ruby=\"・\">れ</ruby>』に惹かれる自分と<br>まるで魔法にでもかかったように 意識が二つに分裂する",
+      "required_tokens": [
+        "<ruby=\"・\">",
+        "</ruby>",
+        "<ruby=\"・\">",
+        "</ruby>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:307:e3dafee4",
+      "source_hash": "e3dafee4",
+      "sequence": 102,
+      "source_line": 307,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "いつもはここまで悩まない…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:308:4792a4cd",
+      "source_hash": "4792a4cd",
+      "sequence": 103,
+      "source_line": 308,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "きっと間が悪いかもしれない 今は",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:309:c1c618ee",
+      "source_hash": "c1c618ee",
+      "sequence": 104,
+      "source_line": 309,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "つい昨日就望に落ちたこのタイミングでは",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:310:965f522b",
+      "source_hash": "965f522b",
+      "sequence": 105,
+      "source_line": 310,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "や やっぱりさっさと帰ったほうがいいよね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:311:1f2c10a3",
+      "source_hash": "1f2c10a3",
+      "sequence": 106,
+      "source_line": 311,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "当然だが 用のない者が城内を徘徊することは<br>固く禁じられている",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:312:2d5af779",
+      "source_hash": "2d5af779",
+      "sequence": 107,
+      "source_line": 312,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "城の中を許可なく徘徊するなんて<br>下手したら怒られるだけじゃ済まないだろう",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:313:fbd8c3d",
+      "source_hash": "fbd8c3d",
+      "sequence": 108,
+      "source_line": 313,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "しかし――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:322:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 109,
+      "source_line": 322,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:323:e0d13cda",
+      "source_hash": "e0d13cda",
+      "sequence": 110,
+      "source_line": 323,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕はホールの奥から漂う<br><ruby=\"・\">そ</ruby><ruby=\"・\">の</ruby>魔力に逆らうことができなかった",
+      "required_tokens": [
+        "<br>",
+        "<ruby=\"・\">",
+        "</ruby>",
+        "<ruby=\"・\">",
+        "</ruby>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:324:f5893fbc",
+      "source_hash": "f5893fbc",
+      "sequence": 111,
+      "source_line": 324,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "広々とした厳かなホールの奥に<br>荘厳な壁面装飾までも額の一部であるかのように<br>その絵は飾られていた",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:325:e60b5b77",
+      "source_hash": "e60b5b77",
+      "sequence": 112,
+      "source_line": 325,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…我が偉大なるルゼンハイドの王妃様…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:326:dfe976e5",
+      "source_hash": "dfe976e5",
+      "sequence": 113,
+      "source_line": 326,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "特に用がなければ一般人が目にすることは ほとんどない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:327:36ac1c83",
+      "source_hash": "36ac1c83",
+      "sequence": 114,
+      "source_line": 327,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "やっぱり…何度見ても圧倒されるな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:329:d8288e82",
+      "source_hash": "d8288e82",
+      "sequence": 115,
+      "source_line": 329,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "口の中に妙な酸味が広がり 鼻の奥がツンと沁みる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:330:8dee0f61",
+      "source_hash": "8dee0f61",
+      "sequence": 116,
+      "source_line": 330,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "目が覚めるような思いとは<br>こういう状況のことを指すのだろう",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:331:f20f0d17",
+      "source_hash": "f20f0d17",
+      "sequence": 117,
+      "source_line": 331,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "セラ様…なんて麗しい…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:333:3f7b57bd",
+      "source_hash": "3f7b57bd",
+      "sequence": 118,
+      "source_line": 333,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "黄金の髪に 不自然なまでに青い瞳",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:334:d9ca95c6",
+      "source_hash": "d9ca95c6",
+      "sequence": 119,
+      "source_line": 334,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "その魔性の笑みは妖美と呼んでも差し支えない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:335:fb80f192",
+      "source_hash": "fb80f192",
+      "sequence": 120,
+      "source_line": 335,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "絶世の美女とは<br>彼女のような人のために存在するに違いない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:336:f6926b9e",
+      "source_hash": "f6926b9e",
+      "sequence": 121,
+      "source_line": 336,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "人が作ったキャンバスという布に<br>人が混ぜ合わせた絵の具を<br>塗りたくるだけで仕上がった『絵』",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:337:1e2be817",
+      "source_hash": "1e2be817",
+      "sequence": 122,
+      "source_line": 337,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ただのベッドシーツ 絵の具が置かれたパレット…<br>そんなものに感動は覚えない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:338:37afc040",
+      "source_hash": "37afc040",
+      "sequence": 123,
+      "source_line": 338,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "しかしこれらが画家の手で形になることで<br>後ずさってしまうほどの衝撃を受けるなにかに変身する",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:339:d8c81479",
+      "source_hash": "d8c81479",
+      "sequence": 124,
+      "source_line": 339,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ただの布と顔料に命が吹き込まれる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:340:aed4cdc1",
+      "source_hash": "aed4cdc1",
+      "sequence": 125,
+      "source_line": 340,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "間違いない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:341:fdf9c6d1",
+      "source_hash": "fdf9c6d1",
+      "sequence": 126,
+      "source_line": 341,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "この絵には<ruby=\"魂\"><tip=\"purified_mana\">ヴィビリア</tip></ruby>が宿っている",
+      "required_tokens": [
+        "<ruby=\"魂\">",
+        "<tip=\"purified_mana\">",
+        "</tip>",
+        "</ruby>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:342:fa67ab66",
+      "source_hash": "fa67ab66",
+      "sequence": 127,
+      "source_line": 342,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:343:500cc78f",
+      "source_hash": "500cc78f",
+      "sequence": 128,
+      "source_line": 343,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "はあ………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:344:ad5a686",
+      "source_hash": "ad5a686",
+      "sequence": 129,
+      "source_line": 344,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いつもならやる気を…<br>元気をもらえるのに…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:346:7ecd49b6",
+      "source_hash": "7ecd49b6",
+      "sequence": 130,
+      "source_line": 346,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "今日に限っては まるで見下されているような感覚に陥る",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:347:a311ec13",
+      "source_hash": "a311ec13",
+      "sequence": 131,
+      "source_line": 347,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "強いて言うならそうだ…<br>仲間はずれにされているような 疎外感とでも言えばいいか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:348:884b8c71",
+      "source_hash": "884b8c71",
+      "sequence": 132,
+      "source_line": 348,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ただの<ruby=\"キャンバス\">白い布</ruby>に魂を宿らせる力は僕にはない",
+      "required_tokens": [
+        "<ruby=\"キャンバス\">",
+        "</ruby>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:351:2f4ba15c",
+      "source_hash": "2f4ba15c",
+      "sequence": 133,
+      "source_line": 351,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "歓迎されていないのだ<br>向こうの世界には",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:352:4a537f30",
+      "source_hash": "4a537f30",
+      "sequence": 134,
+      "source_line": 352,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "成し遂げた者達が住む領域",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:353:a2c7e0e7",
+      "source_hash": "a2c7e0e7",
+      "sequence": 135,
+      "source_line": 353,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "力の――才能のある者達の世界",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:354:b6c19abc",
+      "source_hash": "b6c19abc",
+      "sequence": 136,
+      "source_line": 354,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕は どれだけ足掻いても",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:356:f19200b6",
+      "source_hash": "f19200b6",
+      "sequence": 137,
+      "source_line": 356,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "―――あそこには届かない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:358:fa67ab66",
+      "source_hash": "fa67ab66",
+      "sequence": 138,
+      "source_line": 358,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:359:bceb5f3e",
+      "source_hash": "bceb5f3e",
+      "sequence": 139,
+      "source_line": 359,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "血の気が引く",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:360:29c077bb",
+      "source_hash": "29c077bb",
+      "sequence": 140,
+      "source_line": 360,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "息が詰まり 目頭が熱くなり 視界に靄がかかり始める",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:361:f65a3ff3",
+      "source_hash": "f65a3ff3",
+      "sequence": 141,
+      "source_line": 361,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………っ………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:362:f5f7ca9",
+      "source_hash": "f5f7ca9",
+      "sequence": 142,
+      "source_line": 362,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "みっともない こんな場所で",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:365:6db24022",
+      "source_hash": "6db24022",
+      "sequence": 143,
+      "source_line": 365,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "この<ruby=\"はらわた\"> 腸 </ruby>が煮え返るような悔しさから生まれる<br>エネルギーを…僕はどこに向けたらいいんだろう",
+      "required_tokens": [
+        "<ruby=\"はらわた\">",
+        "</ruby>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:366:4af8883",
+      "source_hash": "4af8883",
+      "sequence": 144,
+      "source_line": 366,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "だ だめだ…<br>余計なことを考えてたら…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:375:7ea555bf",
+      "source_hash": "7ea555bf",
+      "sequence": 145,
+      "source_line": 375,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "最近来るたびにこの絵を見てるよね<br>カージ君",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:378:2579b863",
+      "source_hash": "2579b863",
+      "sequence": 146,
+      "source_line": 378,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうですか…<br>そんな見つかっちゃうほど頻繁に来てましたか…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:379:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 147,
+      "source_line": 379,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:380:998a151b",
+      "source_hash": "998a151b",
+      "sequence": 148,
+      "source_line": 380,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:381:6b205172",
+      "source_hash": "6b205172",
+      "sequence": 149,
+      "source_line": 381,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:385:470217e5",
+      "source_hash": "470217e5",
+      "sequence": 150,
+      "source_line": 385,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "う うぉぉぉぉぉーーーーーーーーーーーーぃぃッ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:391:78121dda",
+      "source_hash": "78121dda",
+      "sequence": 151,
+      "source_line": 391,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "きゃいいいいいいーーーーーーーーっん！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:395:c7bb65ab",
+      "source_hash": "c7bb65ab",
+      "sequence": 152,
+      "source_line": 395,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "せ セルフィーネ様<br>いつのまに！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:397:2d3e3002",
+      "source_hash": "2d3e3002",
+      "sequence": 153,
+      "source_line": 397,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "びるせりおーーーーーーっ！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:403:a919efda",
+      "source_hash": "a919efda",
+      "sequence": 154,
+      "source_line": 403,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "突然現れたセルフィーネだよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:407:1fd8129e",
+      "source_hash": "1fd8129e",
+      "sequence": 155,
+      "source_line": 407,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "うおおお！？<br>ってか めっちゃ柘榴まみれじゃないですか！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:409:e923ce75",
+      "source_hash": "e923ce75",
+      "sequence": 156,
+      "source_line": 409,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "リガン様の仮装みたいになってますよ 服が！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:418:ac8eddd2",
+      "source_hash": "ac8eddd2",
+      "sequence": 157,
+      "source_line": 418,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "そりゃそうだよ！<br>逃げ回りながら柘榴なんて食べれば 服くらい汚れるさ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:421:6142d891",
+      "source_hash": "6142d891",
+      "sequence": 158,
+      "source_line": 421,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なんで逃げ回るのが前提なんですか！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:423:d0432e24",
+      "source_hash": "d0432e24",
+      "sequence": 159,
+      "source_line": 423,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "じゅるり",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:425:267ebf03",
+      "source_hash": "267ebf03",
+      "sequence": 160,
+      "source_line": 425,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "も もう！ ミリ様が探してましたよ！<br>コックと衛兵含めて20人くらい<br>城中駆け回ってたんですから！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:427:b4ec7d9d",
+      "source_hash": "b4ec7d9d",
+      "sequence": 161,
+      "source_line": 427,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "あはは 20人じゃ無理だね 50人はいないと<br>ここ一応わたしのおうちだし",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:429:4e04fd5c",
+      "source_hash": "4e04fd5c",
+      "sequence": 162,
+      "source_line": 429,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あの…柘榴をご所望でしたら<br>ミリ様に伝えればいいじゃないですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:430:f323620a",
+      "source_hash": "f323620a",
+      "sequence": 163,
+      "source_line": 430,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "うちにオーダーを入れてもらえば 多めに献上しますよ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:432:82960b68",
+      "source_hash": "82960b68",
+      "sequence": 164,
+      "source_line": 432,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "うーん そうだね<br>考えておくね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:433:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 165,
+      "source_line": 433,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:435:c1c5a806",
+      "source_hash": "c1c5a806",
+      "sequence": 166,
+      "source_line": 435,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あっさりとした返答",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:436:7b31c493",
+      "source_hash": "7b31c493",
+      "sequence": 167,
+      "source_line": 436,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "相変わらずセルフィーネ様は<br>なにを考えてるのかわからない…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:439:6eac2efb",
+      "source_hash": "6eac2efb",
+      "sequence": 168,
+      "source_line": 439,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "この絵",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:440:268c7d89",
+      "source_hash": "268c7d89",
+      "sequence": 169,
+      "source_line": 440,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "カージ君はなにを見てるの？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:442:2a14596c",
+      "source_hash": "2a14596c",
+      "sequence": 170,
+      "source_line": 442,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…え？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:443:3e93714f",
+      "source_hash": "3e93714f",
+      "sequence": 171,
+      "source_line": 443,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "すごい綺麗だよね この絵",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:445:c249fafa",
+      "source_hash": "c249fafa",
+      "sequence": 172,
+      "source_line": 445,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え えーと…そ そうですね…<br>この上ない極上の絵画というか…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:446:2bf716c",
+      "source_hash": "2bf716c",
+      "sequence": 173,
+      "source_line": 446,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "まるで枠の中に本物のセラ様がいるみたいで<br>圧倒されます…はい",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:448:5b602448",
+      "source_hash": "5b602448",
+      "sequence": 174,
+      "source_line": 448,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "でも動かないから夜に見ると怖い時もあるんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:450:e0c57889",
+      "source_hash": "e0c57889",
+      "sequence": 175,
+      "source_line": 450,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうなんですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:451:71b899ae",
+      "source_hash": "71b899ae",
+      "sequence": 176,
+      "source_line": 451,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "まあ 確かに夜トイレに行ってるときに<br>でーんと出くわしたらびっくりするかもですね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:453:e39d9645",
+      "source_hash": "e39d9645",
+      "sequence": 177,
+      "source_line": 453,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "夜のトイレはここまで来ないよ！<br>もっと近くにあるからね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:455:b6ebd854",
+      "source_hash": "b6ebd854",
+      "sequence": 178,
+      "source_line": 455,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうでしたか…失礼しました",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:457:d0e3d08",
+      "source_hash": "d0e3d08",
+      "sequence": 179,
+      "source_line": 457,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "どういう会話なんだこれは…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:460:b4a091bf",
+      "source_hash": "b4a091bf",
+      "sequence": 180,
+      "source_line": 460,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "でも すごいよね<br>よくこんなお絵描きできるな〜って思う<br>私にはできないよ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:463:b2762f",
+      "source_hash": "b2762f",
+      "sequence": 181,
+      "source_line": 463,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "この絵画の強烈な描写力は<br>魂を震えさせる何かがありますよね…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:465:6c2c51b1",
+      "source_hash": "6c2c51b1",
+      "sequence": 182,
+      "source_line": 465,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "ルゼンハイドの歴史でも<br>ここまで本物っぽいのは初めて",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:468:dc268ef9",
+      "source_hash": "dc268ef9",
+      "sequence": 183,
+      "source_line": 468,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:469:498b99b9",
+      "source_hash": "498b99b9",
+      "sequence": 184,
+      "source_line": 469,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "流行りと呼ぶには革新的すぎる<br>圧倒的に現実味を帯びたスタイルの絵画",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:470:3dd74ee1",
+      "source_hash": "3dd74ee1",
+      "sequence": 185,
+      "source_line": 470,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ここ十数年『ポートレート』といえば<br>この写実スタイルが主流となっている",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:473:fae6acd3",
+      "source_hash": "fae6acd3",
+      "sequence": 186,
+      "source_line": 473,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "今度わたしの絵も描いてもらえるんだって",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:475:d7217aab",
+      "source_hash": "d7217aab",
+      "sequence": 187,
+      "source_line": 475,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え！？<br>ま まあそりゃそうですよね そろそろお年頃ですし",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:477:c2a2f3b5",
+      "source_hash": "c2a2f3b5",
+      "sequence": 188,
+      "source_line": 477,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いやーセルフィーネ様のポートレートかー<br>いいですねー",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:479:b249196e",
+      "source_hash": "b249196e",
+      "sequence": 189,
+      "source_line": 479,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "なんか知らないけどさ－<br>これからは 戴冠式まで3年ごとくらいに描くんだって",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:481:1ba8a26c",
+      "source_hash": "1ba8a26c",
+      "sequence": 190,
+      "source_line": 481,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "めんどい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:483:c2163735",
+      "source_hash": "c2163735",
+      "sequence": 191,
+      "source_line": 483,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "め 面倒ですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:484:231b81c4",
+      "source_hash": "231b81c4",
+      "sequence": 192,
+      "source_line": 484,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "だってずっと一人で座ってるだけなんだもん<br>画家の人はへんてこな箱のお部屋に入って<br>お話もできないしさ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:486:b284130f",
+      "source_hash": "b284130f",
+      "sequence": 193,
+      "source_line": 486,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？ 箱のお部屋？<br>小部屋かなにかですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:488:6a7a819e",
+      "source_hash": "6a7a819e",
+      "sequence": 194,
+      "source_line": 488,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "そー…お話もできないんだよ？<br>つまんなーい",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:492:8b29abd4",
+      "source_hash": "8b29abd4",
+      "sequence": 195,
+      "source_line": 492,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "画家が小部屋に入って絵を描く…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:495:cb9c0265",
+      "source_hash": "cb9c0265",
+      "sequence": 196,
+      "source_line": 495,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "どういう意味だろう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:499:e26860a",
+      "source_hash": "e26860a",
+      "sequence": 197,
+      "source_line": 499,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ そ そんなことよりも セルフィーネ様<br>…ってあれ！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:501:917400b6",
+      "source_hash": "917400b6",
+      "sequence": 198,
+      "source_line": 501,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "振り向くとセルフィーネ様の姿はなかった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-03:503:a379444d",
+      "source_hash": "a379444d",
+      "sequence": 199,
+      "source_line": 503,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え 嘘だろ！？<br>なにをどうしたら こんな忽然と消えられるんだ！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

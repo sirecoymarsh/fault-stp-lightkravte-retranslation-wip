@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-07.part06",
+  "script": "ch01-07",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch01-07:1273:8e8ea7",
+        "speaker_id": "tos",
+        "speaker_name": "토스카",
+        "ja": "なー それなんだったら もういっそのこと<br>抽象画にも振ってみるってのはどうだ？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:1275:7a567fe2",
+        "speaker_id": "tos",
+        "speaker_name": "토스카",
+        "ja": "抽象画でも人は描けるだろう？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:1276:4723efb9",
+        "speaker_id": "qla",
+        "speaker_name": "크라우",
+        "ja": "いや…それじゃ意味がないんだろう カージ君？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:1278:8ed655b7",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "………………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:1280:91ee7eb0",
+        "speaker_id": "qla",
+        "speaker_name": "크라우",
+        "ja": "肖像画に拘りをもってプロを目指してるなら<br>今の時代難しい…<br>人の絵を描くには時期があまりにも悪すぎる",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch01-07:1282:b7034e21",
+      "source_hash": "b7034e21",
+      "sequence": 500,
+      "source_line": 1282,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1284:2d42bfaa",
+      "source_hash": "2d42bfaa",
+      "sequence": 501,
+      "source_line": 1284,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "ま だよな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1286:21d3b44f",
+      "source_hash": "21d3b44f",
+      "sequence": 502,
+      "source_line": 1286,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "え ど どういうことですか？<br>どうして抽象画じゃだめなの？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1287:3401eb2d",
+      "source_hash": "3401eb2d",
+      "sequence": 503,
+      "source_line": 1287,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "っていうか…別に多少の障害があっても それが<br>わかっているなら 抽象画でも独自の絵を生み出したり<br>通常とは違うアウトプットの方法があるのでは？？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1288:7fe6ecc9",
+      "source_hash": "7fe6ecc9",
+      "sequence": 504,
+      "source_line": 1288,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "へっ……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1290:146724e9",
+      "source_hash": "146724e9",
+      "sequence": 505,
+      "source_line": 1290,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "青いなワイトン…<br>そんなこと簡単に言ってやるなよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1292:81ba8349",
+      "source_hash": "81ba8349",
+      "sequence": 506,
+      "source_line": 1292,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "…カージ君はもう気づいてるみたいだね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1293:a6c1c448",
+      "source_hash": "a6c1c448",
+      "sequence": 507,
+      "source_line": 1293,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1294:878c9c05",
+      "source_hash": "878c9c05",
+      "sequence": 508,
+      "source_line": 1294,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "え…ど どういうこと？<br>話の方向が理解できないんだけど",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1297:1ebf6ff4",
+      "source_hash": "1ebf6ff4",
+      "sequence": 509,
+      "source_line": 1297,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "需要がないんだよ<br>今の時代 抽象画は",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1298:14a00dd3",
+      "source_hash": "14a00dd3",
+      "sequence": 510,
+      "source_line": 1298,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "クラウがルゼンハイド王室の専属アーティストになって<br>肖像画のスタイルは完全に写実が主流になった",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1299:6a83fef9",
+      "source_hash": "6a83fef9",
+      "sequence": 511,
+      "source_line": 1299,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "いまはどこのアトリエでも それしか描いてねえし<br>国民が求めているものも写実になっている",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1300:d5450641",
+      "source_hash": "d5450641",
+      "sequence": 512,
+      "source_line": 1300,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "クラウの影響ってのはそれだけデカいんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1301:85f2bf79",
+      "source_hash": "85f2bf79",
+      "sequence": 513,
+      "source_line": 1301,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "…………！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1303:6ea12620",
+      "source_hash": "6ea12620",
+      "sequence": 514,
+      "source_line": 1303,
+      "speaker_id": "tos",
+      "speaker_name": "토스카",
+      "voice_id": "",
+      "ja": "ルゼンハイド…いや アライアンスのこの時代に抽象画で<br>肖像を描いたところで それを求めている人がいないんだよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1304:c5c602f5",
+      "source_hash": "c5c602f5",
+      "sequence": 515,
+      "source_line": 1304,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "そ そうか…なるほど…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1307:4ee1154a",
+      "source_hash": "4ee1154a",
+      "sequence": 516,
+      "source_line": 1307,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "君の成長の余地や これらのモチベーションを潰してしまうかもしれないが…心を<ruby=\"悪魔\">セキュール</ruby>にして言わせてもらおう",
+      "required_tokens": [
+        "<ruby=\"悪魔\">",
+        "</ruby>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1309:bc67a878",
+      "source_hash": "bc67a878",
+      "sequence": 517,
+      "source_line": 1309,
+      "speaker_id": "qla",
+      "speaker_name": "크라우",
+      "voice_id": "",
+      "ja": "もし肖像画家を目指したいなら",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:1315:658556f0",
+      "source_hash": "658556f0",
+      "sequence": 518,
+      "source_line": 1315,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "―――君は プロは諦めたほうがいい",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

@@ -1,0 +1,1065 @@
+{
+  "created_at": "2026-09-08T00:01:43.943184+00:00",
+  "translator_model": "Codex internal",
+  "thread_id": "019f98c4-2d2a-7502-b05c-6a79321fe89e",
+  "model_identity": "Codex GPT-5.5 (session developer identity; not an API trace)",
+  "delivery": "Review checkpoint only. No game-ready archive or installer. Failed assets excluded from user_review.",
+  "font_sha256": "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0",
+  "assets": [
+    {
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "path_id": -2930094059954211240,
+      "source_file": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\raster_review\\review_targets\\15316e2ef8ab70df14ad2fd5a410fded__-2930094059954211240__anime_dmitry.png",
+      "lines": [
+        {
+          "source": "DMITRY ZHUKOV",
+          "ko": "드미트리 주코프",
+          "kind": "name",
+          "source_box": [
+            86,
+            47,
+            970,
+            106
+          ]
+        }
+      ],
+      "restoration": "source-derived glyph mask + local same-state boundary reconstruction; hidden pixels are reconstructed, not claimed recovered exactly",
+      "name": "anime_dmitry",
+      "width": 1164,
+      "height": 187,
+      "mode": "RGBA",
+      "source_sha256": "d43b12a2bede1514f33f45cd54a4711e60e96b74b40723bb18807f518c773880",
+      "output_sha256": "3f5af8e5115c278655d0a95d7db7bcc11ddaf05dd20c3de024fb0bcfdbc1e9f1",
+      "source_glyph_bounds": [
+        78,
+        39,
+        978,
+        114
+      ],
+      "target_ink_bounds": [
+        86,
+        46,
+        502,
+        107
+      ],
+      "outside_owned_pixel_diff": 0,
+      "clean_outside_mask_diff": 0,
+      "geometry_pass": true,
+      "no_clipping": true,
+      "visual_status": "FAIL_CLEAN_PLATE",
+      "output": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\anime_dmitry\\ko.png",
+      "comparison": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\anime_dmitry\\comparison.png",
+      "visual_note_ko": "x240~940,y40~115: 매끈한 회보라 패치·세로 경계 반복. 원문 V 위치에 큰 패치.",
+      "visual_reviewed_at": "2026-09-08T00:13:01.810796+00:00",
+      "visual_reviewer": "Codex internal: primary + read-only raster_review",
+      "user_approval": "PENDING",
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "clean_plate_reviewed_sha256": "be7be6fcb580376b44dc7e240e78c8f9efb6bcdd31e482f626ae1a8e8351b0ff",
+      "consumer_references": [
+        {
+          "prefab": "AnimOrph",
+          "root_path_id": 4608774493347846922,
+          "game_objects": 2,
+          "sprites": [
+            {
+              "game_object": "name",
+              "sprite_path_id": -5429657580153342888,
+              "sprite_name": "anime dmitry",
+              "texture_path_id": -2930094059954211240,
+              "texture_name": "anime dmitry"
+            }
+          ],
+          "components": [
+            {
+              "game_object": "AnimOrph",
+              "type": "Transform",
+              "path_id": 3561368132111003948
+            },
+            {
+              "game_object": "AnimOrph",
+              "type": "MonoBehaviour",
+              "path_id": 5233911015106057604
+            },
+            {
+              "game_object": "AnimOrph",
+              "type": "MonoBehaviour",
+              "path_id": -3967814915633996244
+            },
+            {
+              "game_object": "AnimOrph",
+              "type": "Animator",
+              "path_id": -7612607959444427165
+            },
+            {
+              "game_object": "name",
+              "type": "Transform",
+              "path_id": 5714403278676416937
+            },
+            {
+              "game_object": "name",
+              "type": "SpriteRenderer",
+              "path_id": 6542744382679037099
+            }
+          ]
+        }
+      ],
+      "scenario_referenced": true
+    },
+    {
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "path_id": -3364026802204621321,
+      "source_file": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\raster_review\\review_targets\\15316e2ef8ab70df14ad2fd5a410fded__-3364026802204621321__anime_hare.png",
+      "lines": [
+        {
+          "source": "CHARACTER ANIMATOR",
+          "ko": "캐릭터 애니메이터",
+          "kind": "role",
+          "source_box": [
+            45,
+            48,
+            725,
+            79
+          ]
+        },
+        {
+          "source": "HARE KONATSU",
+          "ko": "하레 코나츠",
+          "kind": "name",
+          "source_box": [
+            43,
+            126,
+            845,
+            185
+          ]
+        }
+      ],
+      "restoration": "source-derived glyph mask + local same-state boundary reconstruction; hidden pixels are reconstructed, not claimed recovered exactly",
+      "name": "anime_hare",
+      "width": 1098,
+      "height": 211,
+      "mode": "RGBA",
+      "source_sha256": "d62a5f35dab0ce7aba180efd96308ab426ac8d89c9080294da3815b53f813ab2",
+      "output_sha256": "beba0f6db515f647a315d78b803d418bb1d2eeaa910ef48ba6f300368bb33739",
+      "source_glyph_bounds": [
+        35,
+        40,
+        853,
+        193
+      ],
+      "target_ink_bounds": [
+        43,
+        47,
+        344,
+        186
+      ],
+      "outside_owned_pixel_diff": 0,
+      "clean_outside_mask_diff": 0,
+      "geometry_pass": true,
+      "no_clipping": true,
+      "visual_status": "BLOCKED_NO_CLEAN_PLATE",
+      "output": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\anime_hare\\ko.png",
+      "comparison": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\anime_hare\\comparison.png",
+      "visual_note_ko": "흰 영문 잔재는 없지만 x580~650,y40~90 상단 붓 가장자리에 각진 홈·선형 이음. 승인 보류.",
+      "visual_reviewed_at": "2026-09-08T00:13:01.810796+00:00",
+      "visual_reviewer": "Codex internal: primary + read-only raster_review",
+      "user_approval": "PENDING",
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "clean_plate_reviewed_sha256": "385dd85ed4ca202afe6c9ed11e9e917ec9f7f6a17e44ae73f347853469167670",
+      "consumer_references": [
+        {
+          "prefab": "AnimHare",
+          "root_path_id": -3606827252760512153,
+          "game_objects": 2,
+          "sprites": [
+            {
+              "game_object": "name",
+              "sprite_path_id": -6050411654281200068,
+              "sprite_name": "anime hare",
+              "texture_path_id": -3364026802204621321,
+              "texture_name": "anime hare"
+            }
+          ],
+          "components": [
+            {
+              "game_object": "AnimHare",
+              "type": "Transform",
+              "path_id": -3907651608331564255
+            },
+            {
+              "game_object": "AnimHare",
+              "type": "MonoBehaviour",
+              "path_id": -7628230634625780902
+            },
+            {
+              "game_object": "AnimHare",
+              "type": "MonoBehaviour",
+              "path_id": -6995943566772525540
+            },
+            {
+              "game_object": "AnimHare",
+              "type": "Animator",
+              "path_id": -2887690953806902293
+            },
+            {
+              "game_object": "name",
+              "type": "Transform",
+              "path_id": -3738613269923880344
+            },
+            {
+              "game_object": "name",
+              "type": "SpriteRenderer",
+              "path_id": 5379990659999304615
+            }
+          ]
+        }
+      ],
+      "scenario_referenced": true
+    },
+    {
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "path_id": -5485632158015552049,
+      "source_file": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\raster_review\\review_targets\\15316e2ef8ab70df14ad2fd5a410fded__-5485632158015552049__Dmitry_c.png",
+      "lines": [
+        {
+          "source": "ENVIRONMENTAL ANIMATION BY",
+          "ko": "환경 애니메이션",
+          "kind": "role",
+          "source_box": [
+            71,
+            29,
+            1020,
+            60
+          ]
+        },
+        {
+          "source": "DMITRY ZHUKOV",
+          "ko": "드미트리 주코프",
+          "kind": "name",
+          "source_box": [
+            68,
+            101,
+            952,
+            160
+          ]
+        }
+      ],
+      "restoration": "source-derived glyph mask + local same-state boundary reconstruction; hidden pixels are reconstructed, not claimed recovered exactly",
+      "name": "Dmitry_c",
+      "width": 1035,
+      "height": 182,
+      "mode": "RGBA",
+      "source_sha256": "21866d927afd4e6e065487c91025be528750a52d3fcb14e246e759d6acb54ef4",
+      "output_sha256": "5f35a93bd27fb4b23e95d4d605c6bfc602243d38e7797697cfbe48d1d8616b3b",
+      "source_glyph_bounds": [
+        60,
+        21,
+        1028,
+        168
+      ],
+      "target_ink_bounds": [
+        68,
+        28,
+        484,
+        161
+      ],
+      "outside_owned_pixel_diff": 0,
+      "clean_outside_mask_diff": 0,
+      "geometry_pass": true,
+      "no_clipping": true,
+      "visual_status": "FAIL_CLEAN_PLATE",
+      "output": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\Dmitry_c\\ko.png",
+      "comparison": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\Dmitry_c\\comparison.png",
+      "visual_note_ko": "역할문 x70~1020,y21~68 및 인명 x68~960,y93~167: 글자 모양 밝기 얼룩·사각 격자.",
+      "visual_reviewed_at": "2026-09-08T00:13:01.810796+00:00",
+      "visual_reviewer": "Codex internal: primary + read-only raster_review",
+      "user_approval": "PENDING",
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "clean_plate_reviewed_sha256": "8c5cdbf14280b3cbf54d3581b1a55afe2712cc1c18249f59c199af660ef67ec8",
+      "consumer_references": [
+        {
+          "prefab": "Dmitry",
+          "root_path_id": 807641189593886643,
+          "game_objects": 2,
+          "sprites": [
+            {
+              "game_object": "name",
+              "sprite_path_id": 4122105576503275972,
+              "sprite_name": "Dmitry_c",
+              "texture_path_id": -5485632158015552049,
+              "texture_name": "Dmitry_c"
+            }
+          ],
+          "components": [
+            {
+              "game_object": "Dmitry",
+              "type": "Transform",
+              "path_id": 687054555964048543
+            },
+            {
+              "game_object": "Dmitry",
+              "type": "MonoBehaviour",
+              "path_id": 8958635026512114429
+            },
+            {
+              "game_object": "Dmitry",
+              "type": "MonoBehaviour",
+              "path_id": -6679613972697561800
+            },
+            {
+              "game_object": "Dmitry",
+              "type": "Animator",
+              "path_id": 980255063694099374
+            },
+            {
+              "game_object": "name",
+              "type": "Transform",
+              "path_id": 6397682924161336821
+            },
+            {
+              "game_object": "name",
+              "type": "SpriteRenderer",
+              "path_id": 1665132531008496541
+            }
+          ]
+        }
+      ],
+      "scenario_referenced": false
+    },
+    {
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "path_id": 54422250404592837,
+      "source_file": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\raster_review\\review_targets\\15316e2ef8ab70df14ad2fd5a410fded__54422250404592837__Kawamura_C.png",
+      "lines": [
+        {
+          "source": "AZUSA KAWAMURA",
+          "ko": "아즈사 카와무라",
+          "kind": "name",
+          "source_box": [
+            57,
+            50,
+            1051,
+            109
+          ]
+        }
+      ],
+      "restoration": "source-derived glyph mask + local same-state boundary reconstruction; hidden pixels are reconstructed, not claimed recovered exactly",
+      "name": "Kawamura_C",
+      "width": 1194,
+      "height": 154,
+      "mode": "RGBA",
+      "source_sha256": "5af1784db211cc22746a36bc6a57d19a7725b3b82dc81144cfe06159abd2ffee",
+      "output_sha256": "f50ca5d9fcae640d5ef956a7c3427756047e7b3c4d80b516484ff7790dac311e",
+      "source_glyph_bounds": [
+        49,
+        42,
+        1059,
+        117
+      ],
+      "target_ink_bounds": [
+        57,
+        49,
+        474,
+        110
+      ],
+      "outside_owned_pixel_diff": 0,
+      "clean_outside_mask_diff": 0,
+      "geometry_pass": true,
+      "no_clipping": true,
+      "visual_status": "FAIL_CLEAN_PLATE",
+      "output": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\Kawamura_C\\ko.png",
+      "comparison": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\Kawamura_C\\comparison.png",
+      "visual_note_ko": "x300~1060,y42~117: 넓은 단색 패치, 검은 삼각 홈, 각진 결합부.",
+      "visual_reviewed_at": "2026-09-08T00:13:01.810796+00:00",
+      "visual_reviewer": "Codex internal: primary + read-only raster_review",
+      "user_approval": "PENDING",
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "clean_plate_reviewed_sha256": "9116e1b5b71c0185cc7c51d3ad705b09044be1d77c04a6581b9b5b0b0e324466",
+      "consumer_references": [
+        {
+          "prefab": "Kawamura",
+          "root_path_id": 547191142685002715,
+          "game_objects": 2,
+          "sprites": [
+            {
+              "game_object": "name",
+              "sprite_path_id": -8147055751405792061,
+              "sprite_name": "Kawamura_C",
+              "texture_path_id": 54422250404592837,
+              "texture_name": "Kawamura_C"
+            }
+          ],
+          "components": [
+            {
+              "game_object": "Kawamura",
+              "type": "Transform",
+              "path_id": 4956842600283059628
+            },
+            {
+              "game_object": "Kawamura",
+              "type": "MonoBehaviour",
+              "path_id": 2913927653290317406
+            },
+            {
+              "game_object": "Kawamura",
+              "type": "MonoBehaviour",
+              "path_id": -2242241858952509800
+            },
+            {
+              "game_object": "Kawamura",
+              "type": "Animator",
+              "path_id": -5284702545081222126
+            },
+            {
+              "game_object": "name",
+              "type": "Transform",
+              "path_id": 6892642780178349403
+            },
+            {
+              "game_object": "name",
+              "type": "SpriteRenderer",
+              "path_id": 8508497909741098954
+            }
+          ]
+        }
+      ],
+      "scenario_referenced": true
+    },
+    {
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "path_id": 1441106173844391157,
+      "source_file": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\raster_review\\review_targets\\15316e2ef8ab70df14ad2fd5a410fded__1441106173844391157__Misaki_C.png",
+      "lines": [
+        {
+          "source": "LEAD CHARACTER ANIMATOR",
+          "ko": "수석 캐릭터 애니메이터",
+          "kind": "role",
+          "source_box": [
+            98,
+            95,
+            957,
+            126
+          ]
+        },
+        {
+          "source": "MISAKI EYMARD",
+          "ko": "미사키 에마르",
+          "kind": "name",
+          "source_box": [
+            98,
+            167,
+            931,
+            226
+          ]
+        }
+      ],
+      "restoration": "source-derived glyph mask + local same-state boundary reconstruction; hidden pixels are reconstructed, not claimed recovered exactly",
+      "name": "Misaki_C",
+      "width": 1127,
+      "height": 284,
+      "mode": "RGBA",
+      "source_sha256": "fd4ee05d9ec2d4a08a3874d67ac77c74682551d982dfb87f0b8081642d80d424",
+      "output_sha256": "db32b1786d2d96ad32ed07b412a48336c8455fc73a6d13c333f67dc4932d50ff",
+      "source_glyph_bounds": [
+        90,
+        87,
+        965,
+        234
+      ],
+      "target_ink_bounds": [
+        98,
+        94,
+        453,
+        227
+      ],
+      "outside_owned_pixel_diff": 0,
+      "clean_outside_mask_diff": 0,
+      "geometry_pass": true,
+      "no_clipping": true,
+      "visual_status": "FAIL_CLEAN_PLATE",
+      "output": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\Misaki_C\\ko.png",
+      "comparison": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\Misaki_C\\comparison.png",
+      "visual_note_ko": "x95~935,y160~234: EYMARD 자리에 큰 획 형태의 밝은 패치·반복 결. 역할문 수평 복제 흔적.",
+      "visual_reviewed_at": "2026-09-08T00:13:01.810796+00:00",
+      "visual_reviewer": "Codex internal: primary + read-only raster_review",
+      "user_approval": "PENDING",
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "clean_plate_reviewed_sha256": "ed7b99b6cf1fa5820feca804ecab0bc927a2125323daf49e0296a5b1abef996c",
+      "consumer_references": [
+        {
+          "prefab": "Misaki",
+          "root_path_id": -6069696302452410667,
+          "game_objects": 2,
+          "sprites": [
+            {
+              "game_object": "name",
+              "sprite_path_id": -3679046593782042352,
+              "sprite_name": "Misaki_C",
+              "texture_path_id": 1441106173844391157,
+              "texture_name": "Misaki_C"
+            }
+          ],
+          "components": [
+            {
+              "game_object": "Misaki",
+              "type": "Transform",
+              "path_id": 3755055025477176345
+            },
+            {
+              "game_object": "Misaki",
+              "type": "MonoBehaviour",
+              "path_id": -6756678297182805691
+            },
+            {
+              "game_object": "Misaki",
+              "type": "MonoBehaviour",
+              "path_id": -4965484804956379322
+            },
+            {
+              "game_object": "Misaki",
+              "type": "Animator",
+              "path_id": -826257882496146074
+            },
+            {
+              "game_object": "name",
+              "type": "Transform",
+              "path_id": 159910896484183999
+            },
+            {
+              "game_object": "name",
+              "type": "SpriteRenderer",
+              "path_id": -1053830285460720319
+            }
+          ]
+        }
+      ],
+      "scenario_referenced": true
+    },
+    {
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "path_id": 5388313497103507111,
+      "source_file": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\raster_review\\review_targets\\15316e2ef8ab70df14ad2fd5a410fded__5388313497103507111__Munisix_C.png",
+      "lines": [
+        {
+          "source": "FAULT SERIES CREATED BY",
+          "ko": "fault 시리즈 원작",
+          "kind": "role",
+          "source_box": [
+            112,
+            15,
+            933,
+            46
+          ]
+        },
+        {
+          "source": "MUNISIX",
+          "ko": "무니식스",
+          "kind": "name",
+          "source_box": [
+            109,
+            83,
+            548,
+            142
+          ]
+        }
+      ],
+      "restoration": "source-derived glyph mask + local same-state boundary reconstruction; hidden pixels are reconstructed, not claimed recovered exactly",
+      "name": "Munisix_C",
+      "width": 1008,
+      "height": 192,
+      "mode": "RGBA",
+      "source_sha256": "84eeec31ee3ec8191beacdc14e069b930aff27722fec6903a63a7eb2427f1ac5",
+      "output_sha256": "5a46691793e27450a18436056510415fc68f20ccdd9e55bca59a7c9aa1996774",
+      "source_glyph_bounds": [
+        101,
+        7,
+        941,
+        150
+      ],
+      "target_ink_bounds": [
+        109,
+        14,
+        351,
+        143
+      ],
+      "outside_owned_pixel_diff": 0,
+      "clean_outside_mask_diff": 0,
+      "geometry_pass": true,
+      "no_clipping": true,
+      "visual_status": "FAIL_CLEAN_PLATE",
+      "output": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\Munisix_C\\ko.png",
+      "comparison": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\Munisix_C\\comparison.png",
+      "visual_note_ko": "x355~373,y105~146: 작은 검은 삼각형 반복. 역할문·인명에 가는 수평선.",
+      "visual_reviewed_at": "2026-09-08T00:13:01.810796+00:00",
+      "visual_reviewer": "Codex internal: primary + read-only raster_review",
+      "user_approval": "PENDING",
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "clean_plate_reviewed_sha256": "76fe4257c40a02261979d2a084cfad7cacc4d7d0b3e2ba964b195de57cfea4ef",
+      "consumer_references": [
+        {
+          "prefab": "Munisix",
+          "root_path_id": -5282571763426597478,
+          "game_objects": 2,
+          "sprites": [
+            {
+              "game_object": "name",
+              "sprite_path_id": -7306643172830990204,
+              "sprite_name": "Munisix_C",
+              "texture_path_id": 5388313497103507111,
+              "texture_name": "Munisix_C"
+            }
+          ],
+          "components": [
+            {
+              "game_object": "Munisix",
+              "type": "Transform",
+              "path_id": -7679797302127907414
+            },
+            {
+              "game_object": "Munisix",
+              "type": "MonoBehaviour",
+              "path_id": -2257043476519576354
+            },
+            {
+              "game_object": "Munisix",
+              "type": "MonoBehaviour",
+              "path_id": 4564437024147845077
+            },
+            {
+              "game_object": "Munisix",
+              "type": "Animator",
+              "path_id": 5297289012423347426
+            },
+            {
+              "game_object": "name",
+              "type": "Transform",
+              "path_id": 1724747514081350430
+            },
+            {
+              "game_object": "name",
+              "type": "SpriteRenderer",
+              "path_id": 7431552022882591046
+            }
+          ]
+        }
+      ],
+      "scenario_referenced": false
+    },
+    {
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "path_id": -2492552238782808979,
+      "source_file": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\raster_review\\review_targets\\15316e2ef8ab70df14ad2fd5a410fded__-2492552238782808979__Nyantastic_C.png",
+      "lines": [
+        {
+          "source": "MORALE OFFICERS",
+          "ko": "사기 진작 담당",
+          "kind": "role",
+          "source_box": [
+            116,
+            40,
+            673,
+            71
+          ]
+        },
+        {
+          "source": "THE NYANTASTIC TRIO",
+          "ko": "더 냥타스틱 트리오",
+          "kind": "name",
+          "source_box": [
+            115,
+            111,
+            1313,
+            171
+          ]
+        }
+      ],
+      "restoration": "source-derived glyph mask + local same-state boundary reconstruction; hidden pixels are reconstructed, not claimed recovered exactly",
+      "name": "Nyantastic_C",
+      "width": 1395,
+      "height": 225,
+      "mode": "RGBA",
+      "source_sha256": "1bc8f5db539f076a90be88120353fcd767234bcfc070379526a4a3ff3a22be1d",
+      "output_sha256": "9f78260e229ac20b27854dd432cba9b193fa0f9e3b412b310f52dbb51c45756e",
+      "source_glyph_bounds": [
+        107,
+        32,
+        1321,
+        179
+      ],
+      "target_ink_bounds": [
+        115,
+        39,
+        609,
+        172
+      ],
+      "outside_owned_pixel_diff": 0,
+      "clean_outside_mask_diff": 0,
+      "geometry_pass": true,
+      "no_clipping": true,
+      "visual_status": "BLOCKED_NO_CLEAN_PLATE",
+      "output": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\Nyantastic_C\\ko.png",
+      "comparison": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\Nyantastic_C\\comparison.png",
+      "visual_note_ko": "흰 영문 잔재는 없지만 x200~278,y53~87 상단 평행 홈과 하단 채움 경계가 인위적. 승인 보류.",
+      "visual_reviewed_at": "2026-09-08T00:13:01.810796+00:00",
+      "visual_reviewer": "Codex internal: primary + read-only raster_review",
+      "user_approval": "PENDING",
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "clean_plate_reviewed_sha256": "439b0c9a7cbde234a1215550547e008db17cb4c2acf60d26264a12e67312c36a",
+      "consumer_references": [
+        {
+          "prefab": "Nyantastic",
+          "root_path_id": -4292624363844718653,
+          "game_objects": 2,
+          "sprites": [
+            {
+              "game_object": "name",
+              "sprite_path_id": 4149005965356257514,
+              "sprite_name": "Nyantastic_C",
+              "texture_path_id": -2492552238782808979,
+              "texture_name": "Nyantastic_C"
+            }
+          ],
+          "components": [
+            {
+              "game_object": "Nyantastic",
+              "type": "Transform",
+              "path_id": 5616783503539243620
+            },
+            {
+              "game_object": "Nyantastic",
+              "type": "MonoBehaviour",
+              "path_id": -520636342224999345
+            },
+            {
+              "game_object": "Nyantastic",
+              "type": "MonoBehaviour",
+              "path_id": -2580966915552077150
+            },
+            {
+              "game_object": "Nyantastic",
+              "type": "Animator",
+              "path_id": 8190988710893605229
+            },
+            {
+              "game_object": "name",
+              "type": "Transform",
+              "path_id": 7028518438536624746
+            },
+            {
+              "game_object": "name",
+              "type": "SpriteRenderer",
+              "path_id": 317640073217393586
+            }
+          ]
+        }
+      ],
+      "scenario_referenced": false
+    },
+    {
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "path_id": 7085922524199086053,
+      "source_file": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\raster_review\\review_targets\\15316e2ef8ab70df14ad2fd5a410fded__7085922524199086053__Oda_C.png",
+      "lines": [
+        {
+          "source": "NARIHISA ODA",
+          "ko": "나리히사 오다",
+          "kind": "name",
+          "source_box": [
+            164,
+            37,
+            920,
+            96
+          ]
+        }
+      ],
+      "restoration": "source-derived glyph mask + local same-state boundary reconstruction; hidden pixels are reconstructed, not claimed recovered exactly",
+      "name": "Oda_C",
+      "width": 985,
+      "height": 139,
+      "mode": "RGBA",
+      "source_sha256": "1ce6ca19a5c72cea29143c2364ce8321a923e43fe011bd32da6a047890189c72",
+      "output_sha256": "a8a8066790606706e3ebcb60b576b6def9c53e6d6b0f40a476fd742d4f80e932",
+      "source_glyph_bounds": [
+        156,
+        29,
+        928,
+        104
+      ],
+      "target_ink_bounds": [
+        164,
+        36,
+        522,
+        97
+      ],
+      "outside_owned_pixel_diff": 0,
+      "clean_outside_mask_diff": 0,
+      "geometry_pass": true,
+      "no_clipping": true,
+      "visual_status": "FAIL_CLEAN_PLATE",
+      "output": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\Oda_C\\ko.png",
+      "comparison": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\Oda_C\\comparison.png",
+      "visual_note_ko": "x478~580,y30~104: IS 주변 사각 구멍·단색 패치, 붓결 연결 끊김.",
+      "visual_reviewed_at": "2026-09-08T00:13:01.810796+00:00",
+      "visual_reviewer": "Codex internal: primary + read-only raster_review",
+      "user_approval": "PENDING",
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "clean_plate_reviewed_sha256": "d6fa071aa5d97f94e17d6386c7ca2b253517b6cf9b49cbd7dbd2db93dae15c43",
+      "consumer_references": [
+        {
+          "prefab": "Oda",
+          "root_path_id": 4624205571196225161,
+          "game_objects": 2,
+          "sprites": [
+            {
+              "game_object": "name",
+              "sprite_path_id": -4624217351345344758,
+              "sprite_name": "Oda_C",
+              "texture_path_id": 7085922524199086053,
+              "texture_name": "Oda_C"
+            }
+          ],
+          "components": [
+            {
+              "game_object": "Oda",
+              "type": "Transform",
+              "path_id": -2913642168014058585
+            },
+            {
+              "game_object": "Oda",
+              "type": "MonoBehaviour",
+              "path_id": -4655038689798390097
+            },
+            {
+              "game_object": "Oda",
+              "type": "MonoBehaviour",
+              "path_id": 3690007782363079958
+            },
+            {
+              "game_object": "Oda",
+              "type": "Animator",
+              "path_id": 8487134030603554503
+            },
+            {
+              "game_object": "name",
+              "type": "Transform",
+              "path_id": 7107021310787555101
+            },
+            {
+              "game_object": "name",
+              "type": "SpriteRenderer",
+              "path_id": 8249821330599318547
+            }
+          ]
+        }
+      ],
+      "scenario_referenced": true
+    },
+    {
+      "asset": "Y:\\GAME\\Fault StP LIGHTKRAVTE\\LIGHTKRAVTE_Data\\StreamingAssets\\aa\\StandaloneWindows64\\15316e2ef8ab70df14ad2fd5a410fded.bundle",
+      "path_id": 4446406976104965605,
+      "source_file": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\raster_review\\review_targets\\15316e2ef8ab70df14ad2fd5a410fded__4446406976104965605__Sakamoto_c.png",
+      "lines": [
+        {
+          "source": "PHOENIXX INC",
+          "ko": null,
+          "kind": "preserve",
+          "source_box": [
+            122,
+            48,
+            545,
+            79
+          ]
+        },
+        {
+          "source": "KAZUNORI SAKAMOTO",
+          "ko": "카즈노리 사카모토",
+          "kind": "name",
+          "source_box": [
+            119,
+            120,
+            1305,
+            179
+          ]
+        }
+      ],
+      "restoration": "source-derived glyph mask + local same-state boundary reconstruction; hidden pixels are reconstructed, not claimed recovered exactly",
+      "name": "Sakamoto_c",
+      "width": 1390,
+      "height": 234,
+      "mode": "RGBA",
+      "source_sha256": "ce61a16f9df0f53dc98e972e5785cc9645222c4a1642b7c303a2e75144f1c8e0",
+      "output_sha256": "908c1e2dfb84e88ca2ee093c4be248eb33890e7483f6b78f2962bff2217f0bdb",
+      "source_glyph_bounds": [
+        111,
+        112,
+        1313,
+        187
+      ],
+      "target_ink_bounds": [
+        119,
+        119,
+        593,
+        180
+      ],
+      "outside_owned_pixel_diff": 0,
+      "clean_outside_mask_diff": 0,
+      "geometry_pass": true,
+      "no_clipping": true,
+      "visual_status": "FAIL_RESIDUE",
+      "output": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\Sakamoto_c\\ko.png",
+      "comparison": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\Sakamoto_c\\comparison.png",
+      "visual_note_ko": "x162~542,y118~166: PHOENIXX 로고가 아닌 인명 자리의 밝은 영문 조각 345픽셀 잔존.",
+      "visual_reviewed_at": "2026-09-08T00:13:01.810796+00:00",
+      "visual_reviewer": "Codex internal: primary + read-only raster_review",
+      "user_approval": "PENDING",
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "clean_plate_reviewed_sha256": "ba3b41491e14af708bf28a6b8152edd6db2ab77b25ada16648c1f294174d25c3",
+      "consumer_references": [
+        {
+          "prefab": "Sakamoto",
+          "root_path_id": -3272392211698237930,
+          "game_objects": 2,
+          "sprites": [
+            {
+              "game_object": "name",
+              "sprite_path_id": 938390343287989173,
+              "sprite_name": "Sakamoto_c",
+              "texture_path_id": 4446406976104965605,
+              "texture_name": "Sakamoto_c"
+            }
+          ],
+          "components": [
+            {
+              "game_object": "Sakamoto",
+              "type": "Transform",
+              "path_id": 1123359881398128853
+            },
+            {
+              "game_object": "Sakamoto",
+              "type": "MonoBehaviour",
+              "path_id": -6494793873939436591
+            },
+            {
+              "game_object": "Sakamoto",
+              "type": "MonoBehaviour",
+              "path_id": -5978317371762103778
+            },
+            {
+              "game_object": "Sakamoto",
+              "type": "Animator",
+              "path_id": 6730370337718700770
+            },
+            {
+              "game_object": "name",
+              "type": "Transform",
+              "path_id": -6866956484876975358
+            },
+            {
+              "game_object": "name",
+              "type": "SpriteRenderer",
+              "path_id": -1001506183935924719
+            }
+          ]
+        }
+      ],
+      "scenario_referenced": true
+    },
+    {
+      "path_id": 13,
+      "source_file": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\raster_review\\original\\sharedassets0__13__splash_aero_txt_jp.png",
+      "lines": [
+        "본 기록은 ALICE IN DISSONANCE가",
+        "루젠하이드에서 일어난 일을 관찰하고 편집한 것입니다."
+      ],
+      "restoration": "text-only transparent layer; all nontransparent source pixels are glyph-owned",
+      "locale_gate": "ko only",
+      "name": "splash_aero_txt_jp",
+      "width": 1366,
+      "height": 768,
+      "mode": "RGBA",
+      "source_sha256": "cde5a02059ded08e7ad3fc9b48f974d0b97d3e3a6bce3e349820d56c730c8827",
+      "output_sha256": "af541ace1818aa44c02e6c5d199624b70ae71b64cc80c238b317d2079dd5e98f",
+      "source_glyph_bounds": [
+        282,
+        335,
+        1084,
+        433
+      ],
+      "target_ink_bounds": [
+        273,
+        336,
+        1093,
+        428
+      ],
+      "outside_owned_pixel_diff": 0,
+      "clean_outside_mask_diff": 0,
+      "geometry_pass": true,
+      "no_clipping": true,
+      "visual_status": "PASS_STATIC_VISUAL",
+      "output": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\splash_aero_txt_jp\\ko.png",
+      "comparison": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\splash_aero_txt_jp\\comparison.png",
+      "visual_note_ko": "일본어 잔재·한국어 잘림 없음. 투명 글자층의 두 줄 문구 검수 통과. 실기 미검증.",
+      "visual_reviewed_at": "2026-09-08T00:13:01.810796+00:00",
+      "visual_reviewer": "Codex internal: primary + read-only raster_review",
+      "user_approval": "PENDING",
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "clean_plate_reviewed_sha256": "528fccd0e6d10c16ca6997bcd5c280b232289c960223231ff2b5d6d934cdc99a",
+      "consumer_references": [],
+      "scenario_referenced": true
+    },
+    {
+      "path_id": 21,
+      "source_file": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\raster_review\\original\\sharedassets0__21__AiD_Splash_2022.png",
+      "lines": [
+        "이 이야기는 현재로서는 허구입니다.",
+        "실존하는 개인 및 단체와는 아직 아무런 관련이 없습니다."
+      ],
+      "restoration": "all three source text blocks; preserve dim silhouette outside source-derived glyph mask",
+      "locale_gate": "ko only",
+      "variant": "B Korean-only, original languages use unmodified source",
+      "name": "AiD_Splash_2022",
+      "width": 1920,
+      "height": 1080,
+      "mode": "RGBA",
+      "source_sha256": "ec2de20445731427358c3ea7ab50a6016f08b8f20783f735254b92b6626f9d7f",
+      "output_sha256": "bb22f657a50e900e60235b1dce9dcdeaf5f0bbc2663885f3d0ae70c5b94b376d",
+      "source_glyph_bounds": [
+        126,
+        346,
+        1794,
+        822
+      ],
+      "target_ink_bounds": [
+        495,
+        481,
+        1423,
+        581
+      ],
+      "outside_owned_pixel_diff": 0,
+      "clean_outside_mask_diff": 0,
+      "geometry_pass": true,
+      "no_clipping": true,
+      "visual_status": "PASS_STATIC_VISUAL",
+      "output": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\AiD_Splash_2022\\ko.png",
+      "comparison": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\production_2026-09-08\\textures\\AiD_Splash_2022\\comparison.png",
+      "visual_note_ko": "일반 밝기에서 원문 세 언어 잔재·한국어 잘림 없음. 어두운 실루엣의 글자 아래 부분은 추정 복원이며 원본 픽셀 회수는 아님. 실기 미검증.",
+      "visual_reviewed_at": "2026-09-08T00:13:01.810796+00:00",
+      "visual_reviewer": "Codex internal: primary + read-only raster_review",
+      "user_approval": "PENDING",
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "clean_plate_reviewed_sha256": "4bef027344dc8d6ea47e1b136aa518a19ef9183d3fcb8b187edaa02391908671",
+      "consumer_references": [],
+      "scenario_referenced": true
+    }
+  ]
+}

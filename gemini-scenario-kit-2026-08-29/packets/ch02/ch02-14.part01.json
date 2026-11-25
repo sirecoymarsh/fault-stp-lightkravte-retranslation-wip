@@ -1,0 +1,1311 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-14.part01",
+  "script": "ch02-14",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": [
+      {
+        "uid": "ch02-14:257:daa27ebf",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "そ そうですか…<br>僕は堅実さだけが取り柄みたいなところもあるんで",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-14:259:66b62db6",
+        "speaker_id": "son",
+        "speaker_name": "소네타",
+        "ja": "まあ 確かに集中したら周りが見えなくなるのは<br>なんとかしたほうがいいかもっすね…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-14:261:4616fccf",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "む 無駄だったんでしょうか…この頑張りは…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-14:263:bc18212d",
+        "speaker_id": "son",
+        "speaker_name": "소네타",
+        "ja": "いやーまあ それはカージ氏の考え方次第っすけど<br>ペンクラフトの限界を肌で感じることができたので<br>完全に無駄になったわけじゃないと思いやすけどね",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-14:265:361d1c48",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "…はぁ……僕はいつも思いついたら<br>突っ走ってしまう傾向がありまして…",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch02-14:17:3005ad52",
+      "source_hash": "3005ad52",
+      "sequence": 0,
+      "source_line": 17,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "う……うーん………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:18:d097b8ed",
+      "source_hash": "d097b8ed",
+      "sequence": 1,
+      "source_line": 18,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "お………おおおおお…………おおおお",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:20:c6cb1520",
+      "source_hash": "c6cb1520",
+      "sequence": 2,
+      "source_line": 20,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ふしぶしが軋みをあげる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:23:60116b50",
+      "source_hash": "60116b50",
+      "sequence": 3,
+      "source_line": 23,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "きゃ…き………きん………きょ………お………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:24:8505e44d",
+      "source_hash": "8505e44d",
+      "sequence": 4,
+      "source_line": 24,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "強烈な筋肉痛に叩き起こされる 最悪の目覚め",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:25:f52149be",
+      "source_hash": "f52149be",
+      "sequence": 5,
+      "source_line": 25,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ふ フローラ様が言った通り……だ……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:27:51c581bc",
+      "source_hash": "51c581bc",
+      "sequence": 6,
+      "source_line": 27,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "も もうちょっと運動したほうがいいかもな…<br>ラインヴァスタのことバカにできないぞ…こりゃ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:28:e01bb061",
+      "source_hash": "e01bb061",
+      "sequence": 7,
+      "source_line": 28,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "激キツ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:30:f8c81074",
+      "source_hash": "f8c81074",
+      "sequence": 8,
+      "source_line": 30,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ど どうしようかな今日……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:31:455f0da9",
+      "source_hash": "455f0da9",
+      "sequence": 9,
+      "source_line": 31,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "もう何件かガラス工房を回るつもりだったのに…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:32:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 10,
+      "source_line": 32,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:35:6f65e007",
+      "source_hash": "6f65e007",
+      "sequence": 11,
+      "source_line": 35,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "窓からは快晴の空が覗き込んでいた",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:36:a90c86d0",
+      "source_hash": "a90c86d0",
+      "sequence": 12,
+      "source_line": 36,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんて清々しい青なんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:37:9f7fb270",
+      "source_hash": "9f7fb270",
+      "sequence": 13,
+      "source_line": 37,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "昨日の夜の薄汚い気持ちが<br>多少は浄化されたような気がした",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:39:417b6b36",
+      "source_hash": "417b6b36",
+      "sequence": 14,
+      "source_line": 39,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ……あでででで！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:41:144ace5e",
+      "source_hash": "144ace5e",
+      "sequence": 15,
+      "source_line": 41,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "心は浄化されても 体は痛いままですね はい…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:42:407860c9",
+      "source_hash": "407860c9",
+      "sequence": 16,
+      "source_line": 42,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あーーーしんど………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:43:9ec44e31",
+      "source_hash": "9ec44e31",
+      "sequence": 17,
+      "source_line": 43,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:45:6dcbe4c8",
+      "source_hash": "6dcbe4c8",
+      "sequence": 18,
+      "source_line": 45,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ちょ ちょっと休もうかな…今日は…<br>少なくとも正午くらいまでは体を休めて…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:47:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 19,
+      "source_line": 47,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:50:27cf9069",
+      "source_hash": "27cf9069",
+      "sequence": 20,
+      "source_line": 50,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………ん？？？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:52:5d541359",
+      "source_hash": "5d541359",
+      "sequence": 21,
+      "source_line": 52,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "一瞬 気のせいかと思った",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:53:b28f1bcf",
+      "source_hash": "b28f1bcf",
+      "sequence": 22,
+      "source_line": 53,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "目の端に映った 小さな光の塊",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:54:7ef4962a",
+      "source_hash": "7ef4962a",
+      "sequence": 23,
+      "source_line": 54,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "部屋を漂う塵でなく 一箇所に固定された淡い光",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:56:4902d978",
+      "source_hash": "4902d978",
+      "sequence": 24,
+      "source_line": 56,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………………………え",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:57:5a5e562b",
+      "source_hash": "5a5e562b",
+      "sequence": 25,
+      "source_line": 57,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え え え え！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:59:daad4476",
+      "source_hash": "daad4476",
+      "sequence": 26,
+      "source_line": 59,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ……………ああ……………<br>あああああ！！！！！！！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:72:68bc4e44",
+      "source_hash": "68bc4e44",
+      "sequence": 27,
+      "source_line": 72,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ま…待て待て待て待て待て待て待て待て！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:73:21ef00a9",
+      "source_hash": "21ef00a9",
+      "sequence": 28,
+      "source_line": 73,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…頭がどうかしてしまったのか…！？<br>目の錯覚じゃないだろうな！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:76:efc443b6",
+      "source_hash": "efc443b6",
+      "sequence": 29,
+      "source_line": 76,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "や やっぱり これは…僕が想像したアタリ十字だ………！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:77:9d2458eb",
+      "source_hash": "9d2458eb",
+      "sequence": 30,
+      "source_line": 77,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あああああああああああああああああああああああああああああああああ！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:78:7cd61956",
+      "source_hash": "7cd61956",
+      "sequence": 31,
+      "source_line": 78,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "や やった……やったんじゃないか これは！！！<br>や やった やってやったぞ！！！！！！！！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:79:2d39eb52",
+      "source_hash": "2d39eb52",
+      "sequence": 32,
+      "source_line": 79,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "『絵』を形にできたぞ！！！！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:93:fc2e7ae9",
+      "source_hash": "fc2e7ae9",
+      "sequence": 33,
+      "source_line": 93,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:95:1285d496",
+      "source_hash": "1285d496",
+      "sequence": 34,
+      "source_line": 95,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いや…でもちょっと待てよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:96:36159af8",
+      "source_hash": "36159af8",
+      "sequence": 35,
+      "source_line": 96,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…こんな記号レベルのもの…<br>さすがに絵とは呼べないか…？？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:98:da24aea9",
+      "source_hash": "da24aea9",
+      "sequence": 36,
+      "source_line": 98,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "しかも どれくらい時間がかかった…？？<br>２日…いや ３日か？？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:99:7ca3c472",
+      "source_hash": "7ca3c472",
+      "sequence": 37,
+      "source_line": 99,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "たかがこの程度の情報を込めるだけで 丸３日…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:101:6b205172",
+      "source_hash": "6b205172",
+      "sequence": 38,
+      "source_line": 101,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:103:13b9029",
+      "source_hash": "13b9029",
+      "sequence": 39,
+      "source_line": 103,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "このペースで肖像画を描き込もうと思ったら<br>い いったい いつまでかかるんだ…？？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:104:65b3136c",
+      "source_hash": "65b3136c",
+      "sequence": 40,
+      "source_line": 104,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:105:1238aae9",
+      "source_hash": "1238aae9",
+      "sequence": 41,
+      "source_line": 105,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "年単位…どころの話じゃないかもしれない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:106:65b3136c",
+      "source_hash": "65b3136c",
+      "sequence": 42,
+      "source_line": 106,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:107:fe1bf45",
+      "source_hash": "fe1bf45",
+      "sequence": 43,
+      "source_line": 107,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………………………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:127:53a1494c",
+      "source_hash": "53a1494c",
+      "sequence": 44,
+      "source_line": 127,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "いや〜いい天気…今日もまたまったりまったりっすね〜",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:128:51049c53",
+      "source_hash": "51049c53",
+      "sequence": 45,
+      "source_line": 128,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………っっっ……っっっっっっっっっ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:130:4a670233",
+      "source_hash": "4a670233",
+      "sequence": 46,
+      "source_line": 130,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "ん…ん？ こ この気配…は！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:137:d4b220a3",
+      "source_hash": "d4b220a3",
+      "sequence": 47,
+      "source_line": 137,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…っっっ……っっっ…っっっ…‥……っっっ！！ っっ！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:139:4ada1a0",
+      "source_hash": "4ada1a0",
+      "sequence": 48,
+      "source_line": 139,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "うわ！？ え な なに…なに！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:141:5c46dbfb",
+      "source_hash": "5c46dbfb",
+      "sequence": 49,
+      "source_line": 141,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "――――――っっ！！ ―――――っっっッ！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:142:d64f546",
+      "source_hash": "d64f546",
+      "sequence": 50,
+      "source_line": 142,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "し 静かに迫ってきた！？！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:143:8a17ebb2",
+      "source_hash": "8a17ebb2",
+      "sequence": 51,
+      "source_line": 143,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "声出してないのに十分 うるさいっす！！！！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:154:6716b4e9",
+      "source_hash": "6716b4e9",
+      "sequence": 52,
+      "source_line": 154,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "またしても戻ってきやしたね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:155:ab31e3b5",
+      "source_hash": "ab31e3b5",
+      "sequence": 53,
+      "source_line": 155,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "す すみません…なんかもう いっぱいいっぱいでして…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:157:8585ce58",
+      "source_hash": "8585ce58",
+      "sequence": 54,
+      "source_line": 157,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "んじゃ まあ 研究の結果を―――<br>今回はどこで詰まってるんですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:159:e1cbe908",
+      "source_hash": "e1cbe908",
+      "sequence": 55,
+      "source_line": 159,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ その―――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:166:a4405be6",
+      "source_hash": "a4405be6",
+      "sequence": 56,
+      "source_line": 166,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "ほう！ 絵を込めることができたと！<br>え めっちゃすごい？ すごくね？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:167:be216eca",
+      "source_hash": "be216eca",
+      "sequence": 57,
+      "source_line": 167,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "まだ数日しか経ってないのに！<br>ってか 普通に革命なんすけど！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:169:b8ad398f",
+      "source_hash": "b8ad398f",
+      "sequence": 58,
+      "source_line": 169,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いやー…それほどでも あ ははは",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:171:7d1ae9bd",
+      "source_hash": "7d1ae9bd",
+      "sequence": 59,
+      "source_line": 171,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "んじゃ その絵 見してもらっていいっすか？<br>めちゃくちゃ興味あるっす！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:174:23cde46b",
+      "source_hash": "23cde46b",
+      "sequence": 60,
+      "source_line": 174,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こ、こちらになります！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:182:c8a157e2",
+      "source_hash": "c8a157e2",
+      "sequence": 61,
+      "source_line": 182,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:183:db52db90",
+      "source_hash": "db52db90",
+      "sequence": 62,
+      "source_line": 183,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "……………ん？？？？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:184:dc8b6cac",
+      "source_hash": "dc8b6cac",
+      "sequence": 63,
+      "source_line": 184,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "これは…リーディングアンプでは？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:186:d00f1044",
+      "source_hash": "d00f1044",
+      "sequence": 64,
+      "source_line": 186,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…リーディングアンプっていうんですか これ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:188:311bee95",
+      "source_hash": "311bee95",
+      "sequence": 65,
+      "source_line": 188,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "……カージ氏 ちょっとライトクラフトに関する<br>図書館の本を片っ端から読んだほうがいいのでは…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:190:b19aefd",
+      "source_hash": "b19aefd",
+      "sequence": 66,
+      "source_line": 190,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんな気がしてきました…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:192:52342f8c",
+      "source_hash": "52342f8c",
+      "sequence": 67,
+      "source_line": 192,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "このリーディングアンプというのは<br>経年劣化して薄まった意志の復元するためのものっすね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:193:fbb034cb",
+      "source_hash": "fbb034cb",
+      "sequence": 68,
+      "source_line": 193,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "これを使う必要があった…と？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:195:5f766b91",
+      "source_hash": "5f766b91",
+      "sequence": 69,
+      "source_line": 195,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい…かなり薄まって書き込まれていたみたいで<br>掘り出すのにすごく時間がかかりました",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:197:b01a0380",
+      "source_hash": "b01a0380",
+      "sequence": 70,
+      "source_line": 197,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "ん…んーー？？ ちょっと話が…ってあれ？<br>この紙に丸と十字を直接描いたんですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:205:e6069e09",
+      "source_hash": "e6069e09",
+      "sequence": 71,
+      "source_line": 205,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え、ええ？ だって、ペンクラフトですよね？<br>文字を書く時に意思を込めるのですが",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:207:c8a157e2",
+      "source_hash": "c8a157e2",
+      "sequence": 72,
+      "source_line": 207,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:209:e43cb8a5",
+      "source_hash": "e43cb8a5",
+      "sequence": 73,
+      "source_line": 209,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "………え………？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:211:d374cce1",
+      "source_hash": "d374cce1",
+      "sequence": 74,
+      "source_line": 211,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………え？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:213:aa235dae",
+      "source_hash": "aa235dae",
+      "sequence": 75,
+      "source_line": 213,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "え えーと これはカージ氏が『丸と十字』を<br>インクで描いてその中に『丸と十字』の『絵』を<br>ライトクラフトで込めたって解釈でおけですか？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:215:830b2260",
+      "source_hash": "830b2260",
+      "sequence": 76,
+      "source_line": 215,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は、はい…そうですが？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:217:fddb142f",
+      "source_hash": "fddb142f",
+      "sequence": 77,
+      "source_line": 217,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "いやいやいや…カージ氏…ちょっと考えやしょうぜ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:218:5cb53326",
+      "source_hash": "5cb53326",
+      "sequence": 78,
+      "source_line": 218,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "これじゃ完全に意味がないじゃないっすか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:220:fc373450",
+      "source_hash": "fc373450",
+      "sequence": 79,
+      "source_line": 220,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え え え どういう意味ですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:222:62ecf508",
+      "source_hash": "62ecf508",
+      "sequence": 80,
+      "source_line": 222,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "だって 絵が描けないから別の方法を探しているのに<br>直接ペンを使って描いたら本末転倒っしょ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:223:b339b7a9",
+      "source_hash": "b339b7a9",
+      "sequence": 81,
+      "source_line": 223,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "なにをするつもりだったんすか？<br>カージ氏の下手な絵の中に<br>肖像画を込めるつもりだったとか？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:224:65b3136c",
+      "source_hash": "65b3136c",
+      "sequence": 82,
+      "source_line": 224,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:227:c82ac7c0",
+      "source_hash": "c82ac7c0",
+      "sequence": 83,
+      "source_line": 227,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………あ……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:228:8b8a31fa",
+      "source_hash": "8b8a31fa",
+      "sequence": 84,
+      "source_line": 228,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "か 考えてなかった……です！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:230:616df7e3",
+      "source_hash": "616df7e3",
+      "sequence": 85,
+      "source_line": 230,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:231:984ff891",
+      "source_hash": "984ff891",
+      "sequence": 86,
+      "source_line": 231,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "そ 相当疲れてやすね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:233:6b8ca8dc",
+      "source_hash": "6b8ca8dc",
+      "sequence": 87,
+      "source_line": 233,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いや…その…しかし…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:237:69af5e9b",
+      "source_hash": "69af5e9b",
+      "sequence": 88,
+      "source_line": 237,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こ これは 文字以外のものもペンクラフトに<br>込められるのかの実験でして！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:239:da6d34f7",
+      "source_hash": "da6d34f7",
+      "sequence": 89,
+      "source_line": 239,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "実際試してみないと気が済まないってやつっすか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:241:2b517675",
+      "source_hash": "2b517675",
+      "sequence": 90,
+      "source_line": 241,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い、いえ…別にそんなつもりはなかったのですが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:242:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 91,
+      "source_line": 242,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:244:529b28d4",
+      "source_hash": "529b28d4",
+      "sequence": 92,
+      "source_line": 244,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ただ 最近色々ありまして…<br>もっとしっかりしたいなーと…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:246:5fbd183f",
+      "source_hash": "5fbd183f",
+      "sequence": 93,
+      "source_line": 246,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なんか自分があまりにも情けなくて…<br>なんにもできないじゃんって…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:248:674d707d",
+      "source_hash": "674d707d",
+      "sequence": 94,
+      "source_line": 248,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "だから 自分でできることがあるなら<br>一通り行動しようかなって…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:250:20188f5",
+      "source_hash": "20188f5",
+      "sequence": 95,
+      "source_line": 250,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "いやいや そんなんでよく数日も集中できやすね…<br>ある意味それも一種の才能のような気がしやすぜ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:251:f45e7542",
+      "source_hash": "f45e7542",
+      "sequence": 96,
+      "source_line": 251,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "普通に立派っすよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:253:fbe8c6ca",
+      "source_hash": "fbe8c6ca",
+      "sequence": 97,
+      "source_line": 253,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:255:c127c3",
+      "source_hash": "c127c3",
+      "sequence": 98,
+      "source_line": 255,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "絵を描くのも １日２時間決めたのを<br>しっかりこなしてるんですよね？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-14:256:efc81802",
+      "source_hash": "efc81802",
+      "sequence": 99,
+      "source_line": 256,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "親父さんの言う通り 好きでやってるって感じは<br>ないっすけど 決めたことを破らず毎日決行できるって<br>すげぇと思いやすけどね",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

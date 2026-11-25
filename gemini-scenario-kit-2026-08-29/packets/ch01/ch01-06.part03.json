@@ -1,0 +1,373 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-06.part03",
+  "script": "ch01-06",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch01-06:451:a9eb4be6",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "申し上げにくいんですが…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:453:3fdb3a06",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "せ セレンハイド権限で…<br>立ち退きさせるという選択肢は？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:454:9a3e8783",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "あ あの…<br>波風は確かに立ってしまいます…が…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:456:a71a0bc1",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "…………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:457:629cfd00",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "嫌われる覚悟で 私が大人の対応…<br>悪役になるって選択ね？",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch01-06:459:ded66f",
+      "source_hash": "ded66f",
+      "sequence": 200,
+      "source_line": 459,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………そ そう………ですかね…あはは…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:461:a71a0bc1",
+      "source_hash": "a71a0bc1",
+      "sequence": 201,
+      "source_line": 461,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:462:c63f62dc",
+      "source_hash": "c63f62dc",
+      "sequence": 202,
+      "source_line": 462,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "考えたわよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:464:1598a86e",
+      "source_hash": "1598a86e",
+      "sequence": 203,
+      "source_line": 464,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "でも それだけは…<br>まだやりたくない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:466:7cae216b",
+      "source_hash": "7cae216b",
+      "sequence": 204,
+      "source_line": 466,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…そ そうですよね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:468:914f7450",
+      "source_hash": "914f7450",
+      "sequence": 205,
+      "source_line": 468,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "勘違いしないでね？<br>別に嫌われることが怖いんじゃない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:469:f39d31d9",
+      "source_hash": "f39d31d9",
+      "sequence": 206,
+      "source_line": 469,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "<ruby=\"止り木の\">あそこにいる</ruby>全員を敵に回してでも<br>私はみんなの安全を死守する責任があると思うの…<br>セレンハイドとして",
+      "required_tokens": [
+        "<ruby=\"止り木の\">",
+        "</ruby>",
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:470:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 207,
+      "source_line": 470,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:472:17cbd063",
+      "source_hash": "17cbd063",
+      "sequence": 208,
+      "source_line": 472,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "でもね…まだ この程度のことで<br>いちいちセレンハイドの名前を振りかざしたくないのよ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:474:8a4977e0",
+      "source_hash": "8a4977e0",
+      "sequence": 209,
+      "source_line": 474,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "なにかある度にそんなことしてたら<br>本当に家柄を振りかざすしか脳のない<br>嫌味な貴族様になっちゃうからね",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:476:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 210,
+      "source_line": 476,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:478:301b7ed6",
+      "source_hash": "301b7ed6",
+      "sequence": 211,
+      "source_line": 478,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ね ねえ…カージ君！<br>矛盾してること覚悟で ちょっとだけ…<br>ちょっとだけ手伝ってくれないかな？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:480:ba9e17fa",
+      "source_hash": "ba9e17fa",
+      "sequence": 212,
+      "source_line": 480,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…は はい？<br>ぼ 僕が手伝いですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:481:73821b03",
+      "source_hash": "73821b03",
+      "sequence": 213,
+      "source_line": 481,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "うん…本当だったらカージ君にも<br>止り木には行ってほしくないんだけど…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:483:587cafa8",
+      "source_hash": "587cafa8",
+      "sequence": 214,
+      "source_line": 483,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい…なんでしょうか！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:485:54101b20",
+      "source_hash": "54101b20",
+      "sequence": 215,
+      "source_line": 485,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "内容による！<br>なんて言ったらクソかっこ悪いだろうな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:488:cb48fdd8",
+      "source_hash": "cb48fdd8",
+      "sequence": 216,
+      "source_line": 488,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "これをやるには ちょっと準備が必要なの",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:490:817cf089",
+      "source_hash": "817cf089",
+      "sequence": 217,
+      "source_line": 490,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "みんなを止り木に行かないように説得できないなら<br>せめてもの対策はしなきゃ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:492:e2c36497",
+      "source_hash": "e2c36497",
+      "sequence": 218,
+      "source_line": 492,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "も もちろんでございます！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:494:e4b7350f",
+      "source_hash": "e4b7350f",
+      "sequence": 219,
+      "source_line": 494,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ビーアルは基本的に夜行性だから<br>お昼に行けば多少は危険を回避できるはず",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:496:eef85060",
+      "source_hash": "eef85060",
+      "sequence": 220,
+      "source_line": 496,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "準備ができたら連絡するね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:498:48028188",
+      "source_hash": "48028188",
+      "sequence": 221,
+      "source_line": 498,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい！<br>なんなりとお申し付けくださいませ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:500:d2fe97dc",
+      "source_hash": "d2fe97dc",
+      "sequence": 222,
+      "source_line": 500,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ありがとう！<br>それじゃあ また今度ね！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:505:4de0d374",
+      "source_hash": "4de0d374",
+      "sequence": 223,
+      "source_line": 505,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "しかし…準備って<br>マジでなにをするんだろう…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

@@ -1,0 +1,1344 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-02.part01",
+  "script": "ch02-02",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": [
+      {
+        "uid": "ch02-02:194:909c0e43",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "頭の中で想像した…その…絵を印刷してみたいのです",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-02:196:b4ba2b10",
+        "speaker_id": "ken",
+        "speaker_name": "켄드리드",
+        "ja": "絵？？？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-02:198:3e00268f",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "は はい…正確には――<br>ライトクラフトで肖像画を印刷したいのです！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-02:199:2a5e41e7",
+        "speaker_id": "ken",
+        "speaker_name": "켄드리드",
+        "ja": "……………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-02:200:1e665e69",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "……………",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch02-02:24:176d265c",
+      "source_hash": "176d265c",
+      "sequence": 0,
+      "source_line": 24,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "で…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:25:6881afa2",
+      "source_hash": "6881afa2",
+      "sequence": 1,
+      "source_line": 25,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "<ruby=\"ソネッタ\">ヴァルツクライザ</ruby>の餓鬼に言われて<br>こんな国はずれのバーまでノコノコとやってきた と",
+      "required_tokens": [
+        "<ruby=\"ソネッタ\">",
+        "</ruby>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:30:1fd187a3",
+      "source_hash": "1fd187a3",
+      "sequence": 2,
+      "source_line": 30,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "ったく <ruby=\"リトナ\">硝子</ruby>の次は 印刷かよ…最近面倒ごとが多いなぁ<br>俺ぁなんでも屋じゃねえんだぞ",
+      "required_tokens": [
+        "<ruby=\"リトナ\">",
+        "</ruby>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:33:5673dd5d",
+      "source_hash": "5673dd5d",
+      "sequence": 3,
+      "source_line": 33,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え えっと…ケンドリッド＝ヴァヴァーズバーさんは<br>ペンクラフトの印刷技術を会得してるという話ですが…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:34:87e346a9",
+      "source_hash": "87e346a9",
+      "sequence": 4,
+      "source_line": 34,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "んーー？？？ ちょっとまて その発音…<br>『ヴァヴァーズバー』って…<br>随分流暢なヴァストアルカ発音だな",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:36:47a6cf7c",
+      "source_hash": "47a6cf7c",
+      "sequence": 5,
+      "source_line": 36,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "なんだぁお前？ オタクってやつか？<br>ルゼンハイドの人間にしちゃ 上出来だ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:38:fee8341a",
+      "source_hash": "fee8341a",
+      "sequence": 6,
+      "source_line": 38,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい！ ありがとうございます――――<br>か かなり練習しました！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:40:456e81d0",
+      "source_hash": "456e81d0",
+      "sequence": 7,
+      "source_line": 40,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "気持ちわりぃよ<br>てめぇの国の訛りで話せ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:42:ddc1a7e6",
+      "source_hash": "ddc1a7e6",
+      "sequence": 8,
+      "source_line": 42,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え ええええ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:43:52d6dc03",
+      "source_hash": "52d6dc03",
+      "sequence": 9,
+      "source_line": 43,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "いくら寄せたところでも<ruby=\"エセ\">似非</ruby>なんだ<br>聞いてて気持ちのいいものじゃない",
+      "required_tokens": [
+        "<ruby=\"エセ\">",
+        "</ruby>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:44:2316ac56",
+      "source_hash": "2316ac56",
+      "sequence": 10,
+      "source_line": 44,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんな…！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:46:6d2ae9e3",
+      "source_hash": "6d2ae9e3",
+      "sequence": 11,
+      "source_line": 46,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "んで？ 印刷の話だって？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:48:407e5860",
+      "source_hash": "407e5860",
+      "sequence": 12,
+      "source_line": 48,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え あ…は はい！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:50:4e1a0577",
+      "source_hash": "4e1a0577",
+      "sequence": 13,
+      "source_line": 50,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "会得もなにも 俺が発明したんだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:51:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 14,
+      "source_line": 51,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:53:7775d81e",
+      "source_hash": "7775d81e",
+      "sequence": 15,
+      "source_line": 53,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…えええええ！？ は 発案者様！？<br>って 技術を作った人ってことですか？？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:54:94b2d418",
+      "source_hash": "94b2d418",
+      "sequence": 16,
+      "source_line": 54,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "ああ<br>リードクラフト時に浮かび上がる光の文字を<br>紙に印刷する技術を開発したのは 確かに俺だ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:55:2ca8b426",
+      "source_hash": "2ca8b426",
+      "sequence": 17,
+      "source_line": 55,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "正式には『意訳印刷』って呼ばれている",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:57:4a288552",
+      "source_hash": "4a288552",
+      "sequence": 18,
+      "source_line": 57,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "！！！！！！！！！！！！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:61:88300f9",
+      "source_hash": "88300f9",
+      "sequence": 19,
+      "source_line": 61,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ま まさしくその技術！！ その技術を探しておりました！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:62:4d99a55",
+      "source_hash": "4d99a55",
+      "sequence": 20,
+      "source_line": 62,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "凄いです！！ な なぜそんなことができる偉大な方が<br>こんな寂れたバーの経営を…！！！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:63:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 21,
+      "source_line": 63,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:68:99fa18c4",
+      "source_hash": "99fa18c4",
+      "sequence": 22,
+      "source_line": 68,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "…あん？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:72:87a24574",
+      "source_hash": "87a24574",
+      "sequence": 23,
+      "source_line": 72,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はっ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:74:e0b1997a",
+      "source_hash": "e0b1997a",
+      "sequence": 24,
+      "source_line": 74,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:76:c33a324d",
+      "source_hash": "c33a324d",
+      "sequence": 25,
+      "source_line": 76,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "『寂れたバー』で悪かったな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:79:81b81d0c",
+      "source_hash": "81b81d0c",
+      "sequence": 26,
+      "source_line": 79,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ いや…ち ちが し しゅみません！<br>そんなちゅもりじゃ！ （うげげげ！？）",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:80:2a5e41e7",
+      "source_hash": "2a5e41e7",
+      "sequence": 27,
+      "source_line": 80,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:81:44e10517",
+      "source_hash": "44e10517",
+      "sequence": 28,
+      "source_line": 81,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "功利主義社会じゃ クラフトの発案者なんてそんなものだろ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:83:e1333ec7",
+      "source_hash": "e1333ec7",
+      "sequence": 29,
+      "source_line": 83,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そう…なんですか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:84:e0b1997a",
+      "source_hash": "e0b1997a",
+      "sequence": 30,
+      "source_line": 84,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:87:36fb9adf",
+      "source_hash": "36fb9adf",
+      "sequence": 31,
+      "source_line": 87,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "で？ お前さんはいったい何をしにきたわけ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:88:14e0912f",
+      "source_hash": "14e0912f",
+      "sequence": 32,
+      "source_line": 88,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "俺のバーを<ruby=\"けな\">貶</ruby>しにきたのか？",
+      "required_tokens": [
+        "<ruby=\"けな\">",
+        "</ruby>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:91:9896b642",
+      "source_hash": "9896b642",
+      "sequence": 33,
+      "source_line": 91,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いえ違います！<br>バーは素敵だと思うですが あ あ あの…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:93:3f63067",
+      "source_hash": "3f63067",
+      "sequence": 34,
+      "source_line": 93,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ その印刷技術！ 『意訳印刷』の原理を教えて下さい！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:94:639545fd",
+      "source_hash": "639545fd",
+      "sequence": 35,
+      "source_line": 94,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そして可能であれば 技術そのものを<br>伝授して頂きたいのですが！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:95:e0b1997a",
+      "source_hash": "e0b1997a",
+      "sequence": 36,
+      "source_line": 95,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:97:e361e6e7",
+      "source_hash": "e361e6e7",
+      "sequence": 37,
+      "source_line": 97,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "いやいや…ちょっと待てお前…<br>いきなり乗り込んできて<br>とんでもねえ頼み事するんじゃねえよ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:99:b194d26f",
+      "source_hash": "b194d26f",
+      "sequence": 38,
+      "source_line": 99,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "なんで赤の他人のために一肌脱がなきゃいけないんだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:100:4bf3ef56",
+      "source_hash": "4bf3ef56",
+      "sequence": 39,
+      "source_line": 100,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ラ ラインヴァスタの…<br>リトナ＝ラインヴァスタのお師匠さんなんですよね？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:102:67e27d91",
+      "source_hash": "67e27d91",
+      "sequence": 40,
+      "source_line": 102,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "ラインヴァスタ…？<br>ああ なんだ――あの女の知り合いなのか お前？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:104:50b2043d",
+      "source_hash": "50b2043d",
+      "sequence": 41,
+      "source_line": 104,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "で 弟子をとっているなら<br>ぜひぼぼぼぼぼ…僕も…その…で 弟子に……！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:106:85b9e417",
+      "source_hash": "85b9e417",
+      "sequence": 42,
+      "source_line": 106,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "だから待ちやがれって…俺は弟子なんてとってねえ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:108:31e4181",
+      "source_hash": "31e4181",
+      "sequence": 43,
+      "source_line": 108,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "ラインヴァスタの場合 適当にアドバイスしたら<br>勝手に上達して 勝手に俺を師匠呼ばわりし始めたんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:109:41c6b5",
+      "source_hash": "41c6b5",
+      "sequence": 44,
+      "source_line": 109,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "アイツとはそれ以上でもそれ以下でもない関係だ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:111:8b315a2a",
+      "source_hash": "8b315a2a",
+      "sequence": 45,
+      "source_line": 111,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "で でも…でも…でも！ そ ソネッタさん曰く<br>ルゼンハイドでその印刷技術を教えていたんですよね？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:112:67c5900d",
+      "source_hash": "67c5900d",
+      "sequence": 46,
+      "source_line": 112,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ク クロックスの教員だったと！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:114:6e51aa8f",
+      "source_hash": "6e51aa8f",
+      "sequence": 47,
+      "source_line": 114,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "だからそれも昔の話なんだって…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:115:8294f26a",
+      "source_hash": "8294f26a",
+      "sequence": 48,
+      "source_line": 115,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "俺はヴァストアルカから移住してきた外国人だからな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:116:c5300319",
+      "source_hash": "c5300319",
+      "sequence": 49,
+      "source_line": 116,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "永住権を取るために『特質技術提供による社会貢献』<br>ってのをしなくちゃならなくて<br>そいつに従って教師をしていた時期があるってだけだ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:117:f3f8eaaa",
+      "source_hash": "f3f8eaaa",
+      "sequence": 50,
+      "source_line": 117,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "もう免許もねえし 正式に教えることはできねえんだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:119:943af8c6",
+      "source_hash": "943af8c6",
+      "sequence": 51,
+      "source_line": 119,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ それでしたら コツ！ コツだけでも！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:120:dfd2fa3c",
+      "source_hash": "dfd2fa3c",
+      "sequence": 52,
+      "source_line": 120,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "お礼はちゃんと…ちゃんとするので…<br>原理とコツだけでも ご教授のほどを…！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:122:7fbd2e3c",
+      "source_hash": "7fbd2e3c",
+      "sequence": 53,
+      "source_line": 122,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "…お礼だぁ？<br>お前さんみたいな餓鬼になにができるってんだよ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:124:95145258",
+      "source_hash": "95145258",
+      "sequence": 54,
+      "source_line": 124,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "言っておくが<br>オバーグ果樹園の差し入れなんて受け取らないからな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:126:c65f2c73",
+      "source_hash": "c65f2c73",
+      "sequence": 55,
+      "source_line": 126,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……え！ そ そんな…く 果物はお嫌いで？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:128:66bd0a87",
+      "source_hash": "66bd0a87",
+      "sequence": 56,
+      "source_line": 128,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "違う<br>オバーグ果樹園の果物はお前の『お礼』じゃないだろう？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:129:324e4742",
+      "source_hash": "324e4742",
+      "sequence": 57,
+      "source_line": 129,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "てめぇの親父さんの力をてめぇの返礼のために<br>使うんじゃねぇって言ってんだよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:131:75fdc299",
+      "source_hash": "75fdc299",
+      "sequence": 58,
+      "source_line": 131,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぐ ぐゅ…！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:132:3cea545f",
+      "source_hash": "3cea545f",
+      "sequence": 59,
+      "source_line": 132,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "それに 悪いが ライトクラフトの印刷は<br>今のお前じゃ無理だ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:133:26c69e3",
+      "source_hash": "26c69e3",
+      "sequence": 60,
+      "source_line": 133,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "教えたくても不可能だ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:135:1ce98e17",
+      "source_hash": "1ce98e17",
+      "sequence": 61,
+      "source_line": 135,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え ええ！？ な なんでそんな！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:136:92246e1c",
+      "source_hash": "92246e1c",
+      "sequence": 62,
+      "source_line": 136,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ま まだなにも…た 試してすらいないじゃないですか！！<br>そんなんじゃ諦められませんよ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:138:60160644",
+      "source_hash": "60160644",
+      "sequence": 63,
+      "source_line": 138,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "見りゃわかるんだよ<br>無理だってな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:139:738175ce",
+      "source_hash": "738175ce",
+      "sequence": 64,
+      "source_line": 139,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "技術の問題とかじゃない<br>無理なものは無理なんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:140:d0d2d976",
+      "source_hash": "d0d2d976",
+      "sequence": 65,
+      "source_line": 140,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "それに気づくまでは 何を言っても無駄だ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:141:5b43005b",
+      "source_hash": "5b43005b",
+      "sequence": 66,
+      "source_line": 141,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "悪いことは言わないから 家に戻って<br>親父さんと果樹園を継ぐ話でもしてろ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:142:7bc8a171",
+      "source_hash": "7bc8a171",
+      "sequence": 67,
+      "source_line": 142,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "俺は 責任取れないし 恨まれたくねえからな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:143:e1a7c2c9",
+      "source_hash": "e1a7c2c9",
+      "sequence": 68,
+      "source_line": 143,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え え！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:144:f87e7b34",
+      "source_hash": "f87e7b34",
+      "sequence": 69,
+      "source_line": 144,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "恨まれる…？？？？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:145:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 70,
+      "source_line": 145,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:147:ee728487",
+      "source_hash": "ee728487",
+      "sequence": 71,
+      "source_line": 147,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……こ ここで……こんなところで…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:149:f2233bf9",
+      "source_hash": "f2233bf9",
+      "sequence": 72,
+      "source_line": 149,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "諦める……！？また！？<br>やっと光が見えてきたのに…！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:150:a9c879c4",
+      "source_hash": "a9c879c4",
+      "sequence": 73,
+      "source_line": 150,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "ん？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:152:9f0ef028",
+      "source_hash": "9f0ef028",
+      "sequence": 74,
+      "source_line": 152,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぼ 僕は…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:153:eada2b2e",
+      "source_hash": "eada2b2e",
+      "sequence": 75,
+      "source_line": 153,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:155:1b247f4",
+      "source_hash": "1b247f4",
+      "sequence": 76,
+      "source_line": 155,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "お おい お前泣くんじゃないだろうな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:157:4c19763d",
+      "source_hash": "4c19763d",
+      "sequence": 77,
+      "source_line": 157,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………っ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:159:5a04e355",
+      "source_hash": "5a04e355",
+      "sequence": 78,
+      "source_line": 159,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "うそだろ お前…乗り込んできて 断られてべそかくって<br>自分勝手にも程ってもんがあるだろう え！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:161:eea57b8b",
+      "source_hash": "eea57b8b",
+      "sequence": 79,
+      "source_line": 161,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…こ これが最後なんです…僕にはもう…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:162:c41e4684",
+      "source_hash": "c41e4684",
+      "sequence": 80,
+      "source_line": 162,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…これしか<br>これじか道が残されていないんでず………っ！！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:163:f5dd6a59",
+      "source_hash": "f5dd6a59",
+      "sequence": 81,
+      "source_line": 163,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "もう いっぱいでいっぱいで…<br>沢山の時間と……無駄と…！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:164:1392e18b",
+      "source_hash": "1392e18b",
+      "sequence": 82,
+      "source_line": 164,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぼ ぼくは……！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:166:eada2b2e",
+      "source_hash": "eada2b2e",
+      "sequence": 83,
+      "source_line": 166,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:168:3af6e7cb",
+      "source_hash": "3af6e7cb",
+      "sequence": 84,
+      "source_line": 168,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "…………………はぁ………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:171:e1402a65",
+      "source_hash": "e1402a65",
+      "sequence": 85,
+      "source_line": 171,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "ったく…面倒くせえなぁ………<br>泣いて思い通りにいくような年齢でもねえだろう お前はよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:172:c7959f34",
+      "source_hash": "c7959f34",
+      "sequence": 86,
+      "source_line": 172,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぐ ぐゅ……じゅ………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:173:eada2b2e",
+      "source_hash": "eada2b2e",
+      "sequence": 87,
+      "source_line": 173,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:175:7df8ab61",
+      "source_hash": "7df8ab61",
+      "sequence": 88,
+      "source_line": 175,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "で 結局なにをしたいんだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:177:794cbcf1",
+      "source_hash": "794cbcf1",
+      "sequence": 89,
+      "source_line": 177,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…ぐ………じゅ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:178:f213dd23",
+      "source_hash": "f213dd23",
+      "sequence": 90,
+      "source_line": 178,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "お前さんは―――意訳印刷を学んでなにをしたいわけ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:179:77bfa9c8",
+      "source_hash": "77bfa9c8",
+      "sequence": 91,
+      "source_line": 179,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "屈曲した解読で拡大解釈版でも作るつもりか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:181:9abb5ea5",
+      "source_hash": "9abb5ea5",
+      "sequence": 92,
+      "source_line": 181,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…え…え……？ 拡大…解釈版？<br>ちょ ちょっと意味が…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:182:a2493cb",
+      "source_hash": "a2493cb",
+      "sequence": 93,
+      "source_line": 182,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "………違うならいいんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:184:12e64e01",
+      "source_hash": "12e64e01",
+      "sequence": 94,
+      "source_line": 184,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "そういうくだらないことするやつがいるんだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:186:71a19f7e",
+      "source_hash": "71a19f7e",
+      "sequence": 95,
+      "source_line": 186,
+      "speaker_id": "ken",
+      "speaker_name": "켄드리드",
+      "voice_id": "",
+      "ja": "でもそうじゃないんだったら解せない<br>個人で意訳印刷したいなんて 相当特殊なニーズだぞ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:188:72689d49",
+      "source_hash": "72689d49",
+      "sequence": 96,
+      "source_line": 188,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あの……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:189:73ace0ae",
+      "source_hash": "73ace0ae",
+      "sequence": 97,
+      "source_line": 189,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "も もう言ってしまうか！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:191:4d8dc677",
+      "source_hash": "4d8dc677",
+      "sequence": 98,
+      "source_line": 191,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "バカにされることを敬遠して<br>目的を無意識のうちに隠してたけど<br>もうこの際話してしまったほうが……！！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-02:193:2c88862e",
+      "source_hash": "2c88862e",
+      "sequence": 99,
+      "source_line": 193,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え えっとですね…",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

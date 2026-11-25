@@ -1,0 +1,1405 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-07.part03",
+  "script": "ch01-07",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch01-07:560:e41944a6",
+        "speaker_id": "qua",
+        "speaker_name": "쿠알라",
+        "ja": "トスカ<ruby=\"お父さん\">おじ様</ruby>に頼んで<br>一度ランヴァイズさんに会ってもらったら？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:566:437adac9",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "……………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:568:d5182a18",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "あのーちょっとごめんね<br>やっぱり僕 疲れてるのかもしれない…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:569:7a54facc",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "いま『ランヴァイズ』っていう名前が<br>聞こえた気がしたんだけど もう一度お願いできるかしら？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:572:8b7164d1",
+        "speaker_id": "qua",
+        "speaker_name": "쿠알라",
+        "ja": "は はい…ランヴァイズさんですよ！<br>そう言いました！ 間違ってませんよ！",
+        "do_not_translate": true
+      }
+    ],
+    "after": [
+      {
+        "uid": "ch01-07:847:8746559d",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "称号を得て 正式にガーディアンになってからだ！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:848:edb2c3b7",
+        "speaker_id": "wig",
+        "speaker_name": "와이튼",
+        "ja": "肩書きが大事…だと？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:850:6981cabd",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "尊厳は肩書きから生まれるものだろう！？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:852:8a516cbc",
+        "speaker_id": "wig",
+        "speaker_name": "와이튼",
+        "ja": "だ だめだこりゃ…<br>緊張して混乱してる…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:854:dca44b23",
+        "speaker_id": "wig",
+        "speaker_name": "와이튼",
+        "ja": "えっと…<br>とりあえず 中へ入りましょうか",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch01-07:574:42923b59",
+      "source_hash": "42923b59",
+      "sequence": 200,
+      "source_line": 574,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "ランヴァイズ？ 誰だそりゃ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:577:1a611b2b",
+      "source_hash": "1a611b2b",
+      "sequence": 201,
+      "source_line": 577,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "え！？ ディ ディータ<br>マジで知らないのか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:579:7eae4104",
+      "source_hash": "7eae4104",
+      "sequence": 202,
+      "source_line": 579,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "ぼ、僕も聞いたことない…かも…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:581:261555e6",
+      "source_hash": "261555e6",
+      "sequence": 203,
+      "source_line": 581,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "マジかよ二人とも…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:582:f830673d",
+      "source_hash": "f830673d",
+      "sequence": 204,
+      "source_line": 582,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "クロックスの一員として『ルゼンハイド』の<br>ミドルネームをもらってる貴族くらいは覚えておこうよ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:587:437adac9",
+      "source_hash": "437adac9",
+      "sequence": 205,
+      "source_line": 587,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:588:cce31693",
+      "source_hash": "cce31693",
+      "sequence": 206,
+      "source_line": 588,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ラ ランヴァイズって…<br>アトリエ・ルゼンハイドの最高責任者…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:589:82407e0a",
+      "source_hash": "82407e0a",
+      "sequence": 207,
+      "source_line": 589,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "王室画家の<br>クラウ＝ルゼンハイド＝ランヴァイズ…様のこと！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:594:cf958549",
+      "source_hash": "cf958549",
+      "sequence": 208,
+      "source_line": 594,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "はい 父が騎士団の一員で<br>クラウさんとは幼馴染なんですよ<br>だからたまに会うことがありまして…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:598:12b0e088",
+      "source_hash": "12b0e088",
+      "sequence": 209,
+      "source_line": 598,
+      "speaker_id": "qua",
+      "speaker_name": "쿠알라",
+      "voice_id": "",
+      "ja": "絵に関して 彼以上のプロはルゼンハイドにいないですよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:600:4a1d88f2",
+      "source_hash": "4a1d88f2",
+      "sequence": 210,
+      "source_line": 600,
+      "speaker_id": "qua",
+      "speaker_name": "쿠알라",
+      "voice_id": "",
+      "ja": "私も彼の指示でかなり上手になったし<br>きっと適切なアドバイスをしてくれると思います",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:603:b1b3bcf",
+      "source_hash": "b1b3bcf",
+      "sequence": 211,
+      "source_line": 603,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "む…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:606:21f90dde",
+      "source_hash": "21f90dde",
+      "sequence": 212,
+      "source_line": 606,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "む むりむりむりむりむりむり！！！！<br>そ そんなすごい人と会うことなんて<br>なにをほざいてやがるんだ君たちは…！？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:607:ddd0b27",
+      "source_hash": "ddd0b27",
+      "sequence": 213,
+      "source_line": 607,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "し しかもお仕事の会合なんかで<br>そんな個人的なお願いで押しかけるなんて<br>非常識なこととてもじゃないけど…！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:612:775b2a4f",
+      "source_hash": "775b2a4f",
+      "sequence": 214,
+      "source_line": 612,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "あ あの…お言葉ですが 適合率6.9%の人が<br>手段なんて選んでられないと思うのですが…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:614:4875d607",
+      "source_hash": "4875d607",
+      "sequence": 215,
+      "source_line": 614,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "君！ うるさい！ うるさいよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:615:6b022f08",
+      "source_hash": "6b022f08",
+      "sequence": 216,
+      "source_line": 615,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "脳がパニクってるときに<br>適切なツッコミするなんて無粋でしょう！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:616:8138f3c0",
+      "source_hash": "8138f3c0",
+      "sequence": 217,
+      "source_line": 616,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "大丈夫かよこいつ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:617:dc9f3c96",
+      "source_hash": "dc9f3c96",
+      "sequence": 218,
+      "source_line": 617,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "『ルゼンハイド』の名前をもらってるってことは…<br>事実上国で２番目にエライ人たちだからね…<br>驚くのもしょうがないと思うよ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:619:cc1d7ce",
+      "source_hash": "cc1d7ce",
+      "sequence": 219,
+      "source_line": 619,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いや ちょっと待って！？<br>そんなすごい人たちが集まる会合に突然現れて<br>無礼なんて働かせた日には それこそ一大事でしょう！？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:621:49ed2906",
+      "source_hash": "49ed2906",
+      "sequence": 220,
+      "source_line": 621,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "なんで無礼を働かせることが前提なんですかね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:623:71b6b09",
+      "source_hash": "71b6b09",
+      "sequence": 221,
+      "source_line": 623,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "仕事の会合とは名ばかりのただの飲み会みたいなものです<br>気張る必要はありませんよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:624:4767e095",
+      "source_hash": "4767e095",
+      "sequence": 222,
+      "source_line": 624,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "いい話のネタを仕入れられるので<br>僕もよくお邪魔してます",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:626:eeca3444",
+      "source_hash": "eeca3444",
+      "sequence": 223,
+      "source_line": 626,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんなこといってもさ…か 会合ってどこでやるの？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:627:51a92c60",
+      "source_hash": "51a92c60",
+      "sequence": 224,
+      "source_line": 627,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "もちろん ルゼンハイド城の<br>マスターダイニングホールですよ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:628:c5875e34",
+      "source_hash": "c5875e34",
+      "sequence": 225,
+      "source_line": 628,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "よろしければ今夜の追加人数にいれましょうか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:631:dd38b9a",
+      "source_hash": "dd38b9a",
+      "sequence": 226,
+      "source_line": 631,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いや だから 行くなんて言ってないでしょう！？<br>め めっ！ だよ君！ 早とちりしたら！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:633:ddd282f",
+      "source_hash": "ddd282f",
+      "sequence": 227,
+      "source_line": 633,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こういうところにいきなり訪問して絵を見てもらうなんて非常識 僕は持ち合わせておりませんよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:636:652626ce",
+      "source_hash": "652626ce",
+      "sequence": 228,
+      "source_line": 636,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "お前さぁ〜…こんなチャンス滅多にねえもんなんだろ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:637:b9b9faae",
+      "source_hash": "b9b9faae",
+      "sequence": 229,
+      "source_line": 637,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "飛びつくだろう 普通<br>なに常識とかちっせえこと言って萎縮してんだよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:639:86ec3cfe",
+      "source_hash": "86ec3cfe",
+      "sequence": 230,
+      "source_line": 639,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:656:ddb6d48c",
+      "source_hash": "ddb6d48c",
+      "sequence": 231,
+      "source_line": 656,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "父ちゃんはああいうガッツがあるのは嫌いじゃないぜ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:678:48bdc308",
+      "source_hash": "48bdc308",
+      "sequence": 232,
+      "source_line": 678,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ごくり…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:681:54a9665e",
+      "source_hash": "54a9665e",
+      "sequence": 233,
+      "source_line": 681,
+      "speaker_id": "qua",
+      "speaker_name": "쿠알라",
+      "voice_id": "",
+      "ja": "あの 本当にいいんですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:682:a7e33baa",
+      "source_hash": "a7e33baa",
+      "sequence": 234,
+      "source_line": 682,
+      "speaker_id": "qua",
+      "speaker_name": "쿠알라",
+      "voice_id": "",
+      "ja": "クラウさん すごく忙しい方で 国を出てることも多いので<br>こんなチャンスもう二度と来ないかもしれませんよ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:685:b5c8d460",
+      "source_hash": "b5c8d460",
+      "sequence": 235,
+      "source_line": 685,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "本人がいやだって言ってるなら別にいいんじゃね…<br>そこまでやる気ねーんだろ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:686:196d128a",
+      "source_hash": "196d128a",
+      "sequence": 236,
+      "source_line": 686,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "どうせ絵だって<br>果樹園のおぼっちゃんの気まぐれってやつだろ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:689:6682e80",
+      "source_hash": "6682e80",
+      "sequence": 237,
+      "source_line": 689,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "べ 別にクラウさんに会わなくても絵は描けると思うけど…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:692:d6532ef",
+      "source_hash": "d6532ef",
+      "sequence": 238,
+      "source_line": 692,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:693:645278f8",
+      "source_hash": "645278f8",
+      "sequence": 239,
+      "source_line": 693,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ち 違う…僕は…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:697:8ddd4502",
+      "source_hash": "8ddd4502",
+      "sequence": 240,
+      "source_line": 697,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "これを仕事にしたいと思ったんだ…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:698:266e3704",
+      "source_hash": "266e3704",
+      "sequence": 241,
+      "source_line": 698,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "しゅ 趣味で終わらせるつもりは…<br>まだない…！！！！！！！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:700:baaf1b7",
+      "source_hash": "baaf1b7",
+      "sequence": 242,
+      "source_line": 700,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あの…じゃあ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:703:bdd97fc8",
+      "source_hash": "bdd97fc8",
+      "sequence": 243,
+      "source_line": 703,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "お願い…し します！ すすすす…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:705:4d3b8f61",
+      "source_hash": "4d3b8f61",
+      "sequence": 244,
+      "source_line": 705,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:706:a8119b1d",
+      "source_hash": "a8119b1d",
+      "sequence": 245,
+      "source_line": 706,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:707:9244e671",
+      "source_hash": "9244e671",
+      "sequence": 246,
+      "source_line": 707,
+      "speaker_id": "qua",
+      "speaker_name": "쿠알라",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:709:30fbacfe",
+      "source_hash": "30fbacfe",
+      "sequence": 247,
+      "source_line": 709,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:713:c54a9f7",
+      "source_hash": "c54a9f7",
+      "sequence": 248,
+      "source_line": 713,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "わかりました<br>すぐに連絡をいれておきますね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:717:5bf6feca",
+      "source_hash": "5bf6feca",
+      "sequence": 249,
+      "source_line": 717,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "誘っておいてこんなこと言うのはアレですが<br>ちゃんと来てくださいね？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:718:85d9ff6b",
+      "source_hash": "85d9ff6b",
+      "sequence": 250,
+      "source_line": 718,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "話は通しておくので<br>ドタキャンとか絶対になしでお願いしますよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:721:5678a67d",
+      "source_hash": "5678a67d",
+      "sequence": 251,
+      "source_line": 721,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "わ わかってるよ…！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:724:cee94265",
+      "source_hash": "cee94265",
+      "sequence": 252,
+      "source_line": 724,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "それでは 今夜 ルゼンハイド城でお会いしましょう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:726:7e40df39",
+      "source_hash": "7e40df39",
+      "sequence": 253,
+      "source_line": 726,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "じゃ みんな 撤収〜",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:728:3026a2c",
+      "source_hash": "3026a2c",
+      "sequence": 254,
+      "source_line": 728,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "おおお〜",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:733:31567124",
+      "source_hash": "31567124",
+      "sequence": 255,
+      "source_line": 733,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ ちょ ちょっと待って…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:735:54462ada",
+      "source_hash": "54462ada",
+      "sequence": 256,
+      "source_line": 735,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "はい？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:736:6312082",
+      "source_hash": "6312082",
+      "sequence": 257,
+      "source_line": 736,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え えっと…ワイトン君だっけ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:738:c39887b",
+      "source_hash": "c39887b",
+      "sequence": 258,
+      "source_line": 738,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "はい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:739:b49505c4",
+      "source_hash": "b49505c4",
+      "sequence": 259,
+      "source_line": 739,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "その…あ ありがとう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:741:e305a60",
+      "source_hash": "e305a60",
+      "sequence": 260,
+      "source_line": 741,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:744:b7fb635",
+      "source_hash": "b7fb635",
+      "sequence": 261,
+      "source_line": 744,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "お礼ならクアラに――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:745:e0746a95",
+      "source_hash": "e0746a95",
+      "sequence": 262,
+      "source_line": 745,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "彼女のアイデアだったんですからね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:748:df2bc0ae",
+      "source_hash": "df2bc0ae",
+      "sequence": 263,
+      "source_line": 748,
+      "speaker_id": "qua",
+      "speaker_name": "쿠알라",
+      "voice_id": "",
+      "ja": "え いいよいいよ 別にお礼なんて<br>ただの思いつきだし",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:749:5d46d3fe",
+      "source_hash": "5d46d3fe",
+      "sequence": 264,
+      "source_line": 749,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "おおい 置いてくぞーお前ら！<br>さっさと行こうぜ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:751:eac5b6ea",
+      "source_hash": "eac5b6ea",
+      "sequence": 265,
+      "source_line": 751,
+      "speaker_id": "qua",
+      "speaker_name": "쿠알라",
+      "voice_id": "",
+      "ja": "あ お お兄ちゃん…<br>ま まってよ もう！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:757:a6c1c448",
+      "source_hash": "a6c1c448",
+      "sequence": 266,
+      "source_line": 757,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:774:e3edb6f2",
+      "source_hash": "e3edb6f2",
+      "sequence": 267,
+      "source_line": 774,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "――クラウ＝ルゼンハイド＝ランヴァイズ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:775:8fcd9d9",
+      "source_hash": "8fcd9d9",
+      "sequence": 268,
+      "source_line": 775,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "王族の名をミドルネームに持つ者",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:776:76f322f8",
+      "source_hash": "76f322f8",
+      "sequence": 269,
+      "source_line": 776,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それはなんらかの分野で顕著な功績を残した人物に<br>贈られる一般市民として得られる最高の名誉である",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:777:7f65b20f",
+      "source_hash": "7f65b20f",
+      "sequence": 270,
+      "source_line": 777,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "かつて、その名前が与えられた者は<br>本家セレンハイドの貴族より発言権を持っていた時代があったほどだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:778:8c3cbe86",
+      "source_hash": "8c3cbe86",
+      "sequence": 271,
+      "source_line": 778,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "金銭や所持物を集めるという資本主義社会を<br>過去のものとしたアライアンスでは<br>名誉こそが真の価値を持つ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:792:270a033d",
+      "source_hash": "270a033d",
+      "sequence": 272,
+      "source_line": 792,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:794:6b9fa97c",
+      "source_hash": "6b9fa97c",
+      "sequence": 273,
+      "source_line": 794,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんな人と会うんだよな……いまから",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:796:42290ddd",
+      "source_hash": "42290ddd",
+      "sequence": 274,
+      "source_line": 796,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ある意味 セルフィーネ様やヴァラ国王と会うのと<br>同等のプレッシャーであるわけだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:797:52309a71",
+      "source_hash": "52309a71",
+      "sequence": 275,
+      "source_line": 797,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "し しかし なんて言えばいいんだろう…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:798:b75de7ea",
+      "source_hash": "b75de7ea",
+      "sequence": 276,
+      "source_line": 798,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "さっきから脳内で挨拶の仕方を<br>いくつかシミュレーションしてるけど<br>いまいちピンとくるものがない",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:800:4cbb6068",
+      "source_hash": "4cbb6068",
+      "sequence": 277,
+      "source_line": 800,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕の絵を見ていただけますか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:801:ccc72609",
+      "source_hash": "ccc72609",
+      "sequence": 278,
+      "source_line": 801,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "これが多分一番無難だろうな…<br>しかし 見てもらってなにを求めてるんだ 僕は？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:802:580132b2",
+      "source_hash": "580132b2",
+      "sequence": 279,
+      "source_line": 802,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "将来性ありますか？ とか…<br>いや…ストレートすぎるか…否定されたら<br>ショックで死んでしまうかもしれない…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:804:a7c720e4",
+      "source_hash": "a7c720e4",
+      "sequence": 280,
+      "source_line": 804,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "というか ワイトンはどういう風に<br>話をつけてくれたんだろう？<br>挨拶なんてそれによらないか？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:805:68f48f53",
+      "source_hash": "68f48f53",
+      "sequence": 281,
+      "source_line": 805,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なにも話を通してくれてない状態で挨拶するパターンと<br>紹介してくれるパターンで二通り用意しておく…か？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:806:b678b05a",
+      "source_hash": "b678b05a",
+      "sequence": 282,
+      "source_line": 806,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "でも こんな直前に挨拶を考えて<br>うまくいった試しなんてないような…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:810:7dd4c31",
+      "source_hash": "7dd4c31",
+      "sequence": 283,
+      "source_line": 810,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "あ あの…カージさん…<br>メチャクチャ聴こえてますよ…独り言",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:813:1e717b60",
+      "source_hash": "1e717b60",
+      "sequence": 284,
+      "source_line": 813,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "うあおうぅ！？<br>わ ワイトン！ と 突然忍び寄るなよ！<br>びっくりするだろ！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:815:ae0c47d2",
+      "source_hash": "ae0c47d2",
+      "sequence": 285,
+      "source_line": 815,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "別に普通に近づいただけですけど…<br>あの 昼の時から思ってましたけど<br>なんでそんなにビクビクしてるんですか…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:817:502dda",
+      "source_hash": "502dda",
+      "sequence": 286,
+      "source_line": 817,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "なんかやましいことを考えてるようにしか<br>見えないのですが",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:819:7fa8471",
+      "source_hash": "7fa8471",
+      "sequence": 287,
+      "source_line": 819,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "き 緊張してるんだよ！<br>悪いか！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:820:f9b6ff13",
+      "source_hash": "f9b6ff13",
+      "sequence": 288,
+      "source_line": 820,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こ これから<br>クラウ＝ルゼンハイド＝ランヴァイズに会うんだぞ！？<br>る ルゼンハイドの名を持つ人だぞ！？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:823:c79153d8",
+      "source_hash": "c79153d8",
+      "sequence": 289,
+      "source_line": 823,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "平常心でいられるほうがおかしいんだよ！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:825:6364a37e",
+      "source_hash": "6364a37e",
+      "sequence": 290,
+      "source_line": 825,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "そうですけど…<br>名誉貴族の方なんですから元は一般人なんですよ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:826:145f834",
+      "source_hash": "145f834",
+      "sequence": 291,
+      "source_line": 826,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "アポ無しでヴァラ様の会食をお邪魔するってなら<br>まだわかりますけど ただの飲み会のようなものに<br>ビクつくことなんてないと思うんですが",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:829:1da3e6d3",
+      "source_hash": "1da3e6d3",
+      "sequence": 292,
+      "source_line": 829,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "お お前もラインヴァスタと同じで<br>名誉や尊厳といったものに鈍感なんだな…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:830:1f33060b",
+      "source_hash": "1f33060b",
+      "sequence": 293,
+      "source_line": 830,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いくら俗っぽい世の中になってきてるとはいえ<br>ルゼンハイドの市民としてどうかと思うぞ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:833:a12e7a27",
+      "source_hash": "a12e7a27",
+      "sequence": 294,
+      "source_line": 833,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "あの…言葉を返すようで申し訳ないのですが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:835:ff8ee980",
+      "source_hash": "ff8ee980",
+      "sequence": 295,
+      "source_line": 835,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "階級制度にこだわるなら王族直属のガーディアンの<br>ラインヴァスタを呼び捨てにするほうが圧倒的に<br>タチが悪いと思うんですがね…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:838:74a38416",
+      "source_hash": "74a38416",
+      "sequence": 296,
+      "source_line": 838,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あいつはいいんだよ！ 着任してないんだから！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:839:a9ab304f",
+      "source_hash": "a9ab304f",
+      "sequence": 297,
+      "source_line": 839,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ってか そもそも降りるとか言って揉めてるから<br>大変なことになってるんだろう いま！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:841:31f405b0",
+      "source_hash": "31f405b0",
+      "sequence": 298,
+      "source_line": 841,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "しかし 着任するしないは形式的なものであって<br>伝統的に見れば高貴な血筋であることは<br>変わらないでしょう？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:843:e5bbebef",
+      "source_hash": "e5bbebef",
+      "sequence": 299,
+      "source_line": 843,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "カージさんの中では どのラインから<br>尊厳が生まれるんですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

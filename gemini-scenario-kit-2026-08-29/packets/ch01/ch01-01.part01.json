@@ -1,0 +1,1367 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-01.part01",
+  "script": "ch01-01",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": [
+      {
+        "uid": "ch01-01:206:5ba65b38",
+        "speaker_id": "oug",
+        "speaker_name": "오그즈",
+        "ja": "というか…お前って 絵描くのそんなに好きだったっか？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-01:207:cac305ba",
+        "speaker_id": "oug",
+        "speaker_name": "오그즈",
+        "ja": "気を悪くしないでほしいんだが 傍からだと<br>『好きだから取り組んでる』ようには<br>あまり見えないんだよな",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-01:223:ac3a8677",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "父は…僕がこの２年間絵を描いていたことを<br>意外そうに言っていた",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-01:224:7038a3b6",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "一緒に住んでるのに 全然僕のことなんて<br>気にかけていなかったのだろうか？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-01:225:b3d6734f",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "…………",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch01-01:12:7de064fb",
+      "source_hash": "7de064fb",
+      "sequence": 0,
+      "source_line": 12,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ここの意志は…文脈からして『野菜』だろうな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:13:f709f840",
+      "source_hash": "f709f840",
+      "sequence": 1,
+      "source_line": 13,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "頭から読むと…<br>『うちの旦那ったら相変わらず野菜を残すのよ』",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:14:6d4b8e33",
+      "source_hash": "6d4b8e33",
+      "sequence": 2,
+      "source_line": 14,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "『無駄を出しすぎたら国から怒られちゃうっていうのに…<br>いつまでも子供みたいで困っちゃうわ』だな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:20:624f242b",
+      "source_hash": "624f242b",
+      "sequence": 3,
+      "source_line": 20,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "よし答え合わせ…答え合わせっと…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:21:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 4,
+      "source_line": 21,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:22:f6fb5bb7",
+      "source_hash": "f6fb5bb7",
+      "sequence": 5,
+      "source_line": 22,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "お だいたい合ってた！<br>グフフ…僕の感性もやっぱり捨てたもんじゃないなぁ<br>このまま翻訳者になれちゃったりして",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:24:650fc4df",
+      "source_hash": "650fc4df",
+      "sequence": 6,
+      "source_line": 24,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "最近たくさん練習しているせいか<br>ペンクラフトの解読精度がどんどん上達していくのを<br>肌で感じる",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:26:2ad29e91",
+      "source_hash": "2ad29e91",
+      "sequence": 7,
+      "source_line": 26,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "『ペンクラフト』とは 意志や想いをマナに載せて<br>筆記時の文字に埋め込む技術のことだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:27:b264d5c1",
+      "source_hash": "b264d5c1",
+      "sequence": 8,
+      "source_line": 27,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ペンクラフトで書かれた本の見た目は<br>普通に文字が書かれた本と何も変わらないけど<br>そこには書き手の『意志』が宿っている",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:28:f26d0ef6",
+      "source_hash": "f26d0ef6",
+      "sequence": 9,
+      "source_line": 28,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "読み手は この意志を『リーディングストーン』と呼ばれる<br>特殊なルーペを通すことで 解読することができる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:29:61623a0e",
+      "source_hash": "61623a0e",
+      "sequence": 10,
+      "source_line": 29,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なぜこのような二重の筆記スタイルが存在するのか――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:30:ee373fb3",
+      "source_hash": "ee373fb3",
+      "sequence": 11,
+      "source_line": 30,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それは書いた者の真の意図が<br>時の流れと共に風化してしまうことを防ぐためだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:31:d1c331f",
+      "source_hash": "d1c331f",
+      "sequence": 12,
+      "source_line": 31,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "インクではその時代の言語の『今』を形にし――<br>マナでは書き手の『想い』を綴る",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:32:67b73e91",
+      "source_hash": "67b73e91",
+      "sequence": 13,
+      "source_line": 32,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "こうすることにより 自分の残したかった『意志』を<br>よりはっきりと世に書き記すことができるのだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:33:5db09c98",
+      "source_hash": "5db09c98",
+      "sequence": 14,
+      "source_line": 33,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "もちろん ペンクラフトは完璧な技術ではない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:34:c45615ec",
+      "source_hash": "c45615ec",
+      "sequence": 15,
+      "source_line": 34,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "意志の伝達は 書き手と読み手の語彙力や<br>解読の精度により ばらつきが生じる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:35:7a06eedc",
+      "source_hash": "7a06eedc",
+      "sequence": 16,
+      "source_line": 35,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "同じ文章を読んで感じることは十人十色…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:36:57fbb679",
+      "source_hash": "57fbb679",
+      "sequence": 17,
+      "source_line": 36,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それはペンクラフトの解読も一緒で<br>似たような意志を読み取れても<br>同じ言葉が浮かび上がるとは限らない",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:37:362a0c",
+      "source_hash": "362a0c",
+      "sequence": 18,
+      "source_line": 37,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それじゃあ意味がないという人もいるが<br>僕はその不完全さにこそ ある種のロマンを感じるんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:38:6b2f1876",
+      "source_hash": "6b2f1876",
+      "sequence": 19,
+      "source_line": 38,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "どれだけ技術が進歩しようと 今も昔も人は常に繋がりと<br>理解を求めあっていると思うと 厳粛な気持ちになる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:39:93ce1235",
+      "source_hash": "93ce1235",
+      "sequence": 20,
+      "source_line": 39,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "文字に描かれている相手の意思が<br>僕の中の『語彙』と共鳴し 一致した『意思の言葉』が<br>浮上する時の快感ときたら…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:40:234f3752",
+      "source_hash": "234f3752",
+      "sequence": 21,
+      "source_line": 40,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それはもう他にはない得難いものがある",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:41:d5a1aceb",
+      "source_hash": "d5a1aceb",
+      "sequence": 22,
+      "source_line": 41,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "『奥さんは旦那さんの野菜嫌いに困っている』…と",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:43:9fa21096",
+      "source_hash": "9fa21096",
+      "sequence": 23,
+      "source_line": 43,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "すらすらと言葉が出てくると なんとも気持ちがいい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:44:9303717",
+      "source_hash": "9303717",
+      "sequence": 24,
+      "source_line": 44,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "気分はちょっとした<tip=\"manakravte\">マナクラフター</tip>だ",
+      "required_tokens": [
+        "<tip=\"manakravte\">",
+        "</tip>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:45:4c79d3a9",
+      "source_hash": "4c79d3a9",
+      "sequence": 25,
+      "source_line": 45,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "でも そうか…そうだよな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:46:9611f738",
+      "source_hash": "9611f738",
+      "sequence": 26,
+      "source_line": 46,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "２代目のリガン様から３代目へと政権交代が始まる時期…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:47:5bd1fdc2",
+      "source_hash": "5bd1fdc2",
+      "sequence": 27,
+      "source_line": 47,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "この時期はまだ配給制度が厳しくて<br>国民の私生活にまでいちいち国が<br>口を出していたんだったな…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:48:2eda367a",
+      "source_hash": "2eda367a",
+      "sequence": 28,
+      "source_line": 48,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:49:20befed7",
+      "source_hash": "20befed7",
+      "sequence": 29,
+      "source_line": 49,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "素敵だ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:50:6ae43b42",
+      "source_hash": "6ae43b42",
+      "sequence": 30,
+      "source_line": 50,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕もリガン様に踏まれたい…人生だった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:66:2e0a388a",
+      "source_hash": "2e0a388a",
+      "sequence": 31,
+      "source_line": 66,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "おーい カージ…入るぞ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:74:576379",
+      "source_hash": "576379",
+      "sequence": 32,
+      "source_line": 74,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ファ！？ あ…ああ 父さん…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:75:86cbb79f",
+      "source_hash": "86cbb79f",
+      "sequence": 33,
+      "source_line": 75,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "カージ 突然悪いんだが…<br>お前 画家目指してるって本当か？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:78:a9c5b85a",
+      "source_hash": "a9c5b85a",
+      "sequence": 34,
+      "source_line": 78,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ブゥー！！ ど どこでそんな噂を…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:80:ea1a9308",
+      "source_hash": "ea1a9308",
+      "sequence": 35,
+      "source_line": 80,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "噂もなにも 本職登録の時期だってのに家継ぐ話もなくて<br>何度もセレンハイド邸に足を運んでりゃ 答えは１つだろう",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:82:cf4c079c",
+      "source_hash": "cf4c079c",
+      "sequence": 36,
+      "source_line": 82,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "セレンハイドに連絡して確認を取ったんだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:84:c0b39b49",
+      "source_hash": "c0b39b49",
+      "sequence": 37,
+      "source_line": 84,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "フローラ様！！<br>あれだけ他人には言わないって念を押してくれたのに！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:87:e8498215",
+      "source_hash": "e8498215",
+      "sequence": 38,
+      "source_line": 87,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "お前なあ…親の俺は他人じゃないだろう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:90:e880299d",
+      "source_hash": "e880299d",
+      "sequence": 39,
+      "source_line": 90,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ それでも…<br>と 父さんには関係ないじゃんか！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:93:499c7a9f",
+      "source_hash": "499c7a9f",
+      "sequence": 40,
+      "source_line": 93,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ばか…なにガキみたいなこと言ってるんだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:96:34a000ac",
+      "source_hash": "34a000ac",
+      "sequence": 41,
+      "source_line": 96,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "お前はまだ未成年だろう？<br>それに家業継がないなら 俺だって人ごとじゃなくなるんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:97:bc9e0f7d",
+      "source_hash": "bc9e0f7d",
+      "sequence": 42,
+      "source_line": 97,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "あんまり自分勝手なことばっかり言うもんじゃないぞ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:98:96e01250",
+      "source_hash": "96e01250",
+      "sequence": 43,
+      "source_line": 98,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "自分の世界にばっかりこもってないで<br>そろそろもう少し周りを見れるようになれ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:102:c896b4c4",
+      "source_hash": "c896b4c4",
+      "sequence": 44,
+      "source_line": 102,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あ あ…あ…ご ごめん…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:103:97f8bdad",
+      "source_hash": "97f8bdad",
+      "sequence": 45,
+      "source_line": 103,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ちょ ちょっといきなりでびっくりしてて…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:105:85cb3a0a",
+      "source_hash": "85cb3a0a",
+      "sequence": 46,
+      "source_line": 105,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ん？ お前…これは何してるんだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:108:58358a66",
+      "source_hash": "58358a66",
+      "sequence": 47,
+      "source_line": 108,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ ああ…いつもの古書の解読だよ<br>この時間が至福の時なんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:110:2e9eb90",
+      "source_hash": "2e9eb90",
+      "sequence": 48,
+      "source_line": 110,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "いつものって…<br>すでに意訳されたものを自分で解読し直して<br>答え合わせするパズルみたいなやつだろ？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:113:81ebbc3f",
+      "source_hash": "81ebbc3f",
+      "sequence": 49,
+      "source_line": 113,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "なに遊んでるんだよお前…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:114:535d4ae",
+      "source_hash": "535d4ae",
+      "sequence": 50,
+      "source_line": 114,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "就望 ３回も断られてるから<br>もっと切羽詰まってると思ったのに<br>随分と余裕じゃないか",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:116:b217e375",
+      "source_hash": "b217e375",
+      "sequence": 51,
+      "source_line": 116,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ 遊びとは失礼な…<br>古文から書き手の意図を読み取って<br>文字起こしするのってかなり大変なんだよ？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:118:deabef6a",
+      "source_hash": "deabef6a",
+      "sequence": 52,
+      "source_line": 118,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "この『ウォール街に住む若奥様達の日記シリーズ』も<br>第３巻になってやっとすらすら読めるように<br>なってきたんだから",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:120:c3c3f352",
+      "source_hash": "c3c3f352",
+      "sequence": 53,
+      "source_line": 120,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "それは結構なこったが お前画家になりたいんだろう？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:121:de96294b",
+      "source_hash": "de96294b",
+      "sequence": 54,
+      "source_line": 121,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "セレンハイドの斡旋も失敗してるってことは<br>お前の技術が足りないってことだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:122:1253d19",
+      "source_hash": "1253d19",
+      "sequence": 55,
+      "source_line": 122,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "なんでもっと絵の練習してないんだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:124:853ac290",
+      "source_hash": "853ac290",
+      "sequence": 56,
+      "source_line": 124,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ああ だって今日はもう2時間きっかり練習したから<br>それに今は古書の時間って決めてるんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:125:719e14db",
+      "source_hash": "719e14db",
+      "sequence": 57,
+      "source_line": 125,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "メリハリはきっちりとつけようと思ってね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:127:277e73d",
+      "source_hash": "277e73d",
+      "sequence": 58,
+      "source_line": 127,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "そ そうなのか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:128:b4be89e8",
+      "source_hash": "b4be89e8",
+      "sequence": 59,
+      "source_line": 128,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "不思議な練習の仕方してるなお前…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:130:7eec7440",
+      "source_hash": "7eec7440",
+      "sequence": 60,
+      "source_line": 130,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そう…かな？<br>理にかなってると思うんだけど",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:132:a340d35a",
+      "source_hash": "a340d35a",
+      "sequence": 61,
+      "source_line": 132,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "いやだってよ…よくわかんねえけど<br>絵や芸術って…そんな決めた時間だけ練習して上手くなるものなのか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:134:e05891cc",
+      "source_hash": "e05891cc",
+      "sequence": 62,
+      "source_line": 134,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ それはわからないけど<br>とりあえずとっかかりが欲しかったから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:135:8e426de7",
+      "source_hash": "8e426de7",
+      "sequence": 63,
+      "source_line": 135,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "アディアさんに聞いたら最低でも<br>１日１時間はスケッチしたほうがいいって言われたから<br>その２倍くらいしてたら安心かなって",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:137:e474698b",
+      "source_hash": "e474698b",
+      "sequence": 64,
+      "source_line": 137,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "そ そうか…そんなもんなのかね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:139:baf089ff",
+      "source_hash": "baf089ff",
+      "sequence": 65,
+      "source_line": 139,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:140:b9ea0e7d",
+      "source_hash": "b9ea0e7d",
+      "sequence": 66,
+      "source_line": 140,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…ど どうしたの？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:142:464c2f73",
+      "source_hash": "464c2f73",
+      "sequence": 67,
+      "source_line": 142,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "…いやー…しかし…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:144:5d581f58",
+      "source_hash": "5d581f58",
+      "sequence": 68,
+      "source_line": 144,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "悲しいね<br>オバーグ果樹園も身内の時代は俺でお終いかよ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:145:ffd95b42",
+      "source_hash": "ffd95b42",
+      "sequence": 69,
+      "source_line": 145,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "たかが俺たちみたいな一般人じゃ<br><tip=\"pathdown\">パスダウン</tip>のようにゃ続かないってか",
+      "required_tokens": [
+        "<br>",
+        "<tip=\"pathdown\">",
+        "</tip>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:147:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 70,
+      "source_line": 147,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:149:a5582eda",
+      "source_hash": "a5582eda",
+      "sequence": 71,
+      "source_line": 149,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は 反対するんじゃないの？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:151:7882127d",
+      "source_hash": "7882127d",
+      "sequence": 72,
+      "source_line": 151,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "そら 反対したくねえって言ったら嘘になるさ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:153:7a630e95",
+      "source_hash": "7a630e95",
+      "sequence": 73,
+      "source_line": 153,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "だがお前のやりたいことを<br>頭ごなしに無碍にするつもりもない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:156:31e94e75",
+      "source_hash": "31e94e75",
+      "sequence": 74,
+      "source_line": 156,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうなんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:157:ae89d1b1",
+      "source_hash": "ae89d1b1",
+      "sequence": 75,
+      "source_line": 157,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なんか意外なんだけど<br>もっとどやされるかと思ったから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:159:4e1970bb",
+      "source_hash": "4e1970bb",
+      "sequence": 76,
+      "source_line": 159,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:161:72ed5fe9",
+      "source_hash": "72ed5fe9",
+      "sequence": 77,
+      "source_line": 161,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "まあ あれだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:163:fc1412c0",
+      "source_hash": "fc1412c0",
+      "sequence": 78,
+      "source_line": 163,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "約束したんだよ…母さんとな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:165:7a19fd59",
+      "source_hash": "7a19fd59",
+      "sequence": 79,
+      "source_line": 165,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "お前にはやりたいことをさせてやるって",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:167:46d36042",
+      "source_hash": "46d36042",
+      "sequence": 80,
+      "source_line": 167,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:169:ef5e201a",
+      "source_hash": "ef5e201a",
+      "sequence": 81,
+      "source_line": 169,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そう…だったんだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:171:64443444",
+      "source_hash": "64443444",
+      "sequence": 82,
+      "source_line": 171,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "それにしても何で画家なんだよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:172:b5649100",
+      "source_hash": "b5649100",
+      "sequence": 83,
+      "source_line": 172,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "しかも女性専用の肖像画家なんて…<br>下心丸出しだろう",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:174:cd35391",
+      "source_hash": "cd35391",
+      "sequence": 84,
+      "source_line": 174,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "いくら好きにしていいって言っても<br>素直に応援し辛いものがあるな こりゃ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:176:9477e287",
+      "source_hash": "9477e287",
+      "sequence": 85,
+      "source_line": 176,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な な な なんでそこまで！<br>知ってるのさ！？ 父さんが？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:178:445b2767",
+      "source_hash": "445b2767",
+      "sequence": 86,
+      "source_line": 178,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "だから全部聞いたんだって<br>フローラ様から直接",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:181:b95865ca",
+      "source_hash": "b95865ca",
+      "sequence": 87,
+      "source_line": 181,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そこまで話す必要があったのですかフローラ様！？<br>守秘義務とはいったい！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:184:31f88479",
+      "source_hash": "31f88479",
+      "sequence": 88,
+      "source_line": 184,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…じょ 女性専用というか<br>特に女性を描くのが好きだってだけで<br>別に男を描きたくないわけじゃなくて…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:186:b3433030",
+      "source_hash": "b3433030",
+      "sequence": 89,
+      "source_line": 186,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ここしばらく絵を描くようになったなーと思ったら<br>そういうことだったんだな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:188:d3bc5ff8",
+      "source_hash": "d3bc5ff8",
+      "sequence": 90,
+      "source_line": 188,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "まあ とりあえずよ…職の内容は置いておくとして<br>もうちょっとよく考えてみないか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:190:22d6b864",
+      "source_hash": "22d6b864",
+      "sequence": 91,
+      "source_line": 190,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…え で…でも…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:192:7e6a15f1",
+      "source_hash": "7e6a15f1",
+      "sequence": 92,
+      "source_line": 192,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "お前のやりたいことを応援してやりたい気持ちは山々だ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:193:b05b09c",
+      "source_hash": "b05b09c",
+      "sequence": 93,
+      "source_line": 193,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "母さんとの約束も破りたくないしな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:195:d858af9a",
+      "source_hash": "d858af9a",
+      "sequence": 94,
+      "source_line": 195,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "しかし 結果は散々じゃないか…<br>期待率6.9％って 聞いたことないぞ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:197:db6d7266",
+      "source_hash": "db6d7266",
+      "sequence": 95,
+      "source_line": 197,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ それは！<br>果樹園の方の状況が考慮されてしまったから…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:200:2dbecf5",
+      "source_hash": "2dbecf5",
+      "sequence": 96,
+      "source_line": 200,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "父ちゃん 芸術のことはからっきしだから<br>よくわかんねえんだけどさ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:201:db7b8258",
+      "source_hash": "db7b8258",
+      "sequence": 97,
+      "source_line": 201,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "頑張っても結果を出せない我が子を<br>見てるだけってのも歯がゆくてな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:203:60cd9b10",
+      "source_hash": "60cd9b10",
+      "sequence": 98,
+      "source_line": 203,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………そ それは………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-01:204:9ec44e31",
+      "source_hash": "9ec44e31",
+      "sequence": 99,
+      "source_line": 204,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

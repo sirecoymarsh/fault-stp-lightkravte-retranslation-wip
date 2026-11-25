@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-00.part03",
+  "script": "ch01-00",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch01-00:539:b3d6734f",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "…………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-00:541:18c87e2e",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "…もう……た…です",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-00:543:2c53b7d6",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "え？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-00:546:901b3c86",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "それも もう…一通り回ったんです！！<br>手当たり次第！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-00:549:13fe9355",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "でも 今のシーズン どこも実務経験がないと<br>受け入れてくれなくて…！",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch01-00:552:93e89bf3",
+      "source_hash": "93e89bf3",
+      "sequence": 200,
+      "source_line": 552,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "全部門前払いだったんです！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-00:555:840984d7",
+      "source_hash": "840984d7",
+      "sequence": 201,
+      "source_line": 555,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そ そう…だったの…",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

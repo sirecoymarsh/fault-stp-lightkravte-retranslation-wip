@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-03.part01",
+  "script": "ch02-03",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch02-03:23:fc43ed67",
+      "source_hash": "fc43ed67",
+      "sequence": 0,
+      "source_line": 23,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "あれれー 曜日間違えたかな…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-03:25:8bbbc141",
+      "source_hash": "8bbbc141",
+      "sequence": 1,
+      "source_line": 25,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "カージくんの絵のレッスン 今日だったはずなんだけど…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-03:26:cd47e194",
+      "source_hash": "cd47e194",
+      "sequence": 2,
+      "source_line": 26,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-03:28:a142c98b",
+      "source_hash": "a142c98b",
+      "sequence": 3,
+      "source_line": 28,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "通信ライン結んでおいたほうがいいのかな",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

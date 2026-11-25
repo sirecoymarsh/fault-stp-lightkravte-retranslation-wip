@@ -1,0 +1,38 @@
+{
+  "created_at": "2026-09-08T00:13:01.810796+00:00",
+  "translator_model": "Codex internal",
+  "current_ko_map_sha256": "59708ef6f1381b8701df7c61636346a9f6676745531c1622dec03803f85af956",
+  "current_scenario_entries": 6746,
+  "structural_validation_complete": true,
+  "structural_issues": {},
+  "warning_counts": {
+    "intentional_ruby_tag_removals": 16,
+    "source_copied": 654,
+    "reference_copied": 439,
+    "japanese_kana_remaining": 3
+  },
+  "source_review": {
+    "candidate_rows": 61,
+    "contextual_unique_uids": 422,
+    "not_full_semantic_review": true
+  },
+  "followup_read_only_verification": {
+    "backup_to_current_map_changed_uids": 5,
+    "built_script_changes_verified": 5,
+    "previous_fixes_retained": 16,
+    "cloqks_occurrences_verified": 10
+  },
+  "raster_review": {
+    "static_visual_pass": 2,
+    "fail": 7,
+    "needs_review": 2,
+    "all_credits_blocked": 9
+  },
+  "video_review": {
+    "reference_groups": 9,
+    "full_video_generated": false
+  },
+  "game_installed": false,
+  "git_published": false,
+  "user_review_pending": true
+}

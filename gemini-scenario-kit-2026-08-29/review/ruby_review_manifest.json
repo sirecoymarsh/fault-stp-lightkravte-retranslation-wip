@@ -1,0 +1,658 @@
+{
+  "schema_version": 1,
+  "stage": "post_gemini_codex_review",
+  "policy": "Gemini preserves ruby exactly. Codex reviews semantic loss per UID before strip/keep/manual finalization.",
+  "default_decision": "pending",
+  "row_count": 43,
+  "ruby_open_tag_count": 46,
+  "entries": [
+    {
+      "uid": "ch01-00:59:207f192",
+      "script": "ch01-00",
+      "source_hash": "207f192",
+      "ja": "女性と歴史が死ぬほど大好きな<br>どこにでもいる果樹園の４代目の<ruby=\"せがれ\">倅</ruby>だ",
+      "ruby_open_tags": [
+        "<ruby=\"せがれ\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-00:199:60ee8e3a",
+      "script": "ch01-00",
+      "source_hash": "60ee8e3a",
+      "ja": "カージ＝オバーグ様…<ruby=\"しゅうぼうせい\">就望生</ruby>の方ですか？",
+      "ruby_open_tags": [
+        "<ruby=\"しゅうぼうせい\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-01:283:1564853",
+      "script": "ch01-01",
+      "source_hash": "1564853",
+      "ja": "ただ なんの縁か知らないけど<br>僕がよく行く<ruby=\"止り木\">たまり場</ruby>に顔を出すようになった",
+      "ruby_open_tags": [
+        "<ruby=\"止り木\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-01:322:f548412d",
+      "script": "ch01-01",
+      "source_hash": "f548412d",
+      "ja": "<ruby=\"・\">あ</ruby><ruby=\"・\">の</ruby>絵に…",
+      "ruby_open_tags": [
+        "<ruby=\"・\">",
+        "<ruby=\"・\">"
+      ],
+      "ruby_open_count": 2,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-01:344:7695bc83",
+      "script": "ch01-01",
+      "source_hash": "7695bc83",
+      "ja": "<ruby=\"あんたん\">暗澹</ruby>とした悩みの渦から<br>確かに浮かび始めている感覚がある",
+      "ruby_open_tags": [
+        "<ruby=\"あんたん\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-03:306:a55cffa4",
+      "script": "ch01-03",
+      "source_hash": "a55cffa4",
+      "ja": "そう思う自分と 『<ruby=\"・\">そ</ruby><ruby=\"・\">れ</ruby>』に惹かれる自分と<br>まるで魔法にでもかかったように 意識が二つに分裂する",
+      "ruby_open_tags": [
+        "<ruby=\"・\">",
+        "<ruby=\"・\">"
+      ],
+      "ruby_open_count": 2,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-03:323:e0d13cda",
+      "script": "ch01-03",
+      "source_hash": "e0d13cda",
+      "ja": "僕はホールの奥から漂う<br><ruby=\"・\">そ</ruby><ruby=\"・\">の</ruby>魔力に逆らうことができなかった",
+      "ruby_open_tags": [
+        "<ruby=\"・\">",
+        "<ruby=\"・\">"
+      ],
+      "ruby_open_count": 2,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-03:341:fdf9c6d1",
+      "script": "ch01-03",
+      "source_hash": "fdf9c6d1",
+      "ja": "この絵には<ruby=\"魂\"><tip=\"purified_mana\">ヴィビリア</tip></ruby>が宿っている",
+      "ruby_open_tags": [
+        "<ruby=\"魂\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-03:348:884b8c71",
+      "script": "ch01-03",
+      "source_hash": "884b8c71",
+      "ja": "ただの<ruby=\"キャンバス\">白い布</ruby>に魂を宿らせる力は僕にはない",
+      "ruby_open_tags": [
+        "<ruby=\"キャンバス\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-03:365:6db24022",
+      "script": "ch01-03",
+      "source_hash": "6db24022",
+      "ja": "この<ruby=\"はらわた\"> 腸 </ruby>が煮え返るような悔しさから生まれる<br>エネルギーを…僕はどこに向けたらいいんだろう",
+      "ruby_open_tags": [
+        "<ruby=\"はらわた\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-04:120:4778c26",
+      "script": "ch01-04",
+      "source_hash": "4778c26",
+      "ja": "よ <ruby=\"かしま\">姦</ruby>しいな",
+      "ruby_open_tags": [
+        "<ruby=\"かしま\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-06:469:f39d31d9",
+      "script": "ch01-06",
+      "source_hash": "f39d31d9",
+      "ja": "<ruby=\"止り木の\">あそこにいる</ruby>全員を敵に回してでも<br>私はみんなの安全を死守する責任があると思うの…<br>セレンハイドとして",
+      "ruby_open_tags": [
+        "<ruby=\"止り木の\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-07:162:ed7aa334",
+      "script": "ch01-07",
+      "source_hash": "ed7aa334",
+      "ja": "こ こんなやつがあの渋い<ruby=\"おっちゃん\">オグズ</ruby>の息子なのかよ…！？",
+      "ruby_open_tags": [
+        "<ruby=\"おっちゃん\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-07:560:e41944a6",
+      "script": "ch01-07",
+      "source_hash": "e41944a6",
+      "ja": "トスカ<ruby=\"お父さん\">おじ様</ruby>に頼んで<br>一度ランヴァイズさんに会ってもらったら？",
+      "ruby_open_tags": [
+        "<ruby=\"お父さん\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-07:1307:4ee1154a",
+      "script": "ch01-07",
+      "source_hash": "4ee1154a",
+      "ja": "君の成長の余地や これらのモチベーションを潰してしまうかもしれないが…心を<ruby=\"悪魔\">セキュール</ruby>にして言わせてもらおう",
+      "ruby_open_tags": [
+        "<ruby=\"悪魔\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-09:258:7fc181a3",
+      "script": "ch01-09",
+      "source_hash": "7fc181a3",
+      "ja": "<ruby=\"光学迷彩\">クローク</ruby>練習してた時の習作だから特に使い道もない…<br>ただの飾りか玩具程度のものだ",
+      "ruby_open_tags": [
+        "<ruby=\"光学迷彩\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-11:158:87c48e23",
+      "script": "ch01-11",
+      "source_hash": "87c48e23",
+      "ja": "なんだなんだ？<br>彼女はガーディアンを降りたら<br><ruby=\"グラスクラフター\">硝子職人</ruby>にでもなるつもりか？",
+      "ruby_open_tags": [
+        "<ruby=\"グラスクラフター\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-11:206:c344ed6f",
+      "script": "ch01-11",
+      "source_hash": "c344ed6f",
+      "ja": "ヴァ ヴァストアルカブルーを再現！？<br>あの<ruby=\"トシ\">年齢</ruby>で！？",
+      "ruby_open_tags": [
+        "<ruby=\"トシ\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch01-11:484:14a34c32",
+      "script": "ch01-11",
+      "source_hash": "14a34c32",
+      "ja": "<tip=\"wall_district\">ウォール街</tip>に一度来てみればわかるが <ruby=\"黒朝病\">ブラックドーン</ruby>で<br>家族を失った子どもたちは決して少なくないんだ",
+      "ruby_open_tags": [
+        "<ruby=\"黒朝病\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-02:25:6881afa2",
+      "script": "ch02-02",
+      "source_hash": "6881afa2",
+      "ja": "<ruby=\"ソネッタ\">ヴァルツクライザ</ruby>の餓鬼に言われて<br>こんな国はずれのバーまでノコノコとやってきた と",
+      "ruby_open_tags": [
+        "<ruby=\"ソネッタ\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-02:30:1fd187a3",
+      "script": "ch02-02",
+      "source_hash": "1fd187a3",
+      "ja": "ったく <ruby=\"リトナ\">硝子</ruby>の次は 印刷かよ…最近面倒ごとが多いなぁ<br>俺ぁなんでも屋じゃねえんだぞ",
+      "ruby_open_tags": [
+        "<ruby=\"リトナ\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-02:43:52d6dc03",
+      "script": "ch02-02",
+      "source_hash": "52d6dc03",
+      "ja": "いくら寄せたところでも<ruby=\"エセ\">似非</ruby>なんだ<br>聞いてて気持ちのいいものじゃない",
+      "ruby_open_tags": [
+        "<ruby=\"エセ\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-02:88:14e0912f",
+      "script": "ch02-02",
+      "source_hash": "14e0912f",
+      "ja": "俺のバーを<ruby=\"けな\">貶</ruby>しにきたのか？",
+      "ruby_open_tags": [
+        "<ruby=\"けな\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-04:212:5ec393a7",
+      "script": "ch02-04",
+      "source_hash": "5ec393a7",
+      "ja": "で できれば必要以上に関わり合いたくないんだけどな…<br>あ <ruby=\"ラインヴァスタ\">あいつ</ruby>とは",
+      "ruby_open_tags": [
+        "<ruby=\"ラインヴァスタ\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-12:613:8517a892",
+      "script": "ch02-12",
+      "source_hash": "8517a892",
+      "ja": "『<ruby=\"かすがい\">鎹</ruby>の掟』というやつですよね？",
+      "ruby_open_tags": [
+        "<ruby=\"かすがい\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-12:633:3b4ca1b1",
+      "script": "ch02-12",
+      "source_hash": "3b4ca1b1",
+      "ja": "万が一仲違いが発生した場合<br>私たちはラインヴァスタを<ruby=\"たお\">斃</ruby>せるだけの力が<br>なければならない",
+      "ruby_open_tags": [
+        "<ruby=\"たお\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-12:880:d66c0fd9",
+      "script": "ch02-12",
+      "source_hash": "d66c0fd9",
+      "ja": "<ruby=\"そんな施錠が！？\">ふぉんなふぇびょうば！？</ruby>",
+      "ruby_open_tags": [
+        "<ruby=\"そんな施錠が！？\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-12:962:4487eef",
+      "script": "ch02-12",
+      "source_hash": "4487eef",
+      "ja": "えっとねー…確か人間の<ruby=\"ヴィビリア\">マナ</ruby>と<br>人以上に大きい動物の動きに反応するようになってるわ",
+      "ruby_open_tags": [
+        "<ruby=\"ヴィビリア\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-12:1408:c72c78f8",
+      "script": "ch02-12",
+      "source_hash": "c72c78f8",
+      "ja": "でも 人のマナにあてられると悪化する病気みたいだから<br>特殊な防壁クラフトを医者に<ruby=\"かけて\">ブレスして</ruby>もらわないと<br>近づけないの…",
+      "ruby_open_tags": [
+        "<ruby=\"かけて\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-13:59:46c2cfd",
+      "script": "ch02-13",
+      "source_hash": "46c2cfd",
+      "ja": "日記に書くのも<ruby=\"はばか\">憚</ruby>られるような 後ろめたさ",
+      "ruby_open_tags": [
+        "<ruby=\"はばか\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-18:59:753a68e",
+      "script": "ch02-18",
+      "source_hash": "753a68e",
+      "ja": "シティズン・オバーグ！<ruby=\"注目\">ヴァクト</ruby>！！！",
+      "ruby_open_tags": [
+        "<ruby=\"注目\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-18:149:3bfd6053",
+      "script": "ch02-18",
+      "source_hash": "3bfd6053",
+      "ja": "…わたしなのか<ruby=\"パスダウン\"> 国 </ruby>なのか…どっちだろうね",
+      "ruby_open_tags": [
+        "<ruby=\"パスダウン\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-20:125:86d8bba3",
+      "script": "ch02-20",
+      "source_hash": "86d8bba3",
+      "ja": "ルゼンハイド<ruby=\"いち\">一</ruby>とかになれなくても<br>多少なりに上手になれれば…それでよかったんです",
+      "ruby_open_tags": [
+        "<ruby=\"いち\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-20:188:49e3d90d",
+      "script": "ch02-20",
+      "source_hash": "49e3d90d",
+      "ja": "だからルゼンハイドの水路は飲めるほど綺麗で<br>アライアンス<ruby=\"いち\">一</ruby>美しいと言われているんですよね？",
+      "ruby_open_tags": [
+        "<ruby=\"いち\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch02-20:213:35020f6",
+      "script": "ch02-20",
+      "source_hash": "35020f6",
+      "ja": "ノルマを達成できないと<br><ruby=\"レギュラー\">ファーストフリート</ruby>には入れてもらないの",
+      "ruby_open_tags": [
+        "<ruby=\"レギュラー\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch03-00:47:33eab712",
+      "script": "ch03-00",
+      "source_hash": "33eab712",
+      "ja": "もう<ruby=\"からか\">揶揄</ruby>うつもりもねえ<br>こっからは本音だ",
+      "ruby_open_tags": [
+        "<ruby=\"からか\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch03-01:301:cc1f2573",
+      "script": "ch03-01",
+      "source_hash": "cc1f2573",
+      "ja": "まるで<ruby=\"バネ\">発条</ruby>のように",
+      "ruby_open_tags": [
+        "<ruby=\"バネ\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch03-02:91:8d23aecc",
+      "script": "ch03-02",
+      "source_hash": "8d23aecc",
+      "ja": "見た目セボスだけ大量に煮ているように見えるのですが…<br>もしかして セボスの<ruby=\"出汁\">ストック</ruby>ですか？",
+      "ruby_open_tags": [
+        "<ruby=\"出汁\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch03-03:159:ff088198",
+      "script": "ch03-03",
+      "source_hash": "ff088198",
+      "ja": "ぼ 僕は…普通のクラフトを<ruby=\"使う\">ブレスする</ruby>のも<br>敬遠してきたのに…オフィアの話なんてされても…",
+      "ruby_open_tags": [
+        "<ruby=\"使う\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch03-04:425:1030c9f4",
+      "script": "ch03-04",
+      "source_hash": "1030c9f4",
+      "ja": "捕まえたファリナーさんには<br>なんと<ruby=\"警察\">セレンハイド・ホワイトコート</ruby>の護衛がついていた",
+      "ruby_open_tags": [
+        "<ruby=\"警察\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch03-04:642:25cc68aa",
+      "script": "ch03-04",
+      "source_hash": "25cc68aa",
+      "ja": "万が一初日を生き延びても、パスダウンの圧力は人のマナを奇形のものへと変えてしまい…<br>その者は災を<ruby=\"もたら\">齎</ruby>すと言われている。",
+      "ruby_open_tags": [
+        "<ruby=\"もたら\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch03-05:41:4f9a0ef5",
+      "script": "ch03-05",
+      "source_hash": "4f9a0ef5",
+      "ja": "免許もとらずに『 <ruby=\"ヴァストアルカブルー\"><tip=\"vhastoralkat_blue\">バスブル</tip></ruby> 』を作ろうとしてる問題児が",
+      "ruby_open_tags": [
+        "<ruby=\"ヴァストアルカブルー\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    {
+      "uid": "ch03-08:101:f1405ffd",
+      "script": "ch03-08",
+      "source_hash": "f1405ffd",
+      "ja": "カージが手にするレンズの周囲が<ruby=\"くゆ\">燻</ruby>る―――！！",
+      "ruby_open_tags": [
+        "<ruby=\"くゆ\">"
+      ],
+      "ruby_open_count": 1,
+      "decision": "pending",
+      "semantic_note": null,
+      "approved_replacement_ko": null,
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  ]
+}

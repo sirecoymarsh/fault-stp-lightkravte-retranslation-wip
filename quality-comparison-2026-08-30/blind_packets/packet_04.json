@@ -1,0 +1,969 @@
+{
+  "schema_version": 1,
+  "instructions": "Judge A and B only against Japanese and raw-catalog context. Do not infer provider. Scores 0-4: fidelity, naturalness, directed_voice, no_unsupported_addition. preferred=A/B/tie.",
+  "entries": [
+    {
+      "uid": "ch02-01:279:a4c12419",
+      "script": "ch02-01",
+      "line_index": 279,
+      "source_hash": "a4c12419",
+      "speaker_id": "son",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 274,
+          "speaker_id": "kaj",
+          "ja": "な なぜだ…なんか…メチャクチャ恥ずかしいんだけど…"
+        },
+        {
+          "line_index": 277,
+          "speaker_id": "kaj",
+          "ja": "そ そんな ぼ 僕の家のことより…いいでしょうか！ 本題！"
+        }
+      ],
+      "ja": "おっとそうそう 申し訳ない<br>カージ氏が面白いこと言うから話が脱線しちまいやしたぜ",
+      "context_after": [
+        {
+          "line_index": 282,
+          "speaker_id": "kaj",
+          "ja": "そ その…<br>どうして原本の再現版がそんなに特別なんですか？？"
+        },
+        {
+          "line_index": 285,
+          "speaker_id": "kaj",
+          "ja": "『ウォール街に住む若奥様達の日記シリーズ』なんて<br>もう娯楽のようなものですし…"
+        }
+      ],
+      "candidate_A": "앗, 그렇죠. 미안함다.<br>카지 씨가 재미있는 말을 해서 이야기가 새 버렸네요",
+      "candidate_B": "앗 맞다 맞다, 죄송함다.<br>카지 씨가 재미있는 말을 하니까 이야기가 삼천포로 빠져 버렸네요."
+    },
+    {
+      "uid": "ch02-01:337:b3d6734f",
+      "script": "ch02-01",
+      "line_index": 337,
+      "source_hash": "b3d6734f",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 333,
+          "speaker_id": "son",
+          "ja": "だから 大事にしなきゃいけない…ってね"
+        },
+        {
+          "line_index": 335,
+          "speaker_id": "son",
+          "ja": "ほんと 死ぬほど面倒くさいっすからね 本書くの"
+        }
+      ],
+      "ja": "…………",
+      "context_after": [
+        {
+          "line_index": 338,
+          "speaker_id": "kaj",
+          "ja": "ソネッタさん…博識だな…"
+        },
+        {
+          "line_index": 340,
+          "speaker_id": "kaj",
+          "ja": "なんか最近<br>身近な人たちにずっと圧倒され続けてるな…僕…"
+        }
+      ],
+      "candidate_A": "…………",
+      "candidate_B": "…………"
+    },
+    {
+      "uid": "ch02-01:421:90434ee8",
+      "script": "ch02-01",
+      "line_index": 421,
+      "source_hash": "90434ee8",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "Gemini issue record"
+      ],
+      "context_before": [
+        {
+          "line_index": 418,
+          "speaker_id": "son",
+          "ja": "頭が硬いっていうか 職人気質っていうか…<br>リトナ先輩のお師匠さんなんすけどね――"
+        },
+        {
+          "line_index": 420,
+          "speaker_id": "kaj",
+          "ja": "え ラ ラインヴァスタの？？"
+        }
+      ],
+      "ja": "ラインヴァスタの師匠って…クロックス学院の<br>ロア＝リッドサイド先生じゃないんですか？",
+      "context_after": [
+        {
+          "line_index": 422,
+          "speaker_id": "son",
+          "ja": "いやー そっちじゃなくて 硝子のほうのお師匠さんっすね"
+        },
+        {
+          "line_index": 424,
+          "speaker_id": "son",
+          "ja": "知りやせんか？ リトナ先輩<br>ヴァストアルカブルーを再現しようとしてるって？"
+        }
+      ],
+      "candidate_A": "라인바스타의 스승이라면… CLOQKS(클록스) 학원의<br>로아 리드사이드 선생님 아니에요?",
+      "candidate_B": "라인바스타의 스승이라면… 클록스 학원의<br>로아 리드사이드 선생님 아니었나요?"
+    },
+    {
+      "uid": "ch02-02:51:b3d6734f",
+      "script": "ch02-02",
+      "line_index": 51,
+      "source_hash": "b3d6734f",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 48,
+          "speaker_id": "kaj",
+          "ja": "え あ…は はい！"
+        },
+        {
+          "line_index": 50,
+          "speaker_id": "ken",
+          "ja": "会得もなにも 俺が発明したんだよ"
+        }
+      ],
+      "ja": "…………",
+      "context_after": [
+        {
+          "line_index": 53,
+          "speaker_id": "kaj",
+          "ja": "え…えええええ！？ は 発案者様！？<br>って 技術を作った人ってことですか？？？"
+        },
+        {
+          "line_index": 54,
+          "speaker_id": "ken",
+          "ja": "ああ<br>リードクラフト時に浮かび上がる光の文字を<br>紙に印刷する技術を開発したのは 確かに俺だ"
+        }
+      ],
+      "candidate_A": "…………",
+      "candidate_B": "…………"
+    },
+    {
+      "uid": "ch02-02:88:14e0912f",
+      "script": "ch02-02",
+      "line_index": 88,
+      "source_hash": "14e0912f",
+      "speaker_id": "ken",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "ruby semantic risk"
+      ],
+      "context_before": [
+        {
+          "line_index": 84,
+          "speaker_id": "ken",
+          "ja": "…………"
+        },
+        {
+          "line_index": 87,
+          "speaker_id": "ken",
+          "ja": "で？ お前さんはいったい何をしにきたわけ？"
+        }
+      ],
+      "ja": "俺のバーを<ruby=\"けな\">貶</ruby>しにきたのか？",
+      "context_after": [
+        {
+          "line_index": 91,
+          "speaker_id": "kaj",
+          "ja": "い いえ違います！<br>バーは素敵だと思うですが あ あ あの…"
+        },
+        {
+          "line_index": 93,
+          "speaker_id": "kaj",
+          "ja": "そ その印刷技術！ 『意訳印刷』の原理を教えて下さい！"
+        }
+      ],
+      "candidate_A": "내 바를 헐뜯으러 왔나?",
+      "candidate_B": "내 바를 <ruby=\"けな\">깎아내리러</ruby> 온 거냐?"
+    },
+    {
+      "uid": "ch02-02:112:67c5900d",
+      "script": "ch02-02",
+      "line_index": 112,
+      "source_hash": "67c5900d",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "risk"
+      ],
+      "selection_reason": [
+        "Gemini issue record"
+      ],
+      "context_before": [
+        {
+          "line_index": 109,
+          "speaker_id": "ken",
+          "ja": "アイツとはそれ以上でもそれ以下でもない関係だ"
+        },
+        {
+          "line_index": 111,
+          "speaker_id": "kaj",
+          "ja": "で でも…でも…でも！ そ ソネッタさん曰く<br>ルゼンハイドでその印刷技術を教えていたんですよね？"
+        }
+      ],
+      "ja": "ク クロックスの教員だったと！",
+      "context_after": [
+        {
+          "line_index": 114,
+          "speaker_id": "ken",
+          "ja": "だからそれも昔の話なんだって…"
+        },
+        {
+          "line_index": 115,
+          "speaker_id": "ken",
+          "ja": "俺はヴァストアルカから移住してきた外国人だからな"
+        }
+      ],
+      "candidate_A": "클, 클록스의 교원이셨다고요!",
+      "candidate_B": "CLOQKS(클록스)의 교원이었다고요!"
+    },
+    {
+      "uid": "ch02-02:144:f87e7b34",
+      "script": "ch02-02",
+      "line_index": 144,
+      "source_hash": "f87e7b34",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 142,
+          "speaker_id": "ken",
+          "ja": "俺は 責任取れないし 恨まれたくねえからな"
+        },
+        {
+          "line_index": 143,
+          "speaker_id": "kaj",
+          "ja": "え え！？"
+        }
+      ],
+      "ja": "恨まれる…？？？？",
+      "context_after": [
+        {
+          "line_index": 145,
+          "speaker_id": "kaj",
+          "ja": "……………"
+        },
+        {
+          "line_index": 147,
+          "speaker_id": "kaj",
+          "ja": "……こ ここで……こんなところで…"
+        }
+      ],
+      "candidate_A": "원망받는다…????",
+      "candidate_B": "원한을 산다…????"
+    },
+    {
+      "uid": "ch02-02:171:e1402a65",
+      "script": "ch02-02",
+      "line_index": 171,
+      "source_hash": "e1402a65",
+      "speaker_id": "ken",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 166,
+          "speaker_id": "ken",
+          "ja": "………………"
+        },
+        {
+          "line_index": 168,
+          "speaker_id": "ken",
+          "ja": "…………………はぁ………………"
+        }
+      ],
+      "ja": "ったく…面倒くせえなぁ………<br>泣いて思い通りにいくような年齢でもねえだろう お前はよ",
+      "context_after": [
+        {
+          "line_index": 172,
+          "speaker_id": "kaj",
+          "ja": "ぐ ぐゅ……じゅ………"
+        },
+        {
+          "line_index": 173,
+          "speaker_id": "ken",
+          "ja": "………………"
+        }
+      ],
+      "candidate_A": "젠장… 귀찮아 죽겠군………<br>울어서 뜻대로 될 나이도 아니잖아, 너",
+      "candidate_B": "나 참… 귀찮아 죽겠구만………<br>울어서 뜻대로 될 나이도 아니잖냐, 넌."
+    },
+    {
+      "uid": "ch02-03:25:8bbbc141",
+      "script": "ch02-03",
+      "line_index": 25,
+      "source_hash": "8bbbc141",
+      "speaker_id": "adi",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 23,
+          "speaker_id": "adi",
+          "ja": "あれれー 曜日間違えたかな…？"
+        }
+      ],
+      "ja": "カージくんの絵のレッスン 今日だったはずなんだけど…",
+      "context_after": [
+        {
+          "line_index": 26,
+          "speaker_id": "adi",
+          "ja": "…………"
+        },
+        {
+          "line_index": 28,
+          "speaker_id": "adi",
+          "ja": "通信ライン結んでおいたほうがいいのかな"
+        }
+      ],
+      "candidate_A": "카지 군의 그림 레슨, 오늘이었을 텐데…",
+      "candidate_B": "카지의 그림 수업, 오늘이었을 텐데…"
+    },
+    {
+      "uid": "ch02-03:26:cd47e194",
+      "script": "ch02-03",
+      "line_index": 26,
+      "source_hash": "cd47e194",
+      "speaker_id": "adi",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 23,
+          "speaker_id": "adi",
+          "ja": "あれれー 曜日間違えたかな…？"
+        },
+        {
+          "line_index": 25,
+          "speaker_id": "adi",
+          "ja": "カージくんの絵のレッスン 今日だったはずなんだけど…"
+        }
+      ],
+      "ja": "…………",
+      "context_after": [
+        {
+          "line_index": 28,
+          "speaker_id": "adi",
+          "ja": "通信ライン結んでおいたほうがいいのかな"
+        }
+      ],
+      "candidate_A": "…………",
+      "candidate_B": "…………"
+    },
+    {
+      "uid": "ch02-03:28:a142c98b",
+      "script": "ch02-03",
+      "line_index": 28,
+      "source_hash": "a142c98b",
+      "speaker_id": "adi",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 25,
+          "speaker_id": "adi",
+          "ja": "カージくんの絵のレッスン 今日だったはずなんだけど…"
+        },
+        {
+          "line_index": 26,
+          "speaker_id": "adi",
+          "ja": "…………"
+        }
+      ],
+      "ja": "通信ライン結んでおいたほうがいいのかな",
+      "context_after": [],
+      "candidate_A": "통신 라인을 연결해 두는 편이 좋으려나.",
+      "candidate_B": "통신 라인을 연결해 두는 편이 좋으려나"
+    },
+    {
+      "uid": "ch02-04:53:7566878",
+      "script": "ch02-04",
+      "line_index": 53,
+      "source_hash": "7566878",
+      "speaker_id": "ken",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 37,
+          "speaker_id": "kaj",
+          "ja": "……………"
+        },
+        {
+          "line_index": 38,
+          "speaker_id": "kaj",
+          "ja": "そういえば ケンドリッドさん…<br>もう１つ気になることを言っていたな…"
+        }
+      ],
+      "ja": "ペンクラフトで使われるリーディングストーン…<br>あれはただのルーペじゃない",
+      "context_after": [
+        {
+          "line_index": 68,
+          "speaker_id": "kaj",
+          "ja": "ただのルーペじゃない…<br>ということは ただのガラスじゃないということか？"
+        },
+        {
+          "line_index": 69,
+          "speaker_id": "kaj",
+          "ja": "……………"
+        }
+      ],
+      "candidate_A": "펜크래프트에 쓰는 리딩 스톤…<br>그건 단순한 확대경이 아니야",
+      "candidate_B": "펜크래프트에 쓰이는 리딩 스톤…<br>그건 단순한 확대경이 아니다."
+    },
+    {
+      "uid": "ch02-04:104:89030003",
+      "script": "ch02-04",
+      "line_index": 104,
+      "source_hash": "89030003",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 89,
+          "speaker_id": "kaj",
+          "ja": "うん わかってるよ"
+        },
+        {
+          "line_index": 103,
+          "speaker_id": "",
+          "ja": "『ウォール街に住む若奥様達の日記シリーズ』"
+        }
+      ],
+      "ja": "本を広げ 紙面にいつものリーディングストーンをあてる",
+      "context_after": [
+        {
+          "line_index": 105,
+          "speaker_id": "kaj",
+          "ja": "………………"
+        },
+        {
+          "line_index": 109,
+          "speaker_id": "",
+          "ja": "『うちの旦那ったら相変わらず野菜を残すのよ』"
+        }
+      ],
+      "candidate_A": "책을 펼치고 지면에 평소에 쓰던 리딩 스톤을 갖다 댄다.",
+      "candidate_B": "책을 펼쳐 지면에 평소 쓰던 리딩 스톤을 댄다"
+    },
+    {
+      "uid": "ch02-04:182:1e665e69",
+      "script": "ch02-04",
+      "line_index": 182,
+      "source_hash": "1e665e69",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 179,
+          "speaker_id": "oug",
+          "ja": "リーディングストーンの構造？<br>あれはマナクラフトで特殊な加工がされている物だから<br>ただのガラスじゃないぞ"
+        },
+        {
+          "line_index": 180,
+          "speaker_id": "oug",
+          "ja": "作るのもそれなりに大変らしい<br>壊すなよ あれも貴重なものなんだ"
+        }
+      ],
+      "ja": "……………",
+      "context_after": [
+        {
+          "line_index": 183,
+          "speaker_id": "oug",
+          "ja": "どうしたんだ？ 顔が真っ青だぞ…"
+        },
+        {
+          "line_index": 184,
+          "speaker_id": "oug",
+          "ja": "………お前 やっぱり壊したんだな？"
+        }
+      ],
+      "candidate_A": "……………",
+      "candidate_B": "……………"
+    },
+    {
+      "uid": "ch02-05d:15:fdac89c6",
+      "script": "ch02-05d",
+      "line_index": 15,
+      "source_hash": "fdac89c6",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 13,
+          "speaker_id": "",
+          "ja": "母さんへ<br>"
+        }
+      ],
+      "ja": "今日もまた疲れる１日でした。",
+      "context_after": [
+        {
+          "line_index": 16,
+          "speaker_id": "",
+          "ja": "ペンクラフトの技術を応用して、絵を創り上げる方法を研究しています。"
+        },
+        {
+          "line_index": 17,
+          "speaker_id": "",
+          "ja": "なんか、情報とか圧縮とか…聞きなれない単語がたくさん出てきて頭がこんがらがっています。"
+        }
+      ],
+      "candidate_A": "오늘도 또 피곤한 하루였어요.",
+      "candidate_B": "오늘도 또 피곤한 하루였어요."
+    },
+    {
+      "uid": "ch02-05d:18:a8429800",
+      "script": "ch02-05d",
+      "line_index": 18,
+      "source_hash": "a8429800",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 16,
+          "speaker_id": "",
+          "ja": "ペンクラフトの技術を応用して、絵を創り上げる方法を研究しています。"
+        },
+        {
+          "line_index": 17,
+          "speaker_id": "",
+          "ja": "なんか、情報とか圧縮とか…聞きなれない単語がたくさん出てきて頭がこんがらがっています。"
+        }
+      ],
+      "ja": "正直マナクラフトそのものには、あんまり興味がないから、マナの話をされてもなかなかピンと来ません。",
+      "context_after": [
+        {
+          "line_index": 19,
+          "speaker_id": "",
+          "ja": "いやだよね…マナクラフトなんて。"
+        },
+        {
+          "line_index": 21,
+          "speaker_id": "",
+          "ja": "体にすごく悪いし、あんまりクラフトばっかりやってる人って引くっていうか…まあなんていうの？"
+        }
+      ],
+      "candidate_A": "솔직히 마나 크래프트 자체에는 별로 흥미가 없다 보니, 마나 이야기를 들어도 영 와닿지가 않아요.",
+      "candidate_B": "솔직히 마나크래프트 자체에는 별로 관심이 없어서 마나 얘기를 들어도 좀처럼 와닿지 않아요."
+    },
+    {
+      "uid": "ch02-05d:33:3f4e3479",
+      "script": "ch02-05d",
+      "line_index": 33,
+      "source_hash": "3f4e3479",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 30,
+          "speaker_id": "",
+          "ja": "レンズには魔法があるとかなんとか――大の大人が魔法だなんて、ちょっと笑えちゃうよね。"
+        },
+        {
+          "line_index": 32,
+          "speaker_id": "",
+          "ja": "と、まあ――リーディングストーンとレンズをヒントに、明日はグラスクラフターズギルドに加入してるアトリエを何軒か回ってみようと思います。<br>"
+        }
+      ],
+      "ja": "今日は短めでごめんね。",
+      "context_after": [],
+      "candidate_A": "오늘은 짧게 써서 미안해요.",
+      "candidate_B": "오늘은 짧아서 미안해요."
+    },
+    {
+      "uid": "ch02-06:138:1e665e69",
+      "script": "ch02-06",
+      "line_index": 138,
+      "source_hash": "1e665e69",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 136,
+          "speaker_id": "kaj",
+          "ja": "しかも設計図とか言ってたな あの人"
+        },
+        {
+          "line_index": 137,
+          "speaker_id": "kaj",
+          "ja": "せ 設計図なんて書いたことないぞ…<br>ぼ 僕なんかに書けるのか…？？"
+        }
+      ],
+      "ja": "……………",
+      "context_after": [
+        {
+          "line_index": 140,
+          "speaker_id": "kaj",
+          "ja": "え…ってことは…なんだ…！？"
+        },
+        {
+          "line_index": 141,
+          "speaker_id": "kaj",
+          "ja": "設計図の書き方から学ばないといけないのか…？？？？"
+        }
+      ],
+      "candidate_A": "……………",
+      "candidate_B": "……………"
+    },
+    {
+      "uid": "ch02-06:143:7a4ab4c7",
+      "script": "ch02-06",
+      "line_index": 143,
+      "source_hash": "7a4ab4c7",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 140,
+          "speaker_id": "kaj",
+          "ja": "え…ってことは…なんだ…！？"
+        },
+        {
+          "line_index": 141,
+          "speaker_id": "kaj",
+          "ja": "設計図の書き方から学ばないといけないのか…？？？？"
+        }
+      ],
+      "ja": "い いまから……？ 設計図を書くの？？？？<br>プロが目を向けてくれるような……！？！？",
+      "context_after": [
+        {
+          "line_index": 144,
+          "speaker_id": "",
+          "ja": "それって………………素人ができることなのか？？"
+        },
+        {
+          "line_index": 146,
+          "speaker_id": "",
+          "ja": "ちょ ちょっと……いや………"
+        }
+      ],
+      "candidate_A": "지, 지금부터……? 설계도를 그려????<br>전문가가 눈여겨볼 만한 걸……?!?!",
+      "candidate_B": "지, 지금부터……? 설계도를 그린다고????<br>프로가 거들떠봐 줄 만한 것을……!?!?"
+    },
+    {
+      "uid": "ch02-06:168:59018a47",
+      "script": "ch02-06",
+      "line_index": 168,
+      "source_hash": "59018a47",
+      "speaker_id": "gla",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 166,
+          "speaker_id": "gla",
+          "ja": "ちょっと気になることがあってな…"
+        },
+        {
+          "line_index": 167,
+          "speaker_id": "gla",
+          "ja": "オバーグのとこのガキが妙な依頼を持ちかけてきたんだ"
+        }
+      ],
+      "ja": "ああ 『絵』用のレンズを作ってくれだって",
+      "context_after": [
+        {
+          "line_index": 169,
+          "speaker_id": "gla",
+          "ja": "……………"
+        },
+        {
+          "line_index": 170,
+          "speaker_id": "gla",
+          "ja": "いや それ以上の使い道は聞いてない"
+        }
+      ],
+      "candidate_A": "그래, ‘그림’에 쓸 렌즈를 만들어 달라더군.",
+      "candidate_B": "그래, '그림'용 렌즈를 만들어 달라는군."
+    },
+    {
+      "uid": "ch02-07:37:16ff3daf",
+      "script": "ch02-07",
+      "line_index": 37,
+      "source_hash": "16ff3daf",
+      "speaker_id": "kaj",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 35,
+          "speaker_id": "kaj",
+          "ja": "ゾネッダざん！！！"
+        },
+        {
+          "line_index": 36,
+          "speaker_id": "son",
+          "ja": "うわ！？ カージ氏！？"
+        }
+      ],
+      "ja": "ば ばい…！ カージじでず！！！！",
+      "context_after": [
+        {
+          "line_index": 40,
+          "speaker_id": "son",
+          "ja": "し しーっすよ しー！ ここは図書館なんすから！"
+        },
+        {
+          "line_index": 42,
+          "speaker_id": "kaj",
+          "ja": "ず ずみまぜん…でもでもでも<br>もう頭がこんがらがっちゃって考えれば考えるほど<br>心細くなっていって…………もう…もう…"
+        }
+      ],
+      "candidate_A": "네, 넵…! 카지 지임미다!!!!",
+      "candidate_B": "네, 네에…! 카지 씨예요!!!!"
+    },
+    {
+      "uid": "ch02-07:150:75a50dd8",
+      "script": "ch02-07",
+      "line_index": 150,
+      "source_hash": "75a50dd8",
+      "speaker_id": "son",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 147,
+          "speaker_id": "son",
+          "ja": "しかし なるほど…<br>意思をマナで文字に変えることには慣れていると"
+        },
+        {
+          "line_index": 148,
+          "speaker_id": "kaj",
+          "ja": "ただ…その…"
+        }
+      ],
+      "ja": "――絵っすよね？",
+      "context_after": [
+        {
+          "line_index": 152,
+          "speaker_id": "kaj",
+          "ja": "そ そう…絵でできるかどうか…<br>考えたこともありませんでした"
+        },
+        {
+          "line_index": 153,
+          "speaker_id": "son",
+          "ja": "………………"
+        }
+      ],
+      "candidate_A": "――그림인 거잖슴까?",
+      "candidate_B": "――그림 말이죠?"
+    },
+    {
+      "uid": "ch02-07:217:28ad50b",
+      "script": "ch02-07",
+      "line_index": 217,
+      "source_hash": "28ad50b",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 213,
+          "speaker_id": "kaj",
+          "ja": "…………"
+        },
+        {
+          "line_index": 215,
+          "speaker_id": "kaj",
+          "ja": "と…ということは…技術そのものが存在していない と…"
+        }
+      ],
+      "ja": "それって…絶望的なのでは？",
+      "context_after": [
+        {
+          "line_index": 219,
+          "speaker_id": "son",
+          "ja": "んー…これはミーチの考えなんすけど<br>不可能じゃない気もするんすよね"
+        },
+        {
+          "line_index": 221,
+          "speaker_id": "kaj",
+          "ja": "え え………！？"
+        }
+      ],
+      "candidate_A": "그거… 절망적인 거 아닌가?",
+      "candidate_B": "그건… 절망적인 거 아닌가?"
+    },
+    {
+      "uid": "ch02-08:38:ffa53dd1",
+      "script": "ch02-08",
+      "line_index": 38,
+      "source_hash": "ffa53dd1",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 14,
+          "speaker_id": "",
+          "ja": "ちょっと また頭がパンクしそうなので 整理をしてみよう"
+        },
+        {
+          "line_index": 33,
+          "speaker_id": "",
+          "ja": "まず 研究を始めた時は<br>はっきりさせないといけないことが２つあった"
+        }
+      ],
+      "ja": "１）ペンクラフトで形にできるものは 文字だけなのか？",
+      "context_after": [
+        {
+          "line_index": 48,
+          "speaker_id": "",
+          "ja": "２）形にした『絵』をなんらかの媒体で<br>保存する方法はないか？"
+        },
+        {
+          "line_index": 53,
+          "speaker_id": "",
+          "ja": "２を確かめるために 僕は国外れに位置する<br>ヴァヴァーズバーさんのバーに足を運んで<br>本人に会ってきた"
+        }
+      ],
+      "candidate_A": "1) 펜크래프트로 구현할 수 있는 것은 글자뿐인가?",
+      "candidate_B": "1) 펜크래프트로 형태를 만들 수 있는 건 글자뿐인가?"
+    },
+    {
+      "uid": "ch02-08:71:7be2110a",
+      "script": "ch02-08",
+      "line_index": 71,
+      "source_hash": "7be2110a",
+      "speaker_id": "",
+      "selection_panel": [
+        "representative"
+      ],
+      "selection_reason": [
+        "script/position/speaker/length/exactness stratification"
+      ],
+      "context_before": [
+        {
+          "line_index": 63,
+          "speaker_id": "",
+          "ja": "この助言の意味は 正直まだはっきりとわからない"
+        },
+        {
+          "line_index": 66,
+          "speaker_id": "",
+          "ja": "でも 情報量の話をソネッタさんにしたら<br>『絵を形にしようとすると ライトクラフトの範疇じゃ<br>収まらないくらい情報量が多い』と言っていた"
+        }
+      ],
+      "ja": "だから 『ライトクラフトだけで絵を描くことは<br>今の技術じゃ難しい』ってことらしい…",
+      "context_after": [
+        {
+          "line_index": 72,
+          "speaker_id": "",
+          "ja": "それと同時に<br>レンズの設計図も図書館からいろいろと借りてきた"
+        },
+        {
+          "line_index": 96,
+          "speaker_id": "kaj",
+          "ja": "……………"
+        }
+      ],
+      "candidate_A": "그러니 ‘라이트크래프트만으로 그림을 그리는 건<br>현재 기술로는 어렵다’는 모양이다…",
+      "candidate_B": "그러니 '라이트크래프트만으로 그림을 그리는 것은<br>지금 기술로는 어렵다'는 뜻인 모양이다…"
+    }
+  ]
+}

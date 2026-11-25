@@ -1,0 +1,2024 @@
+{
+  "schema_version": 1,
+  "warning": "DO NOT UPLOAD; character_voice.json 내 예문 발생 위치",
+  "occurrence_count": 224,
+  "unique_uid_count": 125,
+  "entries": [
+    {
+      "uid": "ch01-00:109:875f76fe",
+      "speaker_id": "kaj",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:110:4f5099d6",
+      "speaker_id": "kaj",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:121:811fa4fd",
+      "speaker_id": "kaj",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:109:875f76fe",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "self_or_reader",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:110:4f5099d6",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "self_or_reader",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:121:811fa4fd",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "self_or_reader",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:307:608b459b",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "flo",
+      "relation_index": 1,
+      "example_index": 0,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-00:313:b85ab230",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "flo",
+      "relation_index": 1,
+      "example_index": 1,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-00:338:48a30b03",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "flo",
+      "relation_index": 1,
+      "example_index": 2,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-03:88:2244522a",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "sel",
+      "relation_index": 2,
+      "example_index": 0,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-03:167:ae077bfb",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "sel",
+      "relation_index": 2,
+      "example_index": 1,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-03:213:73cc5f3d",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "sel",
+      "relation_index": 2,
+      "example_index": 2,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-01:74:576379",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "oug",
+      "relation_index": 3,
+      "example_index": 0,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-01:90:e880299d",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "oug",
+      "relation_index": 3,
+      "example_index": 1,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-01:176:9477e287",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "oug",
+      "relation_index": 3,
+      "example_index": 2,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-00:109:875f76fe",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "elders_and_craftsmen",
+      "relation_index": 4,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:110:4f5099d6",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "elders_and_craftsmen",
+      "relation_index": 4,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:121:811fa4fd",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "elders_and_craftsmen",
+      "relation_index": 4,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:109:875f76fe",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "peers",
+      "relation_index": 5,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:110:4f5099d6",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "peers",
+      "relation_index": 5,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:121:811fa4fd",
+      "speaker_id": "kaj",
+      "location": "directed_relationship",
+      "addressee": "peers",
+      "relation_index": 5,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:28:6d375c5c",
+      "speaker_id": "<narration>",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:29:83b7e8eb",
+      "speaker_id": "<narration>",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:30:4b3b1a",
+      "speaker_id": "<narration>",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:28:6d375c5c",
+      "speaker_id": "<narration>",
+      "location": "directed_relationship",
+      "addressee": "reader",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:29:83b7e8eb",
+      "speaker_id": "<narration>",
+      "location": "directed_relationship",
+      "addressee": "reader",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:30:4b3b1a",
+      "speaker_id": "<narration>",
+      "location": "directed_relationship",
+      "addressee": "reader",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:311:24938048",
+      "speaker_id": "flo",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:319:280b58df",
+      "speaker_id": "flo",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:326:6f2fc1f6",
+      "speaker_id": "flo",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:376:6b6a0a89",
+      "speaker_id": "flo",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-00:395:d37dfd1",
+      "speaker_id": "flo",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-00:403:a8c0e7fe",
+      "speaker_id": "flo",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-00:311:24938048",
+      "speaker_id": "flo",
+      "location": "directed_relationship",
+      "addressee": "royalty_or_public",
+      "relation_index": 1,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:319:280b58df",
+      "speaker_id": "flo",
+      "location": "directed_relationship",
+      "addressee": "royalty_or_public",
+      "relation_index": 1,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:326:6f2fc1f6",
+      "speaker_id": "flo",
+      "location": "directed_relationship",
+      "addressee": "royalty_or_public",
+      "relation_index": 1,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-04:120:4778c26",
+      "speaker_id": "rit",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-04:123:b1f85d37",
+      "speaker_id": "rit",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-04:130:c76af362",
+      "speaker_id": "rit",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-04:205:e1479f15",
+      "speaker_id": "rit",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch02-12:902:f661900d",
+      "speaker_id": "rit",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch02-12:921:abf1ed6b",
+      "speaker_id": "rit",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-04:123:b1f85d37",
+      "speaker_id": "rit",
+      "location": "directed_relationship",
+      "addressee": "son",
+      "relation_index": 1,
+      "example_index": 0,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch02-17:98:322b11c5",
+      "speaker_id": "rit",
+      "location": "directed_relationship",
+      "addressee": "son",
+      "relation_index": 1,
+      "example_index": 1,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch02-17:234:49edd5a2",
+      "speaker_id": "rit",
+      "location": "directed_relationship",
+      "addressee": "sel",
+      "relation_index": 2,
+      "example_index": 0,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch02-18:364:b94fcf52",
+      "speaker_id": "rit",
+      "location": "directed_relationship",
+      "addressee": "sel",
+      "relation_index": 2,
+      "example_index": 1,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch03-07:103:82f75095",
+      "speaker_id": "rit",
+      "location": "directed_relationship",
+      "addressee": "sel",
+      "relation_index": 2,
+      "example_index": 2,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-01:66:2e0a388a",
+      "speaker_id": "oug",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-01:75:86cbb79f",
+      "speaker_id": "oug",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-01:80:ea1a9308",
+      "speaker_id": "oug",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-01:66:2e0a388a",
+      "speaker_id": "oug",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-01:75:86cbb79f",
+      "speaker_id": "oug",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-06:145:8da14eb2",
+      "speaker_id": "oug",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-01:66:2e0a388a",
+      "speaker_id": "oug",
+      "location": "directed_relationship",
+      "addressee": "adult_peers",
+      "relation_index": 1,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-01:75:86cbb79f",
+      "speaker_id": "oug",
+      "location": "directed_relationship",
+      "addressee": "adult_peers",
+      "relation_index": 1,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-01:80:ea1a9308",
+      "speaker_id": "oug",
+      "location": "directed_relationship",
+      "addressee": "adult_peers",
+      "relation_index": 1,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-04:27:b1fca5f6",
+      "speaker_id": "mis",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-04:33:ec525ace",
+      "speaker_id": "mis",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-04:38:a6e848c0",
+      "speaker_id": "mis",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-04:27:b1fca5f6",
+      "speaker_id": "mis",
+      "location": "directed_relationship",
+      "addressee": "kaj_and_peers",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-04:33:ec525ace",
+      "speaker_id": "mis",
+      "location": "directed_relationship",
+      "addressee": "kaj_and_peers",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-04:38:a6e848c0",
+      "speaker_id": "mis",
+      "location": "directed_relationship",
+      "addressee": "kaj_and_peers",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-04:80:20871b0b",
+      "speaker_id": "son",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-04:89:4f8b5a3f",
+      "speaker_id": "son",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-04:98:1f2f15f8",
+      "speaker_id": "son",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-01:125:dd905405",
+      "speaker_id": "son",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch02-01:130:712c18e8",
+      "speaker_id": "son",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch02-01:252:51f38721",
+      "speaker_id": "son",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-04:98:1f2f15f8",
+      "speaker_id": "son",
+      "location": "directed_relationship",
+      "addressee": "rit",
+      "relation_index": 1,
+      "example_index": 0,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch02-01:418:f4f58d36",
+      "speaker_id": "son",
+      "location": "directed_relationship",
+      "addressee": "rit",
+      "relation_index": 1,
+      "example_index": 1,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch02-01:424:1728d940",
+      "speaker_id": "son",
+      "location": "directed_relationship",
+      "addressee": "rit",
+      "relation_index": 1,
+      "example_index": 2,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch02-02:25:6881afa2",
+      "speaker_id": "ken",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-02:30:1fd187a3",
+      "speaker_id": "ken",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-02:34:87e346a9",
+      "speaker_id": "ken",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-02:25:6881afa2",
+      "speaker_id": "ken",
+      "location": "directed_relationship",
+      "addressee": "kaj_or_juniors",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-02:30:1fd187a3",
+      "speaker_id": "ken",
+      "location": "directed_relationship",
+      "addressee": "kaj_or_juniors",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-02:34:87e346a9",
+      "speaker_id": "ken",
+      "location": "directed_relationship",
+      "addressee": "kaj_or_juniors",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-04:40:184b59d9",
+      "speaker_id": "rig",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-04:42:39a75cc9",
+      "speaker_id": "rig",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-04:233:c9c3f826",
+      "speaker_id": "rig",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-04:40:184b59d9",
+      "speaker_id": "rig",
+      "location": "directed_relationship",
+      "addressee": "kaj_or_juniors",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-04:42:39a75cc9",
+      "speaker_id": "rig",
+      "location": "directed_relationship",
+      "addressee": "kaj_or_juniors",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-04:233:c9c3f826",
+      "speaker_id": "rig",
+      "location": "directed_relationship",
+      "addressee": "kaj_or_juniors",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:75:bf3cba22",
+      "speaker_id": "sel",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-03:83:a8179cd8",
+      "speaker_id": "sel",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-03:84:3f7727b",
+      "speaker_id": "sel",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-03:75:bf3cba22",
+      "speaker_id": "sel",
+      "location": "directed_relationship",
+      "addressee": "citizens_or_audience",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:83:a8179cd8",
+      "speaker_id": "sel",
+      "location": "directed_relationship",
+      "addressee": "citizens_or_audience",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:84:3f7727b",
+      "speaker_id": "sel",
+      "location": "directed_relationship",
+      "addressee": "citizens_or_audience",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:75:bf3cba22",
+      "speaker_id": "sel",
+      "location": "directed_relationship",
+      "addressee": "trusted_companions",
+      "relation_index": 1,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:83:a8179cd8",
+      "speaker_id": "sel",
+      "location": "directed_relationship",
+      "addressee": "trusted_companions",
+      "relation_index": 1,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:84:3f7727b",
+      "speaker_id": "sel",
+      "location": "directed_relationship",
+      "addressee": "trusted_companions",
+      "relation_index": 1,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:158:7797c498",
+      "speaker_id": "wig",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:159:5c40bc83",
+      "speaker_id": "wig",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:175:e9a499ff",
+      "speaker_id": "wig",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:158:7797c498",
+      "speaker_id": "wig",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:159:5c40bc83",
+      "speaker_id": "wig",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:175:e9a499ff",
+      "speaker_id": "wig",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:949:18ba5c6",
+      "speaker_id": "qla",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:950:e37f0174",
+      "speaker_id": "qla",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:952:b1b95fae",
+      "speaker_id": "qla",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:1058:2630d5de",
+      "speaker_id": "qla",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-07:1075:6b27cdf0",
+      "speaker_id": "qla",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-07:1126:83e5491e",
+      "speaker_id": "qla",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-00:115:2ea4e70a",
+      "speaker_id": "adi",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:117:9c14f7e8",
+      "speaker_id": "adi",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:123:eda85e9d",
+      "speaker_id": "adi",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:115:2ea4e70a",
+      "speaker_id": "adi",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:117:9c14f7e8",
+      "speaker_id": "adi",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:123:eda85e9d",
+      "speaker_id": "adi",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-15:21:b1c5b353",
+      "speaker_id": "ban",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-15:23:7c7f67e4",
+      "speaker_id": "ban",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-15:24:d7ef1c28",
+      "speaker_id": "ban",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-15:21:b1c5b353",
+      "speaker_id": "ban",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-15:23:7c7f67e4",
+      "speaker_id": "ban",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-15:24:d7ef1c28",
+      "speaker_id": "ban",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:155:db1f8da4",
+      "speaker_id": "dil",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:162:ed7aa334",
+      "speaker_id": "dil",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:202:4d1a63d7",
+      "speaker_id": "dil",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:155:db1f8da4",
+      "speaker_id": "dil",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:162:ed7aa334",
+      "speaker_id": "dil",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:202:4d1a63d7",
+      "speaker_id": "dil",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:884:e058d2eb",
+      "speaker_id": "tos",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:895:5143971b",
+      "speaker_id": "tos",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:900:2333f771",
+      "speaker_id": "tos",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:884:e058d2eb",
+      "speaker_id": "tos",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:895:5143971b",
+      "speaker_id": "tos",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:900:2333f771",
+      "speaker_id": "tos",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-06:17:22a2335",
+      "speaker_id": "gla",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-06:21:2fccb422",
+      "speaker_id": "gla",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-06:22:e65cd543",
+      "speaker_id": "gla",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-06:17:22a2335",
+      "speaker_id": "gla",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-06:21:2fccb422",
+      "speaker_id": "gla",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-06:22:e65cd543",
+      "speaker_id": "gla",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch03-05:10:1ccf7654",
+      "speaker_id": "old",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch03-05:11:3404803a",
+      "speaker_id": "old",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch03-05:18:2c30e23f",
+      "speaker_id": "old",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch03-05:10:1ccf7654",
+      "speaker_id": "old",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch03-05:11:3404803a",
+      "speaker_id": "old",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch03-05:18:2c30e23f",
+      "speaker_id": "old",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:27:85a19129",
+      "speaker_id": "mil",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-03:45:63f8bcb3",
+      "speaker_id": "mil",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-03:50:404280f9",
+      "speaker_id": "mil",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-03:27:85a19129",
+      "speaker_id": "mil",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:45:63f8bcb3",
+      "speaker_id": "mil",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:50:404280f9",
+      "speaker_id": "mil",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:165:a71a5306",
+      "speaker_id": "jil",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:169:40b39d54",
+      "speaker_id": "jil",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:177:e9840dd2",
+      "speaker_id": "jil",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:165:a71a5306",
+      "speaker_id": "jil",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:169:40b39d54",
+      "speaker_id": "jil",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:177:e9840dd2",
+      "speaker_id": "jil",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:289:6d9d8525",
+      "speaker_id": "???",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-06:25:485e8f28",
+      "speaker_id": "???",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-06:26:c98535ff",
+      "speaker_id": "???",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:289:6d9d8525",
+      "speaker_id": "???",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-06:25:485e8f28",
+      "speaker_id": "???",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-06:26:c98535ff",
+      "speaker_id": "???",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-09:109:a317d301",
+      "speaker_id": "mer",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-09:111:735a780",
+      "speaker_id": "mer",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-09:115:81862cd2",
+      "speaker_id": "mer",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-09:109:a317d301",
+      "speaker_id": "mer",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch02-09:111:735a780",
+      "speaker_id": "mer",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch02-09:120:e06356ac",
+      "speaker_id": "mer",
+      "location": "directed_relationship",
+      "addressee": "kaj",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "relationship_name_or_addressing"
+    },
+    {
+      "uid": "ch01-07:220:9244e671",
+      "speaker_id": "qua",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:446:2459351f",
+      "speaker_id": "qua",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:460:192c7bb2",
+      "speaker_id": "qua",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-07:220:9244e671",
+      "speaker_id": "qua",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:446:2459351f",
+      "speaker_id": "qua",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-07:460:192c7bb2",
+      "speaker_id": "qua",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch03-10:22:b6f00d20",
+      "speaker_id": "cer",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch03-10:25:cf040ea",
+      "speaker_id": "cer",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch03-10:26:a9212529",
+      "speaker_id": "cer",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch03-10:22:b6f00d20",
+      "speaker_id": "cer",
+      "location": "directed_relationship",
+      "addressee": "interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch03-10:25:cf040ea",
+      "speaker_id": "cer",
+      "location": "directed_relationship",
+      "addressee": "interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch03-10:26:a9212529",
+      "speaker_id": "cer",
+      "location": "directed_relationship",
+      "addressee": "interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-12:1198:c5980e23",
+      "speaker_id": "mel",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-12:1202:973fb51",
+      "speaker_id": "mel",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-12:1203:b21d561c",
+      "speaker_id": "mel",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-12:1198:c5980e23",
+      "speaker_id": "mel",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-12:1202:973fb51",
+      "speaker_id": "mel",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-12:1203:b21d561c",
+      "speaker_id": "mel",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch03-04:848:ebb8d938",
+      "speaker_id": "red",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch03-04:870:517f286b",
+      "speaker_id": "red",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch03-04:919:26ec9828",
+      "speaker_id": "red",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch03-04:848:ebb8d938",
+      "speaker_id": "red",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch03-04:870:517f286b",
+      "speaker_id": "red",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch03-04:919:26ec9828",
+      "speaker_id": "red",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:220:824fe39c",
+      "speaker_id": "gua2",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-03:223:f09f4f9d",
+      "speaker_id": "gua2",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-03:233:b57b15d0",
+      "speaker_id": "gua2",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-03:220:824fe39c",
+      "speaker_id": "gua2",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:223:f09f4f9d",
+      "speaker_id": "gua2",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:233:b57b15d0",
+      "speaker_id": "gua2",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:191:35fad5c7",
+      "speaker_id": "mobf1",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:196:84524cae",
+      "speaker_id": "mobf1",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:199:60ee8e3a",
+      "speaker_id": "mobf1",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-00:191:35fad5c7",
+      "speaker_id": "mobf1",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:196:84524cae",
+      "speaker_id": "mobf1",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-00:199:60ee8e3a",
+      "speaker_id": "mobf1",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch03-04:427:9f4f51c1",
+      "speaker_id": "gua",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch03-04:429:16bfe74b",
+      "speaker_id": "gua",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch03-04:434:6a5b1b09",
+      "speaker_id": "gua",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch03-04:427:9f4f51c1",
+      "speaker_id": "gua",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch03-04:429:16bfe74b",
+      "speaker_id": "gua",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch03-04:434:6a5b1b09",
+      "speaker_id": "gua",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:31:dccb44f9",
+      "speaker_id": "coo",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-03:35:19c130b3",
+      "speaker_id": "coo",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-03:36:99ab519d",
+      "speaker_id": "coo",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-03:31:dccb44f9",
+      "speaker_id": "coo",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:35:19c130b3",
+      "speaker_id": "coo",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-03:36:99ab519d",
+      "speaker_id": "coo",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-12:1154:de397cda",
+      "speaker_id": "fha",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-12:1177:302e7970",
+      "speaker_id": "fha",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 1,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-12:1179:68cea60b",
+      "speaker_id": "fha",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 2,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch02-12:1154:de397cda",
+      "speaker_id": "fha",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-12:1177:302e7970",
+      "speaker_id": "fha",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 1,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch02-12:1179:68cea60b",
+      "speaker_id": "fha",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 2,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch01-09:56:a730ef61",
+      "speaker_id": "girl",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch01-09:56:a730ef61",
+      "speaker_id": "girl",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch03-04:1143:cb2468c6",
+      "speaker_id": "mhi",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch03-04:1143:cb2468c6",
+      "speaker_id": "mhi",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    },
+    {
+      "uid": "ch03-10:34:5d258e84",
+      "speaker_id": "ruk",
+      "location": "profile",
+      "addressee": null,
+      "relation_index": null,
+      "example_index": 0,
+      "evidence_scope": "speaker_profile"
+    },
+    {
+      "uid": "ch03-10:34:5d258e84",
+      "speaker_id": "ruk",
+      "location": "directed_relationship",
+      "addressee": "context_resolved_interlocutor",
+      "relation_index": 0,
+      "example_index": 0,
+      "evidence_scope": "speaker_style_fallback"
+    }
+  ]
+}

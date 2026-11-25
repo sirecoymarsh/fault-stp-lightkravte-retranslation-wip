@@ -1,0 +1,2007 @@
+{
+  "schema_version": 1,
+  "warning": "DO NOT UPLOAD OR DISCLOSE TO GEMINI; Codex 기준 번역 포함",
+  "count": 200,
+  "entries": [
+    {
+      "group": "holdout",
+      "uid": "ch01-00:59:207f192",
+      "source_hash": "207f192",
+      "script": "ch01-00",
+      "speaker_id": "",
+      "ja": "女性と歴史が死ぬほど大好きな<br>どこにでもいる果樹園の４代目の<ruby=\"せがれ\">倅</ruby>だ",
+      "ko_codex_reference": "여자와 역사를 죽도록 좋아하는<br>어디에나 있을 법한 4대째 과수원집 아들이다.",
+      "packet_file": "packets/ch01/ch01-00.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-00:130:29e47e69",
+      "source_hash": "29e47e69",
+      "script": "ch01-00",
+      "speaker_id": "adi",
+      "ja": "また来週ね！<br>気を落とさないで頑張って！",
+      "ko_codex_reference": "다음 주에 또 보자!<br>낙담하지 말고 힘내!",
+      "packet_file": "packets/ch01/ch01-00.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-00:259:cf1a6d95",
+      "source_hash": "cf1a6d95",
+      "script": "ch01-00",
+      "speaker_id": "mobf1",
+      "ja": "カージ＝オバーグ様 士官様のご準備が整いました<br>至急 セレンハイド邸本館にお越しください",
+      "ko_codex_reference": "카지 오버그 님, 사관님의 준비가 끝났습니다.<br>지금 바로 세렌하이드 저택 본관으로 와 주세요.",
+      "packet_file": "packets/ch01/ch01-00.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-00:428:56e8c3c3",
+      "source_hash": "56e8c3c3",
+      "script": "ch01-00",
+      "speaker_id": "kaj",
+      "ja": "え ええ！？<br>って ま まさか前回の15％をさらに下回るなんて…！！",
+      "ko_codex_reference": "네, 네에!?<br>서, 설마 지난번 15%보다 더 낮다니…!!",
+      "packet_file": "packets/ch01/ch01-00.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-00:531:449688cc",
+      "source_hash": "449688cc",
+      "script": "ch01-00",
+      "speaker_id": "flo",
+      "ja": "うーん…",
+      "ko_codex_reference": "으음…",
+      "packet_file": "packets/ch01/ch01-00.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-01:13:f709f840",
+      "source_hash": "f709f840",
+      "script": "ch01-01",
+      "speaker_id": "kaj",
+      "ja": "頭から読むと…<br>『うちの旦那ったら相変わらず野菜を残すのよ』",
+      "ko_codex_reference": "처음부터 읽으면…<br>『우리 남편은 여전히 채소를 남긴다니까』",
+      "packet_file": "packets/ch01/ch01-01.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-01:37:362a0c",
+      "source_hash": "362a0c",
+      "script": "ch01-01",
+      "speaker_id": "",
+      "ja": "それじゃあ意味がないという人もいるが<br>僕はその不完全さにこそ ある種のロマンを感じるんだ",
+      "ko_codex_reference": "그러면 의미가 없다는 사람도 있지만<br>나는 바로 그 불완전함에서 일종의 낭만을 느낀다.",
+      "packet_file": "packets/ch01/ch01-01.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-01:128:b4be89e8",
+      "source_hash": "b4be89e8",
+      "script": "ch01-01",
+      "speaker_id": "oug",
+      "ja": "不思議な練習の仕方してるなお前…",
+      "ko_codex_reference": "신기한 방식으로 연습하는구나, 너…",
+      "packet_file": "packets/ch01/ch01-01.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-01:262:8d0a7dc2",
+      "source_hash": "8d0a7dc2",
+      "script": "ch01-01",
+      "speaker_id": "kaj",
+      "ja": "はぁ………",
+      "ko_codex_reference": "하아………",
+      "packet_file": "packets/ch01/ch01-01.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-01:312:3708b123",
+      "source_hash": "3708b123",
+      "script": "ch01-01",
+      "speaker_id": "",
+      "ja": "もしかしたら どれだけ練習しても…<br>一生かかってもたどり着くことはできないかもしれない",
+      "ko_codex_reference": "어쩌면 아무리 연습해도…<br>평생을 바쳐도 도달하지 못할지 모른다.",
+      "packet_file": "packets/ch01/ch01-01.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-02d:31:bc741263",
+      "source_hash": "bc741263",
+      "script": "ch01-02d",
+      "speaker_id": "",
+      "ja": "ちゃんとしたところで修行できればいいんだけど、それなりの経験がない人は門前払いするアトリエが多くて意味がわからない…",
+      "ko_codex_reference": "제대로 된 곳에서 수련할 수 있으면 좋겠지만, 어느 정도 경험이 없는 사람은 문전박대하는 아틀리에가 많아서 이해가 안 돼…",
+      "packet_file": "packets/ch01/ch01-02d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-02d:107:cb8deeb8",
+      "source_hash": "cb8deeb8",
+      "script": "ch01-02d",
+      "speaker_id": "kaj",
+      "ja": "明日は早起きになっちゃいましたね…",
+      "ko_codex_reference": "내일은 일찍 일어나야겠네요…",
+      "packet_file": "packets/ch01/ch01-02d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-02d:137:1a60735f",
+      "source_hash": "1a60735f",
+      "script": "ch01-02d",
+      "speaker_id": "oug",
+      "ja": "くくく…<br>さっさと寝ろよ",
+      "ko_codex_reference": "크크크…<br>얼른 자라",
+      "packet_file": "packets/ch01/ch01-02d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-03:61:577960d7",
+      "source_hash": "577960d7",
+      "script": "ch01-03",
+      "speaker_id": "mil",
+      "ja": "それとお父様にイチゴの件<br>ありがとうって伝えておいてください",
+      "ko_codex_reference": "그리고 딸기 건은 고맙다고<br>아버님께 전해 줘.",
+      "packet_file": "packets/ch01/ch01-03.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-03:255:4186842f",
+      "source_hash": "4186842f",
+      "script": "ch01-03",
+      "speaker_id": "gua2",
+      "ja": "城の中をあたってくれ",
+      "ko_codex_reference": "성 안을 찾아보게.",
+      "packet_file": "packets/ch01/ch01-03.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-03:353:a2c7e0e7",
+      "source_hash": "a2c7e0e7",
+      "script": "ch01-03",
+      "speaker_id": "",
+      "ja": "力の――才能のある者達の世界",
+      "ko_codex_reference": "힘이―― 재능이 있는 사람들의 세계.",
+      "packet_file": "packets/ch01/ch01-03.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-03:423:d0432e24",
+      "source_hash": "d0432e24",
+      "script": "ch01-03",
+      "speaker_id": "sel",
+      "ja": "じゅるり",
+      "ko_codex_reference": "츄릅.",
+      "packet_file": "packets/ch01/ch01-03.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-03:451:71b899ae",
+      "source_hash": "71b899ae",
+      "script": "ch01-03",
+      "speaker_id": "kaj",
+      "ja": "まあ 確かに夜トイレに行ってるときに<br>でーんと出くわしたらびっくりするかもですね",
+      "ko_codex_reference": "뭐, 확실히 밤에 화장실에 가다가<br>떡하니 마주치면 놀랄지도 모르겠네요.",
+      "packet_file": "packets/ch01/ch01-03.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-04:85:958c9ada",
+      "source_hash": "958c9ada",
+      "script": "ch01-04",
+      "speaker_id": "mis",
+      "ja": "あ あああ！ こ こらソネッタてめぇ！<br>こんな上等なもんつまみ喰いすんじゃねぇよ！<br>ちゃんと全員に出すから！！",
+      "ko_codex_reference": "아, 아아아! 야, 소네타 이 자식!<br>이렇게 좋은 걸 몰래 집어먹지 마!<br>모두에게 제대로 내놓을 테니까!!",
+      "packet_file": "packets/ch01/ch01-04.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-04:132:75926421",
+      "source_hash": "75926421",
+      "script": "ch01-04",
+      "speaker_id": "son",
+      "ja": "いいじゃないっすか 言葉の厳密な意味なんてどうだって！<br>大事なのはソウル！ ノリが大事なんす！",
+      "ko_codex_reference": "뭐 어때요, 단어의 엄밀한 뜻 따위!<br>중요한 건 소울! 분위기가 중요함다!",
+      "packet_file": "packets/ch01/ch01-04.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-04:305:c070361f",
+      "source_hash": "c070361f",
+      "script": "ch01-04",
+      "speaker_id": "kaj",
+      "ja": "いやーだよね ですよね<br>他人の思考が見えたら僕もそう思いますね",
+      "ko_codex_reference": "아―, 그렇지. 그렇고말고.<br>남의 생각이 보이면 나도 그렇게 생각하겠지.",
+      "packet_file": "packets/ch01/ch01-04.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-04:388:a5410e9",
+      "source_hash": "a5410e9",
+      "script": "ch01-04",
+      "speaker_id": "",
+      "ja": "吸い込まれるようなオーラ",
+      "ko_codex_reference": "빨려 들어갈 듯한 분위기.",
+      "packet_file": "packets/ch01/ch01-04.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-04:549:2553ad1e",
+      "source_hash": "2553ad1e",
+      "script": "ch01-04",
+      "speaker_id": "flo",
+      "ja": "でもそうね…<br>ちょっと最近は忙しくて疲れてるって感じかな…",
+      "ko_codex_reference": "하지만 그렇네…<br>요즘 좀 바빠서 피곤하다는 느낌이려나…",
+      "packet_file": "packets/ch01/ch01-04.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-05d:23:d7997acb",
+      "source_hash": "d7997acb",
+      "script": "ch01-05d",
+      "speaker_id": "",
+      "ja": "母さんへ<br>",
+      "ko_codex_reference": "엄마에게<br>",
+      "packet_file": "packets/ch01/ch01-05d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-05d:53:92101587",
+      "source_hash": "92101587",
+      "script": "ch01-05d",
+      "speaker_id": "",
+      "ja": "練習の方法が間違っているのかな…？",
+      "ko_codex_reference": "연습 방법이 잘못된 걸까요…?",
+      "packet_file": "packets/ch01/ch01-05d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-05d:63:7286345b",
+      "source_hash": "7286345b",
+      "script": "ch01-05d",
+      "speaker_id": "",
+      "ja": "そんな根も葉もないことを言われてしまうと、それこそ行動ができないんだけど…",
+      "ko_codex_reference": "그런 근거도 없는 말을 들으면 오히려 아무 행동도 못 하겠는데…",
+      "packet_file": "packets/ch01/ch01-05d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-06:79:6581baa",
+      "source_hash": "6581baa",
+      "script": "ch01-06",
+      "speaker_id": "???",
+      "ja": "っ…！",
+      "ko_codex_reference": "읏…!",
+      "packet_file": "packets/ch01/ch01-06.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-06:114:419fdfb1",
+      "source_hash": "419fdfb1",
+      "script": "ch01-06",
+      "speaker_id": "oug",
+      "ja": "やり方が遅れてるし 事実迷惑でもある",
+      "ko_codex_reference": "방식도 시대에 뒤처졌고, 실제로 민폐이기도 해.",
+      "packet_file": "packets/ch01/ch01-06.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-06:271:fa19a2bc",
+      "source_hash": "fa19a2bc",
+      "script": "ch01-06",
+      "speaker_id": "kaj",
+      "ja": "でも 国が――ヴァラ様がご決断なされたことなんですよね<br> 国民は応援しますよ",
+      "ko_codex_reference": "하지만 나라가―― 바라 님이 내리신 결정이잖아요.<br>국민은 응원할 겁니다.",
+      "packet_file": "packets/ch01/ch01-06.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-06:339:6ca43939",
+      "source_hash": "6ca43939",
+      "script": "ch01-06",
+      "speaker_id": "rig",
+      "ja": "とりあえず ここに来るやつら全員に<br>伝えておいたほうがいいな",
+      "ko_codex_reference": "일단 이곳에 오는 사람 모두에게<br>알려 두는 편이 좋겠군.",
+      "packet_file": "packets/ch01/ch01-06.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-06:359:437190b8",
+      "source_hash": "437190b8",
+      "script": "ch01-06",
+      "speaker_id": "flo",
+      "ja": "被害者が出たらあんた達<br>真顔で『自己責任だったからしょうがない』<br>なんて言えるの！？",
+      "ko_codex_reference": "피해자가 나오면 너희들,<br>태연한 얼굴로 ‘자기 책임이니 어쩔 수 없다’<br>고 말할 수 있어?!",
+      "packet_file": "packets/ch01/ch01-06.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-06:391:2dc90da7",
+      "source_hash": "2dc90da7",
+      "script": "ch01-06",
+      "speaker_id": "mis",
+      "ja": "んー？<br>オレ達…は なあ？",
+      "ko_codex_reference": "응―?<br>우리…는, 그렇지?",
+      "packet_file": "packets/ch01/ch01-06.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-07:120:17e4310e",
+      "source_hash": "17e4310e",
+      "script": "ch01-07",
+      "speaker_id": "",
+      "ja": "いままで止り木じゃ見たことのない！",
+      "ko_codex_reference": "지금까지 횃대에서는 본 적 없는 아이야!",
+      "packet_file": "packets/ch01/ch01-07.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-07:144:ea1a65bb",
+      "source_hash": "ea1a65bb",
+      "script": "ch01-07",
+      "speaker_id": "???",
+      "ja": "お おいお前何なんだよ！",
+      "ko_codex_reference": "이, 이봐, 너 뭐야!",
+      "packet_file": "packets/ch01/ch01-07.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-07:464:5317ff5d",
+      "source_hash": "5317ff5d",
+      "script": "ch01-07",
+      "speaker_id": "jil",
+      "ja": "見たい見たい！",
+      "ko_codex_reference": "보고 싶어, 보고 싶어!",
+      "packet_file": "packets/ch01/ch01-07.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-07:612:775b2a4f",
+      "source_hash": "775b2a4f",
+      "script": "ch01-07",
+      "speaker_id": "wig",
+      "ja": "あ あの…お言葉ですが 適合率6.9%の人が<br>手段なんて選んでられないと思うのですが…",
+      "ko_codex_reference": "저, 저기… 외람된 말씀이지만 지지율 6.9%인 분이<br>수단을 가릴 때는 아닌 것 같습니다만…",
+      "packet_file": "packets/ch01/ch01-07.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-07:656:ddb6d48c",
+      "source_hash": "ddb6d48c",
+      "script": "ch01-07",
+      "speaker_id": "oug",
+      "ja": "父ちゃんはああいうガッツがあるのは嫌いじゃないぜ",
+      "ko_codex_reference": "아빠는 저런 패기 있는 녀석이 싫지 않은데.",
+      "packet_file": "packets/ch01/ch01-07.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-07:686:196d128a",
+      "source_hash": "196d128a",
+      "script": "ch01-07",
+      "speaker_id": "dil",
+      "ja": "どうせ絵だって<br>果樹園のおぼっちゃんの気まぐれってやつだろ？",
+      "ko_codex_reference": "어차피 그림도<br>과수원 도련님의 변덕 같은 거잖아?",
+      "packet_file": "packets/ch01/ch01-07.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-07:707:9244e671",
+      "source_hash": "9244e671",
+      "script": "ch01-07",
+      "speaker_id": "qua",
+      "ja": "……………",
+      "ko_codex_reference": "……………",
+      "packet_file": "packets/ch01/ch01-07.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-07:928:4161047b",
+      "source_hash": "4161047b",
+      "script": "ch01-07",
+      "speaker_id": "kaj",
+      "ja": "………っく…く…",
+      "ko_codex_reference": "………윽… 윽…",
+      "packet_file": "packets/ch01/ch01-07.part04.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-07:1116:42a7aad9",
+      "source_hash": "42a7aad9",
+      "script": "ch01-07",
+      "speaker_id": "tos",
+      "ja": "お おい…まじかよ少年<br>これが普通に見えるって？",
+      "ko_codex_reference": "야, 야… 진심이냐, 소년.<br>이게 평범해 보인다고?",
+      "packet_file": "packets/ch01/ch01-07.part05.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-07:1205:ced42dd7",
+      "source_hash": "ced42dd7",
+      "script": "ch01-07",
+      "speaker_id": "qla",
+      "ja": "少なくとも…２年間 本気で毎日キャンバスや<br>スケッチブックに向かっている人の認識じゃないはず",
+      "ko_codex_reference": "적어도… 2년 동안 진심으로 매일 캔버스와<br>스케치북을 마주한 사람의 인식은 아닐 거야.",
+      "packet_file": "packets/ch01/ch01-07.part05.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-08d:20:f7ae9609",
+      "source_hash": "f7ae9609",
+      "script": "ch01-08d",
+      "speaker_id": "",
+      "ja": "今日はちょっと元気がなくて書けません<br>",
+      "ko_codex_reference": "오늘은 기운이 좀 없어서 못 쓰겠어<br>",
+      "packet_file": "packets/ch01/ch01-08d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-08d:24:75613c1c",
+      "source_hash": "75613c1c",
+      "script": "ch01-08d",
+      "speaker_id": "",
+      "ja": "だめ<br>",
+      "ko_codex_reference": "안 돼<br>",
+      "packet_file": "packets/ch01/ch01-08d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-09:37:233a5983",
+      "source_hash": "233a5983",
+      "script": "ch01-09",
+      "speaker_id": "",
+      "ja": "障害を負っているかもしれない…その本当の意味は？",
+      "ko_codex_reference": "장애가 있을지도 모른다… 그 말의 진짜 의미는?",
+      "packet_file": "packets/ch01/ch01-09.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-09:89:8802f783",
+      "source_hash": "8802f783",
+      "script": "ch01-09",
+      "speaker_id": "flo",
+      "ja": "ちょ ちょっと？ 大丈夫ってば？",
+      "ko_codex_reference": "자, 잠깐? 정말 괜찮아?",
+      "packet_file": "packets/ch01/ch01-09.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-09:158:6786c080",
+      "source_hash": "6786c080",
+      "script": "ch01-09",
+      "speaker_id": "kaj",
+      "ja": "随分特徴的な形をしてますね…<br>この先端についているのは…虫眼鏡ですか？",
+      "ko_codex_reference": "꽤 독특한 형태네요…<br>이 끝에 붙은 건… 돋보기입니까?",
+      "packet_file": "packets/ch01/ch01-09.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-09:304:5278cc82",
+      "source_hash": "5278cc82",
+      "script": "ch01-09",
+      "speaker_id": "rit",
+      "ja": "は…わかりやすいやつだな",
+      "ko_codex_reference": "하… 참 알기 쉬운 녀석이군.",
+      "packet_file": "packets/ch01/ch01-09.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-10:100:7b50de0f",
+      "source_hash": "7b50de0f",
+      "script": "ch01-10",
+      "speaker_id": "oug",
+      "ja": "おいおい そんなあからさまに嫌がるなよ 傷つくな<br>忙しいなら別にかまわねえぞ",
+      "ko_codex_reference": "야, 그렇게 대놓고 싫어하지 마. 상처받잖아.<br>바쁘면 굳이 같이 안 먹어도 돼",
+      "packet_file": "packets/ch01/ch01-10.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-10:138:3f11731",
+      "source_hash": "3f11731",
+      "script": "ch01-10",
+      "speaker_id": "",
+      "ja": "僕は父さんに包み隠さず昨日起こったことを話した",
+      "ko_codex_reference": "나는 어제 있었던 일을 숨김없이 아빠에게 이야기했다",
+      "packet_file": "packets/ch01/ch01-10.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-10:211:54d9dc",
+      "source_hash": "54d9dc",
+      "script": "ch01-10",
+      "speaker_id": "oug",
+      "ja": "そんなクラウがお前のこと見て『なにかがおかしい』って<br>言うなら あながち間違いじゃねえと思うぜ",
+      "ko_codex_reference": "그런 크라우가 널 보고 『뭔가 이상하다』고<br>했다면 아주 틀린 말은 아닐 거야",
+      "packet_file": "packets/ch01/ch01-10.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-10:234:16056dd0",
+      "source_hash": "16056dd0",
+      "script": "ch01-10",
+      "speaker_id": "kaj",
+      "ja": "あ…うぐぐ…",
+      "ko_codex_reference": "아… 으으…",
+      "packet_file": "packets/ch01/ch01-10.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-11:154:35e8fbf1",
+      "source_hash": "35e8fbf1",
+      "script": "ch01-11",
+      "speaker_id": "oug",
+      "ja": "ラインヴァスタ…？？<br>って…あのガーディアン騒動の<br>リトナ＝ラインヴァスタか？",
+      "ko_codex_reference": "라인바스타…??<br>그… 가디언 소동의<br>리토나 라인바스타 말이냐?",
+      "packet_file": "packets/ch01/ch01-11.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-11:200:ada39925",
+      "source_hash": "ada39925",
+      "script": "ch01-11",
+      "speaker_id": "kaj",
+      "ja": "え？ よ よくわかったね…<br>５分もしないうちに無くなっちゃったよ",
+      "ko_codex_reference": "어? 자, 잘 알았네…<br>5분도 안 돼서 다 없어졌어",
+      "packet_file": "packets/ch01/ch01-11.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-11:235:3fa03f6",
+      "source_hash": "3fa03f6",
+      "script": "ch01-11",
+      "speaker_id": "oug",
+      "ja": "だから ラインヴァスタ嬢が本気で嫌がるなら<br>ヴァストアルカはセルフィーネ姫の王族命令に<br>意義を唱えざるをえなくなる…というわけだ",
+      "ko_codex_reference": "그래서 라인바스타 양이 진심으로 싫어한다면<br>바스토알카는 셀피네 공주의 왕족 명령에<br>이의를 제기할 수밖에 없게 돼… 그런 얘기야",
+      "packet_file": "packets/ch01/ch01-11.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-11:305:e6b15245",
+      "source_hash": "e6b15245",
+      "script": "ch01-11",
+      "speaker_id": "kaj",
+      "ja": "ああああああ………",
+      "ko_codex_reference": "아아아아아아………",
+      "packet_file": "packets/ch01/ch01-11.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-11:521:78b10f13",
+      "source_hash": "78b10f13",
+      "script": "ch01-11",
+      "speaker_id": "",
+      "ja": "洗面用具や風呂まであるから<br>そうかなとは思っていたけど…<br>マジでここに住んでるのか",
+      "ko_codex_reference": "세면도구에 목욕탕까지 있어서<br>그럴지도 모른다고 생각했지만…<br>진짜 여기 사는구나",
+      "packet_file": "packets/ch01/ch01-11.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-11:529:6197b9f0",
+      "source_hash": "6197b9f0",
+      "script": "ch01-11",
+      "speaker_id": "",
+      "ja": "愚問だったようだ",
+      "ko_codex_reference": "어리석은 질문이었던 모양이다",
+      "packet_file": "packets/ch01/ch01-11.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-11:562:497a79cc",
+      "source_hash": "497a79cc",
+      "script": "ch01-11",
+      "speaker_id": "rig",
+      "ja": "仲間の幸せの死守だ",
+      "ko_codex_reference": "동료들의 행복을 사수하는 것",
+      "packet_file": "packets/ch01/ch01-11.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-11:618:aeac11e4",
+      "source_hash": "aeac11e4",
+      "script": "ch01-11",
+      "speaker_id": "kaj",
+      "ja": "せっかく時間を割いていただいてるのに<br>全然上達できなくて…",
+      "ko_codex_reference": "모처럼 시간을 내 주시는데도<br>전혀 실력이 늘지 않아서…",
+      "packet_file": "packets/ch01/ch01-11.part04.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-11:696:87c2b2",
+      "source_hash": "87c2b2",
+      "script": "ch01-11",
+      "speaker_id": "rig",
+      "ja": "人というものは 自然と自分に多くを求めてしまうものだ",
+      "ko_codex_reference": "사람은 자연스럽게 자기 자신에게 많은 것을 요구하게 돼",
+      "packet_file": "packets/ch01/ch01-11.part04.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-12d:23:e0cd3bac",
+      "source_hash": "e0cd3bac",
+      "script": "ch01-12d",
+      "speaker_id": "",
+      "ja": "がむしゃらに彼の影を追ったら、目標の人に引導を渡されてしまったよ。<br>",
+      "ko_codex_reference": "무작정 그분의 그림자를 쫓았더니, 목표로 삼던 사람에게 그만두라는 말을 들어 버렸어.<br>",
+      "packet_file": "packets/ch01/ch01-12d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-12d:28:41c4660e",
+      "source_hash": "41c4660e",
+      "script": "ch01-12d",
+      "speaker_id": "",
+      "ja": "ずっと頭の中がぐちゃぐちゃでさ。",
+      "ko_codex_reference": "계속 머릿속이 엉망진창이야.",
+      "packet_file": "packets/ch01/ch01-12d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-12d:59:690df053",
+      "source_hash": "690df053",
+      "script": "ch01-12d",
+      "speaker_id": "",
+      "ja": "諦める。",
+      "ko_codex_reference": "포기한다.",
+      "packet_file": "packets/ch01/ch01-12d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-13:14:3b72c87b",
+      "source_hash": "3b72c87b",
+      "script": "ch01-13",
+      "speaker_id": "",
+      "ja": "日記をこれ以上汚すのも気が引けるから<br>今日はこれくらいにしておこうかな…",
+      "ko_codex_reference": "일기를 더 지저분하게 만들기도 꺼려지니<br>오늘은 이쯤 해 둘까…",
+      "packet_file": "packets/ch01/ch01-13.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-13:87:d11321e2",
+      "source_hash": "d11321e2",
+      "script": "ch01-13",
+      "speaker_id": "",
+      "ja": "そしてやはりその中にフローラ様の姿がないことに<br>少しだけ肩が落ちる",
+      "ko_codex_reference": "그리고 역시 그 안에 플로라 님의 모습이 없는 것을 보고<br>조금 풀이 죽는다.",
+      "packet_file": "packets/ch01/ch01-13.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch01-13:132:8729b528",
+      "source_hash": "8729b528",
+      "script": "ch01-13",
+      "speaker_id": "kaj",
+      "ja": "ま 待てよ…………",
+      "ko_codex_reference": "자, 잠깐만…………",
+      "packet_file": "packets/ch01/ch01-13.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-00d:50:fec668c5",
+      "source_hash": "fec668c5",
+      "script": "ch02-00d",
+      "speaker_id": "",
+      "ja": "＜ 課題２ ＞<br>形にした『絵』をなんらかの媒体で",
+      "ko_codex_reference": "〈 과제 2 〉<br>형태로 만든 ‘그림’을 어떤 매체에",
+      "packet_file": "packets/ch02/ch02-00d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-00d:87:e4e0f9d1",
+      "source_hash": "e4e0f9d1",
+      "script": "ch02-00d",
+      "speaker_id": "",
+      "ja": "母さん。",
+      "ko_codex_reference": "엄마.",
+      "packet_file": "packets/ch02/ch02-00d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-01:39:dc268ef9",
+      "source_hash": "dc268ef9",
+      "script": "ch02-01",
+      "speaker_id": "",
+      "ja": "そう",
+      "ko_codex_reference": "그래",
+      "packet_file": "packets/ch02/ch02-01.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-01:77:3eff9842",
+      "source_hash": "3eff9842",
+      "script": "ch02-01",
+      "speaker_id": "???",
+      "ja": "んー あれれー？",
+      "ko_codex_reference": "음~ 어라라~?",
+      "packet_file": "packets/ch02/ch02-01.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-01:231:cf1e8269",
+      "source_hash": "cf1e8269",
+      "script": "ch02-01",
+      "speaker_id": "kaj",
+      "ja": "いや はい あ ありがとうございます…！<br>非常に心強いです！",
+      "ko_codex_reference": "아니, 네. 가, 감사합니다…!<br>정말 큰 힘이 되네요!",
+      "packet_file": "packets/ch02/ch02-01.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-01:312:1ef96e3a",
+      "source_hash": "1ef96e3a",
+      "script": "ch02-01",
+      "speaker_id": "son",
+      "ja": "まあ〜とは言ったものの 印刷技術の詳細なんて<br>一般常識じゃないかもしれないっすね",
+      "ko_codex_reference": "뭐~ 그렇게 말하긴 했지만 인쇄 기술의 세부 사항은<br>일반 상식이 아닐지도 모르겠네요",
+      "packet_file": "packets/ch02/ch02-01.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-01:344:ebd9221c",
+      "source_hash": "ebd9221c",
+      "script": "ch02-01",
+      "speaker_id": "son",
+      "ja": "カージ氏の場合 本を探してるんじゃなくて<br>印刷技術のほうに興味があるって解釈でおけ？",
+      "ko_codex_reference": "카지 씨는 책을 찾는 게 아니라<br>인쇄 기술 쪽에 관심이 있다는 이해로 오케이?",
+      "packet_file": "packets/ch02/ch02-01.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-01:354:a211c392",
+      "source_hash": "a211c392",
+      "script": "ch02-01",
+      "speaker_id": "kaj",
+      "ja": "都合が良すぎますよね…さすがに…",
+      "ko_codex_reference": "너무 형편 좋은 얘기겠죠… 아무래도…",
+      "packet_file": "packets/ch02/ch02-01.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-02:63:b3d6734f",
+      "source_hash": "b3d6734f",
+      "script": "ch02-02",
+      "speaker_id": "kaj",
+      "ja": "…………",
+      "ko_codex_reference": "…………",
+      "packet_file": "packets/ch02/ch02-02.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-02:144:f87e7b34",
+      "source_hash": "f87e7b34",
+      "script": "ch02-02",
+      "speaker_id": "",
+      "ja": "恨まれる…？？？？",
+      "ko_codex_reference": "원한을 산다…????",
+      "packet_file": "packets/ch02/ch02-02.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-02:181:9abb5ea5",
+      "source_hash": "9abb5ea5",
+      "script": "ch02-02",
+      "speaker_id": "kaj",
+      "ja": "…え…え……？ 拡大…解釈版？<br>ちょ ちょっと意味が…",
+      "ko_codex_reference": "…네… 네……? 확대… 해석판?<br>자, 잘 이해가…",
+      "packet_file": "packets/ch02/ch02-02.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-02:226:7566878",
+      "source_hash": "7566878",
+      "script": "ch02-02",
+      "speaker_id": "ken",
+      "ja": "ペンクラフトで使われるリーディングストーン…<br>あれはただのルーペじゃない",
+      "ko_codex_reference": "펜크래프트에 쓰는 리딩 스톤…<br>그건 단순한 확대경이 아니야",
+      "packet_file": "packets/ch02/ch02-02.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-03:23:fc43ed67",
+      "source_hash": "fc43ed67",
+      "script": "ch02-03",
+      "speaker_id": "adi",
+      "ja": "あれれー 曜日間違えたかな…？",
+      "ko_codex_reference": "어라~ 요일을 잘못 알았나…?",
+      "packet_file": "packets/ch02/ch02-03.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-03:26:cd47e194",
+      "source_hash": "cd47e194",
+      "script": "ch02-03",
+      "speaker_id": "adi",
+      "ja": "…………",
+      "ko_codex_reference": "…………",
+      "packet_file": "packets/ch02/ch02-03.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-04:109:fe769463",
+      "source_hash": "fe769463",
+      "script": "ch02-04",
+      "speaker_id": "",
+      "ja": "『うちの旦那ったら相変わらず野菜を残すのよ』",
+      "ko_codex_reference": "『우리 남편은 여전히 채소를 남긴다니까』",
+      "packet_file": "packets/ch02/ch02-04.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-04:179:6264b704",
+      "source_hash": "6264b704",
+      "script": "ch02-04",
+      "speaker_id": "oug",
+      "ja": "リーディングストーンの構造？<br>あれはマナクラフトで特殊な加工がされている物だから<br>ただのガラスじゃないぞ",
+      "ko_codex_reference": "리딩 스톤의 구조?<br>그건 마나크래프트로 특수 가공한 물건이라<br>그냥 유리가 아니야",
+      "packet_file": "packets/ch02/ch02-04.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-04:211:f562e926",
+      "source_hash": "f562e926",
+      "script": "ch02-04",
+      "speaker_id": "kaj",
+      "ja": "く くそ…どうしよう",
+      "ko_codex_reference": "제, 젠장… 어떡하지",
+      "packet_file": "packets/ch02/ch02-04.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-05d:25:ac8c459f",
+      "source_hash": "ac8c459f",
+      "script": "ch02-05d",
+      "speaker_id": "",
+      "ja": "知ることだけなら別に寿命も縮まらないでしょってね。",
+      "ko_codex_reference": "아는 것뿐이라면 수명이 줄어들지도 않을 테니까요.",
+      "packet_file": "packets/ch02/ch02-05d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-05d:32:e1c13eeb",
+      "source_hash": "e1c13eeb",
+      "script": "ch02-05d",
+      "speaker_id": "",
+      "ja": "と、まあ――リーディングストーンとレンズをヒントに、明日はグラスクラフターズギルドに加入してるアトリエを何軒か回ってみようと思います。<br>",
+      "ko_codex_reference": "아무튼―― 리딩 스톤과 렌즈를 단서로 내일은 글라스크래프터 길드에 가입된 아틀리에 몇 곳을 돌아볼 생각이에요.<br>",
+      "packet_file": "packets/ch02/ch02-05d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-06:38:cfde9adb",
+      "source_hash": "cfde9adb",
+      "script": "ch02-06",
+      "speaker_id": "gla",
+      "ja": "………",
+      "ko_codex_reference": "………",
+      "packet_file": "packets/ch02/ch02-06.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-06:64:411b34e",
+      "source_hash": "411b34e",
+      "script": "ch02-06",
+      "speaker_id": "kaj",
+      "ja": "な なんでもします！ お願いします！",
+      "ko_codex_reference": "뭐, 뭐든지 할게요! 부탁드립니다!",
+      "packet_file": "packets/ch02/ch02-06.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-06:143:7a4ab4c7",
+      "source_hash": "7a4ab4c7",
+      "script": "ch02-06",
+      "speaker_id": "",
+      "ja": "い いまから……？ 設計図を書くの？？？？<br>プロが目を向けてくれるような……！？！？",
+      "ko_codex_reference": "지, 지금부터……? 설계도를 그려????<br>전문가가 눈여겨볼 만한 걸……?!?!",
+      "packet_file": "packets/ch02/ch02-06.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-07:26:bd107962",
+      "source_hash": "bd107962",
+      "script": "ch02-07",
+      "speaker_id": "???",
+      "ja": "ぁぁぁぁぁぁぁぁぁぁぁぁぁぁああああああああああああああああああっーーーーーーーっっ！！！！！",
+      "ko_codex_reference": "아아아아아아아아아아아아아아아아아아아아아아아아아아앗―――――!!!!",
+      "packet_file": "packets/ch02/ch02-07.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-07:42:49540a21",
+      "source_hash": "49540a21",
+      "script": "ch02-07",
+      "speaker_id": "kaj",
+      "ja": "ず ずみまぜん…でもでもでも<br>もう頭がこんがらがっちゃって考えれば考えるほど<br>心細くなっていって…………もう…もう…",
+      "ko_codex_reference": "죄, 죄송해요… 하지만, 하지만, 하지만<br>이젠 머릿속이 엉켜서 생각하면 할수록<br>불안해지고………… 이제… 이젠…",
+      "packet_file": "packets/ch02/ch02-07.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-07:142:fa34f794",
+      "source_hash": "fa34f794",
+      "script": "ch02-07",
+      "speaker_id": "son",
+      "ja": "に 日記を見ず知らずの人に読まれてもいいんすか？",
+      "ko_codex_reference": "이, 일기를 생판 모르는 사람이 읽어도 괜찮슴까?",
+      "packet_file": "packets/ch02/ch02-07.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-07:217:28ad50b",
+      "source_hash": "28ad50b",
+      "script": "ch02-07",
+      "speaker_id": "",
+      "ja": "それって…絶望的なのでは？",
+      "ko_codex_reference": "그건… 절망적인 거 아닌가?",
+      "packet_file": "packets/ch02/ch02-07.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-08:61:ea920591",
+      "source_hash": "ea920591",
+      "script": "ch02-08",
+      "speaker_id": "",
+      "ja": "そこで１の『絵』を形にしたいと言ったら…<br>情報量の話が出てきて 彼は『レンズ』を調べろと言った",
+      "ko_codex_reference": "그래서 1번의 ‘그림’을 형태로 만들고 싶다고 했더니…<br>정보량 이야기가 나왔고, 그는 ‘렌즈’를 조사하라고 했다.",
+      "packet_file": "packets/ch02/ch02-08.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-08:105:6d3512dc",
+      "source_hash": "6d3512dc",
+      "script": "ch02-08",
+      "speaker_id": "kaj",
+      "ja": "……………あ",
+      "ko_codex_reference": "……………아.",
+      "packet_file": "packets/ch02/ch02-08.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-08:121:eb1bd670",
+      "source_hash": "eb1bd670",
+      "script": "ch02-08",
+      "speaker_id": "kaj",
+      "ja": "とりあえず…まずは 簡単な形からだ…！",
+      "ko_codex_reference": "일단… 먼저 간단한 형태부터 해 보자…!",
+      "packet_file": "packets/ch02/ch02-08.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-09:80:8aabee0f",
+      "source_hash": "8aabee0f",
+      "script": "ch02-09",
+      "speaker_id": "",
+      "ja": "別の言い方をすれば<br>僕が生み出せるもの以上の文章が現れることは 決してない",
+      "ko_codex_reference": "달리 말하면,<br>내가 만들어 낼 수 있는 수준을 넘어선 문장은 절대 나타나지 않는다.",
+      "packet_file": "packets/ch02/ch02-09.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-09:126:ae82a0dd",
+      "source_hash": "ae82a0dd",
+      "script": "ch02-09",
+      "speaker_id": "kaj",
+      "ja": "………むずかしいよ 母さん",
+      "ko_codex_reference": "………어려워, 엄마.",
+      "packet_file": "packets/ch02/ch02-09.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-09:219:779b1aa0",
+      "source_hash": "779b1aa0",
+      "script": "ch02-09",
+      "speaker_id": "mer",
+      "ja": "だからこれを使って――――",
+      "ko_codex_reference": "그래서 이걸 써서――――",
+      "packet_file": "packets/ch02/ch02-09.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-10d:17:7eee3d30",
+      "source_hash": "7eee3d30",
+      "script": "ch02-10d",
+      "speaker_id": "",
+      "ja": "見守ってくれているのかな？",
+      "ko_codex_reference": "지켜봐 주고 있는 걸까?",
+      "packet_file": "packets/ch02/ch02-10d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-10d:25:e9c6ebe8",
+      "source_hash": "e9c6ebe8",
+      "script": "ch02-10d",
+      "speaker_id": "",
+      "ja": "なんか",
+      "ko_codex_reference": "왠지.",
+      "packet_file": "packets/ch02/ch02-10d.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-11:34:e622d87f",
+      "source_hash": "e622d87f",
+      "script": "ch02-11",
+      "speaker_id": "oug",
+      "ja": "借りるもなにも<br>ペンクラフトのものなんだったらお前にやるよ",
+      "ko_codex_reference": "빌리고 말고 할 것도 없어.<br>펜크래프트 물건이면 너 가져.",
+      "packet_file": "packets/ch02/ch02-11.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-11:115:d1b845b7",
+      "source_hash": "d1b845b7",
+      "script": "ch02-11",
+      "speaker_id": "",
+      "ja": "台座の上に置かれていたリーディングストーンの上部に<br>淡い光が集まり始めた",
+      "ko_codex_reference": "받침대 위에 놓아둔 리딩 스톤의 윗부분에<br>희미한 빛이 모이기 시작했다.",
+      "packet_file": "packets/ch02/ch02-11.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-11:166:1e665e69",
+      "source_hash": "1e665e69",
+      "script": "ch02-11",
+      "speaker_id": "kaj",
+      "ja": "……………",
+      "ko_codex_reference": "……………",
+      "packet_file": "packets/ch02/ch02-11.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:335:9f6cf1c3",
+      "source_hash": "9f6cf1c3",
+      "script": "ch02-12",
+      "speaker_id": "",
+      "ja": "双方ともクラフターの潜在能力を極限まで引き出す、いうならば人体改造のような儀式である。<BR>",
+      "ko_codex_reference": "둘 다 크래프터의 잠재력을 극한까지 끌어내는, 말하자면 인체 개조와도 같은 의식이다.<BR>",
+      "packet_file": "packets/ch02/ch02-12.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:468:ac0e4155",
+      "source_hash": "ac0e4155",
+      "script": "ch02-12",
+      "speaker_id": "kaj",
+      "ja": "え…ええ！？ そ それってどういう…！？",
+      "ko_codex_reference": "네… 네에?! 그, 그게 무슨…?!",
+      "packet_file": "packets/ch02/ch02-12.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:574:e8b0b681",
+      "source_hash": "e8b0b681",
+      "script": "ch02-12",
+      "speaker_id": "flo",
+      "ja": "いやだって なんていうか<br>意外と思ったことははっきりと口にするわよね？",
+      "ko_codex_reference": "아니, 뭐랄까.<br>의외로 생각한 걸 똑 부러지게 말하잖아?",
+      "packet_file": "packets/ch02/ch02-12.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:622:b991864b",
+      "source_hash": "b991864b",
+      "script": "ch02-12",
+      "speaker_id": "",
+      "ja": "隣国のヴァストアルカは兄弟国であるルゼンハイドに友情の証として、自国が誇る最高にして最強の名家をルゼンハイドに預けたのだった。",
+      "ko_codex_reference": "이웃 나라 바스토알카는 형제국인 루젠하이드에 우정의 증표로 자국이 자랑하는 최고이자 최강의 명문가를 맡겼다.",
+      "packet_file": "packets/ch02/ch02-12.part04.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:719:720fcce2",
+      "source_hash": "720fcce2",
+      "script": "ch02-12",
+      "speaker_id": "rig",
+      "ja": "………………",
+      "ko_codex_reference": "………………",
+      "packet_file": "packets/ch02/ch02-12.part04.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:720:56584f19",
+      "source_hash": "56584f19",
+      "script": "ch02-12",
+      "speaker_id": "rig",
+      "ja": "うーむ…いないみたいだな",
+      "ko_codex_reference": "흐음… 없는 모양이군.",
+      "packet_file": "packets/ch02/ch02-12.part04.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:724:493df4da",
+      "source_hash": "493df4da",
+      "script": "ch02-12",
+      "speaker_id": "adi",
+      "ja": "大丈夫かなカージ君…こんなにレッスンに来ないなんて…",
+      "ko_codex_reference": "카지 군, 괜찮은 걸까… 이렇게나 수업에 안 오다니…",
+      "packet_file": "packets/ch02/ch02-12.part04.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:729:9cfea44e",
+      "source_hash": "9cfea44e",
+      "script": "ch02-12",
+      "speaker_id": "adi",
+      "ja": "うん お願いね",
+      "ko_codex_reference": "응, 부탁할게.",
+      "packet_file": "packets/ch02/ch02-12.part04.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:766:c39168d",
+      "source_hash": "c39168d",
+      "script": "ch02-12",
+      "speaker_id": "rit",
+      "ja": "……ぜぃ…ぜぃぜぃ……ぜぃ…",
+      "ko_codex_reference": "……헉… 헉헉…… 헉…",
+      "packet_file": "packets/ch02/ch02-12.part04.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:967:cbbf4159",
+      "source_hash": "cbbf4159",
+      "script": "ch02-12",
+      "speaker_id": "rit",
+      "ja": "み ミィシャやリッグズ達がここを出入りするたびに<br>頭をちくちくされるわけか？",
+      "ko_codex_reference": "미, 미샤나 리그스 일행이 여길 드나들 때마다<br>머리가 따끔거린다는 건가?",
+      "packet_file": "packets/ch02/ch02-12.part05.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:1057:ea7ce97f",
+      "source_hash": "ea7ce97f",
+      "script": "ch02-12",
+      "speaker_id": "???",
+      "ja": "カージ君！",
+      "ko_codex_reference": "카지 군!",
+      "packet_file": "packets/ch02/ch02-12.part06.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:1151:f679ae12",
+      "source_hash": "f679ae12",
+      "script": "ch02-12",
+      "speaker_id": "kaj",
+      "ja": "え ええ全然構いませんが",
+      "ko_codex_reference": "네, 네. 전혀 상관없습니다.",
+      "packet_file": "packets/ch02/ch02-12.part06.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:1158:fa197ee8",
+      "source_hash": "fa197ee8",
+      "script": "ch02-12",
+      "speaker_id": "flo",
+      "ja": "そそ<br>ちょっと服をね―――",
+      "ko_codex_reference": "맞아.<br>옷을 좀―――",
+      "packet_file": "packets/ch02/ch02-12.part06.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:1217:5b7b9ab7",
+      "source_hash": "5b7b9ab7",
+      "script": "ch02-12",
+      "speaker_id": "mel",
+      "ja": "ああ ローブのほうね<br>用意できてるわ",
+      "ko_codex_reference": "아, 로브 말이지.<br>준비해 뒀어.",
+      "packet_file": "packets/ch02/ch02-12.part07.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-12:1226:b2d9b97",
+      "source_hash": "b2d9b97",
+      "script": "ch02-12",
+      "speaker_id": "mel",
+      "ja": "いいのよ<br>ちゃんとお姉さんの面倒みてあげて偉いわ",
+      "ko_codex_reference": "괜찮아.<br>언니를 잘 돌봐 주다니 정말 장하구나.",
+      "packet_file": "packets/ch02/ch02-12.part07.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-13:18:4e88ca89",
+      "source_hash": "4e88ca89",
+      "script": "ch02-13",
+      "speaker_id": "",
+      "ja": "ちょっとちくちくします。",
+      "ko_codex_reference": "조금 따끔거려요.",
+      "packet_file": "packets/ch02/ch02-13.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-13:74:41e0c53b",
+      "source_hash": "41e0c53b",
+      "script": "ch02-13",
+      "speaker_id": "",
+      "ja": "フローラ様が気の毒な状況なのは<br>かわいそうだけど僕にはどうしようもないことだ",
+      "ko_codex_reference": "플로라 님이 안타까운 상황에 놓인 건<br>가엾지만 내가 어떻게 할 수 있는 일이 아니다.",
+      "packet_file": "packets/ch02/ch02-13.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-13:131:90478e88",
+      "source_hash": "90478e88",
+      "script": "ch02-13",
+      "speaker_id": "kaj",
+      "ja": "…そんなこと…僕にできるのか…",
+      "ko_codex_reference": "…그런 일을… 내가 할 수 있을까…",
+      "packet_file": "packets/ch02/ch02-13.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-14:57:5a5e562b",
+      "source_hash": "5a5e562b",
+      "script": "ch02-14",
+      "speaker_id": "kaj",
+      "ja": "え え え え！？",
+      "ko_codex_reference": "어, 어, 어, 어?!",
+      "packet_file": "packets/ch02/ch02-14.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-14:154:6716b4e9",
+      "source_hash": "6716b4e9",
+      "script": "ch02-14",
+      "speaker_id": "son",
+      "ja": "またしても戻ってきやしたね…",
+      "ko_codex_reference": "또 돌아오셨군요…",
+      "packet_file": "packets/ch02/ch02-14.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-14:275:83464f39",
+      "source_hash": "83464f39",
+      "script": "ch02-14",
+      "speaker_id": "son",
+      "ja": "文字の意思を圧縮する程度のマナしか操作できないペンで<br>ちゃんとした絵なんて練りきれるはずがないっす",
+      "ko_codex_reference": "글자에 담긴 의지를 압축할 정도의 마나밖에 다루지 못하는 펜으로<br>제대로 된 그림을 완성할 수 있을 리가 없슴다.",
+      "packet_file": "packets/ch02/ch02-14.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-14:321:1e665e69",
+      "source_hash": "1e665e69",
+      "script": "ch02-14",
+      "speaker_id": "kaj",
+      "ja": "……………",
+      "ko_codex_reference": "……………",
+      "packet_file": "packets/ch02/ch02-14.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-14:327:5b12bf73",
+      "source_hash": "5b12bf73",
+      "script": "ch02-14",
+      "speaker_id": "",
+      "ja": "――――光で……絵を描く…！？",
+      "ko_codex_reference": "――――빛으로…… 그림을 그린다…?!",
+      "packet_file": "packets/ch02/ch02-14.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-15:10:befd0a19",
+      "source_hash": "befd0a19",
+      "script": "ch02-15",
+      "speaker_id": "",
+      "ja": "いいじゃないか 別に ダメだって言われても―――",
+      "ko_codex_reference": "뭐 어때, 안 된다는 말을 좀 들은들―――",
+      "packet_file": "packets/ch02/ch02-15.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-15:65:2c684de6",
+      "source_hash": "2c684de6",
+      "script": "ch02-15",
+      "speaker_id": "ban",
+      "ja": "技術的に無理なんだよ",
+      "ko_codex_reference": "기술적으로 불가능해.",
+      "packet_file": "packets/ch02/ch02-15.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-15:75:ce3a1ff6",
+      "source_hash": "ce3a1ff6",
+      "script": "ch02-15",
+      "speaker_id": "kaj",
+      "ja": "図書館から借りた設計図を元に描いているので<br>レンズの設計自体は既存のもののはずです！",
+      "ko_codex_reference": "도서관에서 빌린 설계도를 바탕으로 그렸으니<br>렌즈 설계 자체는 이미 존재하는 것일 텐데요!",
+      "packet_file": "packets/ch02/ch02-15.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-16:18:5e581b47",
+      "source_hash": "5e581b47",
+      "script": "ch02-16",
+      "speaker_id": "kaj",
+      "ja": "不可能…………",
+      "ko_codex_reference": "불가능…………",
+      "packet_file": "packets/ch02/ch02-16.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-16:57:72b83426",
+      "source_hash": "72b83426",
+      "script": "ch02-16",
+      "speaker_id": "",
+      "ja": "ということは ラインヴァスタは<br>レンズそのものは作れるということになる…",
+      "ko_codex_reference": "그렇다면 라인바스타는<br>렌즈 자체는 만들 수 있다는 뜻이다…",
+      "packet_file": "packets/ch02/ch02-16.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-16:79:70cad5f2",
+      "source_hash": "70cad5f2",
+      "script": "ch02-16",
+      "speaker_id": "kaj",
+      "ja": "プライドにこだわる余裕なんてあるのか？ 今の僕に？？",
+      "ko_codex_reference": "지금 내게 자존심을 따질 여유가 있나??",
+      "packet_file": "packets/ch02/ch02-16.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-17:48:c0931b57",
+      "source_hash": "c0931b57",
+      "script": "ch02-17",
+      "speaker_id": "kaj",
+      "ja": "いや そこはぶっちゃけちゃだめでしょう！？<br>本人を目の前にして言うことですか！？",
+      "ko_codex_reference": "아니, 그건 솔직히 말하면 안 되죠!?<br>당사자를 눈앞에 두고 할 말입니까!?",
+      "packet_file": "packets/ch02/ch02-17.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-17:65:79693cbb",
+      "source_hash": "79693cbb",
+      "script": "ch02-17",
+      "speaker_id": "rit",
+      "ja": "というかさ<br>お前 画家になりたいんじゃなかったのか？",
+      "ko_codex_reference": "그보다 말이야.<br>너, 화가가 되고 싶은 것 아니었나?",
+      "packet_file": "packets/ch02/ch02-17.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-17:119:e2586127",
+      "source_hash": "e2586127",
+      "script": "ch02-17",
+      "speaker_id": "kaj",
+      "ja": "ち 違う！",
+      "ko_codex_reference": "아, 아니야!",
+      "packet_file": "packets/ch02/ch02-17.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-17:223:4b1ca021",
+      "source_hash": "4b1ca021",
+      "script": "ch02-17",
+      "speaker_id": "",
+      "ja": "何も言い返せない………！",
+      "ko_codex_reference": "아무 말도 되받아칠 수 없어………!",
+      "packet_file": "packets/ch02/ch02-17.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-17:242:fae67924",
+      "source_hash": "fae67924",
+      "script": "ch02-17",
+      "speaker_id": "sel",
+      "ja": "ぶーー…リトナお話長いよ！",
+      "ko_codex_reference": "부우――… 리토나, 이야기 너무 길어!",
+      "packet_file": "packets/ch02/ch02-17.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-18:20:c9e9b878",
+      "source_hash": "c9e9b878",
+      "script": "ch02-18",
+      "speaker_id": "kaj",
+      "ja": "ふへへ…あ あのフリル 前来たときと同じやつだ…<br>流行ってるんだなー",
+      "ko_codex_reference": "후헤헤… 저, 저 프릴, 전에 왔을 때와 같은 거야…<br>유행하고 있구나~",
+      "packet_file": "packets/ch02/ch02-18.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-18:33:5c845d5",
+      "source_hash": "5c845d5",
+      "script": "ch02-18",
+      "speaker_id": "",
+      "ja": "当てがない…か",
+      "ko_codex_reference": "기댈 곳이 없다…인가.",
+      "packet_file": "packets/ch02/ch02-18.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-18:263:fd1c0286",
+      "source_hash": "fd1c0286",
+      "script": "ch02-18",
+      "speaker_id": "sel",
+      "ja": "たぶん直接頼んだらやってもらえると思うよ",
+      "ko_codex_reference": "아마 내가 직접 부탁하면 해 줄 거야.",
+      "packet_file": "packets/ch02/ch02-18.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-18:371:8fd2ed76",
+      "source_hash": "8fd2ed76",
+      "script": "ch02-18",
+      "speaker_id": "rit",
+      "ja": "今夜は何を食べようかな…",
+      "ko_codex_reference": "오늘 저녁은 뭘 먹을까…",
+      "packet_file": "packets/ch02/ch02-18.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-19:41:113ee8ae",
+      "source_hash": "113ee8ae",
+      "script": "ch02-19",
+      "speaker_id": "",
+      "ja": "いや 違う…それだけじゃない",
+      "ko_codex_reference": "아니, 달라… 그것만은 아니야.",
+      "packet_file": "packets/ch02/ch02-19.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-19:56:bbb94fb2",
+      "source_hash": "bbb94fb2",
+      "script": "ch02-19",
+      "speaker_id": "kaj",
+      "ja": "くっ…",
+      "ko_codex_reference": "큭…",
+      "packet_file": "packets/ch02/ch02-19.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-19:173:eea41296",
+      "source_hash": "eea41296",
+      "script": "ch02-19",
+      "speaker_id": "oug",
+      "ja": "はぁ？ 大丈夫かよお前…<br>この時間はいつも夜間の絵のレッスンとやらに<br>行ってるんだろう？",
+      "ko_codex_reference": "뭐? 너 괜찮냐…<br>이 시간이면 늘 야간 그림 수업인가 뭔가 하러<br>나가 있잖아?",
+      "packet_file": "packets/ch02/ch02-19.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-20:51:171e62c8",
+      "source_hash": "171e62c8",
+      "script": "ch02-20",
+      "speaker_id": "adi",
+      "ja": "そ そうだったんだ…それは本当に辛いね…",
+      "ko_codex_reference": "그, 그랬구나… 그건 정말 괴롭겠네…",
+      "packet_file": "packets/ch02/ch02-20.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-20:68:1e665e69",
+      "source_hash": "1e665e69",
+      "script": "ch02-20",
+      "speaker_id": "kaj",
+      "ja": "……………",
+      "ko_codex_reference": "……………",
+      "packet_file": "packets/ch02/ch02-20.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-20:140:8375c37",
+      "source_hash": "8375c37",
+      "script": "ch02-20",
+      "speaker_id": "",
+      "ja": "自分の目的 自分の夢",
+      "ko_codex_reference": "내 목표, 내 꿈.",
+      "packet_file": "packets/ch02/ch02-20.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-20:211:22a575fd",
+      "source_hash": "22a575fd",
+      "script": "ch02-20",
+      "speaker_id": "adi",
+      "ja": "でもね…現実ってやっぱりそんなに甘くなくて…",
+      "ko_codex_reference": "하지만 말이야… 현실은 역시 그렇게 녹록지 않아서…",
+      "packet_file": "packets/ch02/ch02-20.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch02-20:246:742f7a4b",
+      "source_hash": "742f7a4b",
+      "script": "ch02-20",
+      "speaker_id": "rig",
+      "ja": "なにがあったのか知らないが<br>ファリナーは所謂昔でいうところの客商売というやつだ",
+      "ko_codex_reference": "무슨 일이 있었는지는 모르겠지만<br>파리너는 소위 옛날식으로 말하면 접객업이라는 거다.",
+      "packet_file": "packets/ch02/ch02-20.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-00:38:d2dcfb9e",
+      "source_hash": "d2dcfb9e",
+      "script": "ch03-00",
+      "speaker_id": "ken",
+      "ja": "それで？ お前の決断を聞こう",
+      "ko_codex_reference": "그래서? 네 결론을 들어 보자.",
+      "packet_file": "packets/ch03/ch03-00.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-00:70:8ce2f514",
+      "source_hash": "8ce2f514",
+      "script": "ch03-00",
+      "speaker_id": "ken",
+      "ja": "人生生きてりゃ 有耶無耶にされて<br>終わっちまうことなんていくらでもあるのさ",
+      "ko_codex_reference": "살다 보면 흐지부지된 채로<br>끝나 버리는 일은 얼마든지 있어.",
+      "packet_file": "packets/ch03/ch03-00.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-00:137:f7bb9a3a",
+      "source_hash": "f7bb9a3a",
+      "script": "ch03-00",
+      "speaker_id": "kaj",
+      "ja": " ！！！！",
+      "ko_codex_reference": "!!!!",
+      "packet_file": "packets/ch03/ch03-00.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-01:89:2478e77a",
+      "source_hash": "2478e77a",
+      "script": "ch03-01",
+      "speaker_id": "kaj",
+      "ja": "あ あれ…",
+      "ko_codex_reference": "어, 어라…",
+      "packet_file": "packets/ch03/ch03-01.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-01:155:69f095db",
+      "source_hash": "69f095db",
+      "script": "ch03-01",
+      "speaker_id": "ken",
+      "ja": "焦げ跡だけじゃない<br>もっともっと色んな表現ができるようになっている",
+      "ko_codex_reference": "이제는 탄 자국뿐 아니라<br>훨씬 더 다양한 표현을 할 수 있게 됐지.",
+      "packet_file": "packets/ch03/ch03-01.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-01:286:3e5d8710",
+      "source_hash": "3e5d8710",
+      "script": "ch03-01",
+      "speaker_id": "",
+      "ja": "神様たちが恵んでくださるマナを 粗末に扱うなと<br>親からも先生からもこっぴどく叱られた",
+      "ko_codex_reference": "신들이 내려 주신 마나를 함부로 다루지 말라며<br>부모님과 선생님께 호되게 꾸중을 들었다.",
+      "packet_file": "packets/ch03/ch03-01.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-01:298:7b1e7979",
+      "source_hash": "7b1e7979",
+      "script": "ch03-01",
+      "speaker_id": "",
+      "ja": "文字のような小さい箇所のみの温度を<br>正確にあげるのもの至難の技だ",
+      "ko_codex_reference": "글자처럼 작은 부분만<br>정확히 온도를 올리는 것도 지극히 어렵다.",
+      "packet_file": "packets/ch03/ch03-01.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-01:512:82cfab91",
+      "source_hash": "82cfab91",
+      "script": "ch03-01",
+      "speaker_id": "mis",
+      "ja": "ここでガールウォッチングしてるってことは<br>なにか落ち込むことがあったってことか？",
+      "ko_codex_reference": "여기서 여자 구경을 한다는 건<br>뭔가 잘 안 풀려서 풀이 죽었다는 거냐?",
+      "packet_file": "packets/ch03/ch03-01.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-02:29:397bd28c",
+      "source_hash": "397bd28c",
+      "script": "ch03-02",
+      "speaker_id": "kaj",
+      "ja": "セルフィーネ姫のご提案は…断って正解だったと思います",
+      "ko_codex_reference": "셀피네 공주님의 제안은… 거절하길 잘한 것 같아요.",
+      "packet_file": "packets/ch03/ch03-02.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-02:287:3b6d51ab",
+      "source_hash": "3b6d51ab",
+      "script": "ch03-02",
+      "speaker_id": "",
+      "ja": "不味くないのでは…？？",
+      "ko_codex_reference": "맛없지 않은데…??",
+      "packet_file": "packets/ch03/ch03-02.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-02:346:be65c377",
+      "source_hash": "be65c377",
+      "script": "ch03-02",
+      "speaker_id": "mis",
+      "ja": "まあいわゆる昔のルゼンハイドのイメージから<br>かけ離れたことすると 激おこ野郎になるわけよ",
+      "ko_codex_reference": "뭐, 소위 옛날 루젠하이드의 이미지에서<br>벗어난 짓을 하면 불같이 화내는 놈인 거지.",
+      "packet_file": "packets/ch03/ch03-02.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-02:399:49c4aac9",
+      "source_hash": "49c4aac9",
+      "script": "ch03-02",
+      "speaker_id": "mis",
+      "ja": "なんかおかしいと思うんだよ",
+      "ko_codex_reference": "뭔가 이상하다고 생각했거든.",
+      "packet_file": "packets/ch03/ch03-02.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-02:483:742fccaa",
+      "source_hash": "742fccaa",
+      "script": "ch03-02",
+      "speaker_id": "mis",
+      "ja": "……………",
+      "ko_codex_reference": "……………",
+      "packet_file": "packets/ch03/ch03-02.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-02:487:7ac117e3",
+      "source_hash": "7ac117e3",
+      "script": "ch03-02",
+      "speaker_id": "kaj",
+      "ja": "さ さっきのストックだけだと パッとしませんでしたが…<br>こ これは…全ての素材の味がぐっと引き立ってて…！",
+      "ko_codex_reference": "아, 아까의 육수만으로는 밋밋했지만…<br>이, 이건… 모든 재료의 맛이 확 살아나서…!",
+      "packet_file": "packets/ch03/ch03-02.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-02:524:d54da587",
+      "source_hash": "d54da587",
+      "script": "ch03-02",
+      "speaker_id": "",
+      "ja": "やっぱり情けないなー…僕って",
+      "ko_codex_reference": "역시 한심하네… 나는.",
+      "packet_file": "packets/ch03/ch03-02.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-03:90:d2a8c374",
+      "source_hash": "d2a8c374",
+      "script": "ch03-03",
+      "speaker_id": "rit",
+      "ja": "は？ いきなり訪ねてきてなんだ",
+      "ko_codex_reference": "뭐? 다짜고짜 찾아와서 무슨 소리냐?",
+      "packet_file": "packets/ch03/ch03-03.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-03:145:54cfef47",
+      "source_hash": "54cfef47",
+      "script": "ch03-03",
+      "speaker_id": "kaj",
+      "ja": "……やっぱりか……くそ…",
+      "ko_codex_reference": "……역시 그런가…… 젠장…",
+      "packet_file": "packets/ch03/ch03-03.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-03:252:412d52c2",
+      "source_hash": "412d52c2",
+      "script": "ch03-03",
+      "speaker_id": "kaj",
+      "ja": "ごめん……",
+      "ko_codex_reference": "미안……",
+      "packet_file": "packets/ch03/ch03-03.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-03:270:c3a8cfd3",
+      "source_hash": "c3a8cfd3",
+      "script": "ch03-03",
+      "speaker_id": "rit",
+      "ja": "私はなぜ… こんなにもクラフトの才に恵まれて<br>生まれてきてしまったのだろうな…",
+      "ko_codex_reference": "나는 왜… 이렇게나 크래프트 재능을 타고난 채<br>태어나 버린 걸까…",
+      "packet_file": "packets/ch03/ch03-03.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-03:337:9677749e",
+      "source_hash": "9677749e",
+      "script": "ch03-03",
+      "speaker_id": "",
+      "ja": "後遺症のことは知っていたのに…",
+      "ko_codex_reference": "후유증은 알고 있었는데…",
+      "packet_file": "packets/ch03/ch03-03.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-03:361:324f101a",
+      "source_hash": "324f101a",
+      "script": "ch03-03",
+      "speaker_id": "",
+      "ja": "これからの伝統を護り<br>僕達の人生を豊かにしてくれる人の心境なんて<br>僕は今まで一切考えてこなかった",
+      "ko_codex_reference": "앞으로 이어질 전통을 지키고<br>우리의 삶을 풍요롭게 해 주는 사람들의 마음 따위<br>나는 지금까지 단 한 번도 생각하지 않았다.",
+      "packet_file": "packets/ch03/ch03-03.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-04:94:c0a0560",
+      "source_hash": "c0a0560",
+      "script": "ch03-04",
+      "speaker_id": "oug",
+      "ja": "もし運が悪く相手のほうが向かってきたら これを使え",
+      "ko_codex_reference": "운 나쁘게 놈이 네 쪽으로 다가오면 이걸 써",
+      "packet_file": "packets/ch03/ch03-04.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-04:202:99728631",
+      "source_hash": "99728631",
+      "script": "ch03-04",
+      "speaker_id": "flo",
+      "ja": "…お………",
+      "ko_codex_reference": "…언………",
+      "packet_file": "packets/ch03/ch03-04.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-04:435:8a9aa4ff",
+      "source_hash": "8a9aa4ff",
+      "script": "ch03-04",
+      "speaker_id": "gua",
+      "ja": "セレンハイド邸でも言われるだろうけど<br>日が落ちたらここら一帯はスケルトンクルー体制に入る",
+      "ko_codex_reference": "세렌하이드 저택에서도 듣겠지만<br>해가 지면 이 일대는 최소 인원 체제로 들어갑니다",
+      "packet_file": "packets/ch03/ch03-04.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-04:601:6b205172",
+      "source_hash": "6b205172",
+      "script": "ch03-04",
+      "speaker_id": "kaj",
+      "ja": "…………………",
+      "ko_codex_reference": "…………………",
+      "packet_file": "packets/ch03/ch03-04.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-04:686:1832fd5",
+      "source_hash": "1832fd5",
+      "script": "ch03-04",
+      "speaker_id": "mis",
+      "ja": "お前も知ってるだろうけど…<br>ふら〜っと辿り着けるような場所じゃないぞ あそこは",
+      "ko_codex_reference": "너도 알겠지만…<br>어슬렁거리다 도착할 수 있는 곳이 아니잖아, 거긴",
+      "packet_file": "packets/ch03/ch03-04.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-04:711:5eae0eb9",
+      "source_hash": "5eae0eb9",
+      "script": "ch03-04",
+      "speaker_id": "rig",
+      "ja": "あまり当てにならない情報だ",
+      "ko_codex_reference": "별로 믿을 만한 정보는 아니야",
+      "packet_file": "packets/ch03/ch03-04.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-04:958:61d11113",
+      "source_hash": "61d11113",
+      "script": "ch03-04",
+      "speaker_id": "red",
+      "ja": "ス゛ガ゛タ゛ヲ゛ア゛ラ゛ワ゛セ゛ェェェーーーー ーーーーーーーーーーーーーーーッ！！！",
+      "ko_codex_reference": "모·습·을·드·러·내애애애――――――――――!!!",
+      "packet_file": "packets/ch03/ch03-04.part04.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-04:1145:8389877f",
+      "source_hash": "8389877f",
+      "script": "ch03-04",
+      "speaker_id": "医療班",
+      "ja": "はい！",
+      "ko_codex_reference": "예!",
+      "packet_file": "packets/ch03/ch03-04.part05.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-04:1151:a4698b63",
+      "source_hash": "a4698b63",
+      "script": "ch03-04",
+      "speaker_id": "tos",
+      "ja": "なにをしてるんだこんなところで！",
+      "ko_codex_reference": "이런 데서 뭐 하는 거야!",
+      "packet_file": "packets/ch03/ch03-04.part05.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-04:1173:c760fec2",
+      "source_hash": "c760fec2",
+      "script": "ch03-04",
+      "speaker_id": "",
+      "ja": "止り木でなにをしていたのか",
+      "ko_codex_reference": "횃대에서 무엇을 하고 있었는지",
+      "packet_file": "packets/ch03/ch03-04.part05.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-05:33:58afc378",
+      "source_hash": "58afc378",
+      "script": "ch03-05",
+      "speaker_id": "ban",
+      "ja": "い いやだって ギルドに入ってないなら<br>尚更蚊帳の外ですよね？",
+      "ko_codex_reference": "아, 아니, 길드에 들어가지 않았다면<br>더더욱 바깥사람이잖아요?",
+      "packet_file": "packets/ch03/ch03-05.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-05:48:2d082aef",
+      "source_hash": "2d082aef",
+      "script": "ch03-05",
+      "speaker_id": "old",
+      "ja": "…………",
+      "ko_codex_reference": "…………",
+      "packet_file": "packets/ch03/ch03-05.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-05:59:d0612871",
+      "source_hash": "d0612871",
+      "script": "ch03-05",
+      "speaker_id": "old",
+      "ja": "しかも ヘリコイド付きで映写される<br>イメージサークルの大きさを<br>キャンバスの大きさに合わせて調整できるらしい",
+      "ko_codex_reference": "게다가 헬리코이드가 달려 있어서 투영되는<br>이미지 서클의 크기를<br>캔버스 크기에 맞춰 조절할 수 있다는군.",
+      "packet_file": "packets/ch03/ch03-05.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-06:37:2c74c20c",
+      "source_hash": "2c74c20c",
+      "script": "ch03-06",
+      "speaker_id": "rit",
+      "ja": "去る者は追わず 来るものは拒まずが<br>この『止り木』のルールだろう？ なあ リーダー？",
+      "ko_codex_reference": "가는 사람은 붙잡지 않고, 오는 사람은 막지 않는 게<br>이 ‘횃대’의 규칙이잖아? 그렇지, 리더?",
+      "packet_file": "packets/ch03/ch03-06.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-06:55:6a1e4b40",
+      "source_hash": "6a1e4b40",
+      "script": "ch03-06",
+      "speaker_id": "oug",
+      "ja": "そうか？ もう暫く篭りっきりだが…",
+      "ko_codex_reference": "그래? 한동안 계속 틀어박혀 있는데…",
+      "packet_file": "packets/ch03/ch03-06.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-07:24:d979942",
+      "source_hash": "d979942",
+      "script": "ch03-07",
+      "speaker_id": "rit",
+      "ja": "よう…",
+      "ko_codex_reference": "여어…",
+      "packet_file": "packets/ch03/ch03-07.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-07:104:ba3b6f87",
+      "source_hash": "ba3b6f87",
+      "script": "ch03-07",
+      "speaker_id": "sel",
+      "ja": "スピー……",
+      "ko_codex_reference": "새근……",
+      "packet_file": "packets/ch03/ch03-07.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-07:146:782dbb79",
+      "source_hash": "782dbb79",
+      "script": "ch03-07",
+      "speaker_id": "kaj",
+      "ja": "そうなんだよねー 僕 思ってることを<br>うまく形にできない障害があるらしくてさ",
+      "ko_codex_reference": "그래. 나는 생각한 걸<br>제대로 형태로 만들지 못하는 장애가 있는 모양이야.",
+      "packet_file": "packets/ch03/ch03-07.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-08:233:1d865d60",
+      "source_hash": "1d865d60",
+      "script": "ch03-08",
+      "speaker_id": "",
+      "ja": "彼の前に置かれたキャンバスには…<br>うっすらとボケた人物が投影されていた",
+      "ko_codex_reference": "그 앞에 놓인 캔버스에는…<br>희미하게 흐려진 인물이 투영되어 있었다.",
+      "packet_file": "packets/ch03/ch03-08.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-08:497:22c291e9",
+      "source_hash": "22c291e9",
+      "script": "ch03-08",
+      "speaker_id": "kaj",
+      "ja": "ああ もうめんどくさいなあ…<br>髪なんて１０年くらい伸びないでいいのに",
+      "ko_codex_reference": "아, 정말 귀찮네…<br>머리카락 따위 10년쯤 안 자라도 될 텐데.",
+      "packet_file": "packets/ch03/ch03-08.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-08:603:6745abf0",
+      "source_hash": "6745abf0",
+      "script": "ch03-08",
+      "speaker_id": "kaj",
+      "ja": "でも 父さんは…<br>母さんのことでそんな嘘を言うような人じゃない",
+      "ko_codex_reference": "하지만 아버지는…<br>엄마를 두고 그런 거짓말을 할 사람이 아니야.",
+      "packet_file": "packets/ch03/ch03-08.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-08:624:8f9ff87",
+      "source_hash": "8f9ff87",
+      "script": "ch03-08",
+      "speaker_id": "oug",
+      "ja": "それもお前の母ちゃんだよ",
+      "ko_codex_reference": "그 사람도 네 엄마다.",
+      "packet_file": "packets/ch03/ch03-08.part02.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-08:899:d994a869",
+      "source_hash": "d994a869",
+      "script": "ch03-08",
+      "speaker_id": "sel",
+      "ja": "もう ほんとうに素直じゃないですね<br>らいんばすたさんは！",
+      "ko_codex_reference": "정말이지, 솔직하지 못하다니까요.<br>라인바스타 씨는!",
+      "packet_file": "packets/ch03/ch03-08.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-08:985:e1d6b584",
+      "source_hash": "e1d6b584",
+      "script": "ch03-08",
+      "speaker_id": "rit",
+      "ja": "おい…カージ",
+      "ko_codex_reference": "이봐… 카지.",
+      "packet_file": "packets/ch03/ch03-08.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-08:1159:634ad93c",
+      "source_hash": "634ad93c",
+      "script": "ch03-08",
+      "speaker_id": "",
+      "ja": "<br><br><br><br><br><br><br>                    大切な人の日常を 形にして残したいんだ――――",
+      "ko_codex_reference": "<br><br><br><br><br><br><br>                    소중한 사람의 일상을 형태로 남기고 싶어――――",
+      "packet_file": "packets/ch03/ch03-08.part03.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-09:31:b927a6e7",
+      "source_hash": "b927a6e7",
+      "script": "ch03-09",
+      "speaker_id": "ken",
+      "ja": "お前さんは確かオバーグ果樹園の…",
+      "ko_codex_reference": "자네는 분명 오버그 과수원의…",
+      "packet_file": "packets/ch03/ch03-09.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-09:69:3dd3687b",
+      "source_hash": "3dd3687b",
+      "script": "ch03-09",
+      "speaker_id": "oug",
+      "ja": "息子が あそこまで何かに夢中になってるのは―――<br>初めてかもしれない",
+      "ko_codex_reference": "내 아들이 무언가에 저렇게까지 몰두한 건―――<br>처음일지도 몰라.",
+      "packet_file": "packets/ch03/ch03-09.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-10:24:201da731",
+      "source_hash": "201da731",
+      "script": "ch03-10",
+      "speaker_id": "rit",
+      "ja": "グレイヴェール",
+      "ko_codex_reference": "그레이베일.",
+      "packet_file": "packets/ch03/ch03-10.part01.json"
+    },
+    {
+      "group": "holdout",
+      "uid": "ch03-10:46:9144f193",
+      "source_hash": "9144f193",
+      "script": "ch03-10",
+      "speaker_id": "cer",
+      "ja": "さーて 立ち話もなんだ<br>中へ入りましょうか？",
+      "ko_codex_reference": "자, 계속 서서 이야기할 수도 없으니<br>안으로 들어갈까?",
+      "packet_file": "packets/ch03/ch03-10.part01.json"
+    }
+  ]
+}

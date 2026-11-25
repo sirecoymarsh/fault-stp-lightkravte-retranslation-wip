@@ -1,0 +1,771 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-17.part02",
+  "script": "ch02-17",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch02-17:172:35efd5ca",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "ぐぐ…ゅ…そ それは…！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-17:173:2c948bb",
+        "speaker_id": "rit",
+        "speaker_name": "리토나",
+        "ja": "師匠は 講師時代の話はしたがらない",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-17:174:b3440c07",
+        "speaker_id": "rit",
+        "speaker_name": "리토나",
+        "ja": "移住時に辛いことが沢山あったらしい―――<br>それをお前は無神経にほりかえした",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-17:176:fd5ac9a7",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "え…そ そんなの わかるはず………！！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-17:183:17c6174e",
+        "speaker_id": "rit",
+        "speaker_name": "리토나",
+        "ja": "例えば――",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch02-17:185:485d5b7a",
+      "source_hash": "485d5b7a",
+      "sequence": 100,
+      "source_line": 185,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "描かれる側だとしたら…<br>私は お前のキャンバスの裏に座りたくない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:186:674c146a",
+      "source_hash": "674c146a",
+      "sequence": 101,
+      "source_line": 186,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "想像できるからだ お前の走らせるその筆に<br>確固とした意思が宿っていないことを――<br>そのような態度のやつに絵なんて描いてもらいたくない",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:188:7427bb42",
+      "source_hash": "7427bb42",
+      "sequence": 102,
+      "source_line": 188,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:190:84eab4e9",
+      "source_hash": "84eab4e9",
+      "sequence": 103,
+      "source_line": 190,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "お前はなぜ筆を握っている？<br>お前は何を表現しようとしている？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:192:4418e67d",
+      "source_hash": "4418e67d",
+      "sequence": 104,
+      "source_line": 192,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "下心でも劣情でも 許そうではないか<br>芸術という偉大な名の下に",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:193:a1fdb706",
+      "source_hash": "a1fdb706",
+      "sequence": 105,
+      "source_line": 193,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "何年も練習しているのに<br>一向に上達する気配すらないらしいじゃないか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:195:6f0877",
+      "source_hash": "6f0877",
+      "sequence": 106,
+      "source_line": 195,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "それはなぜだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:197:e8801379",
+      "source_hash": "e8801379",
+      "sequence": 107,
+      "source_line": 197,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "答えろカージ＝オバーグ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:198:de5e23f9",
+      "source_hash": "de5e23f9",
+      "sequence": 108,
+      "source_line": 198,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "お前はいったい何がしたいのだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:200:53b23404",
+      "source_hash": "53b23404",
+      "sequence": 109,
+      "source_line": 200,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "うう…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:216:3c85604e",
+      "source_hash": "3c85604e",
+      "sequence": 110,
+      "source_line": 216,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "く くそ…くそくそくそくそくそ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:217:57eb2e9c",
+      "source_hash": "57eb2e9c",
+      "sequence": 111,
+      "source_line": 217,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "え 偉そうに…！ 自分のことを棚に上げて…<br>こ こっちの気も知らないで…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:219:c8104c8c",
+      "source_hash": "c8104c8c",
+      "sequence": 112,
+      "source_line": 219,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "な なんでこんなこと言われなきゃいけないんだ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:220:d6f96f84",
+      "source_hash": "d6f96f84",
+      "sequence": 113,
+      "source_line": 220,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "く………く…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:222:e476568b",
+      "source_hash": "e476568b",
+      "sequence": 114,
+      "source_line": 222,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "でも…何も…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:223:4b1ca021",
+      "source_hash": "4b1ca021",
+      "sequence": 115,
+      "source_line": 223,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "何も言い返せない………！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:224:e387413b",
+      "source_hash": "e387413b",
+      "sequence": 116,
+      "source_line": 224,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "く…うう…くそ…くそ！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:233:716de868",
+      "source_hash": "716de868",
+      "sequence": 117,
+      "source_line": 233,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:234:49edd5a2",
+      "source_hash": "49edd5a2",
+      "sequence": 118,
+      "source_line": 234,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "すみませんね セルフィーネ様",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:235:c66dbeb0",
+      "source_hash": "c66dbeb0",
+      "sequence": 119,
+      "source_line": 235,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "もう出てきていいですよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:242:fae67924",
+      "source_hash": "fae67924",
+      "sequence": 120,
+      "source_line": 242,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "ぶーー…リトナお話長いよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:246:7373ec72",
+      "source_hash": "7373ec72",
+      "sequence": 121,
+      "source_line": 246,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "そうですね。申し訳ありません",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:248:de690607",
+      "source_hash": "de690607",
+      "sequence": 122,
+      "source_line": 248,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "もう…別にいいけどさー<br>あーあー…わたしもカージ君とお話ししたかったなー",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:250:1c2d58aa",
+      "source_hash": "1c2d58aa",
+      "sequence": 123,
+      "source_line": 250,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "最近いつもこんなんばっかり",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:252:716de868",
+      "source_hash": "716de868",
+      "sequence": 124,
+      "source_line": 252,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:255:79720d3e",
+      "source_hash": "79720d3e",
+      "sequence": 125,
+      "source_line": 255,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "それにしても随分怒ってたね リトナ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:256:f27e1311",
+      "source_hash": "f27e1311",
+      "sequence": 126,
+      "source_line": 256,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "なんであんな言い方しちゃったの？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:258:4ae479a",
+      "source_hash": "4ae479a",
+      "sequence": 127,
+      "source_line": 258,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "カージ君 そんなに悪いことしてるのかな？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:262:cb5cca18",
+      "source_hash": "cb5cca18",
+      "sequence": 128,
+      "source_line": 262,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:264:4693ff8",
+      "source_hash": "4693ff8",
+      "sequence": 129,
+      "source_line": 264,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "さあ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:266:cb5cca18",
+      "source_hash": "cb5cca18",
+      "sequence": 130,
+      "source_line": 266,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:268:5995bc0c",
+      "source_hash": "5995bc0c",
+      "sequence": 131,
+      "source_line": 268,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "強いて言うなら…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:271:55404aa7",
+      "source_hash": "55404aa7",
+      "sequence": 132,
+      "source_line": 271,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "垣間見えるからじゃないですかね…<br>打たれ弱いやつを見ると",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:273:716de868",
+      "source_hash": "716de868",
+      "sequence": 133,
+      "source_line": 273,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:274:99c4a18",
+      "source_hash": "99c4a18",
+      "sequence": 134,
+      "source_line": 274,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "――――自分が",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:275:8df740bc",
+      "source_hash": "8df740bc",
+      "sequence": 135,
+      "source_line": 275,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "？？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:280:93c7a42",
+      "source_hash": "93c7a42",
+      "sequence": 136,
+      "source_line": 280,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "くそ！！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:281:24f8c2b3",
+      "source_hash": "24f8c2b3",
+      "sequence": 137,
+      "source_line": 281,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なんであんな偉そうなことを言われなきゃいけないんだ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:282:b4432e1f",
+      "source_hash": "b4432e1f",
+      "sequence": 138,
+      "source_line": 282,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "くそっ…くそっ！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:293:5d2455ef",
+      "source_hash": "5d2455ef",
+      "sequence": 139,
+      "source_line": 293,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ラインヴァスタのやつ！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:294:9c80a3cf",
+      "source_hash": "9c80a3cf",
+      "sequence": 140,
+      "source_line": 294,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "しかし実際なにも言い返せなかった…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:295:50b4131d",
+      "source_hash": "50b4131d",
+      "sequence": 141,
+      "source_line": 295,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それはなぜか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:296:905e0204",
+      "source_hash": "905e0204",
+      "sequence": 142,
+      "source_line": 296,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "心の底で全て図星だと どこかで思っているからだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:301:44211e19",
+      "source_hash": "44211e19",
+      "sequence": 143,
+      "source_line": 301,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "絵を描きたい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:302:841a5c74",
+      "source_hash": "841a5c74",
+      "sequence": 144,
+      "source_line": 302,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "絵を",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:313:abfa6c8b",
+      "source_hash": "abfa6c8b",
+      "sequence": 145,
+      "source_line": 313,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "絵を描きたい……！！！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:317:c9d5d5b7",
+      "source_hash": "c9d5d5b7",
+      "sequence": 146,
+      "source_line": 317,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "<br><br><br><br><br><br><br>              ――――あっちの",
+      "required_tokens": [
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:318:d9df1bb2",
+      "source_hash": "d9df1bb2",
+      "sequence": 147,
+      "source_line": 318,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "                             才能のある人たちの世界へ――――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:323:f8f9f401",
+      "source_hash": "f8f9f401",
+      "sequence": 148,
+      "source_line": 323,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "行きたかった！！！！！！ 僕だって！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:324:a5210d80",
+      "source_hash": "a5210d80",
+      "sequence": 149,
+      "source_line": 324,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "普通でありたかった！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:339:df2ff9e8",
+      "source_hash": "df2ff9e8",
+      "sequence": 150,
+      "source_line": 339,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "<br><br><br><br><br><br><br>                  ――――プロは諦めたほうがいい",
+      "required_tokens": [
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:353:f45da9e",
+      "source_hash": "f45da9e",
+      "sequence": 151,
+      "source_line": 353,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "本当は僕だって絵を描きたかった…！！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:354:9cf0a864",
+      "source_hash": "9cf0a864",
+      "sequence": 152,
+      "source_line": 354,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "でも…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:355:2f428509",
+      "source_hash": "2f428509",
+      "sequence": 153,
+      "source_line": 355,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "でも どうしろって言うんだよ！？！？！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:356:8bc624e6",
+      "source_hash": "8bc624e6",
+      "sequence": 154,
+      "source_line": 356,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "障害は…どうしようもないんだろ！？！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:357:7c871b40",
+      "source_hash": "7c871b40",
+      "sequence": 155,
+      "source_line": 357,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕だって…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:358:f6f945aa",
+      "source_hash": "f6f945aa",
+      "sequence": 156,
+      "source_line": 358,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "こんなライトクラフトなんかじゃなくて……<br>本当は絵を描きたかったのに！！！！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

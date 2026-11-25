@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "scope": "New correction-list structural integrity only; not previously passed 6,746-line gates and not an automated semantic judgment",
+  "records": 61,
+  "counts": {
+    "keep": 26,
+    "optional": 14,
+    "fix": 16,
+    "hold": 5
+  },
+  "proposals": 33,
+  "input_hashes_unchanged": 52,
+  "protected_tag_multisets": "unchanged relative to existing text for all proposed replacements",
+  "negative_tests": {
+    "duplicate_uid": true,
+    "source_mutation": true,
+    "missing_protected_tag": true
+  },
+  "applied_to_translation_map": false,
+  "applied_to_game": false
+}

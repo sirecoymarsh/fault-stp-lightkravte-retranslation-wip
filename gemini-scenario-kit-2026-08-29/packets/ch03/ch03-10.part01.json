@@ -1,0 +1,407 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch03-10.part01",
+  "script": "ch03-10",
+  "chapter": "ch03",
+  "story_phase": "후반·위기와 결말",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch03-10:8:b6cfee79",
+      "source_hash": "b6cfee79",
+      "sequence": 0,
+      "source_line": 8,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "光を一瞬にして形にするマナクラフト…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:9:f6d224a0",
+      "source_hash": "f6d224a0",
+      "sequence": 1,
+      "source_line": 9,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "はあ…これは動いてしまうだろうな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:10:739d7152",
+      "source_hash": "739d7152",
+      "sequence": 2,
+      "source_line": 10,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "――――あの組織が",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:21:2b68094f",
+      "source_hash": "2b68094f",
+      "sequence": 3,
+      "source_line": 21,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:22:b6f00d20",
+      "source_hash": "b6f00d20",
+      "sequence": 4,
+      "source_line": 22,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "イシュタリアーナ・ヴィルセリオ<br>リトナ＝ラインヴァスタさん",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:23:f87f097c",
+      "source_hash": "f87f097c",
+      "sequence": 5,
+      "source_line": 23,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "やはり きましたか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:24:201da731",
+      "source_hash": "201da731",
+      "sequence": 6,
+      "source_line": 24,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "グレイヴェール",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:25:cf040ea",
+      "source_hash": "cf040ea",
+      "sequence": 7,
+      "source_line": 25,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "こんな短期間で二度もお目にかかることになるとは…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:26:a9212529",
+      "source_hash": "a9212529",
+      "sequence": 8,
+      "source_line": 26,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "君はやはりトラブルに恵まれやすい星のもとに<br>生まれてしまったのかもね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:27:2b68094f",
+      "source_hash": "2b68094f",
+      "sequence": 9,
+      "source_line": 27,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:28:3c696bb8",
+      "source_hash": "3c696bb8",
+      "sequence": 10,
+      "source_line": 28,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…そのようで",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:29:277c0784",
+      "source_hash": "277c0784",
+      "sequence": 11,
+      "source_line": 29,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "さて…ちまたで騒がれてる光のクラフト…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:30:c3b86005",
+      "source_hash": "c3b86005",
+      "sequence": 12,
+      "source_line": 30,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "ライトクラフトと呼ばれてる技術について<br>いくつか質問がありましてね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:31:2b68094f",
+      "source_hash": "2b68094f",
+      "sequence": 13,
+      "source_line": 31,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:32:bc73632b",
+      "source_hash": "bc73632b",
+      "sequence": 14,
+      "source_line": 32,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "あのレンズ…君が作ったんだって？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:33:cb5cca18",
+      "source_hash": "cb5cca18",
+      "sequence": 15,
+      "source_line": 33,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:34:5d258e84",
+      "source_hash": "5d258e84",
+      "sequence": 16,
+      "source_line": 34,
+      "speaker_id": "ruk",
+      "speaker_name": "루키",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:35:9b21141d",
+      "source_hash": "9b21141d",
+      "sequence": 17,
+      "source_line": 35,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "ふふふ…光学迷彩の次は<br>見たまんまの光景を形にするレンズですか…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:36:55316c40",
+      "source_hash": "55316c40",
+      "sequence": 18,
+      "source_line": 36,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "まさか…クラウ君並の肖像画が一瞬でできてしまうとは",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:37:deb4e58b",
+      "source_hash": "deb4e58b",
+      "sequence": 19,
+      "source_line": 37,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "君からは本当に色んな技術が出てくるね…くくく",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:38:6abe191d",
+      "source_hash": "6abe191d",
+      "sequence": 20,
+      "source_line": 38,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "いったいどうなっているのかな―――<br>ラインヴァスタの血筋ってやつは？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:39:cb5cca18",
+      "source_hash": "cb5cca18",
+      "sequence": 21,
+      "source_line": 39,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:40:cbee48df",
+      "source_hash": "cbee48df",
+      "sequence": 22,
+      "source_line": 40,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ライトクラフトを開発したのは私じゃない…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:41:2fdd95cb",
+      "source_hash": "2fdd95cb",
+      "sequence": 23,
+      "source_line": 41,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "いやいやいや…<br>拝見させていただきましたよ―――<br>レンズ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:42:ddb94404",
+      "source_hash": "ddb94404",
+      "sequence": 24,
+      "source_line": 42,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "…あの解像力は 前代未聞だ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:43:5104713f",
+      "source_hash": "5104713f",
+      "sequence": 25,
+      "source_line": 43,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "あの少年だけじゃ 無理だった<br>…って こんなこと言わなくてもわかってるよね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:44:b9bfdc66",
+      "source_hash": "b9bfdc66",
+      "sequence": 26,
+      "source_line": 44,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "ライトクラフトは―――<br>君のレンズが完成させたんだよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:45:cb5cca18",
+      "source_hash": "cb5cca18",
+      "sequence": 27,
+      "source_line": 45,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:46:9144f193",
+      "source_hash": "9144f193",
+      "sequence": 28,
+      "source_line": 46,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "さーて 立ち話もなんだ<br>中へ入りましょうか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:47:b2c41610",
+      "source_hash": "b2c41610",
+      "sequence": 29,
+      "source_line": 47,
+      "speaker_id": "cer",
+      "speaker_name": "세라로",
+      "voice_id": "",
+      "ja": "少しお時間頂きますよ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-10:49:1fff2ab3",
+      "source_hash": "1fff2ab3",
+      "sequence": 30,
+      "source_line": 49,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "―――リトナ＝ラインヴァスタさん",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

@@ -1,0 +1,1331 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-12.part01",
+  "script": "ch02-12",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": [
+      {
+        "uid": "ch02-12:253:473c979f",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "となりでぐーたらしてろ…<br>そしたら僕が ひ 光れるってもんだ…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:269:ce8cfa",
+        "speaker_id": "rit",
+        "speaker_name": "리토나",
+        "ja": "ああああああああ くっそ暑い…もう！！ 私は限界だぞ！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:270:fa92e614",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "情けないわね…あんた…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:271:f9535137",
+        "speaker_id": "rit",
+        "speaker_name": "리토나",
+        "ja": "だぁぁぁ…あぁぁぁぁぁぁ…べぁぁぁぁぁ…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-12:272:37dcb0bf",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "う うわ…マジで汗だくねあんた…",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch02-12:20:c916b278",
+      "source_hash": "c916b278",
+      "sequence": 0,
+      "source_line": 20,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ん…んん……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:21:2c9a7974",
+      "source_hash": "2c9a7974",
+      "sequence": 1,
+      "source_line": 21,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "この音の波長…は…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:28:baea9fbc",
+      "source_hash": "baea9fbc",
+      "sequence": 2,
+      "source_line": 28,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "う うわ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:29:d705c9a8",
+      "source_hash": "d705c9a8",
+      "sequence": 3,
+      "source_line": 29,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "寝てしまっていたらしい！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:30:5cb4409",
+      "source_hash": "5cb4409",
+      "sequence": 4,
+      "source_line": 30,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "え いつの間に！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:31:cf40fb66",
+      "source_hash": "cf40fb66",
+      "sequence": 5,
+      "source_line": 31,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………！！！<br>さ サイフォンは！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:42:7b90dbde",
+      "source_hash": "7b90dbde",
+      "sequence": 6,
+      "source_line": 42,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………や やっぱりダメか………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:43:f8d8bce6",
+      "source_hash": "f8d8bce6",
+      "sequence": 7,
+      "source_line": 43,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なにも変わっていない…くそ…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:59:8739e93e",
+      "source_hash": "8739e93e",
+      "sequence": 8,
+      "source_line": 59,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？ あああ ちょ つ 通信ライン…！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:60:49a69dd0",
+      "source_hash": "49a69dd0",
+      "sequence": 9,
+      "source_line": 60,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………え！？？！？！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:62:4ec8a180",
+      "source_hash": "4ec8a180",
+      "sequence": 10,
+      "source_line": 62,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "し しかもこのシグニチャー………このマナって………！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:63:1825b0ff",
+      "source_hash": "1825b0ff",
+      "sequence": 11,
+      "source_line": 63,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "こ このマナ…このマナは……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:66:794f6b5e",
+      "source_hash": "794f6b5e",
+      "sequence": 12,
+      "source_line": 66,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ふ ふ ふおおおおおおおおおお<br>ふ ふろぉぉぉらさまあああああああ！？！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:67:275279f3",
+      "source_hash": "275279f3",
+      "sequence": 13,
+      "source_line": 67,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "フローラ様から連絡が！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:68:a819b0a6",
+      "source_hash": "a819b0a6",
+      "sequence": 14,
+      "source_line": 68,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "な なんで？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:69:c5866df2",
+      "source_hash": "c5866df2",
+      "sequence": 15,
+      "source_line": 69,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんで僕なんかにフローラ様から連絡が！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:71:f90d29fb",
+      "source_hash": "f90d29fb",
+      "sequence": 16,
+      "source_line": 71,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:72:26490a65",
+      "source_hash": "26490a65",
+      "sequence": 17,
+      "source_line": 72,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ああああああああああああああ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:73:7b98568b",
+      "source_hash": "7b98568b",
+      "sequence": 18,
+      "source_line": 73,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "フローラ様から 連絡が？！？！？！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:75:667f8896",
+      "source_hash": "667f8896",
+      "sequence": 19,
+      "source_line": 75,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ふぁ ふぁいいいい！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:76:ab56b51b",
+      "source_hash": "ab56b51b",
+      "sequence": 20,
+      "source_line": 76,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "はーいカージくん？<br>イスタ・ヴァイコーレ！ 起きてた？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:77:127e1002",
+      "source_hash": "127e1002",
+      "sequence": 21,
+      "source_line": 77,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いま…おき…いやはい起きております…です！ はう！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:78:1ebc0844",
+      "source_hash": "1ebc0844",
+      "sequence": 22,
+      "source_line": 78,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ちょ 大丈夫？ 今時間あるかな？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:79:afd7cd79",
+      "source_hash": "afd7cd79",
+      "sequence": 23,
+      "source_line": 79,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "が あば…はい あります ありますよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:80:f859841e",
+      "source_hash": "f859841e",
+      "sequence": 24,
+      "source_line": 80,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "よかった<br>じゃあ 今日あとで止り木のほうで会えないかな？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:82:23abd151",
+      "source_hash": "23abd151",
+      "sequence": 25,
+      "source_line": 82,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ 会う！？ も もちろん会えますよ！ はい！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:83:7cbb06d0",
+      "source_hash": "7cbb06d0",
+      "sequence": 26,
+      "source_line": 83,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "よかった…！ じゃ……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:89:8403c6c0",
+      "source_hash": "8403c6c0",
+      "sequence": 27,
+      "source_line": 89,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:91:efa9206a",
+      "source_hash": "efa9206a",
+      "sequence": 28,
+      "source_line": 91,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "フローラ様に呼び出された？<br>え？ なに？ デート？ みたいな？？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:92:f12735e",
+      "source_hash": "f12735e",
+      "sequence": 29,
+      "source_line": 92,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そんな！？ うっそ！？ え！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:95:584d2468",
+      "source_hash": "584d2468",
+      "sequence": 30,
+      "source_line": 95,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "と とにかく止り木…！！ 止り木！！！！！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:115:a984708e",
+      "source_hash": "a984708e",
+      "sequence": 31,
+      "source_line": 115,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "今日に限って二人しか集まらないなんて…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:117:14d9a387",
+      "source_hash": "14d9a387",
+      "sequence": 32,
+      "source_line": 117,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な…なにこのメンツ…なんで…なんで………！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:121:f08d4f37",
+      "source_hash": "f08d4f37",
+      "sequence": 33,
+      "source_line": 121,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "で…どうすりゃいいんだ<br>できれば早く帰りたいんだが",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:124:b15d2b51",
+      "source_hash": "b15d2b51",
+      "sequence": 34,
+      "source_line": 124,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なんでラインヴァスタがいるんだあぁぁぁぁぁぁぁーーーっ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:126:6b94d657",
+      "source_hash": "6b94d657",
+      "sequence": 35,
+      "source_line": 126,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あんた…いつもお使い頼まれてやってるんだから<br>これくらい協力しなさいよ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:128:71dc5608",
+      "source_hash": "71dc5608",
+      "sequence": 36,
+      "source_line": 128,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうだぞ！<br>フローラ様直々のお願いを渋るなんて 何様のつもりなんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:130:5b82669c",
+      "source_hash": "5b82669c",
+      "sequence": 37,
+      "source_line": 130,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "だいたい想像がつくからな…<br>面倒なこと頼まれそうだって",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:133:def12448",
+      "source_hash": "def12448",
+      "sequence": 38,
+      "source_line": 133,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "えー おっほん",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:136:74cac538",
+      "source_hash": "74cac538",
+      "sequence": 39,
+      "source_line": 136,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "カージ君はもう知ってると思うけど<br>この付近にビーアルが出るって情報は入ってるのよ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:138:cb5cca18",
+      "source_hash": "cb5cca18",
+      "sequence": 40,
+      "source_line": 138,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:140:e21706bf",
+      "source_hash": "e21706bf",
+      "sequence": 41,
+      "source_line": 140,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…なに…？ それは…まじか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:142:82495b8c",
+      "source_hash": "82495b8c",
+      "sequence": 42,
+      "source_line": 142,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "大マジよ<br>少しは聞く気になった？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:144:3f1c0d73",
+      "source_hash": "3f1c0d73",
+      "sequence": 43,
+      "source_line": 144,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "最近街で噂になってる…って言っても<br>あんたは知るはずないか…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:146:407188b0",
+      "source_hash": "407188b0",
+      "sequence": 44,
+      "source_line": 146,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ああ<br>基本出ないからな 外",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:149:bf66bcac",
+      "source_hash": "bf66bcac",
+      "sequence": 45,
+      "source_line": 149,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "調査によると<br>このレンデル森林の奥から出てきてるみたいなのよ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:150:d091e0c9",
+      "source_hash": "d091e0c9",
+      "sequence": 46,
+      "source_line": 150,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "たぶん巣があるんだと思う",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:152:510ccdef",
+      "source_hash": "510ccdef",
+      "sequence": 47,
+      "source_line": 152,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "まあ あっても不思議じゃないわな…<br>こんな深い森林にビーアルくらい<br>逆にいないほうが不自然だ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:154:11a1c15c",
+      "source_hash": "11a1c15c",
+      "sequence": 48,
+      "source_line": 154,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "それで二人にお願いしたいんだけど…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:156:4d270c35",
+      "source_hash": "4d270c35",
+      "sequence": 49,
+      "source_line": 156,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "まさか お前…<br>退治してくれとかいうんじゃないんだろうな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:158:e36ebd22",
+      "source_hash": "e36ebd22",
+      "sequence": 50,
+      "source_line": 158,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ええ！？ び ビーアルを退治！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:160:ef24b7c3",
+      "source_hash": "ef24b7c3",
+      "sequence": 51,
+      "source_line": 160,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そんなバカなこと頼むはずないでしょう<br>素人のあなた達に…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:162:4d9b5691",
+      "source_hash": "4d9b5691",
+      "sequence": 52,
+      "source_line": 162,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "頼みたいのは あっち",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:163:ee7c3e62",
+      "source_hash": "ee7c3e62",
+      "sequence": 53,
+      "source_line": 163,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "フローラ様が指差す先には杭が積まれていた",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:165:d954ffd9",
+      "source_hash": "d954ffd9",
+      "sequence": 54,
+      "source_line": 165,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ これ…って！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:167:430ec125",
+      "source_hash": "430ec125",
+      "sequence": 55,
+      "source_line": 167,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "？ ああん？ なんだこりゃ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:169:67f94fb6",
+      "source_hash": "67f94fb6",
+      "sequence": 56,
+      "source_line": 169,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "止り木の周辺に警戒網を張るための杭よ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:170:ca06cad0",
+      "source_hash": "ca06cad0",
+      "sequence": 57,
+      "source_line": 170,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "これで囲まれた領域内に大型の動物が入ってきたら<br>登録した人に通信ラインで知らせるようにできてるの",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:171:5f0ad605",
+      "source_hash": "5f0ad605",
+      "sequence": 58,
+      "source_line": 171,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "カージ君は知ってるわよね？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:173:e092407e",
+      "source_hash": "e092407e",
+      "sequence": 59,
+      "source_line": 173,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい<br>ファームリングでも使われています",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:174:45ad9c13",
+      "source_hash": "45ad9c13",
+      "sequence": 60,
+      "source_line": 174,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "リングのほうだと 果物や作物の盗難を<br>防いだりするほうに使われてますけどね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:176:f40046f9",
+      "source_hash": "f40046f9",
+      "sequence": 61,
+      "source_line": 176,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "こんな技術あったのか…便利な世の中になったもんだな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:178:1749b29a",
+      "source_hash": "1749b29a",
+      "sequence": 62,
+      "source_line": 178,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ただこれすっごく重くてさ…<br>一人じゃ刺して回るの限界あるから ちょっと手伝ってよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:180:ae41dd10",
+      "source_hash": "ae41dd10",
+      "sequence": 63,
+      "source_line": 180,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい！ 頑張ります！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:183:a126b0ec",
+      "source_hash": "a126b0ec",
+      "sequence": 64,
+      "source_line": 183,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "激しく嫌なんだが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:185:c4d71eb1",
+      "source_hash": "c4d71eb1",
+      "sequence": 65,
+      "source_line": 185,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "じゃないとセレンハイドに介入してもらうことに<br>なっちゃうんだけどな〜",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:186:15c629bb",
+      "source_hash": "15c629bb",
+      "sequence": 66,
+      "source_line": 186,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "だ〜れも 止り木には来れなくなっちゃうわよ〜",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:188:74db5148",
+      "source_hash": "74db5148",
+      "sequence": 67,
+      "source_line": 188,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ラインヴァスタさんだって それはいやよね〜<br>ここ あなたにとっての大事な現実逃避の場所だもんね〜",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:190:cb5cca18",
+      "source_hash": "cb5cca18",
+      "sequence": 68,
+      "source_line": 190,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:192:89744b3e",
+      "source_hash": "89744b3e",
+      "sequence": 69,
+      "source_line": 192,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ちっ…わかったよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:194:b4f41f28",
+      "source_hash": "b4f41f28",
+      "sequence": 70,
+      "source_line": 194,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "で どうしたらいいだこれ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:196:ecb91bd4",
+      "source_hash": "ecb91bd4",
+      "sequence": 71,
+      "source_line": 196,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "一定の距離で刺していくだけよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:197:6ff765c3",
+      "source_hash": "6ff765c3",
+      "sequence": 72,
+      "source_line": 197,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "リトナは起動用の<tip=\"bless\">ブレス</tip>もお願いね<br>先端のセディメントのマナを解くだけでいいの",
+      "required_tokens": [
+        "<tip=\"bless\">",
+        "</tip>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:198:771fcd73",
+      "source_hash": "771fcd73",
+      "sequence": 73,
+      "source_line": 198,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "こんな何十本もあるのを一つずつ刺していくのか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:200:ed6a6ac1",
+      "source_hash": "ed6a6ac1",
+      "sequence": 74,
+      "source_line": 200,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "こんな時に限って<br>なんでミィシャやリッグズがいないんだ…<br>ったく…来るんじゃなかった…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:202:44361b6f",
+      "source_hash": "44361b6f",
+      "sequence": 75,
+      "source_line": 202,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "全部で100本あるわ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:204:cac91e29",
+      "source_hash": "cac91e29",
+      "sequence": 76,
+      "source_line": 204,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "あほか！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:205:ea49dc25",
+      "source_hash": "ea49dc25",
+      "sequence": 77,
+      "source_line": 205,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "三人でやる仕事じゃないだろう！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:207:e00debe7",
+      "source_hash": "e00debe7",
+      "sequence": 78,
+      "source_line": 207,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "だから！！ 助っ人頼んだら<br>ここで人がたむろしてるってバレちゃうでしょう！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:208:aae5ab43",
+      "source_hash": "aae5ab43",
+      "sequence": 79,
+      "source_line": 208,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "本来なら<br>こんな森の奥に入ってきてること自体問題なんだから<br>私たちだけでなんとかしないと！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:210:e76e824",
+      "source_hash": "e76e824",
+      "sequence": 80,
+      "source_line": 210,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "こんなクソ重いのを100本も…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:212:2a4812a2",
+      "source_hash": "2a4812a2",
+      "sequence": 81,
+      "source_line": 212,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "100本全部必要になるかはわからないわよ？<br>多めに持ってきておいたの 足りなかったら最悪じゃない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:213:ceba0522",
+      "source_hash": "ceba0522",
+      "sequence": 82,
+      "source_line": 213,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "それはそうだが……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:215:cb5cca18",
+      "source_hash": "cb5cca18",
+      "sequence": 83,
+      "source_line": 215,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:217:a3871da5",
+      "source_hash": "a3871da5",
+      "sequence": 84,
+      "source_line": 217,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ん？ ちょっと待て<br>誰が運んだんだ？ お前が持ってきたんじゃないのか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:219:4887fe03",
+      "source_hash": "4887fe03",
+      "sequence": 85,
+      "source_line": 219,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "はぁ？ こんな量 一人で持ってこれるはずないじゃない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:220:c95c6e96",
+      "source_hash": "c95c6e96",
+      "sequence": 86,
+      "source_line": 220,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "じゃ じゃあ 誰が持ってきんだ？<br>その時点でレンデル森林に人が入ってることが<br>バレるんじゃないか…？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:222:be591020",
+      "source_hash": "be591020",
+      "sequence": 87,
+      "source_line": 222,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "業者にセレンハイド経由で頼んでおいたわ<br>レンデル森林から出てきてるのは間違いないみたいだから 理屈は合うでしょう？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:224:1a436c25",
+      "source_hash": "1a436c25",
+      "sequence": 88,
+      "source_line": 224,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "な なんだよ…どうせなら設置まで頼めばよかったのに…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:226:fbfd3426",
+      "source_hash": "fbfd3426",
+      "sequence": 89,
+      "source_line": 226,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "だからこの付近をうろつかれたら<br>止り木がバレるでしょうって言ってるの！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:227:7410d305",
+      "source_hash": "7410d305",
+      "sequence": 90,
+      "source_line": 227,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "運搬頼んで 設置はなしって<br>説明するのがめっちゃ面倒だったんだからね！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:232:e92cea48",
+      "source_hash": "e92cea48",
+      "sequence": 91,
+      "source_line": 232,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い 色々大変だったんですね…<br>みんなの安全のために ありがとうございます…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:235:716de868",
+      "source_hash": "716de868",
+      "sequence": 92,
+      "source_line": 235,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:237:f249a11",
+      "source_hash": "f249a11",
+      "sequence": 93,
+      "source_line": 237,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "お前も知ってるだろうが 私は体力ないからな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:239:c4a94649",
+      "source_hash": "c4a94649",
+      "sequence": 94,
+      "source_line": 239,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "できるだけでいいから！ みんなが帰ってきたら全員に<br>手伝ってもらうから それまで二人ともお願いね！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:240:7c4d7210",
+      "source_hash": "7c4d7210",
+      "sequence": 95,
+      "source_line": 240,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい！ がんばります！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:242:881c7d3e",
+      "source_hash": "881c7d3e",
+      "sequence": 96,
+      "source_line": 242,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "決まったら さっさとやっちゃいましょう！<br>可能な限り等間隔で！ じゃないと警戒網として<br>機能しないから！ そんじゃよろしく！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:246:3356f786",
+      "source_hash": "3356f786",
+      "sequence": 97,
+      "source_line": 246,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "よ よ〜し 頑張っちゃうぞ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:249:22263a25",
+      "source_hash": "22263a25",
+      "sequence": 98,
+      "source_line": 249,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ああ やばい…あまりにも面倒臭くて涙がでてきた…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-12:252:3411689e",
+      "source_hash": "3411689e",
+      "sequence": 99,
+      "source_line": 252,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こ こいつなやつに負けたくない…",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

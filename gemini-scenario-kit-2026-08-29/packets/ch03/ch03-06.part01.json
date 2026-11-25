@@ -1,0 +1,307 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch03-06.part01",
+  "script": "ch03-06",
+  "chapter": "ch03",
+  "story_phase": "후반·위기와 결말",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch03-06:21:5df59090",
+      "source_hash": "5df59090",
+      "sequence": 0,
+      "source_line": 21,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "そういや カージのやつ最近こないな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:23:41a138dc",
+      "source_hash": "41a138dc",
+      "sequence": 1,
+      "source_line": 23,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そう 実は心配なのよね…<br>セレンハイドの方にも姿を見せてなくて",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:25:4f311fba",
+      "source_hash": "4f311fba",
+      "sequence": 2,
+      "source_line": 25,
+      "speaker_id": "adi",
+      "speaker_name": "아디아",
+      "voice_id": "",
+      "ja": "わたしの…絵のレッスンを終わりにしてからも<br>しばらく経つし…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:27:8d317381",
+      "source_hash": "8d317381",
+      "sequence": 3,
+      "source_line": 27,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ねえ リトナ…あんた なんか心当たりないの？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:29:13fa5f33",
+      "source_hash": "13fa5f33",
+      "sequence": 4,
+      "source_line": 29,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "んー…？ まあ ないって言えば嘘になるが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:31:97763a0e",
+      "source_hash": "97763a0e",
+      "sequence": 5,
+      "source_line": 31,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "え！？ ど どういうこと？ 何かあったの？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:32:cb5cca18",
+      "source_hash": "cb5cca18",
+      "sequence": 6,
+      "source_line": 32,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:34:f2dc3fb9",
+      "source_hash": "f2dc3fb9",
+      "sequence": 7,
+      "source_line": 34,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "まあ いいじゃないか<br>詮索するだけ無粋というものだ<br>あいつにはあいつの人生があるんだから",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:37:2c74c20c",
+      "source_hash": "2c74c20c",
+      "sequence": 8,
+      "source_line": 37,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "去る者は追わず 来るものは拒まずが<br>この『止り木』のルールだろう？ なあ リーダー？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:39:8165e28b",
+      "source_hash": "8165e28b",
+      "sequence": 9,
+      "source_line": 39,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "ん…まあ 基本はそうだが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:50:77ca6e87",
+      "source_hash": "77ca6e87",
+      "sequence": 10,
+      "source_line": 50,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "おーい カージ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:51:9fda508f",
+      "source_hash": "9fda508f",
+      "sequence": 11,
+      "source_line": 51,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ちゃんと飯くってるか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:53:ea984dfc",
+      "source_hash": "ea984dfc",
+      "sequence": 12,
+      "source_line": 53,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "もうちょっと…！<br>もうちょっとでできそうなんだ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:55:6a1e4b40",
+      "source_hash": "6a1e4b40",
+      "sequence": 13,
+      "source_line": 55,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "そうか？ もう暫く篭りっきりだが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:57:3966c3cb",
+      "source_hash": "3966c3cb",
+      "sequence": 14,
+      "source_line": 57,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "だあああ！ っくそ………<br>だ 大丈夫！ 大丈夫だから！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:59:4e1970bb",
+      "source_hash": "4e1970bb",
+      "sequence": 15,
+      "source_line": 59,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:62:ac1885bf",
+      "source_hash": "ac1885bf",
+      "sequence": 16,
+      "source_line": 62,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "…そうかい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:63:458f9515",
+      "source_hash": "458f9515",
+      "sequence": 17,
+      "source_line": 63,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "…元気ならそれでいいんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:64:23317b7b",
+      "source_hash": "23317b7b",
+      "sequence": 18,
+      "source_line": 64,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "そうだよ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:67:69bdc3e",
+      "source_hash": "69bdc3e",
+      "sequence": 19,
+      "source_line": 67,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "『夢中になる』ってのは そういうことだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:69:2d73c4b1",
+      "source_hash": "2d73c4b1",
+      "sequence": 20,
+      "source_line": 69,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ああ くそ…！！<br>これじゃ…全然…だめだ！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:71:3007ee49",
+      "source_hash": "3007ee49",
+      "sequence": 21,
+      "source_line": 71,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "もう一度………！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-06:72:1ddec2a6",
+      "source_hash": "1ddec2a6",
+      "sequence": 22,
+      "source_line": 72,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "もう一度……！！！！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

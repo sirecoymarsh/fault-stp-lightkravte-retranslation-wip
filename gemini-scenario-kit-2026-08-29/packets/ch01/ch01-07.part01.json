@@ -1,0 +1,1356 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-07.part01",
+  "script": "ch01-07",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": [
+      {
+        "uid": "ch01-07:287:1ad7eac5",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "す すごい集中力だな…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:289:f497b5d6",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "よ よーし 僕もまけないぞ…！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:291:f677f94b",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "たまには風景もいいかと思ったけど<br>せ せっかく人がいるんだ…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:293:e3fbd5df",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "か 彼女をモデルにちょっと描いてみちゃおうかなー…<br>な なーんて…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-07:303:f5896668",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "うーん…",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch01-07:21:c4edf91",
+      "source_hash": "c4edf91",
+      "sequence": 0,
+      "source_line": 21,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ミィシャさん！<br>余り物の果物を持ってきました！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:37:a6c1c448",
+      "source_hash": "a6c1c448",
+      "sequence": 1,
+      "source_line": 37,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:40:c89bed87",
+      "source_hash": "c89bed87",
+      "sequence": 2,
+      "source_line": 40,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ってあれ おかしいな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:41:39a4be1",
+      "source_hash": "39a4be1",
+      "sequence": 3,
+      "source_line": 41,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "止まり木に人がほとんどいないなんて<br>珍しいこともあるもんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:42:5b97500b",
+      "source_hash": "5b97500b",
+      "sequence": 4,
+      "source_line": 42,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "さてどうしようかな<br>ちょっと暇ができてしまった",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:44:437adac9",
+      "source_hash": "437adac9",
+      "sequence": 5,
+      "source_line": 44,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:46:be0aff0e",
+      "source_hash": "be0aff0e",
+      "sequence": 6,
+      "source_line": 46,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…フ フローラさん来てないかな…<br>また池のほうに行ってみるか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:68:72e7fd68",
+      "source_hash": "72e7fd68",
+      "sequence": 7,
+      "source_line": 68,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…まあそうですよね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:70:8b54aff4",
+      "source_hash": "8b54aff4",
+      "sequence": 8,
+      "source_line": 70,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "いない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:72:54ebc334",
+      "source_hash": "54ebc334",
+      "sequence": 9,
+      "source_line": 72,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そんな都合よく連日いるはずないか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:73:e996e233",
+      "source_hash": "e996e233",
+      "sequence": 10,
+      "source_line": 73,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ってか ここにも人がいない…んだな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:74:924809cd",
+      "source_hash": "924809cd",
+      "sequence": 11,
+      "source_line": 74,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "もしかして 初めてなんじゃないかな？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:75:9075fc5c",
+      "source_hash": "9075fc5c",
+      "sequence": 12,
+      "source_line": 75,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "止まり木に僕一人なんて",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:82:bac2a1b2",
+      "source_hash": "bac2a1b2",
+      "sequence": 13,
+      "source_line": 82,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "うーん…しかし<br>改めて見ると 綺麗な場所だなーここ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:83:c4d6560b",
+      "source_hash": "c4d6560b",
+      "sequence": 14,
+      "source_line": 83,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "昔多くの人が死んだ場所だなんて到底思えない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:84:f1f786bf",
+      "source_hash": "f1f786bf",
+      "sequence": 15,
+      "source_line": 84,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "幽霊が出るとかよく言われてるけど<br>いまだに見たことがない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:86:c79d29ca",
+      "source_hash": "c79d29ca",
+      "sequence": 16,
+      "source_line": 86,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕もお化けになるなら<br>こういうところで幽霊になりたいな うん",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:89:7a2f4089",
+      "source_hash": "7a2f4089",
+      "sequence": 17,
+      "source_line": 89,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:92:be6a2023",
+      "source_hash": "be6a2023",
+      "sequence": 18,
+      "source_line": 92,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "よ 余計なことを考えたら<br>ちょっと怖くなってきちゃったぞ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:94:b6deac5f",
+      "source_hash": "b6deac5f",
+      "sequence": 19,
+      "source_line": 94,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そういえば…<br>昨日は絵の練習できてなかったな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:97:516265d3",
+      "source_hash": "516265d3",
+      "sequence": 20,
+      "source_line": 97,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "よ よーし<br>どうせならこの時間を有効活用してみるか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:98:7784f20d",
+      "source_hash": "7784f20d",
+      "sequence": 21,
+      "source_line": 98,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "幸いここにはアディアさんが用意してくれた公共用の<br>スペアのキャンバスやらその他の画材が揃っている",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:99:fd02488b",
+      "source_hash": "fd02488b",
+      "sequence": 22,
+      "source_line": 99,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ちょっと拝借して練習でもするか…な<br>みんなが来るまで",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:103:bb28e747",
+      "source_hash": "bb28e747",
+      "sequence": 23,
+      "source_line": 103,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "えーと 画材画材っと…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:104:f131d702",
+      "source_hash": "f131d702",
+      "sequence": 24,
+      "source_line": 104,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:107:2d8a713b",
+      "source_hash": "2d8a713b",
+      "sequence": 25,
+      "source_line": 107,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "色塗りまでする時間はないから<br>今日は素描までにしておくか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:112:b6e1ae77",
+      "source_hash": "b6e1ae77",
+      "sequence": 26,
+      "source_line": 112,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あれ？<br>誰だ…あの子…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:113:e97d459a",
+      "source_hash": "e97d459a",
+      "sequence": 27,
+      "source_line": 113,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "クロックス候補生の制服を着てる…！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:114:1d7aecc6",
+      "source_hash": "1d7aecc6",
+      "sequence": 28,
+      "source_line": 114,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ん…？ よく見ると…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:115:a6c1c448",
+      "source_hash": "a6c1c448",
+      "sequence": 29,
+      "source_line": 115,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:118:deae093d",
+      "source_hash": "deae093d",
+      "sequence": 30,
+      "source_line": 118,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "か かわいい！<br>やばい かわいい子がいるぞ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:120:17e4310e",
+      "source_hash": "17e4310e",
+      "sequence": 31,
+      "source_line": 120,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "いままで止り木じゃ見たことのない！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:122:6ea9fb57",
+      "source_hash": "6ea9fb57",
+      "sequence": 32,
+      "source_line": 122,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "いや 下心的なやつじゃなく小動物的な！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:123:e69498e0",
+      "source_hash": "e69498e0",
+      "sequence": 33,
+      "source_line": 123,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "かわいい子が！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:126:32fc468b",
+      "source_hash": "32fc468b",
+      "sequence": 34,
+      "source_line": 126,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "いる！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:129:b3ee6b09",
+      "source_hash": "b3ee6b09",
+      "sequence": 35,
+      "source_line": 129,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "か",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:131:c299a72f",
+      "source_hash": "c299a72f",
+      "sequence": 36,
+      "source_line": 131,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "かわ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:134:248216e6",
+      "source_hash": "248216e6",
+      "sequence": 37,
+      "source_line": 134,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ああいいいいいいいいい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:144:ea1a65bb",
+      "source_hash": "ea1a65bb",
+      "sequence": 38,
+      "source_line": 144,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "お おいお前何なんだよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:152:bb16d088",
+      "source_hash": "bb16d088",
+      "sequence": 39,
+      "source_line": 152,
+      "speaker_id": "???",
+      "speaker_name": "미상 화자",
+      "voice_id": "",
+      "ja": "妹に色目つかって鼻の下伸ばして…<br>気持ち悪いぞ…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:154:297c7c6e",
+      "source_hash": "297c7c6e",
+      "sequence": 40,
+      "source_line": 154,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…！？ い妹！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:155:db1f8da4",
+      "source_hash": "db1f8da4",
+      "sequence": 41,
+      "source_line": 155,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "お前誰だよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:158:7797c498",
+      "source_hash": "7797c498",
+      "sequence": 42,
+      "source_line": 158,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "この人は確か オバーグ果樹園のご子息……！<br>確か名前はカージさんだったかな？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:159:5c40bc83",
+      "source_hash": "5c40bc83",
+      "sequence": 43,
+      "source_line": 159,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "我々より２つほど上で…<br>セレンハイド様やラインヴァスタ嬢と同期のはず",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:162:ed7aa334",
+      "source_hash": "ed7aa334",
+      "sequence": 44,
+      "source_line": 162,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "こ こんなやつがあの渋い<ruby=\"おっちゃん\">オグズ</ruby>の息子なのかよ…！？",
+      "required_tokens": [
+        "<ruby=\"おっちゃん\">",
+        "</ruby>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:165:a71a5306",
+      "source_hash": "a71a5306",
+      "sequence": 45,
+      "source_line": 165,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "……イ イメージと全然違うね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:168:21073a96",
+      "source_hash": "21073a96",
+      "sequence": 46,
+      "source_line": 168,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え ちょ ちょっと！<br>ぼ 僕ってそんなに見るからに怪しいやつなの！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:169:40b39d54",
+      "source_hash": "40b39d54",
+      "sequence": 47,
+      "source_line": 169,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "じ 自覚がないんですね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:172:48da7268",
+      "source_hash": "48da7268",
+      "sequence": 48,
+      "source_line": 172,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "っていうか そんなつもりで見てなかった！<br>だ だいたい かわいい子がいたら 健全な男子なら<br>誰でも見ちゃうものだろう！？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:175:e9a499ff",
+      "source_hash": "e9a499ff",
+      "sequence": 49,
+      "source_line": 175,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "いや 美人との交流が多ければ<br>そんなことないと思いますが",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:177:e9840dd2",
+      "source_hash": "e9840dd2",
+      "sequence": 50,
+      "source_line": 177,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "わ ワイトンは上手だよね…<br>女の人とお話しするの",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:179:aa0ab6fd",
+      "source_hash": "aa0ab6fd",
+      "sequence": 51,
+      "source_line": 179,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "単に機会が多いってだけなんだけどね<br>ジルムだって毎日女性と話してたら すぐに慣れるよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:180:fb097952",
+      "source_hash": "fb097952",
+      "sequence": 52,
+      "source_line": 180,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "美男美女も人の子だって気づくのに<br>少し時間がかかるだけだから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:182:be20e276",
+      "source_hash": "be20e276",
+      "sequence": 53,
+      "source_line": 182,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "そ そういうものなのかな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:185:cdf5b899",
+      "source_hash": "cdf5b899",
+      "sequence": 54,
+      "source_line": 185,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…年下の分際で随分偉そうに言ってくれるじゃないか…<br>悪かったな 女性経験が少なくて…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:187:857a7b12",
+      "source_hash": "857a7b12",
+      "sequence": 55,
+      "source_line": 187,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "だいたい世間は異性慣れしない人に冷たすぎるんだよ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:188:d30faede",
+      "source_hash": "d30faede",
+      "sequence": 56,
+      "source_line": 188,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "別にいいじゃないか<br>人に迷惑をかけてるわけじゃあるまいし…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:191:214e59cb",
+      "source_hash": "214e59cb",
+      "sequence": 57,
+      "source_line": 191,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "迷惑…というより<br>対等な関係を築きにくいからじゃないですかね？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:192:901cac07",
+      "source_hash": "901cac07",
+      "sequence": 58,
+      "source_line": 192,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "ある意味 対話能力が乏しい証左でもありますから<br>面倒だと思われても仕方ないんじゃないですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:195:da968712",
+      "source_hash": "da968712",
+      "sequence": 59,
+      "source_line": 195,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…ぐ ぐゅ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:198:89ad9a4c",
+      "source_hash": "89ad9a4c",
+      "sequence": 60,
+      "source_line": 198,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "ほらぁ…『ぐゅ』とか口で言っちゃうし…<br>キャラ付けにしてもキツイですよ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:202:4d1a63d7",
+      "source_hash": "4d1a63d7",
+      "sequence": 61,
+      "source_line": 202,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "これがいわゆる『童貞臭』ってやつか…<br>き 気をつけねーとな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:206:51aaae58",
+      "source_hash": "51aaae58",
+      "sequence": 62,
+      "source_line": 206,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いまのは自然と漏れた喘ぎなんですけど！？<br>評価厳しすぎませんかね！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:208:6dd8683f",
+      "source_hash": "6dd8683f",
+      "sequence": 63,
+      "source_line": 208,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そんな事より なんだよ君たちは！<br>突然現れて",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:210:c5ed7b6f",
+      "source_hash": "c5ed7b6f",
+      "sequence": 64,
+      "source_line": 210,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "はい 最近見つけたこの『止り木』に<br>遊びに来ております",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:212:9c8e1f8e",
+      "source_hash": "9c8e1f8e",
+      "sequence": 65,
+      "source_line": 212,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "ミィシャさんにいていいって言われたんだよ<br>文句あっか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:215:35bfc153",
+      "source_hash": "35bfc153",
+      "sequence": 66,
+      "source_line": 215,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ…そうだったのか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:216:b3895502",
+      "source_hash": "b3895502",
+      "sequence": 67,
+      "source_line": 216,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "賑やかになっていくなー…ここも",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:218:5b050374",
+      "source_hash": "5b050374",
+      "sequence": 68,
+      "source_line": 218,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "おおーい<br>クアラーーーっ！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:219:d9c3a45a",
+      "source_hash": "d9c3a45a",
+      "sequence": 69,
+      "source_line": 219,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "きのこ採ってくけど<br>お前も来るかー！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:220:9244e671",
+      "source_hash": "9244e671",
+      "sequence": 70,
+      "source_line": 220,
+      "speaker_id": "qua",
+      "speaker_name": "쿠알라",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:222:ae4f30ae",
+      "source_hash": "ae4f30ae",
+      "sequence": 71,
+      "source_line": 222,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "あれ？<br>こっからじゃ聞こえねえのかな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:224:91f7664b",
+      "source_hash": "91f7664b",
+      "sequence": 72,
+      "source_line": 224,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "どう見ても絵に集中してるだけだろう<br>一人にしてあげなよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:225:6acd65ba",
+      "source_hash": "6acd65ba",
+      "sequence": 73,
+      "source_line": 225,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "採取は僕たちだけで十分だ<br>ミィシャさんに美味しいものを作ってもらうために<br>たくさん集めてこよう",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:227:4d3b8f61",
+      "source_hash": "4d3b8f61",
+      "sequence": 74,
+      "source_line": 227,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:229:a43f1e2f",
+      "source_hash": "a43f1e2f",
+      "sequence": 75,
+      "source_line": 229,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "どうしたんだよ ディータ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:231:32f047a2",
+      "source_hash": "32f047a2",
+      "sequence": 76,
+      "source_line": 231,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "ふん こいつとクアラを一緒に残して大丈夫かなってな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:233:a5bcd8d9",
+      "source_hash": "a5bcd8d9",
+      "sequence": 77,
+      "source_line": 233,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "いや…童貞臭がするからって<br>危ない人とは限らないだろう…<br>それはいくらなんでも偏見がすぎるよ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:235:78a1a90d",
+      "source_hash": "78a1a90d",
+      "sequence": 78,
+      "source_line": 235,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "わ わかんねえだろう！<br>こういう抑圧されてるようなのがある日プチンと…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:237:81a4f486",
+      "source_hash": "81a4f486",
+      "sequence": 79,
+      "source_line": 237,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "そんな危険な人を<br>あのミィシャさんがおいておくはずないって",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:239:8e512a38",
+      "source_hash": "8e512a38",
+      "sequence": 80,
+      "source_line": 239,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "ほらほら バカみたいなこと言ってないで<br>さっさと探しにいこう ミィシャさん帰ってきちゃうよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:241:7a9b8cba",
+      "source_hash": "7a9b8cba",
+      "sequence": 81,
+      "source_line": 241,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "お おうそうだったな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:243:f5b48afa",
+      "source_hash": "f5b48afa",
+      "sequence": 82,
+      "source_line": 243,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "だ 大丈夫かな…<br>きのこってもっと奥にあるんだよね…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:244:3e9362b0",
+      "source_hash": "3e9362b0",
+      "sequence": 83,
+      "source_line": 244,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "ここらへん ビーアルが出るって聞いたんだけど",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:246:2fdf5c0e",
+      "source_hash": "2fdf5c0e",
+      "sequence": 84,
+      "source_line": 246,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "ははは<br>そんときは逃げよう",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:248:8dc23b42",
+      "source_hash": "8dc23b42",
+      "sequence": 85,
+      "source_line": 248,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "へっ！ ビーアルなんておそるるに足りねえーよ！<br>出てきたら驚かして追い返してやりゃいい！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:251:1a8bba5d",
+      "source_hash": "1a8bba5d",
+      "sequence": 86,
+      "source_line": 251,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "な なんでそんな能天気でいられるんだよ…二人とも…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:252:708abe25",
+      "source_hash": "708abe25",
+      "sequence": 87,
+      "source_line": 252,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "ビーアルって言ったら<br>ルゼンハイドで最も獰猛な野生動物なんだよ？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:254:5fa9a2dd",
+      "source_hash": "5fa9a2dd",
+      "sequence": 88,
+      "source_line": 254,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "毎年必ず何人か死人が出てるし…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:257:9cac4288",
+      "source_hash": "9cac4288",
+      "sequence": 89,
+      "source_line": 257,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "お前も 曲がりなりにもクロックス候補生だろーが",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:258:bd8614e3",
+      "source_hash": "bd8614e3",
+      "sequence": 90,
+      "source_line": 258,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "いざとなったら 動物くらいクラフトでなんとかしろよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:260:e1eed61b",
+      "source_hash": "e1eed61b",
+      "sequence": 91,
+      "source_line": 260,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "せ 戦闘のために入ったわけじゃないよ 僕は！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:261:90c2288d",
+      "source_hash": "90c2288d",
+      "sequence": 92,
+      "source_line": 261,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "それに戦闘クラフトを<br>野生の動物に向けるなんて言語道断で…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:264:cc77b9fc",
+      "source_hash": "cc77b9fc",
+      "sequence": 93,
+      "source_line": 264,
+      "speaker_id": "wig",
+      "speaker_name": "와이튼",
+      "voice_id": "",
+      "ja": "はいはい<br>しゅっぱーっつ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:268:c107c4b3",
+      "source_hash": "c107c4b3",
+      "sequence": 94,
+      "source_line": 268,
+      "speaker_id": "dil",
+      "speaker_name": "디타",
+      "voice_id": "",
+      "ja": "おーう！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:272:4091514f",
+      "source_hash": "4091514f",
+      "sequence": 95,
+      "source_line": 272,
+      "speaker_id": "jil",
+      "speaker_name": "질름",
+      "voice_id": "",
+      "ja": "あ ま…待って待って…！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:279:7a2f4089",
+      "source_hash": "7a2f4089",
+      "sequence": 96,
+      "source_line": 279,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:280:8dcd0cdc",
+      "source_hash": "8dcd0cdc",
+      "sequence": 97,
+      "source_line": 280,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ 嵐のような三人組だったな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:281:7a2f4089",
+      "source_hash": "7a2f4089",
+      "sequence": 98,
+      "source_line": 281,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-07:283:cf10ae88",
+      "source_hash": "cf10ae88",
+      "sequence": 99,
+      "source_line": 283,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "しかし あの子…",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

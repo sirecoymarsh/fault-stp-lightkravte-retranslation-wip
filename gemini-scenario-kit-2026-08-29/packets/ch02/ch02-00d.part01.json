@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-00d.part01",
+  "script": "ch02-00d",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch02-00d:15:d7997acb",
+      "source_hash": "d7997acb",
+      "sequence": 0,
+      "source_line": 15,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "母さんへ<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:17:6fae8cfd",
+      "source_hash": "6fae8cfd",
+      "sequence": 1,
+      "source_line": 17,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "興奮して寝れそうにないから、頭を整理するために日記に書き記そうと思います。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:18:6a6e4ac8",
+      "source_hash": "6a6e4ac8",
+      "sequence": 2,
+      "source_line": 18,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "夜からずっと頭が冴え渡ってて、不思議な感覚です。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:19:d04bc1aa",
+      "source_hash": "d04bc1aa",
+      "sequence": 3,
+      "source_line": 19,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "こんな感覚初めてかもしれない…胸の中がモヤモヤして、緊張で目が回りそうだよ。<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:21:8d084c7f",
+      "source_hash": "8d084c7f",
+      "sequence": 4,
+      "source_line": 21,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "とりあえず、ずっと考え続けて、はっきりさせないといけない課題が2つあることに気づきました。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:38:53b518b1",
+      "source_hash": "53b518b1",
+      "sequence": 5,
+      "source_line": 38,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "＜ 課題１ ＞<br>ペンクラフトで形にできるものは 文字だけなのか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:45:8f090676",
+      "source_hash": "8f090676",
+      "sequence": 6,
+      "source_line": 45,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "もしかしたら『絵』も形にできる範疇に<br>あるのではないか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:50:fec668c5",
+      "source_hash": "fec668c5",
+      "sequence": 7,
+      "source_line": 50,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "＜ 課題２ ＞<br>形にした『絵』をなんらかの媒体で",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:52:ee0a583e",
+      "source_hash": "ee0a583e",
+      "sequence": 8,
+      "source_line": 52,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "<br>保存する方法はないか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:53:6fee0058",
+      "source_hash": "6fee0058",
+      "sequence": 9,
+      "source_line": 53,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それこそ 紙やキャンバスのようなものに残せたら<br>絵を描く必要がない！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:56:72a65842",
+      "source_hash": "72a65842",
+      "sequence": 10,
+      "source_line": 56,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ペンクラフトの最大の難点は<br>読み手側が解読しないといけないということ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:57:d4d550",
+      "source_hash": "d4d550",
+      "sequence": 11,
+      "source_line": 57,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕の目的はあくまでも ただそこに存在する『絵』を<br>作ることだから ペンクラフトで浮上した光をなんらかの<br>媒体に留めることができなければ意味がないと思うんだ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:64:70539006",
+      "source_hash": "70539006",
+      "sequence": 12,
+      "source_line": 64,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "というわけで まずは＜ 課題２ ＞を解決するために<br>『浮き上がった光の文字を 形として保存する方法』<br>を研究しようと思います",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:65:83174979",
+      "source_hash": "83174979",
+      "sequence": 13,
+      "source_line": 65,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "じゃないと＜ 課題１ ＞が解決しても意味がないからね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:87:e4e0f9d1",
+      "source_hash": "e4e0f9d1",
+      "sequence": 14,
+      "source_line": 87,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "母さん。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:88:ba37de1c",
+      "source_hash": "ba37de1c",
+      "sequence": 15,
+      "source_line": 88,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "もしかすると、まだ諦めるのは早いのかもしれないです。",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-00d:89:a0d08cc8",
+      "source_hash": "a0d08cc8",
+      "sequence": 16,
+      "source_line": 89,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "約束、ちゃんと果たせるかもしれないよ。",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

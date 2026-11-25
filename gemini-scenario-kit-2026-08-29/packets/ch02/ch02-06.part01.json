@@ -1,0 +1,1085 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-06.part01",
+  "script": "ch02-06",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch02-06:16:702c606a",
+      "source_hash": "702c606a",
+      "sequence": 0,
+      "source_line": 16,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "と というわけなんですが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:17:22a2335",
+      "source_hash": "22a2335",
+      "sequence": 1,
+      "source_line": 17,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:18:497ec1a0",
+      "source_hash": "497ec1a0",
+      "sequence": 2,
+      "source_line": 18,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あの…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:21:2fccb422",
+      "source_hash": "2fccb422",
+      "sequence": 3,
+      "source_line": 21,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "ってことはなんだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:22:e65cd543",
+      "source_hash": "e65cd543",
+      "sequence": 4,
+      "source_line": 22,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "リーディングストーンに因んだレンズを生成して欲しいと… そういう依頼って解釈であってるか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:25:aba38800",
+      "source_hash": "aba38800",
+      "sequence": 5,
+      "source_line": 25,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:26:4d738e21",
+      "source_hash": "4d738e21",
+      "sequence": 6,
+      "source_line": 26,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "じ 実は ちょっと試してみたいことがありまして…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:29:5f7bc4b4",
+      "source_hash": "5f7bc4b4",
+      "sequence": 7,
+      "source_line": 29,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "あーちょっと待って<br>詳しい話を聞く前にさ…これは誰の依頼なんだ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:31:5ffa1ad2",
+      "source_hash": "5ffa1ad2",
+      "sequence": 8,
+      "source_line": 31,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:33:6d6c30ba",
+      "source_hash": "6d6c30ba",
+      "sequence": 9,
+      "source_line": 33,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "え じゃないよ<br>オバーグ果樹園としての依頼か<br>お前さん個人の依頼かって聞いてるの",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:36:5596429e",
+      "source_hash": "5596429e",
+      "sequence": 10,
+      "source_line": 36,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え えっと 僕個人の依頼となります…はい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:38:cfde9adb",
+      "source_hash": "cfde9adb",
+      "sequence": 11,
+      "source_line": 38,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:40:4163ca64",
+      "source_hash": "4163ca64",
+      "sequence": 12,
+      "source_line": 40,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "…ほう…倅さん個人の ね<br>で 俺がそのレンズとやらを作ったとして 使用用途は？<br>なんに使われるわけ？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:43:85110283",
+      "source_hash": "85110283",
+      "sequence": 13,
+      "source_line": 43,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ その…え えっと…絵を描くための…<br>その…補助道具としてです",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:45:c60fdadc",
+      "source_hash": "c60fdadc",
+      "sequence": 14,
+      "source_line": 45,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:46:7fd45e58",
+      "source_hash": "7fd45e58",
+      "sequence": 15,
+      "source_line": 46,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あれ…な なんだ…ひょっとして 僕…睨まれてる？？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:49:5b478e1a",
+      "source_hash": "5b478e1a",
+      "sequence": 16,
+      "source_line": 49,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "ふーん…なるほど…絵を描くためのレンズねぇ…<br>なるほどねぇ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:50:9505ec79",
+      "source_hash": "9505ec79",
+      "sequence": 17,
+      "source_line": 50,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "で 今季アルティストの新人ロスターに<br>名前がないから聞くまでもないと思うが<br>カージ君 本職登録は済んでるのかい？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:53:363f05b0",
+      "source_hash": "363f05b0",
+      "sequence": 18,
+      "source_line": 53,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:55:1fc5d21",
+      "source_hash": "1fc5d21",
+      "sequence": 19,
+      "source_line": 55,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いえ…その…それがまだちょっと難航中でして<br>あ あははは…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:57:ddece048",
+      "source_hash": "ddece048",
+      "sequence": 20,
+      "source_line": 57,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:59:4faa57c7",
+      "source_hash": "4faa57c7",
+      "sequence": 21,
+      "source_line": 59,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "はあ…このクソ忙しい時期に 設計図もない<br>本職登録もしてない…完全なるぷーなヤツの<br>与太話にも満たないような絵空事の依頼を受けろと？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:60:fc699276",
+      "source_hash": "fc699276",
+      "sequence": 22,
+      "source_line": 60,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "せ 設計図！？ そ そんなものが必要なのか！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:62:db88fb41",
+      "source_hash": "db88fb41",
+      "sequence": 23,
+      "source_line": 62,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あの…そ そこを何とか！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:63:7697dcff",
+      "source_hash": "7697dcff",
+      "sequence": 24,
+      "source_line": 63,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "足りない点があるなら 僕のほうで精進しますので<br>この一回だけ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:64:411b34e",
+      "source_hash": "411b34e",
+      "sequence": 25,
+      "source_line": 64,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な なんでもします！ お願いします！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:67:a2b28b28",
+      "source_hash": "a2b28b28",
+      "sequence": 26,
+      "source_line": 67,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "なんだよ…その一生のお願いみたいなやつは…<br>子供じゃあるまいし",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:68:ee0b79bd",
+      "source_hash": "ee0b79bd",
+      "sequence": 27,
+      "source_line": 68,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "カージ君が頼んでることってのはね―――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:69:3627f225",
+      "source_hash": "3627f225",
+      "sequence": 28,
+      "source_line": 69,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "本職について頑張ってる人達を後回しにして<br>結果が出せるかどうかもわからない君の依頼を<br>受けてくれってことなんだよ？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:70:5fb942b6",
+      "source_hash": "5fb942b6",
+      "sequence": 29,
+      "source_line": 70,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "そいつは不公平ってもんだろ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:71:9694dc2a",
+      "source_hash": "9694dc2a",
+      "sequence": 30,
+      "source_line": 71,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "そういうことが起こらないための就職システムなんだから",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:74:937abd80",
+      "source_hash": "937abd80",
+      "sequence": 31,
+      "source_line": 74,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あと回しなんてとんでもない！<br>僕の依頼は時間がある時でいいので 全然待てます！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:77:edbc63f1",
+      "source_hash": "edbc63f1",
+      "sequence": 32,
+      "source_line": 77,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "時間がある時なんてないよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:78:309d4d90",
+      "source_hash": "309d4d90",
+      "sequence": 33,
+      "source_line": 78,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "依頼人のために時間を作るのが職人ってもんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:79:9509d4f9",
+      "source_hash": "9509d4f9",
+      "sequence": 34,
+      "source_line": 79,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "現状カージ君のために割いてやれる時間はない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:82:82de9c95",
+      "source_hash": "82de9c95",
+      "sequence": 35,
+      "source_line": 82,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんな…<br>なら…せめて は 話くらい聞いてください！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:83:9143ffb2",
+      "source_hash": "9143ffb2",
+      "sequence": 36,
+      "source_line": 83,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "リーディングストーンもここで作られてるんですよね？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:84:3b9ec0c1",
+      "source_hash": "3b9ec0c1",
+      "sequence": 37,
+      "source_line": 84,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "し 師匠ほどの腕前ならこんなレンズの１つや２つ<br>チャチャッと作れちゃうのでは？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:87:fc12c3d6",
+      "source_hash": "fc12c3d6",
+      "sequence": 38,
+      "source_line": 87,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "ち…何がちゃちゃっとだよ これだから素人は…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:88:dfd506e0",
+      "source_hash": "dfd506e0",
+      "sequence": 39,
+      "source_line": 88,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "先に言っとくけど<br>俺は時間ができたとしてもこんなものを作らないよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:91:bf903ca9",
+      "source_hash": "bf903ca9",
+      "sequence": 40,
+      "source_line": 91,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…な なん…どうしてですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:93:4162970d",
+      "source_hash": "4162970d",
+      "sequence": 41,
+      "source_line": 93,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "作れないものは作れないんだよ<br>技術的に無理があるし 大人の事情ってものがある",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:94:1a93fe95",
+      "source_hash": "1a93fe95",
+      "sequence": 42,
+      "source_line": 94,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "…ってまあ 素人にこんなこと言って分かるはずないか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:95:27c15d89",
+      "source_hash": "27c15d89",
+      "sequence": 43,
+      "source_line": 95,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "とにかく とっとと帰りな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:111:7cac9f92",
+      "source_hash": "7cac9f92",
+      "sequence": 44,
+      "source_line": 111,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "はー やっぱり駄目だったか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:112:a6c1c448",
+      "source_hash": "a6c1c448",
+      "sequence": 45,
+      "source_line": 112,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:113:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 46,
+      "source_line": 113,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:115:1d4fd49a",
+      "source_hash": "1d4fd49a",
+      "sequence": 47,
+      "source_line": 115,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "――現状カージ君のために割いてやれる時間はないよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:117:829aae97",
+      "source_hash": "829aae97",
+      "sequence": 48,
+      "source_line": 117,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……！ く…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:119:f9aa63c8",
+      "source_hash": "f9aa63c8",
+      "sequence": 49,
+      "source_line": 119,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "う うえ……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:121:fa5565bc",
+      "source_hash": "fa5565bc",
+      "sequence": 50,
+      "source_line": 121,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "は 吐き気がする… ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:123:be940ffd",
+      "source_hash": "be940ffd",
+      "sequence": 51,
+      "source_line": 123,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あんな風に名前を呼ばれて断られるのは<br>かなりインパクトがある…あたまがぐるぐるする…くそ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:125:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 52,
+      "source_line": 125,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:126:416e9b9c",
+      "source_hash": "416e9b9c",
+      "sequence": 53,
+      "source_line": 126,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "し しかし…どうしよう…<br>取り付く島がないレベルで断られちゃったぞ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:127:41fa6566",
+      "source_hash": "41fa6566",
+      "sequence": 54,
+      "source_line": 127,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なにがいけないんだろう…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:128:d8a03e5",
+      "source_hash": "d8a03e5",
+      "sequence": 55,
+      "source_line": 128,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "もうちょっと具体的な計画を練らないと<br>相手にされないのかな…？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:129:9b04c5e7",
+      "source_hash": "9b04c5e7",
+      "sequence": 56,
+      "source_line": 129,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "それとも やっぱりベーシックステータスだからか…僕が…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:131:8d0a7dc2",
+      "source_hash": "8d0a7dc2",
+      "sequence": 57,
+      "source_line": 131,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "はぁ………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:133:5a82b041",
+      "source_hash": "5a82b041",
+      "sequence": 58,
+      "source_line": 133,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…やっぱり本職についてないと不便だな…ぐぐ……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:134:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 59,
+      "source_line": 134,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:136:195d3f71",
+      "source_hash": "195d3f71",
+      "sequence": 60,
+      "source_line": 136,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "しかも設計図とか言ってたな あの人",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:137:73921b64",
+      "source_hash": "73921b64",
+      "sequence": 61,
+      "source_line": 137,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "せ 設計図なんて書いたことないぞ…<br>ぼ 僕なんかに書けるのか…？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:138:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 62,
+      "source_line": 138,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:140:b7d7edfc",
+      "source_hash": "b7d7edfc",
+      "sequence": 63,
+      "source_line": 140,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…ってことは…なんだ…！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:141:3f3467e2",
+      "source_hash": "3f3467e2",
+      "sequence": 64,
+      "source_line": 141,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "設計図の書き方から学ばないといけないのか…？？？？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:143:7a4ab4c7",
+      "source_hash": "7a4ab4c7",
+      "sequence": 65,
+      "source_line": 143,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "い いまから……？ 設計図を書くの？？？？<br>プロが目を向けてくれるような……！？！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:144:ce9367b0",
+      "source_hash": "ce9367b0",
+      "sequence": 66,
+      "source_line": 144,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それって………………素人ができることなのか？？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:146:50edd558",
+      "source_hash": "50edd558",
+      "sequence": 67,
+      "source_line": 146,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ちょ ちょっと……いや………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:148:f90d29fb",
+      "source_hash": "f90d29fb",
+      "sequence": 68,
+      "source_line": 148,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:150:eafb03dd",
+      "source_hash": "eafb03dd",
+      "sequence": 69,
+      "source_line": 150,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ああ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:151:70305d0d",
+      "source_hash": "70305d0d",
+      "sequence": 70,
+      "source_line": 151,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ああああああああああ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:165:dc40be6d",
+      "source_hash": "dc40be6d",
+      "sequence": 71,
+      "source_line": 165,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "よう…おれだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:166:64fd0093",
+      "source_hash": "64fd0093",
+      "sequence": 72,
+      "source_line": 166,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "ちょっと気になることがあってな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:167:5b7c1930",
+      "source_hash": "5b7c1930",
+      "sequence": 73,
+      "source_line": 167,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "オバーグのとこのガキが妙な依頼を持ちかけてきたんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:168:59018a47",
+      "source_hash": "59018a47",
+      "sequence": 74,
+      "source_line": 168,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "ああ 『絵』用のレンズを作ってくれだって",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:169:22a2335",
+      "source_hash": "22a2335",
+      "sequence": 75,
+      "source_line": 169,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:170:c6b2d5b1",
+      "source_hash": "c6b2d5b1",
+      "sequence": 76,
+      "source_line": 170,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "いや それ以上の使い道は聞いてない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:171:a7551e91",
+      "source_hash": "a7551e91",
+      "sequence": 77,
+      "source_line": 171,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "ああ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:172:35cfecf8",
+      "source_hash": "35cfecf8",
+      "sequence": 78,
+      "source_line": 172,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "ああ…わかってるよ…クラウさんのストップにひっかかる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:173:a7551e91",
+      "source_hash": "a7551e91",
+      "sequence": 79,
+      "source_line": 173,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "ああ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:174:67bc9e88",
+      "source_hash": "67bc9e88",
+      "sequence": 80,
+      "source_line": 174,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "ああ…わかってるって<br>だからこうしてわざわざ連絡してるんだろう",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:175:d5f4372b",
+      "source_hash": "d5f4372b",
+      "sequence": 81,
+      "source_line": 175,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "突然 来られたら面食らうやつもいるはずだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:176:6c974e89",
+      "source_hash": "6c974e89",
+      "sequence": 82,
+      "source_line": 176,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "一応ギルドの連中全員に知らせておいてくれ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:177:f8860102",
+      "source_hash": "f8860102",
+      "sequence": 83,
+      "source_line": 177,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "この依頼はNGだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-06:178:225016f",
+      "source_hash": "225016f",
+      "sequence": 84,
+      "source_line": 178,
+      "speaker_id": "gla",
+      "speaker_name": "유리 장인",
+      "voice_id": "",
+      "ja": "誰も受けるな ってな",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

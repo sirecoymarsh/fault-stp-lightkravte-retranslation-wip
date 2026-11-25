@@ -1,0 +1,5034 @@
+{
+  "locale": "ja",
+  "script": "ch01-08d",
+  "source_path_id": -8449806574732477728,
+  "source_object_sha256": "e0c34ca37c17ba118568e992c2b3b5989d28d9ea3d4ee2064560ca3c60f5f884",
+  "line_count": 44,
+  "reference_count": 77,
+  "command_counts": {
+    "Wait": 3,
+    "StopBgm": 1,
+    "ModifyBloom": 1,
+    "ModifyVignette": 1,
+    "ModifyDepthOfField": 1,
+    "ModifyColorGrading": 1,
+    "ModifyBackground": 3,
+    "ModifyCamera": 2,
+    "HideActors": 2,
+    "ModifyTextPrinter": 1,
+    "CameraLook": 2,
+    "ProcessInput": 2,
+    "PrintText": 7,
+    "HidePrinter": 1,
+    "Skip": 1,
+    "HideAllActors": 1,
+    "SetSteamAchievement": 1,
+    "AutoSave": 1,
+    "Goto": 1
+  },
+  "string_field_counts": {
+    "Wait.playbackSpot.scriptName": 3,
+    "Wait.WaitMode.value": 3,
+    "StopBgm.playbackSpot.scriptName": 1,
+    "StopBgm.BgmPath.value": 1,
+    "ModifyBloom.playbackSpot.scriptName": 1,
+    "ModifyVignette.playbackSpot.scriptName": 1,
+    "ModifyDepthOfField.playbackSpot.scriptName": 1,
+    "ModifyColorGrading.playbackSpot.scriptName": 1,
+    "ModifyBackground.playbackSpot.scriptName": 3,
+    "ModifyBackground.Id.value": 3,
+    "ModifyCamera.playbackSpot.scriptName": 2,
+    "HideActors.playbackSpot.scriptName": 2,
+    "HideActors.ActorIds.value[0].value": 2,
+    "ModifyTextPrinter.playbackSpot.scriptName": 1,
+    "ModifyTextPrinter.IdAndAppearance.value.name.value": 1,
+    "CameraLook.playbackSpot.scriptName": 2,
+    "ProcessInput.playbackSpot.scriptName": 2,
+    "PrintText.playbackSpot.scriptName": 7,
+    "PrintText.Text.value": 7,
+    "HidePrinter.playbackSpot.scriptName": 1,
+    "HidePrinter.PrinterId.value": 1,
+    "Skip.playbackSpot.scriptName": 1,
+    "HideAllActors.playbackSpot.scriptName": 1,
+    "SetSteamAchievement.playbackSpot.scriptName": 1,
+    "SetSteamAchievement.Id.value": 1,
+    "AutoSave.playbackSpot.scriptName": 1,
+    "Goto.playbackSpot.scriptName": 1,
+    "Goto.Path.value.name.value": 1
+  },
+  "records": [
+    {
+      "ordinal": 0,
+      "line_ref_id": 0,
+      "line_type": "CommentScriptLine",
+      "line_index": 0,
+      "line_hash": "3201ccfe",
+      "comment": "this block is to prevent the new game reset from affecting post processing commands"
+    },
+    {
+      "ordinal": 1,
+      "line_ref_id": 1,
+      "line_type": "CommandScriptLine",
+      "line_index": 1,
+      "line_hash": "3ab7b4a",
+      "command_ref_id": 44,
+      "command_type": "Wait",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 1,
+          "inlineIndex": 0
+        },
+        "WaitMode": {
+          "value": "0.3",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "OnFinished": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "WaitMode.value",
+          "value": "0.3"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 1,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 2,
+      "line_ref_id": 2,
+      "line_type": "CommandScriptLine",
+      "line_index": 2,
+      "line_hash": "67181839",
+      "command_ref_id": 45,
+      "command_type": "StopBgm",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 2,
+          "inlineIndex": 0
+        },
+        "BgmPath": {
+          "value": "lightkravte_title_amb_D",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "FadeOutDuration": {
+          "value": 0.0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "BgmPath.value",
+          "value": "lightkravte_title_amb_D"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 2,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 3,
+      "line_ref_id": 3,
+      "line_type": "CommandScriptLine",
+      "line_index": 3,
+      "line_hash": "5a15ffd5",
+      "command_ref_id": 46,
+      "command_type": "ModifyBloom",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 3,
+          "inlineIndex": 0
+        },
+        "Enabled": {
+          "value": 0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Intensity": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Threshold": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "SoftKnee": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Clamp": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Diffusion": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AnamorphicRatio": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Color": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "FastMode": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Wiggle": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "EasingTypeName": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Duration": {
+          "value": 0.3499999940395355,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 3,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 4,
+      "line_ref_id": 4,
+      "line_type": "CommandScriptLine",
+      "line_index": 4,
+      "line_hash": "3be48e1c",
+      "command_ref_id": 47,
+      "command_type": "ModifyVignette",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 4,
+          "inlineIndex": 0
+        },
+        "Enabled": {
+          "value": 0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Masked": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Color": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Center": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Intensity": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Smoothness": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Roundness": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Rounded": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "EasingTypeName": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Duration": {
+          "value": 0.3499999940395355,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 4,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 5,
+      "line_ref_id": 5,
+      "line_type": "CommandScriptLine",
+      "line_index": 5,
+      "line_hash": "e519ef33",
+      "command_ref_id": 48,
+      "command_type": "ModifyDepthOfField",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 5,
+          "inlineIndex": 0
+        },
+        "Enabled": {
+          "value": 0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "FocusDistance": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Aperture": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "FocalLength": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "EasingTypeName": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Duration": {
+          "value": 0.3499999940395355,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 5,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 6,
+      "line_ref_id": 6,
+      "line_type": "CommandScriptLine",
+      "line_index": 6,
+      "line_hash": "877f61c6",
+      "command_ref_id": 49,
+      "command_type": "ModifyColorGrading",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 6,
+          "inlineIndex": 0
+        },
+        "Enabled": {
+          "value": 0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Temperature": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Tint": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "HueShift": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Saturation": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Brightness": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Contrast": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Color": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "EasingTypeName": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Duration": {
+          "value": 0.3499999940395355,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 6,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 7,
+      "line_ref_id": 7,
+      "line_type": "CommandScriptLine",
+      "line_index": 7,
+      "line_hash": "b65f2a91",
+      "command_ref_id": 50,
+      "command_type": "Wait",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 7,
+          "inlineIndex": 0
+        },
+        "WaitMode": {
+          "value": "0.1",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "OnFinished": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "WaitMode.value",
+          "value": "0.1"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 7,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 8,
+      "line_ref_id": 8,
+      "line_type": "CommandScriptLine",
+      "line_index": 8,
+      "line_hash": "f4141205",
+      "command_ref_id": 51,
+      "command_type": "ModifyBackground",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 8,
+          "inlineIndex": 0
+        },
+        "Id": {
+          "value": "genericBlack",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Appearance": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Pose": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Transition": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "TransitionParams": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "DissolveTexturePath": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Visible": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Position": {
+          "value": [
+            {
+              "value": 0.0,
+              "hasValue": 1
+            },
+            {
+              "value": 0.0,
+              "hasValue": 1
+            },
+            {
+              "value": 5.0,
+              "hasValue": 1
+            }
+          ],
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Rotation": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Scale": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "TintColor": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "EasingTypeName": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Duration": {
+          "value": 0.0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ScenePosition": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AppearanceAndTransition": {
+          "value": {
+            "name": {
+              "value": "",
+              "hasValue": 0
+            },
+            "value": {
+              "value": "",
+              "hasValue": 0
+            }
+          },
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "Id.value",
+          "value": "genericBlack"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 8,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 9,
+      "line_ref_id": 9,
+      "line_type": "CommandScriptLine",
+      "line_index": 9,
+      "line_hash": "6956cf7c",
+      "command_ref_id": 52,
+      "command_type": "ModifyCamera",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 9,
+          "inlineIndex": 0
+        },
+        "Offset": {
+          "value": [
+            {
+              "value": 0.0,
+              "hasValue": 1
+            },
+            {
+              "value": 0.0,
+              "hasValue": 1
+            },
+            {
+              "value": 1.0,
+              "hasValue": 1
+            }
+          ],
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Roll": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Rotation": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Zoom": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Orthographic": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ToggleTypeNames": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "SetTypeNames": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "EasingTypeName": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Duration": {
+          "value": 0.0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 9,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 10,
+      "line_ref_id": 10,
+      "line_type": "CommandScriptLine",
+      "line_index": 10,
+      "line_hash": "3da4d34",
+      "command_ref_id": 53,
+      "command_type": "ModifyBackground",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 10,
+          "inlineIndex": 0
+        },
+        "Id": {
+          "value": "RU_KajiRoom_N_NoGlass",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Appearance": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Pose": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Transition": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "TransitionParams": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "DissolveTexturePath": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Visible": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Position": {
+          "value": [
+            {
+              "value": 0.0,
+              "hasValue": 1
+            },
+            {
+              "value": 0.0,
+              "hasValue": 1
+            },
+            {
+              "value": 0.0,
+              "hasValue": 1
+            }
+          ],
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Rotation": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Scale": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "TintColor": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "EasingTypeName": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Duration": {
+          "value": 0.0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ScenePosition": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AppearanceAndTransition": {
+          "value": {
+            "name": {
+              "value": "",
+              "hasValue": 0
+            },
+            "value": {
+              "value": "",
+              "hasValue": 0
+            }
+          },
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "Id.value",
+          "value": "RU_KajiRoom_N_NoGlass"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 10,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 11,
+      "line_ref_id": 11,
+      "line_type": "CommandScriptLine",
+      "line_index": 11,
+      "line_hash": "93ca34da",
+      "command_ref_id": 54,
+      "command_type": "HideActors",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 11,
+          "inlineIndex": 0
+        },
+        "ActorIds": {
+          "value": [
+            {
+              "value": "genericBlack",
+              "hasValue": 1
+            }
+          ],
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Duration": {
+          "value": 1.5,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Remove": {
+          "value": 0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "ActorIds.value[0].value",
+          "value": "genericBlack"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 11,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 12,
+      "line_ref_id": 12,
+      "line_type": "CommandScriptLine",
+      "line_index": 12,
+      "line_hash": "e481204",
+      "command_ref_id": 55,
+      "command_type": "ModifyCamera",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 12,
+          "inlineIndex": 0
+        },
+        "Offset": {
+          "value": [
+            {
+              "value": 0.0,
+              "hasValue": 1
+            },
+            {
+              "value": 0.0,
+              "hasValue": 1
+            },
+            {
+              "value": 0.0,
+              "hasValue": 1
+            }
+          ],
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Roll": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Rotation": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Zoom": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Orthographic": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ToggleTypeNames": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "SetTypeNames": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "EasingTypeName": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Duration": {
+          "value": 1.5,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 12,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 13,
+      "line_ref_id": 13,
+      "line_type": "CommandScriptLine",
+      "line_index": 13,
+      "line_hash": "ca5ae3d3",
+      "command_ref_id": 56,
+      "command_type": "Wait",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 13,
+          "inlineIndex": 0
+        },
+        "WaitMode": {
+          "value": "1",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "OnFinished": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "WaitMode.value",
+          "value": "1"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 13,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 14,
+      "line_ref_id": 14,
+      "line_type": "CommandScriptLine",
+      "line_index": 14,
+      "line_hash": "4dba8b57",
+      "command_ref_id": 57,
+      "command_type": "ModifyTextPrinter",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 14,
+          "inlineIndex": 0
+        },
+        "Id": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Appearance": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Pose": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Transition": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "TransitionParams": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "DissolveTexturePath": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Visible": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Position": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Rotation": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Scale": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "TintColor": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "EasingTypeName": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Duration": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ScenePosition": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "IdAndAppearance": {
+          "value": {
+            "name": {
+              "value": "nvl",
+              "hasValue": 1
+            },
+            "value": {
+              "value": "",
+              "hasValue": 0
+            }
+          },
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "MakeDefault": {
+          "value": 1,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "HideOther": {
+          "value": 1,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "IdAndAppearance.value.name.value",
+          "value": "nvl"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 14,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 15,
+      "line_ref_id": 15,
+      "line_type": "EmptyScriptLine",
+      "line_index": 15,
+      "line_hash": ""
+    },
+    {
+      "ordinal": 16,
+      "line_ref_id": 16,
+      "line_type": "CommandScriptLine",
+      "line_index": 16,
+      "line_hash": "68e93c7f",
+      "command_ref_id": 58,
+      "command_type": "CameraLook",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 16,
+          "inlineIndex": 0
+        },
+        "Enable": {
+          "value": 1,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "LookZone": {
+          "value": [
+            {
+              "value": 0.5,
+              "hasValue": 1
+            },
+            {
+              "value": 0.5,
+              "hasValue": 1
+            }
+          ],
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "LookSpeed": {
+          "value": [
+            {
+              "value": 0.029999999329447746,
+              "hasValue": 1
+            },
+            {
+              "value": 0.029999999329447746,
+              "hasValue": 1
+            }
+          ],
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Gravity": {
+          "value": 1,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 16,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 17,
+      "line_ref_id": 17,
+      "line_type": "CommandScriptLine",
+      "line_index": 17,
+      "line_hash": "98193071",
+      "command_ref_id": 59,
+      "command_type": "ProcessInput",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 17,
+          "inlineIndex": 0
+        },
+        "InputEnabled": {
+          "value": 1,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "SetEnabled": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 17,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 18,
+      "line_ref_id": 18,
+      "line_type": "EmptyScriptLine",
+      "line_index": 18,
+      "line_hash": ""
+    },
+    {
+      "ordinal": 19,
+      "line_ref_id": 19,
+      "line_type": "CommandScriptLine",
+      "line_index": 19,
+      "line_hash": "d984ff63",
+      "command_ref_id": 60,
+      "command_type": "PrintText",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 19,
+          "inlineIndex": 0
+        },
+        "Text": {
+          "value": "ごめんね母さん",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "PrinterId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AuthorId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "RevealSpeed": {
+          "value": 1.0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ResetPrinter": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "DefaultPrinter": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "WaitForInput": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "LineBreaks": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ChangeVisibilityDuration": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AutoVoiceId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "Text.value",
+          "value": "ごめんね母さん"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 19,
+      "text": "ごめんね母さん",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 20,
+      "line_ref_id": 20,
+      "line_type": "CommandScriptLine",
+      "line_index": 20,
+      "line_hash": "f7ae9609",
+      "command_ref_id": 61,
+      "command_type": "PrintText",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 20,
+          "inlineIndex": 0
+        },
+        "Text": {
+          "value": "今日はちょっと元気がなくて書けません<br>",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "PrinterId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AuthorId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "RevealSpeed": {
+          "value": 1.0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ResetPrinter": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "DefaultPrinter": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "WaitForInput": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "LineBreaks": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ChangeVisibilityDuration": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AutoVoiceId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "Text.value",
+          "value": "今日はちょっと元気がなくて書けません<br>"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 20,
+      "text": "今日はちょっと元気がなくて書けません<br>",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 21,
+      "line_ref_id": 21,
+      "line_type": "EmptyScriptLine",
+      "line_index": 21,
+      "line_hash": ""
+    },
+    {
+      "ordinal": 22,
+      "line_ref_id": 22,
+      "line_type": "CommandScriptLine",
+      "line_index": 22,
+      "line_hash": "f54d8c4c",
+      "command_ref_id": 62,
+      "command_type": "PrintText",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 22,
+          "inlineIndex": 0
+        },
+        "Text": {
+          "value": "もうだめかもしれない<br>",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "PrinterId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AuthorId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "RevealSpeed": {
+          "value": 1.0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ResetPrinter": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "DefaultPrinter": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "WaitForInput": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "LineBreaks": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ChangeVisibilityDuration": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AutoVoiceId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "Text.value",
+          "value": "もうだめかもしれない<br>"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 22,
+      "text": "もうだめかもしれない<br>",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 23,
+      "line_ref_id": 23,
+      "line_type": "EmptyScriptLine",
+      "line_index": 23,
+      "line_hash": ""
+    },
+    {
+      "ordinal": 24,
+      "line_ref_id": 24,
+      "line_type": "CommandScriptLine",
+      "line_index": 24,
+      "line_hash": "75613c1c",
+      "command_ref_id": 63,
+      "command_type": "PrintText",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 24,
+          "inlineIndex": 0
+        },
+        "Text": {
+          "value": "だめ<br>",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "PrinterId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AuthorId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "RevealSpeed": {
+          "value": 1.0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ResetPrinter": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "DefaultPrinter": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "WaitForInput": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "LineBreaks": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ChangeVisibilityDuration": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AutoVoiceId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "Text.value",
+          "value": "だめ<br>"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 24,
+      "text": "だめ<br>",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 25,
+      "line_ref_id": 25,
+      "line_type": "EmptyScriptLine",
+      "line_index": 25,
+      "line_hash": ""
+    },
+    {
+      "ordinal": 26,
+      "line_ref_id": 26,
+      "line_type": "CommandScriptLine",
+      "line_index": 26,
+      "line_hash": "75613c1c",
+      "command_ref_id": 64,
+      "command_type": "PrintText",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 26,
+          "inlineIndex": 0
+        },
+        "Text": {
+          "value": "だめ<br>",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "PrinterId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AuthorId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "RevealSpeed": {
+          "value": 1.0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ResetPrinter": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "DefaultPrinter": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "WaitForInput": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "LineBreaks": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ChangeVisibilityDuration": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AutoVoiceId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "Text.value",
+          "value": "だめ<br>"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 26,
+      "text": "だめ<br>",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 27,
+      "line_ref_id": 27,
+      "line_type": "EmptyScriptLine",
+      "line_index": 27,
+      "line_hash": ""
+    },
+    {
+      "ordinal": 28,
+      "line_ref_id": 28,
+      "line_type": "CommandScriptLine",
+      "line_index": 28,
+      "line_hash": "d6b09d94",
+      "command_ref_id": 65,
+      "command_type": "PrintText",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 28,
+          "inlineIndex": 0
+        },
+        "Text": {
+          "value": "あ<br>",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "PrinterId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AuthorId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "RevealSpeed": {
+          "value": 1.0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ResetPrinter": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "DefaultPrinter": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "WaitForInput": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "LineBreaks": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ChangeVisibilityDuration": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AutoVoiceId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "Text.value",
+          "value": "あ<br>"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 28,
+      "text": "あ<br>",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 29,
+      "line_ref_id": 29,
+      "line_type": "CommandScriptLine",
+      "line_index": 29,
+      "line_hash": "d6b09d94",
+      "command_ref_id": 66,
+      "command_type": "PrintText",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 29,
+          "inlineIndex": 0
+        },
+        "Text": {
+          "value": "あ<br>",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "PrinterId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AuthorId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "RevealSpeed": {
+          "value": 1.0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ResetPrinter": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "DefaultPrinter": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "WaitForInput": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "LineBreaks": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ChangeVisibilityDuration": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AutoVoiceId": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "Text.value",
+          "value": "あ<br>"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 29,
+      "text": "あ<br>",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 30,
+      "line_ref_id": 30,
+      "line_type": "CommandScriptLine",
+      "line_index": 30,
+      "line_hash": "2c27fdb1",
+      "command_ref_id": 67,
+      "command_type": "HidePrinter",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 30,
+          "inlineIndex": 0
+        },
+        "PrinterId": {
+          "value": "nvl",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Duration": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "PrinterId.value",
+          "value": "nvl"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 30,
+      "text": "",
+      "author_id": "",
+      "printer_id": "nvl"
+    },
+    {
+      "ordinal": 31,
+      "line_ref_id": 31,
+      "line_type": "EmptyScriptLine",
+      "line_index": 31,
+      "line_hash": ""
+    },
+    {
+      "ordinal": 32,
+      "line_ref_id": 32,
+      "line_type": "CommandScriptLine",
+      "line_index": 32,
+      "line_hash": "132a839",
+      "command_ref_id": 68,
+      "command_type": "ProcessInput",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 32,
+          "inlineIndex": 0
+        },
+        "InputEnabled": {
+          "value": 0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "SetEnabled": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 32,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 33,
+      "line_ref_id": 33,
+      "line_type": "CommandScriptLine",
+      "line_index": 33,
+      "line_hash": "22fdd3b",
+      "command_ref_id": 69,
+      "command_type": "Skip",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 33,
+          "inlineIndex": 0
+        },
+        "Enable": {
+          "value": 0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 33,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 34,
+      "line_ref_id": 34,
+      "line_type": "CommandScriptLine",
+      "line_index": 34,
+      "line_hash": "cf42c6a3",
+      "command_ref_id": 70,
+      "command_type": "CameraLook",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 34,
+          "inlineIndex": 0
+        },
+        "Enable": {
+          "value": 0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "LookZone": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "LookSpeed": {
+          "value": [
+            {
+              "value": 0.10000000149011612,
+              "hasValue": 1
+            },
+            {
+              "value": 0.10000000149011612,
+              "hasValue": 1
+            }
+          ],
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Gravity": {
+          "value": 1,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 34,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 35,
+      "line_ref_id": 35,
+      "line_type": "EmptyScriptLine",
+      "line_index": 35,
+      "line_hash": ""
+    },
+    {
+      "ordinal": 36,
+      "line_ref_id": 36,
+      "line_type": "CommandScriptLine",
+      "line_index": 36,
+      "line_hash": "13ef2dc7",
+      "command_ref_id": 71,
+      "command_type": "ModifyBackground",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 36,
+          "inlineIndex": 0
+        },
+        "Id": {
+          "value": "genericBlack",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Appearance": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Pose": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Transition": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "TransitionParams": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "DissolveTexturePath": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Visible": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Position": {
+          "value": [
+            {
+              "value": 0.0,
+              "hasValue": 1
+            },
+            {
+              "value": 0.0,
+              "hasValue": 1
+            },
+            {
+              "value": 5.0,
+              "hasValue": 1
+            }
+          ],
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Rotation": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Scale": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "TintColor": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "EasingTypeName": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Duration": {
+          "value": 3.0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ScenePosition": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "AppearanceAndTransition": {
+          "value": {
+            "name": {
+              "value": "",
+              "hasValue": 0
+            },
+            "value": {
+              "value": "",
+              "hasValue": 0
+            }
+          },
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "Id.value",
+          "value": "genericBlack"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 36,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 37,
+      "line_ref_id": 37,
+      "line_type": "CommandScriptLine",
+      "line_index": 37,
+      "line_hash": "17f537b9",
+      "command_ref_id": 72,
+      "command_type": "HideActors",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 37,
+          "inlineIndex": 0
+        },
+        "ActorIds": {
+          "value": [
+            {
+              "value": "RU_KajiRoom_N_NoGlass",
+              "hasValue": 1
+            }
+          ],
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Duration": {
+          "value": 0.0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Remove": {
+          "value": 0,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "ActorIds.value[0].value",
+          "value": "RU_KajiRoom_N_NoGlass"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 37,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 38,
+      "line_ref_id": 38,
+      "line_type": "CommandScriptLine",
+      "line_index": 38,
+      "line_hash": "987efa35",
+      "command_ref_id": 73,
+      "command_type": "HideAllActors",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 38,
+          "inlineIndex": 0
+        },
+        "Duration": {
+          "value": 0.0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "Remove": {
+          "value": 1,
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 38,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 39,
+      "line_ref_id": 39,
+      "line_type": "EmptyScriptLine",
+      "line_index": 39,
+      "line_hash": ""
+    },
+    {
+      "ordinal": 40,
+      "line_ref_id": 40,
+      "line_type": "CommandScriptLine",
+      "line_index": 40,
+      "line_hash": "252638b3",
+      "command_ref_id": 74,
+      "command_type": "SetSteamAchievement",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 40,
+          "inlineIndex": 0
+        },
+        "Id": {
+          "value": "BACKDROP_FINISHED",
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "Id.value",
+          "value": "BACKDROP_FINISHED"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 40,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 41,
+      "line_ref_id": 41,
+      "line_type": "CommandScriptLine",
+      "line_index": 41,
+      "line_hash": "7d414bf4",
+      "command_ref_id": 75,
+      "command_type": "AutoSave",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 41,
+          "inlineIndex": 0
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 41,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 42,
+      "line_ref_id": 42,
+      "line_type": "CommandScriptLine",
+      "line_index": 42,
+      "line_hash": "cbccfde9",
+      "command_ref_id": 76,
+      "command_type": "Goto",
+      "command": {
+        "Wait": {
+          "value": 0,
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ConditionalExpression": {
+          "value": "",
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "playbackSpot": {
+          "scriptName": "ch01-08d",
+          "lineIndex": 42,
+          "inlineIndex": 0
+        },
+        "Path": {
+          "value": {
+            "name": {
+              "value": "ch01-09",
+              "hasValue": 1
+            },
+            "value": {
+              "value": "",
+              "hasValue": 0
+            }
+          },
+          "hasValue": 1,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        },
+        "ResetState": {
+          "value": [],
+          "hasValue": 0,
+          "dynamicValue": {
+            "PlaybackSpot": {
+              "scriptName": "",
+              "lineIndex": 0,
+              "inlineIndex": 0
+            },
+            "ValueText": "",
+            "Expressions": ""
+          }
+        }
+      },
+      "strings": [
+        {
+          "field": "playbackSpot.scriptName",
+          "value": "ch01-08d"
+        },
+        {
+          "field": "Path.value.name.value",
+          "value": "ch01-09"
+        }
+      ],
+      "preceding_comment": "this block is to prevent the new game reset from affecting post processing commands",
+      "playback_script": "ch01-08d",
+      "playback_line": 42,
+      "text": "",
+      "author_id": "",
+      "printer_id": ""
+    },
+    {
+      "ordinal": 43,
+      "line_ref_id": 43,
+      "line_type": "EmptyScriptLine",
+      "line_index": 43,
+      "line_hash": ""
+    }
+  ]
+}

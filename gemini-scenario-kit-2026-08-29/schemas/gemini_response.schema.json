@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Gemini Korean translation JSONL record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "uid",
+    "source_hash",
+    "target_ko",
+    "issues"
+  ],
+  "properties": {
+    "uid": {
+      "type": "string"
+    },
+    "source_hash": {
+      "type": "string"
+    },
+    "target_ko": {
+      "type": "string",
+      "minLength": 1
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

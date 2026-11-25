@@ -1,0 +1,3449 @@
+{
+  "schema_version": 1,
+  "work_id": "fault-stp-lightkravte-ja-ko-gemini-retranslation",
+  "source_locale": "ja",
+  "target_locale": "ko",
+  "semantic_authority": "Japanese source only",
+  "preparation_model": "Codex internal (GPT-5.5 runtime)",
+  "precedence": "locked 항목은 반드시 따르고 pending 항목은 추정 확정하지 말고 issues에 기록",
+  "entries": [
+    {
+      "term_id": "TERM-0001",
+      "source": "カージ",
+      "target": "카지",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "카지",
+      "meaning_and_runtime_use": "주인공. 풀네임은 카지 오버그.",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Khaji"
+      ],
+      "evidence_uids": [
+        "ch01-00:42:38e5ee37",
+        "ch01-00:58:5198d7c3",
+        "ch01-00:123:eda85e9d",
+        "ch01-00:197:b52c7d5f",
+        "ch01-00:199:60ee8e3a",
+        "ch01-00:236:84b0ccc0",
+        "ch01-00:240:34435cde",
+        "ch01-00:241:7e58a96e"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0002",
+      "source": "カージ＝オバーグ",
+      "target": "카지 오버그",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "카지 오버그",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Khaji Oberg"
+      ],
+      "evidence_uids": [
+        "ch01-00:42:38e5ee37",
+        "ch01-00:197:b52c7d5f",
+        "ch01-00:199:60ee8e3a",
+        "ch01-00:236:84b0ccc0",
+        "ch01-00:240:34435cde",
+        "ch01-00:241:7e58a96e",
+        "ch01-00:259:cf1a6d95",
+        "ch01-02d:123:18366806"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0003",
+      "source": "アディア",
+      "target": "아디아",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "아디아",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Adia"
+      ],
+      "evidence_uids": [
+        "ch01-00:110:4f5099d6",
+        "ch01-00:133:eb9e88fd",
+        "ch01-01:135:8e426de7",
+        "ch01-01:313:25a06571",
+        "ch01-05d:57:198c0bea",
+        "ch01-06:381:1d316c98",
+        "ch01-06:404:c14c6e7b",
+        "ch01-06:405:8ee07126"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0004",
+      "source": "セラロ",
+      "target": "세라로",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "세라로",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Ceraro"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0005",
+      "source": "ディータ",
+      "target": "디타",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "디타",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Deeta"
+      ],
+      "evidence_uids": [
+        "ch01-07:229:a43f1e2f",
+        "ch01-07:376:d9fa33f2",
+        "ch01-07:390:6ff20761",
+        "ch01-07:401:45aa763e",
+        "ch01-07:415:3ab5c277",
+        "ch01-07:514:8c4594ce",
+        "ch01-07:577:1a611b2b"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0006",
+      "source": "フローラ",
+      "target": "플로라",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "플로라",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Flora"
+      ],
+      "evidence_uids": [
+        "ch01-00:307:608b459b",
+        "ch01-00:313:b85ab230",
+        "ch01-00:338:48a30b03",
+        "ch01-00:341:af41a066",
+        "ch01-00:369:26823db3",
+        "ch01-00:381:e4b25dce",
+        "ch01-00:464:a9bb128",
+        "ch01-01:84:c0b39b49"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0007",
+      "source": "ジルム",
+      "target": "질름",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "질름",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Jilm"
+      ],
+      "evidence_uids": [
+        "ch01-07:179:aa0ab6fd",
+        "ch01-07:485:53226e31"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0008",
+      "source": "ケンドリッド",
+      "target": "켄드리드",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "켄드리드",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Kendrid"
+      ],
+      "evidence_uids": [
+        "ch02-02:33:5673dd5d",
+        "ch02-04:38:fd362343",
+        "ch02-07:161:4b6af191",
+        "ch02-07:193:5a560fb0",
+        "ch03-03:29:40c5ef60",
+        "ch03-03:58:20c6012",
+        "ch03-04:672:c897329c",
+        "ch03-04:736:9cb23dd9"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0009",
+      "source": "メルポット",
+      "target": "멜포트",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "멜포트",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Melpot"
+      ],
+      "evidence_uids": [
+        "ch02-12:1153:a94754a9",
+        "ch02-12:1156:2e6d1ae1",
+        "ch02-12:1181:cc9eeff5",
+        "ch02-12:1187:41af7508",
+        "ch02-12:1338:5e70d841",
+        "ch02-12:1412:af7ffc04"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0010",
+      "source": "メルリッサ",
+      "target": "메를리사",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "메를리사",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Merrelisa"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0011",
+      "source": "ミィネ",
+      "target": "미네",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "미네",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Mhinei"
+      ],
+      "evidence_uids": [
+        "ch02-12:1335:b3cef3ef",
+        "ch02-12:1372:40e04eb4",
+        "ch02-12:1383:f267a18c",
+        "ch02-12:1404:7608d43f",
+        "ch03-04:204:62058b58",
+        "ch03-04:458:72cac9df",
+        "ch03-04:470:8d072af6",
+        "ch03-04:607:79b6567a"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0012",
+      "source": "ミリ",
+      "target": "밀리",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "밀리",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Millie"
+      ],
+      "evidence_uids": [
+        "ch01-02d:99:e3cd7343",
+        "ch01-03:83:a8179cd8",
+        "ch01-03:181:3ca1f10a",
+        "ch01-03:229:15059bbf",
+        "ch01-03:295:29dd3bf7",
+        "ch01-03:425:267ebf03",
+        "ch01-03:429:4e04fd5c"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0013",
+      "source": "ミィシャ",
+      "target": "미샤",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "미샤",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Misha"
+      ],
+      "evidence_uids": [
+        "ch01-04:26:7d1f5db2",
+        "ch01-04:29:9abc636c",
+        "ch01-04:68:2b55b98",
+        "ch01-04:146:11878ce",
+        "ch01-04:420:9756bf41",
+        "ch01-04:476:529ef6a3",
+        "ch01-06:309:be66ab58",
+        "ch01-06:315:31179ed"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0014",
+      "source": "オグズ",
+      "target": "오그즈",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "오그즈",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Oughes"
+      ],
+      "evidence_uids": [
+        "ch01-06:64:3313f1e0",
+        "ch01-06:80:5ff2f4a4",
+        "ch01-06:150:9760f649",
+        "ch01-06:175:d6555cc3",
+        "ch01-06:237:b5f72702",
+        "ch01-06:262:ff4a22c8",
+        "ch01-07:162:ed7aa334"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0015",
+      "source": "クラウ",
+      "target": "크라우",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "크라우",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Khrau"
+      ],
+      "evidence_uids": [
+        "ch01-07:589:82407e0a",
+        "ch01-07:594:cf958549",
+        "ch01-07:682:a7e33baa",
+        "ch01-07:689:6682e80",
+        "ch01-07:774:e3edb6f2",
+        "ch01-07:820:f9b6ff13",
+        "ch01-07:920:dd9ddfd8",
+        "ch01-07:950:e37f0174"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0016",
+      "source": "クアラ",
+      "target": "쿠알라",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "쿠알라",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Qualla"
+      ],
+      "evidence_uids": [
+        "ch01-07:218:5b050374",
+        "ch01-07:231:32f047a2",
+        "ch01-07:308:2fb1a8cc",
+        "ch01-07:383:6679ae6d",
+        "ch01-07:478:f2e125f4",
+        "ch01-07:554:3a910a90",
+        "ch01-07:744:b7fb635"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0017",
+      "source": "リッグズ",
+      "target": "리그스",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "리그스",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Riggs"
+      ],
+      "evidence_uids": [
+        "ch01-04:38:a6e848c0",
+        "ch01-04:67:a20c63de",
+        "ch01-04:230:6951343c",
+        "ch01-06:343:27eb7b6d",
+        "ch01-06:381:1d316c98",
+        "ch01-06:404:c14c6e7b",
+        "ch01-06:430:503a93bb",
+        "ch01-07:359:c08b1691"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0018",
+      "source": "リトナ",
+      "target": "리토나",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "리토나",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Ritona"
+      ],
+      "evidence_uids": [
+        "ch01-01:278:3b95644f",
+        "ch01-01:298:5b75c9b4",
+        "ch01-04:98:1f2f15f8",
+        "ch01-04:144:2311001b",
+        "ch01-04:186:519b7a7f",
+        "ch01-09:125:d1e82d45",
+        "ch01-09:245:a33fa702",
+        "ch01-11:154:35e8fbf1"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0019",
+      "source": "ルキ",
+      "target": "루키",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "루키",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Ruki"
+      ],
+      "evidence_uids": [
+        "ch01-07:873:96a00221"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0020",
+      "source": "セルフィーネ",
+      "target": "셀피네",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "셀피네",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Selphine"
+      ],
+      "evidence_uids": [
+        "ch01-03:65:ff5f1820",
+        "ch01-03:79:3b980fe4",
+        "ch01-03:88:2244522a",
+        "ch01-03:110:14df95e4",
+        "ch01-03:118:325debae",
+        "ch01-03:125:fc56c432",
+        "ch01-03:128:38d3f365",
+        "ch01-03:167:ae077bfb"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0021",
+      "source": "ソネッタ",
+      "target": "소네타",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "소네타",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Sonetta"
+      ],
+      "evidence_uids": [
+        "ch01-04:85:958c9ada",
+        "ch01-04:123:b1f85d37",
+        "ch02-01:86:2c672851",
+        "ch02-01:90:406e7d17",
+        "ch02-01:105:4c87642",
+        "ch02-01:145:4f9c4d75",
+        "ch02-01:212:b2cfba5c",
+        "ch02-01:338:a7bd4cf9"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0022",
+      "source": "トスカ",
+      "target": "토스카",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "토스카",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Tosca"
+      ],
+      "evidence_uids": [
+        "ch01-07:437:c7762909",
+        "ch01-07:560:e41944a6",
+        "ch01-07:897:6943f277",
+        "ch01-07:1002:b90a5310",
+        "ch01-07:1203:c97115d7"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0023",
+      "source": "ワイトン",
+      "target": "와이튼",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "와이튼",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Wyton"
+      ],
+      "evidence_uids": [
+        "ch01-07:177:e9840dd2",
+        "ch01-07:383:6679ae6d",
+        "ch01-07:428:cf4607ed",
+        "ch01-07:437:c7762909",
+        "ch01-07:558:f2a2d572",
+        "ch01-07:736:6312082",
+        "ch01-07:804:a7c720e4",
+        "ch01-07:813:1e717b60"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0024",
+      "source": "ラモラ",
+      "target": "라모라",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "라모라",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Lamora"
+      ],
+      "evidence_uids": [
+        "ch01-07:873:96a00221",
+        "ch03-04:1144:10ca8f1d"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0025",
+      "source": "ガワン",
+      "target": "가완",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "가완",
+      "meaning_and_runtime_use": "대사·이름표에 쓰이는 인물명",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Gawon"
+      ],
+      "evidence_uids": [
+        "ch01-07:872:60c6016c"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0026",
+      "source": "セラ",
+      "target": "세라",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "세라",
+      "meaning_and_runtime_use": "여왕.",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Sela"
+      ],
+      "evidence_uids": [
+        "ch01-03:331:f20f0d17",
+        "ch01-03:446:2bf716c",
+        "ch01-05d:47:21bae3d8",
+        "ch01-12d:21:f16b79fd",
+        "ch03-08:662:cdc48ae0",
+        "ch03-08:663:6d7313bf"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0027",
+      "source": "ヴァラ",
+      "target": "바라",
+      "category": "character",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "바라",
+      "meaning_and_runtime_use": "루젠하이드 국왕.",
+      "runtime_function": "대사·이름표에 쓰이는 인물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Vhala"
+      ],
+      "evidence_uids": [
+        "ch01-00:34:40c1069b",
+        "ch01-02d:62:c5d2c863",
+        "ch01-06:271:fa19a2bc",
+        "ch01-07:796:42290ddd",
+        "ch01-07:826:145f834"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0028",
+      "source": "バンダナの硝子職人",
+      "target": "두건 쓴 유리 장인",
+      "category": "display_role",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "두건 쓴 유리 장인",
+      "meaning_and_runtime_use": "이름표 또는 화자 역할명",
+      "runtime_function": "이름표 또는 화자 역할명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Bandana Glass Craftsman"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0029",
+      "source": "コック",
+      "target": "요리사",
+      "category": "display_role",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "요리사",
+      "meaning_and_runtime_use": "이름표 또는 화자 역할명",
+      "runtime_function": "이름표 또는 화자 역할명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Cook"
+      ],
+      "evidence_uids": [
+        "ch01-03:425:267ebf03"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0030",
+      "source": "広場の知らない子",
+      "target": "광장의 낯선 아이",
+      "category": "display_role",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "광장의 낯선 아이",
+      "meaning_and_runtime_use": "이름표 또는 화자 역할명",
+      "runtime_function": "이름표 또는 화자 역할명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Girl in Town Square"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0031",
+      "source": "硝子職人",
+      "target": "유리 장인",
+      "category": "display_role",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "유리 장인",
+      "meaning_and_runtime_use": "이름표 또는 화자 역할명",
+      "runtime_function": "이름표 또는 화자 역할명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Glass Craftsman"
+      ],
+      "evidence_uids": [
+        "ch01-11:158:87c48e23",
+        "ch02-01:428:8135be9",
+        "ch02-02:256:adfbe678",
+        "ch02-04:129:524bb056",
+        "ch03-05:26:b740dfda"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0032",
+      "source": "護衛",
+      "target": "호위",
+      "category": "display_role",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "호위",
+      "meaning_and_runtime_use": "이름표 또는 화자 역할명",
+      "runtime_function": "이름표 또는 화자 역할명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Guard"
+      ],
+      "evidence_uids": [
+        "ch03-04:425:1030c9f4"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0033",
+      "source": "衛兵",
+      "target": "위병",
+      "category": "display_role",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "위병",
+      "meaning_and_runtime_use": "이름표 또는 화자 역할명",
+      "runtime_function": "이름표 또는 화자 역할명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Guard"
+      ],
+      "evidence_uids": [
+        "ch01-03:425:267ebf03"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0034",
+      "source": "図書館の一同",
+      "target": "도서관 사람들",
+      "category": "display_role",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "도서관 사람들",
+      "meaning_and_runtime_use": "이름표 또는 화자 역할명",
+      "runtime_function": "이름표 또는 화자 역할명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "People in Library"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0035",
+      "source": "医療班",
+      "target": "의료반",
+      "category": "display_role",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "의료반",
+      "meaning_and_runtime_use": "이름표 또는 화자 역할명",
+      "runtime_function": "이름표 또는 화자 역할명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Medic"
+      ],
+      "evidence_uids": [
+        "ch03-04:1139:79d9bc6a"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0036",
+      "source": "受付嬢",
+      "target": "접수원",
+      "category": "display_role",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "접수원",
+      "meaning_and_runtime_use": "이름표 또는 화자 역할명",
+      "runtime_function": "이름표 또는 화자 역할명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Receptionist"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0037",
+      "source": "初老の硝子職人",
+      "target": "초로의 유리 장인",
+      "category": "display_role",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "초로의 유리 장인",
+      "meaning_and_runtime_use": "이름표 또는 화자 역할명",
+      "runtime_function": "이름표 또는 화자 역할명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Older Glass Craftsman"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0038",
+      "source": "赤髪の女",
+      "target": "붉은 머리 여자",
+      "category": "display_role",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "붉은 머리 여자",
+      "meaning_and_runtime_use": "이름표 또는 화자 역할명",
+      "runtime_function": "이름표 또는 화자 역할명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Red-Haired Woman"
+      ],
+      "evidence_uids": [
+        "ch03-04:581:a4472b1a"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0039",
+      "source": "ルーン",
+      "target": "룬",
+      "category": "display_role",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "룬",
+      "meaning_and_runtime_use": "일본어 관리 문서의 값은 내부 문자열 `run`; 실제 표시가 확인될 때만 적용.",
+      "runtime_function": "이름표 또는 화자 역할명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Rune"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0040",
+      "source": "オバーグ",
+      "target": "오버그",
+      "category": "family",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "오버그",
+      "meaning_and_runtime_use": "가족 관계 호칭",
+      "runtime_function": "가족 관계 호칭",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Oberg"
+      ],
+      "evidence_uids": [
+        "ch01-00:42:38e5ee37",
+        "ch01-00:197:b52c7d5f",
+        "ch01-00:199:60ee8e3a",
+        "ch01-00:236:84b0ccc0",
+        "ch01-00:240:34435cde",
+        "ch01-00:241:7e58a96e",
+        "ch01-00:259:cf1a6d95",
+        "ch01-00:435:62f88963"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0041",
+      "source": "セレンハイド",
+      "target": "세렌하이드",
+      "category": "family",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "세렌하이드",
+      "meaning_and_runtime_use": "가족 관계 호칭",
+      "runtime_function": "가족 관계 호칭",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Serenhaide"
+      ],
+      "evidence_uids": [
+        "ch01-00:164:17bd1316",
+        "ch01-00:167:66ac9773",
+        "ch01-00:168:57ce6bcb",
+        "ch01-00:191:35fad5c7",
+        "ch01-00:221:a083733b",
+        "ch01-00:222:5644c61",
+        "ch01-00:259:cf1a6d95",
+        "ch01-00:313:b85ab230"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0042",
+      "source": "ラインヴァスタ",
+      "target": "라인바스타",
+      "category": "family",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "라인바스타",
+      "meaning_and_runtime_use": "가족 관계 호칭",
+      "runtime_function": "가족 관계 호칭",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Reighnvhasta"
+      ],
+      "evidence_uids": [
+        "ch01-01:278:3b95644f",
+        "ch01-01:298:5b75c9b4",
+        "ch01-04:212:c50d1535",
+        "ch01-07:159:5c40bc83",
+        "ch01-07:378:80947fe3",
+        "ch01-07:829:1da3e6d3",
+        "ch01-07:835:ff8ee980",
+        "ch01-09:91:70872194"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0043",
+      "source": "ランヴァイズ",
+      "target": "란바이즈",
+      "category": "family",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "란바이즈",
+      "meaning_and_runtime_use": "가족 관계 호칭",
+      "runtime_function": "가족 관계 호칭",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Lanvhaize"
+      ],
+      "evidence_uids": [
+        "ch01-07:560:e41944a6",
+        "ch01-07:569:7a54facc",
+        "ch01-07:572:8b7164d1",
+        "ch01-07:574:42923b59",
+        "ch01-07:588:cce31693",
+        "ch01-07:589:82407e0a",
+        "ch01-07:774:e3edb6f2",
+        "ch01-07:820:f9b6ff13"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0044",
+      "source": "ミューズ",
+      "target": "뮤즈",
+      "category": "family",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "뮤즈",
+      "meaning_and_runtime_use": "가족 관계 호칭",
+      "runtime_function": "가족 관계 호칭",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Muuse"
+      ],
+      "evidence_uids": [
+        "ch01-07:437:c7762909",
+        "ch01-07:897:6943f277"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0045",
+      "source": "ヴァヴァーズバー",
+      "target": "바바즈바",
+      "category": "family",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "바바즈바",
+      "meaning_and_runtime_use": "가족 관계 호칭",
+      "runtime_function": "가족 관계 호칭",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Vhaversbar"
+      ],
+      "evidence_uids": [
+        "ch02-02:33:5673dd5d",
+        "ch02-02:34:87e346a9",
+        "ch02-08:53:9143f21c",
+        "ch02-08:100:dc74d3a8"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0046",
+      "source": "リトナ＝ラインヴァスタ",
+      "target": "리토나 라인바스타",
+      "category": "character_full",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "리토나 라인바스타",
+      "meaning_and_runtime_use": "인물의 풀네임",
+      "runtime_function": "인물의 풀네임",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Ritona Reighnvhasta"
+      ],
+      "evidence_uids": [
+        "ch01-01:278:3b95644f",
+        "ch01-01:298:5b75c9b4",
+        "ch01-11:154:35e8fbf1",
+        "ch02-02:100:4bf3ef56",
+        "ch02-16:61:9399213c",
+        "ch03-08:122:c3e9268f",
+        "ch03-08:268:4e1b5a19",
+        "ch03-10:22:b6f00d20"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0047",
+      "source": "ミィネ＝セレンハイド",
+      "target": "미네 세렌하이드",
+      "category": "character_full",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "미네 세렌하이드",
+      "meaning_and_runtime_use": "인물의 풀네임",
+      "runtime_function": "인물의 풀네임",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Mhinei Serenhaide"
+      ],
+      "evidence_uids": [
+        "ch02-12:1335:b3cef3ef",
+        "ch03-04:857:ec460345"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0048",
+      "source": "クラウ＝ルゼンハイド＝ランヴァイズ",
+      "target": "크라우 루젠하이드 란바이즈",
+      "category": "character_full",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "크라우 루젠하이드 란바이즈",
+      "meaning_and_runtime_use": "인물의 풀네임",
+      "runtime_function": "인물의 풀네임",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Khrau Rughzenhaide Lanvhaize"
+      ],
+      "evidence_uids": [
+        "ch01-07:589:82407e0a",
+        "ch01-07:774:e3edb6f2",
+        "ch01-07:820:f9b6ff13",
+        "ch01-07:950:e37f0174"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0049",
+      "source": "ワイトン＝ミューズ",
+      "target": "와이튼 뮤즈",
+      "category": "character_full",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "와이튼 뮤즈",
+      "meaning_and_runtime_use": "인물의 풀네임",
+      "runtime_function": "인물의 풀네임",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Wyton Muuse"
+      ],
+      "evidence_uids": [
+        "ch01-07:437:c7762909"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0050",
+      "source": "トスカ＝ミューズ",
+      "target": "토스카 뮤즈",
+      "category": "character_full",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "토스카 뮤즈",
+      "meaning_and_runtime_use": "인물의 풀네임",
+      "runtime_function": "인물의 풀네임",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Tosca Muuse"
+      ],
+      "evidence_uids": [
+        "ch01-07:437:c7762909",
+        "ch01-07:897:6943f277"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0051",
+      "source": "ケンドリッド＝ヴァヴァーズバー",
+      "target": "켄드리드 바바즈바",
+      "category": "character_full",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "켄드리드 바바즈바",
+      "meaning_and_runtime_use": "인물의 풀네임",
+      "runtime_function": "인물의 풀네임",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Kendrid Vhaversbar"
+      ],
+      "evidence_uids": [
+        "ch02-02:33:5673dd5d"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0052",
+      "source": "ヴェラグ＝ルゼンハイド",
+      "target": "베라그 루젠하이드",
+      "category": "character_full",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "베라그 루젠하이드",
+      "meaning_and_runtime_use": "인물의 풀네임",
+      "runtime_function": "인물의 풀네임",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Vhelag Rughzenhaide"
+      ],
+      "evidence_uids": [
+        "ch02-01:287:4688ab49"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0053",
+      "source": "コロド＝マクスウェル",
+      "target": "코로드 맥스웰",
+      "category": "character_full",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "코로드 맥스웰",
+      "meaning_and_runtime_use": "인물의 풀네임",
+      "runtime_function": "인물의 풀네임",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Kherode Makswehl"
+      ],
+      "evidence_uids": [
+        "ch02-01:287:4688ab49"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0054",
+      "source": "アリスン＝リーヴェ",
+      "target": "앨리슨 리베",
+      "category": "character_full",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "앨리슨 리베",
+      "meaning_and_runtime_use": "인물의 풀네임",
+      "runtime_function": "인물의 풀네임",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Alissyn Rievegh"
+      ],
+      "evidence_uids": [
+        "ch02-01:287:4688ab49"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0055",
+      "source": "ロア＝リッドサイド",
+      "target": "로아 리드사이드",
+      "category": "character_full",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "로아 리드사이드",
+      "meaning_and_runtime_use": "인물의 풀네임",
+      "runtime_function": "인물의 풀네임",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Rhoa Ridside"
+      ],
+      "evidence_uids": [
+        "ch02-01:421:90434ee8"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0056",
+      "source": "サンアリズタ大陸",
+      "target": "산아리즈타 대륙",
+      "category": "geography",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "산아리즈타 대륙",
+      "meaning_and_runtime_use": "지리·국가·지역명",
+      "runtime_function": "지리·국가·지역명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Sanne’Ajrizda"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0057",
+      "source": "ルゼンハイド",
+      "target": "루젠하이드",
+      "category": "geography",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "루젠하이드",
+      "meaning_and_runtime_use": "지리·국가·지역명",
+      "runtime_function": "지리·국가·지역명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Rughzenhaide"
+      ],
+      "evidence_uids": [
+        "ch01-00:29:83b7e8eb",
+        "ch01-00:34:40c1069b",
+        "ch01-00:38:5dacbe5f",
+        "ch01-00:165:c83a9ae4",
+        "ch01-00:168:57ce6bcb",
+        "ch01-00:470:3651b42",
+        "ch01-01:279:8e562fa9",
+        "ch01-02d:57:168e56e7"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0058",
+      "source": "ヴァストアルカ",
+      "target": "바스토알카",
+      "category": "geography",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "바스토알카",
+      "meaning_and_runtime_use": "지리·국가·지역명",
+      "runtime_function": "지리·국가·지역명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Vhastoralkat"
+      ],
+      "evidence_uids": [
+        "ch01-10:182:7a318a5d",
+        "ch01-10:183:9060ff9b",
+        "ch01-11:204:d84b310",
+        "ch01-11:206:c344ed6f",
+        "ch01-11:221:f46cfb99",
+        "ch01-11:223:c7a54bfc",
+        "ch01-11:231:9014128a",
+        "ch01-11:235:3fa03f6"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0059",
+      "source": "シェストカーリン",
+      "target": "셰스토카린",
+      "category": "geography",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "셰스토카린",
+      "meaning_and_runtime_use": "지리·국가·지역명",
+      "runtime_function": "지리·국가·지역명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Schestkarlin"
+      ],
+      "evidence_uids": [
+        "ch01-00:34:40c1069b",
+        "ch01-02d:52:d0eda477",
+        "ch01-02d:60:2b95f0b4"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0060",
+      "source": "アウターポール",
+      "target": "아우터 폴",
+      "category": "geography",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "아우터 폴",
+      "meaning_and_runtime_use": "지리·국가·지역명",
+      "runtime_function": "지리·국가·지역명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Outer Pole"
+      ],
+      "evidence_uids": [
+        "ch02-12:434:a341eb9c"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0061",
+      "source": "インナーポール",
+      "target": "이너 폴",
+      "category": "geography",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "이너 폴",
+      "meaning_and_runtime_use": "지리·국가·지역명",
+      "runtime_function": "지리·국가·지역명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Inner Pole"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0062",
+      "source": "サードポール",
+      "target": "서드 폴",
+      "category": "geography",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "서드 폴",
+      "meaning_and_runtime_use": "지리·국가·지역명",
+      "runtime_function": "지리·국가·지역명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Third-Pole"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0063",
+      "source": "レンデル森林",
+      "target": "렌델 숲",
+      "category": "place",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "렌델 숲",
+      "meaning_and_runtime_use": "장소·시설명",
+      "runtime_function": "장소·시설명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Rendel Forest"
+      ],
+      "evidence_uids": [
+        "ch01-04:63:fbfe589a",
+        "ch01-06:222:d831a8a9",
+        "ch01-06:225:5b625719",
+        "ch01-06:306:3935079b",
+        "ch02-12:149:bf66bcac",
+        "ch02-12:220:c95c6e96",
+        "ch02-12:222:be591020",
+        "ch03-04:572:57fea52a"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0064",
+      "source": "ウォール街",
+      "target": "성벽 지구",
+      "category": "place",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "성벽 지구",
+      "meaning_and_runtime_use": "일반적인 ‘월가’가 아니라 성벽 바깥쪽 집락.",
+      "runtime_function": "장소·시설명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Wall District"
+      ],
+      "evidence_uids": [
+        "ch01-01:118:deabef6a",
+        "ch01-11:484:14a34c32",
+        "ch01-11:487:20423a66",
+        "ch01-11:489:9730c0c8",
+        "ch01-11:497:aa48a854",
+        "ch01-11:578:a7f37ed3",
+        "ch01-13:37:f1bb19cc",
+        "ch02-01:285:251f0947"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0065",
+      "source": "ウォール街に住む若奥様達の日記シリーズ",
+      "target": "『성벽 지구 새댁들의 일기』 시리즈",
+      "category": "publication",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "『성벽 지구 새댁들의 일기』 시리즈",
+      "meaning_and_runtime_use": "서적·간행물명",
+      "runtime_function": "서적·간행물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Diaries of Young Wives Living in the Wall District"
+      ],
+      "evidence_uids": [
+        "ch01-01:118:deabef6a",
+        "ch01-13:37:f1bb19cc",
+        "ch02-01:285:251f0947",
+        "ch02-04:103:f1bb19cc"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0066",
+      "source": "若奥様達シリーズ",
+      "target": "『새댁들의 일기』 시리즈",
+      "category": "publication",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "『새댁들의 일기』 시리즈",
+      "meaning_and_runtime_use": "서적·간행물명",
+      "runtime_function": "서적·간행물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Young Wives Series"
+      ],
+      "evidence_uids": [
+        "ch02-07:144:ffa7fb07"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0067",
+      "source": "幻想病",
+      "target": "『환상병』",
+      "category": "publication",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "『환상병』",
+      "meaning_and_runtime_use": "서적·간행물명",
+      "runtime_function": "서적·간행물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "A Series of Fantastic Maladies"
+      ],
+      "evidence_uids": [
+        "ch02-12:1399:ff70f02"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0068",
+      "source": "ファームリング",
+      "target": "팜 링",
+      "category": "place",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "팜 링",
+      "meaning_and_runtime_use": "장소·시설명",
+      "runtime_function": "장소·시설명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Farm Ring"
+      ],
+      "evidence_uids": [
+        "ch01-06:193:7ce84eea",
+        "ch01-06:195:ea3310c0",
+        "ch01-06:196:ac60d969",
+        "ch01-06:266:6f5b2eaf",
+        "ch02-12:173:e092407e",
+        "ch02-12:986:8aaee71a",
+        "ch03-01:499:a39d4b55"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0069",
+      "source": "止り木",
+      "target": "횃대",
+      "category": "place",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "횃대",
+      "meaning_and_runtime_use": "등장인물들이 모이는 거점의 고유명.",
+      "runtime_function": "장소·시설명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Perchwood"
+      ],
+      "evidence_uids": [
+        "ch01-01:283:1564853",
+        "ch01-04:72:3a04aaf5",
+        "ch01-04:212:c50d1535",
+        "ch01-04:253:46b2a411",
+        "ch01-04:508:4ce6284a",
+        "ch01-04:559:46589d60",
+        "ch01-06:229:48005ddb",
+        "ch01-06:309:be66ab58"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0070",
+      "source": "セレンハイド邸",
+      "target": "세렌하이드 저택",
+      "category": "place",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "세렌하이드 저택",
+      "meaning_and_runtime_use": "장소·시설명",
+      "runtime_function": "장소·시설명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Serenhaide Manor"
+      ],
+      "evidence_uids": [
+        "ch01-00:164:17bd1316",
+        "ch01-00:168:57ce6bcb",
+        "ch01-00:191:35fad5c7",
+        "ch01-00:222:5644c61",
+        "ch01-00:259:cf1a6d95",
+        "ch01-00:313:b85ab230",
+        "ch01-00:537:3afa0a42",
+        "ch01-01:80:ea1a9308"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0071",
+      "source": "オバーグ果樹園",
+      "target": "오버그 과수원",
+      "category": "place",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "오버그 과수원",
+      "meaning_and_runtime_use": "장소·시설명",
+      "runtime_function": "장소·시설명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Oberg Fruit Farm"
+      ],
+      "evidence_uids": [
+        "ch01-00:42:38e5ee37",
+        "ch01-00:435:62f88963",
+        "ch01-01:144:5d581f58",
+        "ch01-04:80:20871b0b",
+        "ch01-04:154:fe3d1",
+        "ch01-06:204:57088628",
+        "ch01-07:158:7797c498",
+        "ch01-11:489:9730c0c8"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0072",
+      "source": "アトリエ・ルゼンハイド",
+      "target": "아틀리에 루젠하이드",
+      "category": "place",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "아틀리에 루젠하이드",
+      "meaning_and_runtime_use": "장소·시설명",
+      "runtime_function": "장소·시설명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Atelier Rughzenhaide"
+      ],
+      "evidence_uids": [
+        "ch01-07:588:cce31693",
+        "ch01-07:950:e37f0174"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0073",
+      "source": "季節棟",
+      "target": "계절동",
+      "category": "place",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "계절동",
+      "meaning_and_runtime_use": "장소·시설명",
+      "runtime_function": "장소·시설명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Season Tower"
+      ],
+      "evidence_uids": [
+        "ch01-02d:52:d0eda477",
+        "ch01-02d:92:ec1a1208",
+        "ch01-03:524:f83d844c",
+        "ch01-04:343:10a56723",
+        "ch01-06:212:47810d14",
+        "ch01-06:262:ff4a22c8",
+        "ch02-12:1291:9118efbf",
+        "ch03-04:707:328b77e5"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0074",
+      "source": "アライアンス",
+      "target": "얼라이언스",
+      "category": "organization",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "얼라이언스",
+      "meaning_and_runtime_use": "정식명은 마나크래프터 얼라이언스.",
+      "runtime_function": "조직명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Alliance"
+      ],
+      "evidence_uids": [
+        "ch01-00:35:5c8d2d0c",
+        "ch01-02d:57:168e56e7",
+        "ch01-02d:60:2b95f0b4",
+        "ch01-02d:62:c5d2c863",
+        "ch01-07:778:8c3cbe86",
+        "ch01-07:1303:6ea12620",
+        "ch01-10:163:aadc0ea3",
+        "ch01-10:181:1fd34319"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0075",
+      "source": "マナクラフターズ・アライアンス",
+      "target": "마나크래프터 얼라이언스",
+      "category": "organization",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "마나크래프터 얼라이언스",
+      "meaning_and_runtime_use": "조직명",
+      "runtime_function": "조직명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Manakravters Alliance"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0076",
+      "source": "グラスクラフターズギルド",
+      "target": "글라스크래프터 길드",
+      "category": "organization",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "글라스크래프터 길드",
+      "meaning_and_runtime_use": "조직명",
+      "runtime_function": "조직명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Glasskravters Guild"
+      ],
+      "evidence_uids": [
+        "ch02-01:428:8135be9",
+        "ch02-04:167:7615a473",
+        "ch02-05d:32:e1c13eeb",
+        "ch02-15:31:5e2b707e",
+        "ch03-08:871:93b83f2d"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0077",
+      "source": "ファーマーズギルド",
+      "target": "농부 길드",
+      "category": "organization",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "농부 길드",
+      "meaning_and_runtime_use": "조직명",
+      "runtime_function": "조직명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Farmers Guild"
+      ],
+      "evidence_uids": [
+        "ch02-12:1048:41116c9d"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0078",
+      "source": "ギルド",
+      "target": "길드",
+      "category": "organization",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "길드",
+      "meaning_and_runtime_use": "조직명",
+      "runtime_function": "조직명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Guild"
+      ],
+      "evidence_uids": [
+        "ch02-01:428:8135be9",
+        "ch02-04:86:f293c329",
+        "ch02-04:167:7615a473",
+        "ch02-04:206:438332af",
+        "ch02-04:250:86def22f",
+        "ch02-04:254:80a0b774",
+        "ch02-05d:32:e1c13eeb",
+        "ch02-06:176:6c974e89"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0079",
+      "source": "CLOQKS（クロックス）",
+      "target": "CLOQKS(클록스)",
+      "category": "organization",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "CLOQKS(클록스)",
+      "meaning_and_runtime_use": "조직명",
+      "runtime_function": "조직명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "CLOQKS"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0080",
+      "source": "MADEC",
+      "target": "MADEC",
+      "category": "organization",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "MADEC",
+      "meaning_and_runtime_use": "단계명과 영문 코드명은 원문 그대로 유지.",
+      "runtime_function": "조직명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "MADEC"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0081",
+      "source": "ガーディアン",
+      "target": "가디언",
+      "category": "rank",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "가디언",
+      "meaning_and_runtime_use": "직위·호칭",
+      "runtime_function": "직위·호칭",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Guardian"
+      ],
+      "evidence_uids": [
+        "ch01-01:279:8e562fa9",
+        "ch01-01:298:5b75c9b4",
+        "ch01-07:835:ff8ee980",
+        "ch01-07:847:8746559d",
+        "ch01-09:119:f5e4bd09",
+        "ch01-11:154:35e8fbf1",
+        "ch01-11:158:87c48e23",
+        "ch01-11:218:60f9ce34"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0082",
+      "source": "騎士団",
+      "target": "기사단",
+      "category": "rank",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "기사단",
+      "meaning_and_runtime_use": "직위·호칭",
+      "runtime_function": "직위·호칭",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Knight’s Order"
+      ],
+      "evidence_uids": [
+        "ch01-01:281:346f7298",
+        "ch01-07:428:cf4607ed",
+        "ch01-07:431:fe82bc68",
+        "ch01-07:437:c7762909",
+        "ch01-07:504:1ff0ca8c",
+        "ch01-07:594:cf958549",
+        "ch01-07:875:94dad578",
+        "ch01-07:877:e9090637"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0083",
+      "source": "ホワイトコート",
+      "target": "화이트코트",
+      "category": "rank",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "화이트코트",
+      "meaning_and_runtime_use": "세렌하이드 경찰 부대.",
+      "runtime_function": "직위·호칭",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Whitecoat"
+      ],
+      "evidence_uids": [
+        "ch01-06:205:a405d2b9",
+        "ch01-06:279:86f72328",
+        "ch03-04:425:1030c9f4",
+        "ch03-04:1172:bd4231bf"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0084",
+      "source": "ファリナー",
+      "target": "파리너",
+      "category": "rank",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "파리너",
+      "meaning_and_runtime_use": "수로 운항과 정화를 맡는 직업인. 탈것/운항편을 가리키는 문맥에서는 ‘파린’.",
+      "runtime_function": "직위·호칭",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Fhariner"
+      ],
+      "evidence_uids": [
+        "ch01-00:128:8d1d5fd3",
+        "ch01-06:292:a0a0cbb4",
+        "ch01-06:438:27bcf72b",
+        "ch02-12:1054:e0902417",
+        "ch02-12:1153:a94754a9",
+        "ch02-12:1176:395184f2",
+        "ch02-17:156:962a41ee",
+        "ch02-20:84:262e5a42"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0085",
+      "source": "ファリン",
+      "target": "파린",
+      "category": "vehicle",
+      "part_of_speech": "noun",
+      "canonical_spelling": "파린",
+      "meaning_and_runtime_use": "파리너가 운항하는 수상 운송 수단.",
+      "runtime_function": "이동 수단명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Fharin"
+      ],
+      "evidence_uids": [
+        "ch02-17:141:9676cc75",
+        "ch02-17:156:962a41ee",
+        "ch02-18:325:e69ec343"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0086",
+      "source": "サードフリート",
+      "target": "서드 플리트",
+      "category": "rank",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "서드 플리트",
+      "meaning_and_runtime_use": "파리너 후보생의 최하위 예비군.",
+      "runtime_function": "직위·호칭",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Third Fleet"
+      ],
+      "evidence_uids": [
+        "ch02-20:223:934e18c1"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0087",
+      "source": "ファーストフリート",
+      "target": "퍼스트 플리트",
+      "category": "rank",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "퍼스트 플리트",
+      "meaning_and_runtime_use": "직위·호칭",
+      "runtime_function": "직위·호칭",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "First Fleet"
+      ],
+      "evidence_uids": [
+        "ch02-20:213:35020f6"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0088",
+      "source": "就望",
+      "target": "취망",
+      "category": "social",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "취망",
+      "meaning_and_runtime_use": "‘취업 희망’을 줄인 세계관 용어. 就望生은 ‘취망생’.",
+      "runtime_function": "사회 관계·계층 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Vocasp"
+      ],
+      "evidence_uids": [
+        "ch01-00:169:242630a",
+        "ch01-00:199:60ee8e3a",
+        "ch01-00:350:fb0fa5e4",
+        "ch01-00:395:d37dfd1",
+        "ch01-00:470:3651b42",
+        "ch01-01:114:535d4ae",
+        "ch01-01:231:d14604a9",
+        "ch01-02d:23:fb8ec15"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0089",
+      "source": "ベーシックステータス",
+      "target": "베이직 스테이터스",
+      "category": "social",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "베이직 스테이터스",
+      "meaning_and_runtime_use": "사회 관계·계층 용어",
+      "runtime_function": "사회 관계·계층 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Basic Status"
+      ],
+      "evidence_uids": [
+        "ch01-00:486:f01104c",
+        "ch01-00:488:32ce363a",
+        "ch01-00:489:4c08b4db",
+        "ch01-11:502:68ccc19",
+        "ch02-06:129:9b04c5e7"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0090",
+      "source": "本職",
+      "target": "본직",
+      "category": "social",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "본직",
+      "meaning_and_runtime_use": "사회 관계·계층 용어",
+      "runtime_function": "사회 관계·계층 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Primary Profession"
+      ],
+      "evidence_uids": [
+        "ch01-00:417:a50ee45b",
+        "ch01-00:442:a081667f",
+        "ch01-00:476:5b1aa209",
+        "ch01-00:481:84ed274c",
+        "ch01-00:484:f601f1e2",
+        "ch01-00:486:f01104c",
+        "ch01-00:510:640ff232",
+        "ch01-00:517:a268c97c"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0091",
+      "source": "本職登録",
+      "target": "본직 등록",
+      "category": "social",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "본직 등록",
+      "meaning_and_runtime_use": "사회 관계·계층 용어",
+      "runtime_function": "사회 관계·계층 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Primary Profession Registration"
+      ],
+      "evidence_uids": [
+        "ch01-00:442:a081667f",
+        "ch01-00:476:5b1aa209",
+        "ch01-00:484:f601f1e2",
+        "ch01-00:486:f01104c",
+        "ch01-00:537:3afa0a42",
+        "ch01-01:80:ea1a9308",
+        "ch02-06:50:9505ec79",
+        "ch02-06:59:4faa57c7"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0092",
+      "source": "就職システム",
+      "target": "취업 제도",
+      "category": "social",
+      "part_of_speech": "title_or_role",
+      "canonical_spelling": "취업 제도",
+      "meaning_and_runtime_use": "사회 관계·계층 용어",
+      "runtime_function": "사회 관계·계층 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Employment System"
+      ],
+      "evidence_uids": [
+        "ch02-06:71:9694dc2a"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0093",
+      "source": "マナ",
+      "target": "마나",
+      "category": "mana",
+      "part_of_speech": "noun",
+      "canonical_spelling": "마나",
+      "meaning_and_runtime_use": "마나크래프트 체계 용어",
+      "runtime_function": "마나크래프트 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Mana"
+      ],
+      "evidence_uids": [
+        "ch01-00:84:f7eb59bc",
+        "ch01-01:26:2ad29e91",
+        "ch01-01:31:d1c331f",
+        "ch01-01:44:9303717",
+        "ch01-01:280:3848897",
+        "ch01-04:392:6146fa9e",
+        "ch01-04:492:4902414d",
+        "ch01-07:906:2c7d7804"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0094",
+      "source": "カラードマナ",
+      "target": "컬러드 마나",
+      "category": "mana",
+      "part_of_speech": "noun",
+      "canonical_spelling": "컬러드 마나",
+      "meaning_and_runtime_use": "마나크래프트 체계 용어",
+      "runtime_function": "마나크래프트 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Colored Mana"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0095",
+      "source": "ピュリファイドマナ",
+      "target": "정제 마나",
+      "category": "mana",
+      "part_of_speech": "noun",
+      "canonical_spelling": "정제 마나",
+      "meaning_and_runtime_use": "‘비빌리아’와 동의 관계이나 문맥상 명칭은 구별.",
+      "runtime_function": "마나크래프트 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Purified Mana"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0096",
+      "source": "ピュリファイドマナ／ヴィビリア",
+      "target": "정제 마나/비빌리아",
+      "category": "mana",
+      "part_of_speech": "noun",
+      "canonical_spelling": "정제 마나/비빌리아",
+      "meaning_and_runtime_use": "용어집 표제.",
+      "runtime_function": "마나크래프트 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Purified Mana/Vibaelia"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0097",
+      "source": "ヴィビリア",
+      "target": "비빌리아",
+      "category": "mana",
+      "part_of_speech": "noun",
+      "canonical_spelling": "비빌리아",
+      "meaning_and_runtime_use": "생명체 내부의 정제 마나를 가리키는 종교·지역적 명칭.",
+      "runtime_function": "마나크래프트 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Vibaelia"
+      ],
+      "evidence_uids": [
+        "ch01-03:341:fdf9c6d1",
+        "ch02-12:962:4487eef",
+        "ch02-12:986:8aaee71a"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0098",
+      "source": "ファイア",
+      "target": "파이로",
+      "category": "mana",
+      "part_of_speech": "noun",
+      "canonical_spelling": "파이로",
+      "meaning_and_runtime_use": "마나크래프트 체계 용어",
+      "runtime_function": "마나크래프트 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Pyro"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0099",
+      "source": "アクア",
+      "target": "아쿠아",
+      "category": "mana",
+      "part_of_speech": "noun",
+      "canonical_spelling": "아쿠아",
+      "meaning_and_runtime_use": "마나크래프트 체계 용어",
+      "runtime_function": "마나크래프트 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Aqua"
+      ],
+      "evidence_uids": [
+        "ch02-12:777:625bc866"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0100",
+      "source": "テラ",
+      "target": "테라",
+      "category": "mana",
+      "part_of_speech": "noun",
+      "canonical_spelling": "테라",
+      "meaning_and_runtime_use": "마나크래프트 체계 용어",
+      "runtime_function": "마나크래프트 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Terra"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0101",
+      "source": "エアロ",
+      "target": "에어로",
+      "category": "mana",
+      "part_of_speech": "noun",
+      "canonical_spelling": "에어로",
+      "meaning_and_runtime_use": "마나크래프트 체계 용어",
+      "runtime_function": "마나크래프트 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Aero"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0102",
+      "source": "ポール",
+      "target": "폴",
+      "category": "mana",
+      "part_of_speech": "noun",
+      "canonical_spelling": "폴",
+      "meaning_and_runtime_use": "마나크래프트 체계 용어",
+      "runtime_function": "마나크래프트 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Pole"
+      ],
+      "evidence_uids": [
+        "ch02-12:434:a341eb9c"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0103",
+      "source": "マナストリーム",
+      "target": "마나 스트림",
+      "category": "mana",
+      "part_of_speech": "noun",
+      "canonical_spelling": "마나 스트림",
+      "meaning_and_runtime_use": "마나크래프트 체계 용어",
+      "runtime_function": "마나크래프트 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Manastream"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0104",
+      "source": "マナクラフト",
+      "target": "마나크래프트",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "마나크래프트",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Manakravte"
+      ],
+      "evidence_uids": [
+        "ch01-01:280:3848897",
+        "ch01-11:277:b4c6b719",
+        "ch02-01:42:a255bbad",
+        "ch02-01:304:f928f3fb",
+        "ch02-04:179:6264b704",
+        "ch02-05d:18:a8429800",
+        "ch02-05d:19:f1723a8a",
+        "ch02-12:334:1a166da4"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0105",
+      "source": "クラフト",
+      "target": "크래프트",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "크래프트",
+      "meaning_and_runtime_use": "マナクラフト의 일상적 준말.",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Kravte"
+      ],
+      "evidence_uids": [
+        "ch01-01:24:650fc4df",
+        "ch01-01:26:2ad29e91",
+        "ch01-01:27:b264d5c1",
+        "ch01-01:33:5db09c98",
+        "ch01-01:36:57fbb679",
+        "ch01-01:280:3848897",
+        "ch01-07:258:bd8614e3",
+        "ch01-07:261:90c2288d"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0106",
+      "source": "マナクラフター",
+      "target": "마나크래프터",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "마나크래프터",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Manakravter"
+      ],
+      "evidence_uids": [
+        "ch01-01:44:9303717",
+        "ch02-04:128:800c6e83",
+        "ch02-13:30:fcf10beb",
+        "ch03-02:213:a4ecb759",
+        "ch03-03:97:f30ae7dd",
+        "ch03-04:709:20f77251"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0107",
+      "source": "バトルクラフト",
+      "target": "배틀크래프트",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "배틀크래프트",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Battlekravte"
+      ],
+      "evidence_uids": [
+        "ch02-12:340:fd53d8eb"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0108",
+      "source": "パッシブクラフト",
+      "target": "패시브 크래프트",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "패시브 크래프트",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Passive Kravte"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0109",
+      "source": "ペンクラフト",
+      "target": "펜크래프트",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "펜크래프트",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Penkravte"
+      ],
+      "evidence_uids": [
+        "ch01-01:24:650fc4df",
+        "ch01-01:26:2ad29e91",
+        "ch01-01:27:b264d5c1",
+        "ch01-01:33:5db09c98",
+        "ch01-01:36:57fbb679",
+        "ch01-13:41:3cdef441",
+        "ch01-13:43:d75a51dc",
+        "ch01-13:153:50df60b7"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0110",
+      "source": "ライトクラフト",
+      "target": "라이트크래프트",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "라이트크래프트",
+      "meaning_and_runtime_use": "쓰기(write)와 빛(light)의 중의성을 보존하고 음역으로 통일.",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Writekravte / Lightkravte"
+      ],
+      "evidence_uids": [
+        "ch02-01:364:70ab63b8",
+        "ch02-01:366:a19d7423",
+        "ch02-01:367:27c21312",
+        "ch02-01:370:cc9c7b40",
+        "ch02-02:132:3cea545f",
+        "ch02-02:198:3e00268f",
+        "ch02-02:233:ca420f97",
+        "ch02-02:243:77ebac03"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0111",
+      "source": "リードクラフト",
+      "target": "리드크래프트",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "리드크래프트",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Readkravte"
+      ],
+      "evidence_uids": [
+        "ch02-01:369:d84819ad",
+        "ch02-02:54:94b2d418",
+        "ch02-02:241:1512ee8",
+        "ch02-07:96:6693a03f",
+        "ch02-07:177:ad7f282f",
+        "ch02-08:54:1b8e56c6",
+        "ch02-09:252:4a282d71",
+        "ch03-01:85:cb6616ee"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0112",
+      "source": "グラスクラフト",
+      "target": "글라스크래프트",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "글라스크래프트",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Glasskravte"
+      ],
+      "evidence_uids": [
+        "ch02-01:393:eb61aaeb",
+        "ch02-15:73:406301a8"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0113",
+      "source": "グラスクラフター",
+      "target": "글라스크래프터",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "글라스크래프터",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Glasskravter"
+      ],
+      "evidence_uids": [
+        "ch01-11:158:87c48e23",
+        "ch02-01:428:8135be9",
+        "ch02-04:167:7615a473",
+        "ch02-05d:32:e1c13eeb",
+        "ch02-15:31:5e2b707e",
+        "ch02-17:98:322b11c5",
+        "ch03-05:62:4df36bf5",
+        "ch03-08:871:93b83f2d"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0114",
+      "source": "オフィア",
+      "target": "오피아",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "오피아",
+      "meaning_and_runtime_use": "즉시 블레스하는 계통이자 전투용 신체 변질 의식.",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Ophia"
+      ],
+      "evidence_uids": [
+        "ch02-12:327:7742990",
+        "ch02-12:337:d397bf5",
+        "ch02-12:341:cacc1734",
+        "ch02-12:343:71003396",
+        "ch02-12:345:e96c920",
+        "ch02-12:353:3100658d",
+        "ch02-12:354:12b72a38",
+        "ch02-12:368:be483548"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0115",
+      "source": "ディヴィオ",
+      "target": "디비오",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "디비오",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Divio"
+      ],
+      "evidence_uids": [
+        "ch02-12:347:bff240e4",
+        "ch02-12:353:3100658d",
+        "ch02-12:354:12b72a38"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0116",
+      "source": "エグザルテーション",
+      "target": "엑절테이션",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "엑절테이션",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Exaltation"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0117",
+      "source": "シフト",
+      "target": "시프트",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "시프트",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Shift"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0118",
+      "source": "コミット",
+      "target": "커밋",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "커밋",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Commit"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0119",
+      "source": "ブレス",
+      "target": "블레스",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "블레스",
+      "meaning_and_runtime_use": "크래프트 발동 행위. 일반적인 축복도 문맥으로 구분.",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Bless"
+      ],
+      "evidence_uids": [
+        "ch02-12:197:6ff765c3",
+        "ch02-12:1408:c72c78f8",
+        "ch03-03:159:ff088198"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0120",
+      "source": "シナジー",
+      "target": "시너지",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "시너지",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Synergy"
+      ],
+      "evidence_uids": [
+        "ch03-08:219:7d12e899"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0121",
+      "source": "シグニチャー",
+      "target": "시그니처",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "시그니처",
+      "meaning_and_runtime_use": "개인별 마나 특성.",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Signature"
+      ],
+      "evidence_uids": [
+        "ch02-12:62:4ec8a180",
+        "ch02-12:878:1cf06246",
+        "ch03-01:217:8e2f841a",
+        "ch03-04:167:c116630c",
+        "ch03-05:17:abbf49"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0122",
+      "source": "通信ライン",
+      "target": "통신 라인",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "통신 라인",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Comms Line"
+      ],
+      "evidence_uids": [
+        "ch01-00:203:fe1ffc19",
+        "ch01-04:246:a65ec2e",
+        "ch01-04:511:2c90c32b",
+        "ch01-06:278:fd7e5d41",
+        "ch02-03:28:a142c98b",
+        "ch02-07:178:661cc440",
+        "ch02-12:59:8739e93e",
+        "ch02-12:170:ca06cad0"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0123",
+      "source": "パスダウン",
+      "target": "패스다운",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "패스다운",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Pathdown"
+      ],
+      "evidence_uids": [
+        "ch01-01:145:ffd95b42",
+        "ch02-18:149:3bfd6053",
+        "ch03-04:632:79c3757b",
+        "ch03-04:633:7b17c6f",
+        "ch03-04:639:7574ccc3",
+        "ch03-04:642:25cc68aa"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0124",
+      "source": "風言語",
+      "target": "풍언어",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "풍언어",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Aerolinguistics"
+      ],
+      "evidence_uids": [
+        "ch03-01:217:8e2f841a"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0125",
+      "source": "マインドダイブ",
+      "target": "마인드 다이브",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "마인드 다이브",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Mind Dive"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0126",
+      "source": "へヴィーレイン",
+      "target": "헤비 레인",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "헤비 레인",
+      "meaning_and_runtime_use": "기밀 크래프트명.",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Heavy Rain"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0127",
+      "source": "マナロック症候群",
+      "target": "마나 록 증후군",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "마나 록 증후군",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Manalock Syndrome"
+      ],
+      "evidence_uids": [
+        "ch02-07:169:e37a1a3d"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0128",
+      "source": "光学迷彩",
+      "target": "광학 위장",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "광학 위장",
+      "meaning_and_runtime_use": "크라프트·유리 공예 체계 용어",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Optical Camouflage"
+      ],
+      "evidence_uids": [
+        "ch01-01:281:346f7298",
+        "ch01-09:247:f291f741",
+        "ch01-09:258:7fc181a3",
+        "ch03-10:35:9b21141d"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0129",
+      "source": "クローク",
+      "target": "클로크",
+      "category": "kravte",
+      "part_of_speech": "noun",
+      "canonical_spelling": "클로크",
+      "meaning_and_runtime_use": "광학 위장 기술의 통칭.",
+      "runtime_function": "크라프트·유리 공예 체계 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Cloak"
+      ],
+      "evidence_uids": [
+        "ch01-09:258:7fc181a3"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0130",
+      "source": "ノンクラフトアイテム",
+      "target": "논크래프트 아이템",
+      "category": "item",
+      "part_of_speech": "noun",
+      "canonical_spelling": "논크래프트 아이템",
+      "meaning_and_runtime_use": "물품명",
+      "runtime_function": "물품명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Nonkravte Item"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0131",
+      "source": "リーディングストーン",
+      "target": "리딩 스톤",
+      "category": "item",
+      "part_of_speech": "noun",
+      "canonical_spelling": "리딩 스톤",
+      "meaning_and_runtime_use": "물품명",
+      "runtime_function": "물품명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Reading Stone"
+      ],
+      "evidence_uids": [
+        "ch01-01:28:f26d0ef6",
+        "ch02-01:179:d9ae0d32",
+        "ch02-01:297:9b6b3e7d",
+        "ch02-02:226:7566878",
+        "ch02-04:53:7566878",
+        "ch02-04:104:89030003",
+        "ch02-04:125:e3813f",
+        "ch02-04:165:d4b977d"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0132",
+      "source": "セディメント",
+      "target": "세디먼트",
+      "category": "item",
+      "part_of_speech": "noun",
+      "canonical_spelling": "세디먼트",
+      "meaning_and_runtime_use": "물품명",
+      "runtime_function": "물품명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Sediment"
+      ],
+      "evidence_uids": [
+        "ch01-00:203:fe1ffc19",
+        "ch02-12:197:6ff765c3",
+        "ch03-01:283:b434885e"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0133",
+      "source": "透曜石",
+      "target": "투요석",
+      "category": "item",
+      "part_of_speech": "noun",
+      "canonical_spelling": "투요석",
+      "meaning_and_runtime_use": "물품명",
+      "runtime_function": "물품명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Transidian"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0134",
+      "source": "セイン",
+      "target": "세인",
+      "category": "item",
+      "part_of_speech": "noun",
+      "canonical_spelling": "세인",
+      "meaning_and_runtime_use": "루젠하이드 화폐.",
+      "runtime_function": "물품명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Sain"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0135",
+      "source": "ベルコ",
+      "target": "벨코",
+      "category": "item",
+      "part_of_speech": "noun",
+      "canonical_spelling": "벨코",
+      "meaning_and_runtime_use": "말린 식물을 말아 피우는 기호품.",
+      "runtime_function": "물품명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Belucco"
+      ],
+      "evidence_uids": [
+        "ch03-01:222:aafd5df3"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0136",
+      "source": "センデダール",
+      "target": "센데다르",
+      "category": "item",
+      "part_of_speech": "noun",
+      "canonical_spelling": "센데다르",
+      "meaning_and_runtime_use": "소형 점화 도구.",
+      "runtime_function": "물품명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Cendidar"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0137",
+      "source": "ルルベリー煙幕弾",
+      "target": "룰루베리 연막탄",
+      "category": "item",
+      "part_of_speech": "noun",
+      "canonical_spelling": "룰루베리 연막탄",
+      "meaning_and_runtime_use": "물품명",
+      "runtime_function": "물품명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Luluberry Smoker"
+      ],
+      "evidence_uids": [
+        "ch03-04:100:50374369",
+        "ch03-04:756:8b2f4786",
+        "ch03-04:808:68a1c0fa",
+        "ch03-04:1179:c2a4c13e"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0138",
+      "source": "ヴァストアルカブルー",
+      "target": "바스토알카 블루",
+      "category": "item",
+      "part_of_speech": "noun",
+      "canonical_spelling": "바스토알카 블루",
+      "meaning_and_runtime_use": "물품명",
+      "runtime_function": "물품명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Vhastoralkat Blue"
+      ],
+      "evidence_uids": [
+        "ch01-11:204:d84b310",
+        "ch01-11:206:c344ed6f",
+        "ch02-01:424:1728d940",
+        "ch03-05:41:4f9a0ef5"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0139",
+      "source": "MRI",
+      "target": "MRI",
+      "category": "item",
+      "part_of_speech": "noun",
+      "canonical_spelling": "MRI",
+      "meaning_and_runtime_use": "Mana Resonance Imaging.",
+      "runtime_function": "물품명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "MRI"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0140",
+      "source": "意訳印刷",
+      "target": "의역 인쇄",
+      "category": "item",
+      "part_of_speech": "noun",
+      "canonical_spelling": "의역 인쇄",
+      "meaning_and_runtime_use": "물품명",
+      "runtime_function": "물품명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Interpretive Printing"
+      ],
+      "evidence_uids": [
+        "ch02-02:55:2ca8b426",
+        "ch02-02:93:3f63067",
+        "ch02-02:178:f213dd23",
+        "ch02-02:186:71a19f7e",
+        "ch02-02:256:adfbe678",
+        "ch02-08:56:710ac96f",
+        "ch02-17:62:a1e7d9a0",
+        "ch03-00:22:216b406b"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0141",
+      "source": "解像力",
+      "target": "해상력",
+      "category": "optics",
+      "part_of_speech": "noun",
+      "canonical_spelling": "해상력",
+      "meaning_and_runtime_use": "광학 장치가 세부를 분리해 표현하는 능력.",
+      "runtime_function": "광학·시각 현상 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Resolving Power"
+      ],
+      "evidence_uids": [
+        "ch03-08:959:e6c75ef2",
+        "ch03-10:42:ddb94404"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0142",
+      "source": "ヘリコイド",
+      "target": "헬리코이드",
+      "category": "optics",
+      "part_of_speech": "noun",
+      "canonical_spelling": "헬리코이드",
+      "meaning_and_runtime_use": "광학·시각 현상 용어",
+      "runtime_function": "광학·시각 현상 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Helicoid"
+      ],
+      "evidence_uids": [
+        "ch03-05:59:d0612871"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0143",
+      "source": "イメージサークル",
+      "target": "이미지 서클",
+      "category": "optics",
+      "part_of_speech": "noun",
+      "canonical_spelling": "이미지 서클",
+      "meaning_and_runtime_use": "광학·시각 현상 용어",
+      "runtime_function": "광학·시각 현상 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Image Circle"
+      ],
+      "evidence_uids": [
+        "ch03-05:59:d0612871"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0144",
+      "source": "セボス",
+      "target": "세보스",
+      "category": "food",
+      "part_of_speech": "noun",
+      "canonical_spelling": "세보스",
+      "meaning_and_runtime_use": "음식명",
+      "runtime_function": "음식명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Cebbos"
+      ],
+      "evidence_uids": [
+        "ch03-02:70:512b57fd",
+        "ch03-02:79:676d12eb",
+        "ch03-02:91:8d23aecc",
+        "ch03-02:297:d6fb6a0e",
+        "ch03-02:389:7e19ba71",
+        "ch03-02:415:7459fd55",
+        "ch03-02:432:81737794"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0145",
+      "source": "ボルッポ",
+      "target": "보르포",
+      "category": "food",
+      "part_of_speech": "noun",
+      "canonical_spelling": "보르포",
+      "meaning_and_runtime_use": "음식명",
+      "runtime_function": "음식명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Boorp"
+      ],
+      "evidence_uids": [
+        "ch03-02:295:b6e321ed",
+        "ch03-02:298:9c45aa1",
+        "ch03-02:382:95a35e27",
+        "ch03-04:143:dcbc4d37"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0146",
+      "source": "ビーアル",
+      "target": "비아르",
+      "category": "creature",
+      "part_of_speech": "noun",
+      "canonical_spelling": "비아르",
+      "meaning_and_runtime_use": "생물명",
+      "runtime_function": "생물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Beare"
+      ],
+      "evidence_uids": [
+        "ch01-06:191:9fbe7349",
+        "ch01-06:193:7ce84eea",
+        "ch01-06:205:a405d2b9",
+        "ch01-06:210:1b75cd0b",
+        "ch01-06:219:d43bd256",
+        "ch01-06:306:3935079b",
+        "ch01-06:310:7b31f4",
+        "ch01-06:337:e239c445"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0147",
+      "source": "ラック・ビーアル",
+      "target": "랙 비아르",
+      "category": "creature",
+      "part_of_speech": "noun",
+      "canonical_spelling": "랙 비아르",
+      "meaning_and_runtime_use": "생물명",
+      "runtime_function": "생물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Rackbeare"
+      ],
+      "evidence_uids": [
+        "ch01-06:191:9fbe7349",
+        "ch01-06:210:1b75cd0b",
+        "ch01-06:219:d43bd256",
+        "ch01-06:306:3935079b",
+        "ch01-06:310:7b31f4",
+        "ch01-11:370:dd730962",
+        "ch01-11:378:cd936514",
+        "ch01-11:391:bf703824"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0148",
+      "source": "吸魂蝶",
+      "target": "흡혼나비",
+      "category": "creature",
+      "part_of_speech": "noun",
+      "canonical_spelling": "흡혼나비",
+      "meaning_and_runtime_use": "생물명",
+      "runtime_function": "생물명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Souleater"
+      ],
+      "evidence_uids": [
+        "ch03-04:818:31136124"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0149",
+      "source": "ビルセリオ／ヴィルセリオ",
+      "target": "빌세리오/뷜세리오",
+      "category": "culture",
+      "part_of_speech": "noun",
+      "canonical_spelling": "빌세리오/뷜세리오",
+      "meaning_and_runtime_use": "지역·세대별 발음 차이를 두 표기로 보존.",
+      "runtime_function": "문화·관습 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Vilserio/Vhilserio"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0150",
+      "source": "イシュタリアーナ・ヴィルセリオ",
+      "target": "이슈타리아나 뷜세리오",
+      "category": "culture",
+      "part_of_speech": "noun",
+      "canonical_spelling": "이슈타리아나 뷜세리오",
+      "meaning_and_runtime_use": "행운을 기원하는 관용 인사.",
+      "runtime_function": "문화·관습 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Ishtaliana vhilserio"
+      ],
+      "evidence_uids": [
+        "ch01-00:193:57c27c59",
+        "ch03-10:22:b6f00d20"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0151",
+      "source": "ヴァクト",
+      "target": "바크트",
+      "category": "culture",
+      "part_of_speech": "noun",
+      "canonical_spelling": "바크트",
+      "meaning_and_runtime_use": "주목·차렷을 뜻하는 명령어.",
+      "runtime_function": "문화·관습 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Vhakt"
+      ],
+      "evidence_uids": [
+        "ch02-01:217:97dd2b59",
+        "ch02-18:59:753a68e"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0152",
+      "source": "ジャスター",
+      "target": "자스타",
+      "category": "culture",
+      "part_of_speech": "noun",
+      "canonical_spelling": "자스타",
+      "meaning_and_runtime_use": "바크트에 대한 응답 구호.",
+      "runtime_function": "문화·관습 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Justa"
+      ],
+      "evidence_uids": [
+        "ch02-18:62:6eb1fe74"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0153",
+      "source": "アカデミア",
+      "target": "아카데미아",
+      "category": "institution",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "아카데미아",
+      "meaning_and_runtime_use": "기관명",
+      "runtime_function": "기관명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Academia"
+      ],
+      "evidence_uids": [
+        "ch02-12:817:3f1102f"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0154",
+      "source": "ヴィッス",
+      "target": "비스",
+      "category": "culture",
+      "part_of_speech": "noun",
+      "canonical_spelling": "비스",
+      "meaning_and_runtime_use": "문화·관습 용어",
+      "runtime_function": "문화·관습 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Viss"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0155",
+      "source": "シュタ・ヴィル発音",
+      "target": "슈타-빌 발음",
+      "category": "culture",
+      "part_of_speech": "noun",
+      "canonical_spelling": "슈타-빌 발음",
+      "meaning_and_runtime_use": "문화·관습 용어",
+      "runtime_function": "문화·관습 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Shta-Vhil Pronunciation"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0156",
+      "source": "セキュール",
+      "target": "세큐르",
+      "category": "culture",
+      "part_of_speech": "noun",
+      "canonical_spelling": "세큐르",
+      "meaning_and_runtime_use": "문화·관습 용어",
+      "runtime_function": "문화·관습 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Secuule"
+      ],
+      "evidence_uids": [
+        "ch01-07:1307:4ee1154a"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0157",
+      "source": "２万コマ",
+      "target": "초당 2만 프레임",
+      "category": "culture",
+      "part_of_speech": "noun",
+      "canonical_spelling": "초당 2만 프레임",
+      "meaning_and_runtime_use": "문화·관습 용어",
+      "runtime_function": "문화·관습 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "20,000 FPS"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0158",
+      "source": "タミる",
+      "target": "타미다",
+      "category": "culture",
+      "part_of_speech": "noun",
+      "canonical_spelling": "타미다",
+      "meaning_and_runtime_use": "터미네이트에서 나온 거친 속어.",
+      "runtime_function": "문화·관습 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Terming"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0159",
+      "source": "流覚",
+      "target": "유각",
+      "category": "sense",
+      "part_of_speech": "noun",
+      "canonical_spelling": "유각",
+      "meaning_and_runtime_use": "마나의 흐름을 감지하는 제6감.",
+      "runtime_function": "감각·인지 관련 설정 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Course"
+      ],
+      "evidence_uids": [],
+      "status": "pending",
+      "pending_reason": "원문 표시 근거 또는 실제 표시 확인이 더 필요함"
+    },
+    {
+      "term_id": "TERM-0160",
+      "source": "第七感",
+      "target": "제7감",
+      "category": "sense",
+      "part_of_speech": "noun",
+      "canonical_spelling": "제7감",
+      "meaning_and_runtime_use": "감각·인지 관련 설정 용어",
+      "runtime_function": "감각·인지 관련 설정 용어",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Seventh Sense"
+      ],
+      "evidence_uids": [
+        "ch02-18:297:47684788"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    },
+    {
+      "term_id": "TERM-0161",
+      "source": "グレイヴェール",
+      "target": "그레이베일",
+      "category": "organization",
+      "part_of_speech": "proper_noun",
+      "canonical_spelling": "그레이베일",
+      "meaning_and_runtime_use": "조직명",
+      "runtime_function": "조직명",
+      "allowed_variants": [],
+      "forbidden_or_deprecated": [
+        "Ghreyveil"
+      ],
+      "evidence_uids": [
+        "ch03-10:24:201da731"
+      ],
+      "status": "locked",
+      "pending_reason": null
+    }
+  ]
+}

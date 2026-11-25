@@ -1,0 +1,970 @@
+{
+  "created_at": "2026-09-08T00:13:01.810796+00:00",
+  "translator_model": "Codex internal",
+  "thread_id": "019f98c4-2d2a-7502-b05c-6a79321fe89e",
+  "scope": "11 texture targets (8 scenario-referenced, 3 unreferenced credits) + 1 OP with 9 credit groups. People names transliterated per user; brands preserved.",
+  "phonetic_name_status": "Proposed Hangul readings; not a claim of official Korean spellings.",
+  "assets": [
+    {
+      "name": "anime_dmitry",
+      "path_id": -2930094059954211240,
+      "width": 1164,
+      "height": 187,
+      "source_sha256": "d43b12a2bede1514f33f45cd54a4711e60e96b74b40723bb18807f518c773880",
+      "output_sha256": "3f5af8e5115c278655d0a95d7db7bcc11ddaf05dd20c3de024fb0bcfdbc1e9f1",
+      "visual_status": "FAIL_CLEAN_PLATE",
+      "visual_note_ko": "x240~940,y40~115: 매끈한 회보라 패치·세로 경계 반복. 원문 V 위치에 큰 패치.",
+      "scenario_referenced": true,
+      "lines": [
+        {
+          "source": "DMITRY ZHUKOV",
+          "ko": "드미트리 주코프",
+          "kind": "name",
+          "source_box": [
+            86,
+            47,
+            970,
+            106
+          ]
+        }
+      ],
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "user_approval": "PENDING"
+    },
+    {
+      "name": "anime_hare",
+      "path_id": -3364026802204621321,
+      "width": 1098,
+      "height": 211,
+      "source_sha256": "d62a5f35dab0ce7aba180efd96308ab426ac8d89c9080294da3815b53f813ab2",
+      "output_sha256": "beba0f6db515f647a315d78b803d418bb1d2eeaa910ef48ba6f300368bb33739",
+      "visual_status": "BLOCKED_NO_CLEAN_PLATE",
+      "visual_note_ko": "흰 영문 잔재는 없지만 x580~650,y40~90 상단 붓 가장자리에 각진 홈·선형 이음. 승인 보류.",
+      "scenario_referenced": true,
+      "lines": [
+        {
+          "source": "CHARACTER ANIMATOR",
+          "ko": "캐릭터 애니메이터",
+          "kind": "role",
+          "source_box": [
+            45,
+            48,
+            725,
+            79
+          ]
+        },
+        {
+          "source": "HARE KONATSU",
+          "ko": "하레 코나츠",
+          "kind": "name",
+          "source_box": [
+            43,
+            126,
+            845,
+            185
+          ]
+        }
+      ],
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "user_approval": "PENDING"
+    },
+    {
+      "name": "Dmitry_c",
+      "path_id": -5485632158015552049,
+      "width": 1035,
+      "height": 182,
+      "source_sha256": "21866d927afd4e6e065487c91025be528750a52d3fcb14e246e759d6acb54ef4",
+      "output_sha256": "5f35a93bd27fb4b23e95d4d605c6bfc602243d38e7797697cfbe48d1d8616b3b",
+      "visual_status": "FAIL_CLEAN_PLATE",
+      "visual_note_ko": "역할문 x70~1020,y21~68 및 인명 x68~960,y93~167: 글자 모양 밝기 얼룩·사각 격자.",
+      "scenario_referenced": false,
+      "lines": [
+        {
+          "source": "ENVIRONMENTAL ANIMATION BY",
+          "ko": "환경 애니메이션",
+          "kind": "role",
+          "source_box": [
+            71,
+            29,
+            1020,
+            60
+          ]
+        },
+        {
+          "source": "DMITRY ZHUKOV",
+          "ko": "드미트리 주코프",
+          "kind": "name",
+          "source_box": [
+            68,
+            101,
+            952,
+            160
+          ]
+        }
+      ],
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "user_approval": "PENDING"
+    },
+    {
+      "name": "Kawamura_C",
+      "path_id": 54422250404592837,
+      "width": 1194,
+      "height": 154,
+      "source_sha256": "5af1784db211cc22746a36bc6a57d19a7725b3b82dc81144cfe06159abd2ffee",
+      "output_sha256": "f50ca5d9fcae640d5ef956a7c3427756047e7b3c4d80b516484ff7790dac311e",
+      "visual_status": "FAIL_CLEAN_PLATE",
+      "visual_note_ko": "x300~1060,y42~117: 넓은 단색 패치, 검은 삼각 홈, 각진 결합부.",
+      "scenario_referenced": true,
+      "lines": [
+        {
+          "source": "AZUSA KAWAMURA",
+          "ko": "아즈사 카와무라",
+          "kind": "name",
+          "source_box": [
+            57,
+            50,
+            1051,
+            109
+          ]
+        }
+      ],
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "user_approval": "PENDING"
+    },
+    {
+      "name": "Misaki_C",
+      "path_id": 1441106173844391157,
+      "width": 1127,
+      "height": 284,
+      "source_sha256": "fd4ee05d9ec2d4a08a3874d67ac77c74682551d982dfb87f0b8081642d80d424",
+      "output_sha256": "db32b1786d2d96ad32ed07b412a48336c8455fc73a6d13c333f67dc4932d50ff",
+      "visual_status": "FAIL_CLEAN_PLATE",
+      "visual_note_ko": "x95~935,y160~234: EYMARD 자리에 큰 획 형태의 밝은 패치·반복 결. 역할문 수평 복제 흔적.",
+      "scenario_referenced": true,
+      "lines": [
+        {
+          "source": "LEAD CHARACTER ANIMATOR",
+          "ko": "수석 캐릭터 애니메이터",
+          "kind": "role",
+          "source_box": [
+            98,
+            95,
+            957,
+            126
+          ]
+        },
+        {
+          "source": "MISAKI EYMARD",
+          "ko": "미사키 에마르",
+          "kind": "name",
+          "source_box": [
+            98,
+            167,
+            931,
+            226
+          ]
+        }
+      ],
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "user_approval": "PENDING"
+    },
+    {
+      "name": "Munisix_C",
+      "path_id": 5388313497103507111,
+      "width": 1008,
+      "height": 192,
+      "source_sha256": "84eeec31ee3ec8191beacdc14e069b930aff27722fec6903a63a7eb2427f1ac5",
+      "output_sha256": "5a46691793e27450a18436056510415fc68f20ccdd9e55bca59a7c9aa1996774",
+      "visual_status": "FAIL_CLEAN_PLATE",
+      "visual_note_ko": "x355~373,y105~146: 작은 검은 삼각형 반복. 역할문·인명에 가는 수평선.",
+      "scenario_referenced": false,
+      "lines": [
+        {
+          "source": "FAULT SERIES CREATED BY",
+          "ko": "fault 시리즈 원작",
+          "kind": "role",
+          "source_box": [
+            112,
+            15,
+            933,
+            46
+          ]
+        },
+        {
+          "source": "MUNISIX",
+          "ko": "무니식스",
+          "kind": "name",
+          "source_box": [
+            109,
+            83,
+            548,
+            142
+          ]
+        }
+      ],
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "user_approval": "PENDING"
+    },
+    {
+      "name": "Nyantastic_C",
+      "path_id": -2492552238782808979,
+      "width": 1395,
+      "height": 225,
+      "source_sha256": "1bc8f5db539f076a90be88120353fcd767234bcfc070379526a4a3ff3a22be1d",
+      "output_sha256": "9f78260e229ac20b27854dd432cba9b193fa0f9e3b412b310f52dbb51c45756e",
+      "visual_status": "BLOCKED_NO_CLEAN_PLATE",
+      "visual_note_ko": "흰 영문 잔재는 없지만 x200~278,y53~87 상단 평행 홈과 하단 채움 경계가 인위적. 승인 보류.",
+      "scenario_referenced": false,
+      "lines": [
+        {
+          "source": "MORALE OFFICERS",
+          "ko": "사기 진작 담당",
+          "kind": "role",
+          "source_box": [
+            116,
+            40,
+            673,
+            71
+          ]
+        },
+        {
+          "source": "THE NYANTASTIC TRIO",
+          "ko": "더 냥타스틱 트리오",
+          "kind": "name",
+          "source_box": [
+            115,
+            111,
+            1313,
+            171
+          ]
+        }
+      ],
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "user_approval": "PENDING"
+    },
+    {
+      "name": "Oda_C",
+      "path_id": 7085922524199086053,
+      "width": 985,
+      "height": 139,
+      "source_sha256": "1ce6ca19a5c72cea29143c2364ce8321a923e43fe011bd32da6a047890189c72",
+      "output_sha256": "a8a8066790606706e3ebcb60b576b6def9c53e6d6b0f40a476fd742d4f80e932",
+      "visual_status": "FAIL_CLEAN_PLATE",
+      "visual_note_ko": "x478~580,y30~104: IS 주변 사각 구멍·단색 패치, 붓결 연결 끊김.",
+      "scenario_referenced": true,
+      "lines": [
+        {
+          "source": "NARIHISA ODA",
+          "ko": "나리히사 오다",
+          "kind": "name",
+          "source_box": [
+            164,
+            37,
+            920,
+            96
+          ]
+        }
+      ],
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "user_approval": "PENDING"
+    },
+    {
+      "name": "Sakamoto_c",
+      "path_id": 4446406976104965605,
+      "width": 1390,
+      "height": 234,
+      "source_sha256": "ce61a16f9df0f53dc98e972e5785cc9645222c4a1642b7c303a2e75144f1c8e0",
+      "output_sha256": "908c1e2dfb84e88ca2ee093c4be248eb33890e7483f6b78f2962bff2217f0bdb",
+      "visual_status": "FAIL_RESIDUE",
+      "visual_note_ko": "x162~542,y118~166: PHOENIXX 로고가 아닌 인명 자리의 밝은 영문 조각 345픽셀 잔존.",
+      "scenario_referenced": true,
+      "lines": [
+        {
+          "source": "PHOENIXX INC",
+          "ko": null,
+          "kind": "preserve",
+          "source_box": [
+            122,
+            48,
+            545,
+            79
+          ]
+        },
+        {
+          "source": "KAZUNORI SAKAMOTO",
+          "ko": "카즈노리 사카모토",
+          "kind": "name",
+          "source_box": [
+            119,
+            120,
+            1305,
+            179
+          ]
+        }
+      ],
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "user_approval": "PENDING"
+    },
+    {
+      "name": "splash_aero_txt_jp",
+      "path_id": 13,
+      "width": 1366,
+      "height": 768,
+      "source_sha256": "cde5a02059ded08e7ad3fc9b48f974d0b97d3e3a6bce3e349820d56c730c8827",
+      "output_sha256": "af541ace1818aa44c02e6c5d199624b70ae71b64cc80c238b317d2079dd5e98f",
+      "visual_status": "PASS_STATIC_VISUAL",
+      "visual_note_ko": "일본어 잔재·한국어 잘림 없음. 투명 글자층의 두 줄 문구 검수 통과. 실기 미검증.",
+      "scenario_referenced": true,
+      "lines": [
+        "본 기록은 ALICE IN DISSONANCE가",
+        "루젠하이드에서 일어난 일을 관찰하고 편집한 것입니다."
+      ],
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "user_approval": "PENDING"
+    },
+    {
+      "name": "AiD_Splash_2022",
+      "path_id": 21,
+      "width": 1920,
+      "height": 1080,
+      "source_sha256": "ec2de20445731427358c3ea7ab50a6016f08b8f20783f735254b92b6626f9d7f",
+      "output_sha256": "bb22f657a50e900e60235b1dce9dcdeaf5f0bbc2663885f3d0ae70c5b94b376d",
+      "visual_status": "PASS_STATIC_VISUAL",
+      "visual_note_ko": "일반 밝기에서 원문 세 언어 잔재·한국어 잘림 없음. 어두운 실루엣의 글자 아래 부분은 추정 복원이며 원본 픽셀 회수는 아님. 실기 미검증.",
+      "scenario_referenced": true,
+      "lines": [
+        "이 이야기는 현재로서는 허구입니다.",
+        "실존하는 개인 및 단체와는 아직 아무런 관련이 없습니다."
+      ],
+      "release_ready": false,
+      "runtime_status": "NOT_RUN",
+      "user_approval": "PENDING"
+    },
+    {
+      "name": "LIGHTKRAVTE_OP_Final_1080",
+      "path_id": 7307858261213983060,
+      "width": 1920,
+      "height": 1080,
+      "frames": 1792,
+      "fps": 24,
+      "source_sha256": "ac91e1b4b8675d56e1286f2a41787b76bb9b626f32a66a7b801da41b5e07f2c8",
+      "groups": [
+        {
+          "id": "music",
+          "ref": 12,
+          "donor": 8.5,
+          "span": [
+            9.4,
+            16.9
+          ],
+          "roi": [
+            100,
+            480,
+            810,
+            640
+          ],
+          "dark": false,
+          "lines": [
+            {
+              "en": "MUSIC BY",
+              "ko": "음악",
+              "box": [
+                355,
+                503,
+                541,
+                517
+              ]
+            },
+            {
+              "en": "SATELLA",
+              "ko": "사텔라",
+              "box": [
+                349,
+                547,
+                549,
+                573
+              ]
+            },
+            {
+              "en": "FOXTAIL-GRASS STUDIO",
+              "ko": null,
+              "box": [
+                157,
+                586,
+                739,
+                613
+              ]
+            }
+          ],
+          "homography": [
+            [
+              0.9809177853100096,
+              -8.36544625162908e-05,
+              17.959359208751927
+            ],
+            [
+              8.36544625162908e-05,
+              0.9809177853100096,
+              8.720230796343355
+            ],
+            [
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "alignment_inliers": 932,
+          "outside_mask_diff": 0,
+          "status": "BLOCKED_STATE_CLOSURE",
+          "note_ko": "대표 프레임에 부분 패치 흔적. 전체 출현·소멸 프레임 미생성.",
+          "release_ready": false
+        },
+        {
+          "id": "art_assist",
+          "ref": 19,
+          "donor": 27,
+          "span": [
+            17,
+            22.5
+          ],
+          "roi": [
+            1200,
+            190,
+            1800,
+            325
+          ],
+          "dark": false,
+          "lines": [
+            {
+              "en": "ART ASSISTANCE BY",
+              "ko": "아트 지원",
+              "box": [
+                1295,
+                228,
+                1708,
+                243
+              ]
+            },
+            {
+              "en": "YAE KOKONOE",
+              "ko": "야에 코코노에",
+              "box": [
+                1438,
+                266,
+                1677,
+                298
+              ]
+            }
+          ],
+          "homography": [
+            [
+              0.9522289277842723,
+              -0.00333077908159458,
+              46.95577776718559
+            ],
+            [
+              0.00333077908159458,
+              0.9522289277842723,
+              46.70168201213169
+            ],
+            [
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "alignment_inliers": 159,
+          "outside_mask_diff": 0,
+          "status": "FAIL_REFERENCE_FRAME",
+          "note_ko": "YAE 원문 일부가 마스크에서 누락되어 잔존. 초점이 다른 donor 사용.",
+          "release_ready": false
+        },
+        {
+          "id": "morale",
+          "ref": 24,
+          "donor": 22.7,
+          "span": [
+            22.5,
+            27.4
+          ],
+          "roi": [
+            1200,
+            760,
+            1890,
+            925
+          ],
+          "dark": false,
+          "lines": [
+            {
+              "en": "MORALE OFFICERS",
+              "ko": "사기 진작 담당",
+              "box": [
+                1343,
+                782,
+                1715,
+                797
+              ]
+            },
+            {
+              "en": "THE NYANTASTIC TRIO",
+              "ko": "더 냥타스틱 트리오",
+              "box": [
+                1286,
+                826,
+                1804,
+                852
+              ]
+            }
+          ],
+          "homography": [
+            [
+              1.0074644340072654,
+              0.0005868760331817662,
+              -7.364743660731296
+            ],
+            [
+              -0.0005868760331817662,
+              1.0074644340072654,
+              -7.418005811370666
+            ],
+            [
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "alignment_inliers": 177,
+          "outside_mask_diff": 0,
+          "status": "FAIL_REFERENCE_FRAME",
+          "note_ko": "원문 조각 잔존. donor에 표시 중인 글자 또는 다른 배경이 섞임.",
+          "release_ready": false
+        },
+        {
+          "id": "lead_background",
+          "ref": 29.5,
+          "donor": 32.4,
+          "span": [
+            27.5,
+            32.5
+          ],
+          "roi": [
+            60,
+            115,
+            790,
+            245
+          ],
+          "dark": false,
+          "lines": [
+            {
+              "en": "LEAD BACKGROUND ARTIST",
+              "ko": "수석 배경 아티스트",
+              "box": [
+                141,
+                150,
+                705,
+                164
+              ]
+            },
+            {
+              "en": "STUDIO FUJI",
+              "ko": null,
+              "box": [
+                270,
+                195,
+                574,
+                221
+              ]
+            }
+          ],
+          "homography": [
+            [
+              0.6746790645668282,
+              -0.11959303547110876,
+              272.654475354829
+            ],
+            [
+              0.11959303547110876,
+              0.6746790645668282,
+              54.22933704289823
+            ],
+            [
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "alignment_inliers": 4,
+          "outside_mask_diff": 0,
+          "status": "FAIL_REFERENCE_FRAME",
+          "note_ko": "배경 정합 실패(4 inliers); 검은 글자형 패치.",
+          "release_ready": false
+        },
+        {
+          "id": "background",
+          "ref": 29.5,
+          "donor": 32.4,
+          "span": [
+            28.3,
+            32.5
+          ],
+          "roi": [
+            1200,
+            685,
+            1820,
+            875
+          ],
+          "dark": true,
+          "lines": [
+            {
+              "en": "BACKGROUND ARTISTS",
+              "ko": "배경 아티스트",
+              "box": [
+                1268,
+                708,
+                1715,
+                721
+              ]
+            },
+            {
+              "en": "HASHI",
+              "ko": "하시",
+              "box": [
+                1424,
+                752,
+                1559,
+                776
+              ]
+            },
+            {
+              "en": "KORIGASHI",
+              "ko": "코리가시",
+              "box": [
+                1362,
+                791,
+                1621,
+                816
+              ]
+            },
+            {
+              "en": "TOMATO",
+              "ko": "토마토",
+              "box": [
+                1390,
+                830,
+                1592,
+                855
+              ]
+            }
+          ],
+          "homography": [
+            [
+              1.6865267010455236,
+              0.3817787938241231,
+              -811.1277678446255
+            ],
+            [
+              -0.3817787938241231,
+              1.6865267010455236,
+              269.22059627094427
+            ],
+            [
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "alignment_inliers": 4,
+          "outside_mask_diff": 0,
+          "status": "FAIL_REFERENCE_FRAME",
+          "note_ko": "배경 정합 실패(4 inliers); 원문 모양의 패치.",
+          "release_ready": false
+        },
+        {
+          "id": "programming",
+          "ref": 36,
+          "donor": 33.1,
+          "span": [
+            33.6,
+            40.9
+          ],
+          "roi": [
+            1330,
+            685,
+            1790,
+            815
+          ],
+          "dark": false,
+          "lines": [
+            {
+              "en": "PROGRAMMING BY",
+              "ko": "프로그래밍",
+              "box": [
+                1381,
+                711,
+                1736,
+                726
+              ]
+            },
+            {
+              "en": "DAVID TENG",
+              "ko": "데이비드 텡",
+              "box": [
+                1412,
+                756,
+                1704,
+                781
+              ]
+            }
+          ],
+          "homography": [
+            [
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "alignment_inliers": 0,
+          "outside_mask_diff": 0,
+          "status": "FAIL_REFERENCE_FRAME",
+          "note_ko": "배경 정합 실패(0 inliers); 어두운 글자형 패치.",
+          "release_ready": false
+        },
+        {
+          "id": "scripting",
+          "ref": 45,
+          "donor": 41,
+          "span": [
+            41.5,
+            47.6
+          ],
+          "roi": [
+            1230,
+            780,
+            1770,
+            1010
+          ],
+          "dark": false,
+          "lines": [
+            {
+              "en": "SCRIPTING BY",
+              "ko": "스크립팅",
+              "box": [
+                1342,
+                809,
+                1643,
+                824
+              ]
+            },
+            {
+              "en": "DMITRY ZHUKOV",
+              "ko": "드미트리 주코프",
+              "box": [
+                1296,
+                855,
+                1691,
+                882
+              ]
+            },
+            {
+              "en": "HARE KONATSU",
+              "ko": "하레 코나츠",
+              "box": [
+                1300,
+                902,
+                1684,
+                929
+              ]
+            },
+            {
+              "en": "MUNISIX",
+              "ko": "무니식스",
+              "box": [
+                1389,
+                949,
+                1597,
+                976
+              ]
+            }
+          ],
+          "homography": [
+            [
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "alignment_inliers": 0,
+          "outside_mask_diff": 0,
+          "status": "FAIL_REFERENCE_FRAME",
+          "note_ko": "배경 정합 실패(0 inliers); 글자형 패치.",
+          "release_ready": false
+        },
+        {
+          "id": "art_direction",
+          "ref": 50,
+          "donor": 54.7,
+          "span": [
+            47.8,
+            54.8
+          ],
+          "roi": [
+            345,
+            270,
+            855,
+            405
+          ],
+          "dark": false,
+          "lines": [
+            {
+              "en": "ART DIRECTION BY",
+              "ko": "아트 디렉션",
+              "box": [
+                421,
+                304,
+                804,
+                318
+              ]
+            },
+            {
+              "en": "HARE KONATSU",
+              "ko": "하레 코나츠",
+              "box": [
+                429,
+                347,
+                796,
+                373
+              ]
+            }
+          ],
+          "homography": [
+            [
+              0.974309676071265,
+              0.0006878461031191716,
+              24.780516867831118
+            ],
+            [
+              -0.0006878461031191716,
+              0.974309676071265,
+              14.76103035179971
+            ],
+            [
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "alignment_inliers": 113,
+          "outside_mask_diff": 0,
+          "status": "BLOCKED_STATE_CLOSURE",
+          "note_ko": "대표 프레임만 양호. 전체 프레임·출현/소멸 애니메이션 미검증.",
+          "release_ready": false
+        },
+        {
+          "id": "director",
+          "ref": 58,
+          "donor": 55,
+          "span": [
+            55.3,
+            61.5
+          ],
+          "roi": [
+            585,
+            475,
+            1320,
+            630
+          ],
+          "dark": false,
+          "lines": [
+            {
+              "en": "WRITTEN AND DIRECTED BY",
+              "ko": "각본·감독",
+              "box": [
+                621,
+                475,
+                1275,
+                511
+              ]
+            },
+            {
+              "en": "MUNISIX",
+              "ko": "무니식스",
+              "box": [
+                634,
+                549,
+                1320,
+                593
+              ]
+            }
+          ],
+          "homography": [
+            [
+              0.9197830120734983,
+              -3.8904996560938696e-05,
+              77.00980227866508
+            ],
+            [
+              3.8904996560938696e-05,
+              0.9197830120734983,
+              43.20583818869096
+            ],
+            [
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "alignment_inliers": 1023,
+          "outside_mask_diff": 0,
+          "status": "FAIL_REFERENCE_FRAME",
+          "note_ko": "건물의 밝은 부분이 글리프로 오검출돼 마스크·타깃 크기 오류.",
+          "release_ready": false
+        }
+      ],
+      "visual_status": "BLOCKED_NO_CLEAN_PLATE_AND_STATE_CLOSURE",
+      "release_ready": false,
+      "runtime_status": "NOT_RUN"
+    }
+  ],
+  "preserved": [
+    "ALICE IN DISSONANCE",
+    "fault / LIGHTKRAVTE logos",
+    "PHOENIXX INC",
+    "PROJECT WRITTEN",
+    "STUDIO FUJI",
+    "FOXTAIL-GRASS STUDIO",
+    "fictional-language surfaces incl splash_aero_txt_x / sa",
+    "physical key labels",
+    "unreferenced ev_20 development note"
+  ],
+  "prior_inventory": "P:\\AI\\Codex\\projects\\fault-stp-lightkravte-asset-review-2026-09-04\\UNTRANSLATED_ASSET_INVENTORY.json"
+}

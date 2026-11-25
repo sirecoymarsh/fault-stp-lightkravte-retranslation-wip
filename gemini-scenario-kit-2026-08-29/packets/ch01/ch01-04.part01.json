@@ -1,0 +1,1386 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-04.part01",
+  "script": "ch01-04",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": [
+      {
+        "uid": "ch01-04:336:1e665e69",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "……………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:339:a122df25",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "まさか ここまで何も思い浮かばないとは…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:341:eb818747",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "く くそ…暑くて妄想すらできないとは<br>…不覚",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:342:e993b3ff",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "あたまがクラクラするくらい暑くなってきた",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-04:343:10a56723",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "季節棟の空調操作はごくまれにムラがあり<br>塔を中心に熱気や冷気の波が流れてくるときがある",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch01-04:26:7d1f5db2",
+      "source_hash": "7d1f5db2",
+      "sequence": 0,
+      "source_line": 26,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いかがでしょうか<br>ミィシャさん…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:27:b1fca5f6",
+      "source_hash": "b1fca5f6",
+      "sequence": 1,
+      "source_line": 27,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:29:9abc636c",
+      "source_hash": "9abc636c",
+      "sequence": 2,
+      "source_line": 29,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ミィシャさんの水準にあってるか微妙ですが<br>あ 余り物なので そこは目を瞑っていただけると…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:33:ec525ace",
+      "source_hash": "ec525ace",
+      "sequence": 3,
+      "source_line": 33,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "いや…水準って…<br>こんなもの出されていかがもなにもあるかよ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:34:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 4,
+      "source_line": 34,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:38:a6e848c0",
+      "source_hash": "a6e848c0",
+      "sequence": 5,
+      "source_line": 38,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "どうですか リッグズさんや？<br>…こりゃ ちょっと恐縮しちまうやつじゃないっすかね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:40:184b59d9",
+      "source_hash": "184b59d9",
+      "sequence": 6,
+      "source_line": 40,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "あ ああ…食うのが憚られるくらい美しい…<br>まるで宝石のようだよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:42:39a75cc9",
+      "source_hash": "39a75cc9",
+      "sequence": 7,
+      "source_line": 42,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "やはり貴族が食しているものは違うな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:45:3af85ec4",
+      "source_hash": "3af85ec4",
+      "sequence": 8,
+      "source_line": 45,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "…これで余り物ってさ…<br>芸術品みたいなもの作るよな お前の親父さんは",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:48:caf2c0ff",
+      "source_hash": "caf2c0ff",
+      "sequence": 9,
+      "source_line": 48,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "いいのかよ オレ達みたいのが食べても",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:50:f7905a6f",
+      "source_hash": "f7905a6f",
+      "sequence": 10,
+      "source_line": 50,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい！<br>ほ 本当に余り物なので！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:52:2cd882d9",
+      "source_hash": "2cd882d9",
+      "sequence": 11,
+      "source_line": 52,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "食べてもらう人がいないと肥料になってしまいます",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:63:fbfe589a",
+      "source_hash": "fbfe589a",
+      "sequence": 12,
+      "source_line": 63,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ここ レンデル森林はルゼンハイドの自然の中でも<br>特に緑豊かな場所の１つだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:65:43aba9f2",
+      "source_hash": "43aba9f2",
+      "sequence": 13,
+      "source_line": 65,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "この森林は奥深くどこまでも広がっており<br>ルゼンハイドが国として開拓される前の手つかずのままの自然が残っている",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:66:ee22c9d9",
+      "source_hash": "ee22c9d9",
+      "sequence": 14,
+      "source_line": 66,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そんな鬱蒼と生い茂る賑やかな緑に<br>調和するように建てられた小屋や柵たち",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:67:a20c63de",
+      "source_hash": "a20c63de",
+      "sequence": 15,
+      "source_line": 67,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "これらはリッグズさんの手作りだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:68:2b55b98",
+      "source_hash": "2b55b98",
+      "sequence": 16,
+      "source_line": 68,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そよ風に乗って流れる食欲をそそる香りは<br>ミィシャさんの手料理",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:69:aa506a03",
+      "source_hash": "aa506a03",
+      "sequence": 17,
+      "source_line": 69,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ここでは彼のお陰で<br>いつもなにかしら美味しいものにありつける",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:70:8adf00a3",
+      "source_hash": "8adf00a3",
+      "sequence": 18,
+      "source_line": 70,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "人知れず佇むこの場所を知る者はごく僅かだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:71:f798cbaf",
+      "source_hash": "f798cbaf",
+      "sequence": 19,
+      "source_line": 71,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "だが 訪れればそこには約束された平穏が待っている",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:72:3a04aaf5",
+      "source_hash": "3a04aaf5",
+      "sequence": 20,
+      "source_line": 72,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ここは 来る者を拒まず 去る者は追わない…<br>僕たちの『止り木』なのだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:80:20871b0b",
+      "source_hash": "20871b0b",
+      "sequence": 21,
+      "source_line": 80,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "いやぁ〜<br>オバーグ果樹園の果物は芸術品っすよねー（もぐもぐ）",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:85:958c9ada",
+      "source_hash": "958c9ada",
+      "sequence": 22,
+      "source_line": 85,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "あ あああ！ こ こらソネッタてめぇ！<br>こんな上等なもんつまみ喰いすんじゃねぇよ！<br>ちゃんと全員に出すから！！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:89:4f8b5a3f",
+      "source_hash": "4f8b5a3f",
+      "sequence": 23,
+      "source_line": 89,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "えっへへーんっす！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:93:6a7edc80",
+      "source_hash": "6a7edc80",
+      "sequence": 24,
+      "source_line": 93,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "へへんじゃねぇ！<br>オレはちゃんと公正性を考えてだな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:98:1f2f15f8",
+      "source_hash": "1f2f15f8",
+      "sequence": 25,
+      "source_line": 98,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "あ ちーっす！！ リトナ先輩！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:99:5c3f5cfb",
+      "source_hash": "5c3f5cfb",
+      "sequence": 26,
+      "source_line": 99,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "聞け！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:120:4778c26",
+      "source_hash": "4778c26",
+      "sequence": 27,
+      "source_line": 120,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "よ <ruby=\"かしま\">姦</ruby>しいな",
+      "required_tokens": [
+        "<ruby=\"かしま\">",
+        "</ruby>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:123:b1f85d37",
+      "source_hash": "b1f85d37",
+      "sequence": 28,
+      "source_line": 123,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "というか ソネッタ…<br>タメなんだから先輩はよせと何度言えばいいんだ<br>いい加減覚えてくれないか",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:128:59587f11",
+      "source_hash": "59587f11",
+      "sequence": 29,
+      "source_line": 128,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "え〜…そーんなに嫌なんすか<br>先輩って呼ばれるのー",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:130:c76af362",
+      "source_hash": "c76af362",
+      "sequence": 30,
+      "source_line": 130,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "嫌とか嫌じゃないとかいう問題じゃなくて<br>言葉の意味が完全に間違ってると言ってるんだよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:132:75926421",
+      "source_hash": "75926421",
+      "sequence": 31,
+      "source_line": 132,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "いいじゃないっすか 言葉の厳密な意味なんてどうだって！<br>大事なのはソウル！ ノリが大事なんす！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:134:6c6ac0be",
+      "source_hash": "6c6ac0be",
+      "sequence": 32,
+      "source_line": 134,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "先輩は先輩だから先輩でいいんですよ 先輩！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:140:7157b925",
+      "source_hash": "7157b925",
+      "sequence": 33,
+      "source_line": 140,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "どういう理屈なんだ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:144:2311001b",
+      "source_hash": "2311001b",
+      "sequence": 34,
+      "source_line": 144,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "おおう リトナちゃん来たかー<br>もちっとで昼飯できるところだぞ 食ってけよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:146:11878ce",
+      "source_hash": "11878ce",
+      "sequence": 35,
+      "source_line": 146,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ちゃんはよせ ミィシャくん<br>気持ちが悪いだろ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:147:139688dd",
+      "source_hash": "139688dd",
+      "sequence": 36,
+      "source_line": 147,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "昼飯はありがたくいただくか<br>今日はなんだ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:150:cd19c6fa",
+      "source_hash": "cd19c6fa",
+      "sequence": 37,
+      "source_line": 150,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "あー 大量の鶏ハムを作った<br>おとといのコンフィが残ってて<br>パンがついさっき焼きあがった",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:152:45668a61",
+      "source_hash": "45668a61",
+      "sequence": 38,
+      "source_line": 152,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "そしてだな 驚いてほしくないんだが 驚け",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:154:fe3d1",
+      "source_hash": "fe3d1",
+      "sequence": 39,
+      "source_line": 154,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "今日なんと オバーグ果樹園のフルーツがある<br>デザートまである昼食だ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:156:1c16039c",
+      "source_hash": "1c16039c",
+      "sequence": 40,
+      "source_line": 156,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ほう？ オバーグのフルーツとは昼から随分豪勢だな<br>なにかめでたいことでもあったのか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:158:a95dae92",
+      "source_hash": "a95dae92",
+      "sequence": 41,
+      "source_line": 158,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "冗談半分で頼んだら 訳ありの余り物を<br>カージがたまに差し入れてくれることになってな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:160:3a41c471",
+      "source_hash": "3a41c471",
+      "sequence": 42,
+      "source_line": 160,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "なんか すげぇ量もらっちまったよ<br>頭があがらねー",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:181:73a49b09",
+      "source_hash": "73a49b09",
+      "sequence": 43,
+      "source_line": 181,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "そうかそうか それはよい巡り合わせだ<br>やっぱり世の中コネなんだと実感するよ（もぐ）",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:182:50e3ba16",
+      "source_hash": "50e3ba16",
+      "sequence": 44,
+      "source_line": 182,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "うむ…相変わらずうまいな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:184:2b3012d6",
+      "source_hash": "2b3012d6",
+      "sequence": 45,
+      "source_line": 184,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "いやだから<br>お前らさっきからなにさらっとつまみ食いしてんだよ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:186:519b7a7f",
+      "source_hash": "519b7a7f",
+      "sequence": 46,
+      "source_line": 186,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "特にリトナ…お前ちったあ遠慮しろよ！<br>いつも食ってるんだろ 城とかで！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:188:671acb2f",
+      "source_hash": "671acb2f",
+      "sequence": 47,
+      "source_line": 188,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "いや…家で食ってるな<br>フローラのコネ…人脈の魔法だ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:190:618b5e89",
+      "source_hash": "618b5e89",
+      "sequence": 48,
+      "source_line": 190,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "ぶっとばすぞ お前…<br>ここの連中はめったに食えねぇっつうのに",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:192:e8af8727",
+      "source_hash": "e8af8727",
+      "sequence": 49,
+      "source_line": 192,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "やれるものならやってみろ<br>いつでも受けてたつ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:196:7208f6e6",
+      "source_hash": "7208f6e6",
+      "sequence": 50,
+      "source_line": 196,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ ああああああ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:200:59fd0531",
+      "source_hash": "59fd0531",
+      "sequence": 51,
+      "source_line": 200,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "や やっぱりあのイチゴはお前が食ってたんだな…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:205:e1479f15",
+      "source_hash": "e1479f15",
+      "sequence": 52,
+      "source_line": 205,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "んー？ なんだ カージ…また来てるのか？<br>最近来るたびに顔を合わせるじゃないか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:210:d563a600",
+      "source_hash": "d563a600",
+      "sequence": 53,
+      "source_line": 210,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…ふ ふん<br>なんでお前なんかにそんなこと<br>言われなきゃいけないんだよ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:212:c50d1535",
+      "source_hash": "c50d1535",
+      "sequence": 54,
+      "source_line": 212,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕はラインヴァスタよりずっと先に<br>止り木のメンバーだったんだぞ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:214:f0797da5",
+      "source_hash": "f0797da5",
+      "sequence": 55,
+      "source_line": 214,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "いや…メンバーとかねえんだけど…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:216:adfc399",
+      "source_hash": "adfc399",
+      "sequence": 56,
+      "source_line": 216,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ここでは僕のほうが先輩だ<br>『カージ先輩』と呼んでくれても構わないぞ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:221:cb5cca18",
+      "source_hash": "cb5cca18",
+      "sequence": 57,
+      "source_line": 221,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:223:6990f639",
+      "source_hash": "6990f639",
+      "sequence": 58,
+      "source_line": 223,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…こんな雑多な集いに先輩も後輩もあるか<br>くだらない…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:226:d81f26fa",
+      "source_hash": "d81f26fa",
+      "sequence": 59,
+      "source_line": 226,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "んなことよりもよ そろそろ時間だな<br>飯食うぞーあつまれー",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:230:6951343c",
+      "source_hash": "6951343c",
+      "sequence": 60,
+      "source_line": 230,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "リッグズ テーブルの準備",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:233:c9c3f826",
+      "source_hash": "c9c3f826",
+      "sequence": 61,
+      "source_line": 233,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "もう 済ませてある",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:237:fc8bf515",
+      "source_hash": "fc8bf515",
+      "sequence": 62,
+      "source_line": 237,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "さっすが<br>んじゃ カージは貴族様を連れてきてくれ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:238:adb2507d",
+      "source_hash": "adb2507d",
+      "sequence": 63,
+      "source_line": 238,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ほう？ なんだ…フローラも来てるのか<br>暇なのか あいつ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:239:f272e09d",
+      "source_hash": "f272e09d",
+      "sequence": 64,
+      "source_line": 239,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "遊んでる時間なんてないはずなんだが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:242:fe25dbde",
+      "source_hash": "fe25dbde",
+      "sequence": 65,
+      "source_line": 242,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "お前が言っていいのか それ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:245:12692b9",
+      "source_hash": "12692b9",
+      "sequence": 66,
+      "source_line": 245,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？ ふ フローラ様を呼んでくるんですか？<br>ぼ 僕が！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:246:a65ec2e",
+      "source_hash": "a65ec2e",
+      "sequence": 67,
+      "source_line": 246,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "よ 呼んでみられては？<br>通信ラインは結んでるんですよね？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:249:b28ccba8",
+      "source_hash": "b28ccba8",
+      "sequence": 68,
+      "source_line": 249,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "いや…確かに結んでるけど この程度のことで<br>コールできるくらい 仲いいわけじゃねえからさ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:250:848505d",
+      "source_hash": "848505d",
+      "sequence": 69,
+      "source_line": 250,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "あんまり馴れ馴れしくするのもあれだから<br>直接呼んできてくれ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:252:bc4e928d",
+      "source_hash": "bc4e928d",
+      "sequence": 70,
+      "source_line": 252,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい！ わかりました<br>ど どちらにいらっしゃるのでしょうか…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:253:46b2a411",
+      "source_hash": "46b2a411",
+      "sequence": 71,
+      "source_line": 253,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "池の近くじゃないか？<br>止り木でフローラがいきそうな場所といったら<br>そこくらいだろう",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:255:2a3de683",
+      "source_hash": "2a3de683",
+      "sequence": 72,
+      "source_line": 255,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "だろうな<br>とりあえず 飯が冷めるから先に始めてる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:256:e5bb7f12",
+      "source_hash": "e5bb7f12",
+      "sequence": 73,
+      "source_line": 256,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "頼んだぞ カージ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:258:797c2e40",
+      "source_hash": "797c2e40",
+      "sequence": 74,
+      "source_line": 258,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は は はい！<br>い 行ってまいります！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:281:d52bf76b",
+      "source_hash": "d52bf76b",
+      "sequence": 75,
+      "source_line": 281,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "フローラ様…どうしたのだろうか<br>時間通りに来ないなんてらしくない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:282:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 76,
+      "source_line": 282,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:283:ae93ed5a",
+      "source_hash": "ae93ed5a",
+      "sequence": 77,
+      "source_line": 283,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "奥へ奥へと進んでいくうちに<br>脳みそが余計なことを考えはじめる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:285:a16b8be4",
+      "source_hash": "a16b8be4",
+      "sequence": 78,
+      "source_line": 285,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "フローラ様どうしたんだろうなー…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:286:612c436c",
+      "source_hash": "612c436c",
+      "sequence": 79,
+      "source_line": 286,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "怪我でもしたのだろうか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:288:e0f1c612",
+      "source_hash": "e0f1c612",
+      "sequence": 80,
+      "source_line": 288,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "いや…怪我できるほど危ない場所じゃないはずだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:290:756eba90",
+      "source_hash": "756eba90",
+      "sequence": 81,
+      "source_line": 290,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "もしかして…<br>き 着替えの最中とか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:292:4fb3692c",
+      "source_hash": "4fb3692c",
+      "sequence": 82,
+      "source_line": 292,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あまりにも唐突な発想",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:293:2a72aa3e",
+      "source_hash": "2a72aa3e",
+      "sequence": 83,
+      "source_line": 293,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "しかし男の妄想なんてそんなものだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:295:5204ee3f",
+      "source_hash": "5204ee3f",
+      "sequence": 84,
+      "source_line": 295,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なんの前触れもなく卑猥ななにかが頭をよぎるんだよ<br>悪いかってーの",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:297:d1b29583",
+      "source_hash": "d1b29583",
+      "sequence": 85,
+      "source_line": 297,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "存在しない相手にツッコミをいれる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:299:8e5bbe19",
+      "source_hash": "8e5bbe19",
+      "sequence": 86,
+      "source_line": 299,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いや なにばかなことを言ってるんだ 僕は？<br>なんでこんな森のど真ん中で着替えなんてする？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:300:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 87,
+      "source_line": 300,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:301:7496d6d4",
+      "source_hash": "7496d6d4",
+      "sequence": 88,
+      "source_line": 301,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "水浴びしてるからとか？<br>くそ暑いからな…今日も",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:303:f0dfb1f0",
+      "source_hash": "f0dfb1f0",
+      "sequence": 89,
+      "source_line": 303,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え きもい？ 妄想おつ？<br>めっちゃご都合主義だって？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:305:c070361f",
+      "source_hash": "c070361f",
+      "sequence": 90,
+      "source_line": 305,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いやーだよね ですよね<br>他人の思考が見えたら僕もそう思いますね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:307:f34071c8",
+      "source_hash": "f34071c8",
+      "sequence": 91,
+      "source_line": 307,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "だいたい こんな場所の川で水浴びなんて<br>そもそも衛生的にどうよってね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:308:20cd51f5",
+      "source_hash": "20cd51f5",
+      "sequence": 92,
+      "source_line": 308,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いや でもいいんじゃない？<br>頭の中で想像くらいしても？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:309:fada5892",
+      "source_hash": "fada5892",
+      "sequence": 93,
+      "source_line": 309,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "だって ほら 誰かに別に見られてるわけじゃないし？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:310:eebc73e1",
+      "source_hash": "eebc73e1",
+      "sequence": 94,
+      "source_line": 310,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕の頭の中の思考なんてものを<br>読んでる人なんていないし？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:312:a5c008",
+      "source_hash": "a5c008",
+      "sequence": 95,
+      "source_line": 312,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "妄想だぞ？ 好きにしていいだろう？<br>頭の中くらいさ…ふ ふへへ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:316:c30476f9",
+      "source_hash": "c30476f9",
+      "sequence": 96,
+      "source_line": 316,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ちょっとだけなら…妄想してもいいよね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:323:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 97,
+      "source_line": 323,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:329:fa98655b",
+      "source_hash": "fa98655b",
+      "sequence": 98,
+      "source_line": 329,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あれ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-04:332:802367f6",
+      "source_hash": "802367f6",
+      "sequence": 99,
+      "source_line": 332,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "う うそだろ…僕の妄想力！？ し しっかりしろ！？<br>その程度なはずないだろう 僕の性欲よ！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

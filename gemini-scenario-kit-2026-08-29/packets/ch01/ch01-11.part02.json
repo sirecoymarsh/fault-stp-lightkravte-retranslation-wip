@@ -1,0 +1,1374 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-11.part02",
+  "script": "ch01-11",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch01-11:204:d84b310",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "…なんか 最近は<tip=\"vhastoralkat_blue\">ヴァストアルカブルー</tip>が<br>あとちょっとで完成しそうだから<br>その再現に熱をあげてるとか言ってたけど",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-11:206:c344ed6f",
+        "speaker_id": "oug",
+        "speaker_name": "오그즈",
+        "ja": "ヴァ ヴァストアルカブルーを再現！？<br>あの<ruby=\"トシ\">年齢</ruby>で！？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-11:207:1c32236",
+        "speaker_id": "oug",
+        "speaker_name": "오그즈",
+        "ja": "……………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-11:209:cf9d31c7",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "ど どうしたの…？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-11:211:7ec67f18",
+        "speaker_id": "oug",
+        "speaker_name": "오그즈",
+        "ja": "いや…詳しくはわからんが…<br>やっぱりいるんだな 神童って",
+        "do_not_translate": true
+      }
+    ],
+    "after": [
+      {
+        "uid": "ch01-11:394:28073829",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "う 疑うつもりじゃないですが<br>そんな簡単にいくもんですかね？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-11:396:95ef42ee",
+        "speaker_id": "rig",
+        "speaker_name": "리그스",
+        "ja": "ははは 大丈夫だ カージ<br>戦うつもりなんて最初からない",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-11:398:20adbe88",
+        "speaker_id": "rig",
+        "speaker_name": "리그스",
+        "ja": "そもそもビーアルが人と接触する覚悟で姿を現したら<br>それだけで危険信号だ",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-11:400:96d5fa95",
+        "speaker_id": "rig",
+        "speaker_name": "리그스",
+        "ja": "そんなやつと戦闘したら無事じゃ済まんだろうな",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-11:402:f4882e5d",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "や やっぱり危ないじゃないですか！",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch01-11:213:95d816ee",
+      "source_hash": "95d816ee",
+      "sequence": 100,
+      "source_line": 213,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "百年に一度の才能だとは聞いていたが…なるほど",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:214:a93b03b",
+      "source_hash": "a93b03b",
+      "sequence": 101,
+      "source_line": 214,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "こりゃ…荒れるわけだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:216:c29cecf0",
+      "source_hash": "c29cecf0",
+      "sequence": 102,
+      "source_line": 216,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なにが？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:218:60f9ce34",
+      "source_hash": "60f9ce34",
+      "sequence": 103,
+      "source_line": 218,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "あ？ ガーディアン継承だよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:219:897bc01d",
+      "source_hash": "897bc01d",
+      "sequence": 104,
+      "source_line": 219,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "拒否ってるラインヴァスタを王族権限で<br>強制着任させるか否かで騒動が起きているわけだが…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:220:aa35f6b6",
+      "source_hash": "aa35f6b6",
+      "sequence": 105,
+      "source_line": 220,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "もし着任が見送られたら<br>あらゆる産業のやつらが彼女の才能を欲しがるだろう",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:221:f46cfb99",
+      "source_hash": "f46cfb99",
+      "sequence": 106,
+      "source_line": 221,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "下手したらヴァストアルカが…<br>国が動くかもしれないってのも ある意味納得だ…<br>参っちゃうね こりゃ…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:223:c7a54bfc",
+      "source_hash": "c7a54bfc",
+      "sequence": 107,
+      "source_line": 223,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え ちょ ちょっと待って…ヴァストアルカが動く？<br>ってどういうこと？ 初耳なんだけど？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:224:e2d6e644",
+      "source_hash": "e2d6e644",
+      "sequence": 108,
+      "source_line": 224,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "お前本人と会ってるのに こういう話は一切しないのか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:226:aa837c44",
+      "source_hash": "aa837c44",
+      "sequence": 109,
+      "source_line": 226,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いや…ぼ 僕ラインヴァスタは苦手でさ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:227:4a2e1d76",
+      "source_hash": "4a2e1d76",
+      "sequence": 110,
+      "source_line": 227,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ラインヴァスタ家はルゼンハイド国に『献上』されたことになってるのは 当然知ってるな？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:229:4f254f51",
+      "source_hash": "4f254f51",
+      "sequence": 111,
+      "source_line": 229,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "う うん もちろん<br>それで友好の証として代々ルゼンハイド王家に<br>支えることになったんだよね",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:231:9014128a",
+      "source_hash": "9014128a",
+      "sequence": 112,
+      "source_line": 231,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ああ だがな 正確には本人達が強く望めば<br>ヴァストアルカに帰還していいことになっているんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:233:1c29fd7d",
+      "source_hash": "1c29fd7d",
+      "sequence": 113,
+      "source_line": 233,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え！？ そうなの！？<br>またしても初耳なんだけど！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:234:d4e98358",
+      "source_hash": "d4e98358",
+      "sequence": 114,
+      "source_line": 234,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "施行までに至った試しがないからな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:235:3fa03f6",
+      "source_hash": "3fa03f6",
+      "sequence": 115,
+      "source_line": 235,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "だから ラインヴァスタ嬢が本気で嫌がるなら<br>ヴァストアルカはセルフィーネ姫の王族命令に<br>意義を唱えざるをえなくなる…というわけだ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:237:3414126f",
+      "source_hash": "3414126f",
+      "sequence": 116,
+      "source_line": 237,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そんな国を跨いでの大騒ぎになりつつあるのね…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:238:1c32236",
+      "source_hash": "1c32236",
+      "sequence": 117,
+      "source_line": 238,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:240:2b88b439",
+      "source_hash": "2b88b439",
+      "sequence": 118,
+      "source_line": 240,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "個人的に ガーディアン継承の顛末には<br>あまり興味はないんだが…<br>そのオブジェは大事にとっておいたほうがいいかもな",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:241:79895694",
+      "source_hash": "79895694",
+      "sequence": 119,
+      "source_line": 241,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "そのうち めちゃくちゃ貴重なものになるかもしれんぞ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:255:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 120,
+      "source_line": 255,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:256:caa9624d",
+      "source_hash": "caa9624d",
+      "sequence": 121,
+      "source_line": 256,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "芸術に関してはからっきしだって言っていた父さんが<br>ここまで手放しで褒めるなんて…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:257:425a57ae",
+      "source_hash": "425a57ae",
+      "sequence": 122,
+      "source_line": 257,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "はああああああ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:258:f1c9afc7",
+      "source_hash": "f1c9afc7",
+      "sequence": 123,
+      "source_line": 258,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "やっぱり出来る人の作品っていうのは…<br>畑が違っても目立つものなんだな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:259:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 124,
+      "source_line": 259,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:260:7c75619a",
+      "source_hash": "7c75619a",
+      "sequence": 125,
+      "source_line": 260,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんでだろう…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:261:56fab5e0",
+      "source_hash": "56fab5e0",
+      "sequence": 126,
+      "source_line": 261,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "最近はラインヴァスタのことを考えると血の気が引いて<br>胸の奥を鷲掴みにされたような感覚を覚える",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:262:f1a73e44",
+      "source_hash": "f1a73e44",
+      "sequence": 127,
+      "source_line": 262,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "息ができなくなるというか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:263:46454f0a",
+      "source_hash": "46454f0a",
+      "sequence": 128,
+      "source_line": 263,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "前はただの軽い嫌悪感みたいな<br>軽蔑のようなものだったのに 今のこれは…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:264:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 129,
+      "source_line": 264,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:265:158e4ba8",
+      "source_hash": "158e4ba8",
+      "sequence": 130,
+      "source_line": 265,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "嫉妬…だよな…やっぱり",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:266:36bad3f",
+      "source_hash": "36bad3f",
+      "sequence": 131,
+      "source_line": 266,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "みっともないけど そうとしか思えない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:267:f2b970c0",
+      "source_hash": "f2b970c0",
+      "sequence": 132,
+      "source_line": 267,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "『他人と自分を比べたところで どうしようもない』",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:268:da3e97da",
+      "source_hash": "da3e97da",
+      "sequence": 133,
+      "source_line": 268,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "持っている者とそうでない者がいるなんていうのは<br>自然の摂理みたいなものだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:269:efdfc3a3",
+      "source_hash": "efdfc3a3",
+      "sequence": 134,
+      "source_line": 269,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "短身の人がいくら努力しても長身にはなれないように――",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:270:b9d9cdaa",
+      "source_hash": "b9d9cdaa",
+      "sequence": 135,
+      "source_line": 270,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あるいは平民がいくら願ったところで<br>王族にはなれないように――",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:271:307b0ac1",
+      "source_hash": "307b0ac1",
+      "sequence": 136,
+      "source_line": 271,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "悩んだところで解決できる問題じゃない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:272:47ae2c54",
+      "source_hash": "47ae2c54",
+      "sequence": 137,
+      "source_line": 272,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そう教わった 親からも国からも",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:273:d5c1abd",
+      "source_hash": "d5c1abd",
+      "sequence": 138,
+      "source_line": 273,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "わかってはいる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:274:ab4d60a7",
+      "source_hash": "ab4d60a7",
+      "sequence": 139,
+      "source_line": 274,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "わかってはいるんだけど…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:275:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 140,
+      "source_line": 275,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:276:c2c5b48",
+      "source_hash": "c2c5b48",
+      "sequence": 141,
+      "source_line": 276,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "でも いいよな…天才って…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:277:b4c6b719",
+      "source_hash": "b4c6b719",
+      "sequence": 142,
+      "source_line": 277,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ラインヴァスタ…<br>百年に一度の マナクラフトの鬼才",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:278:c93c51ad",
+      "source_hash": "c93c51ad",
+      "sequence": 143,
+      "source_line": 278,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それに比べて僕は障害の持ち主か…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:279:ef1f53d4",
+      "source_hash": "ef1f53d4",
+      "sequence": 144,
+      "source_line": 279,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "はあ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:280:db5bc35a",
+      "source_hash": "db5bc35a",
+      "sequence": 145,
+      "source_line": 280,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんだよ この差は…<br>ずるいじゃないか…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:281:35bf0155",
+      "source_hash": "35bf0155",
+      "sequence": 146,
+      "source_line": 281,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "生まれながらの格差社会",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:282:a9ae2394",
+      "source_hash": "a9ae2394",
+      "sequence": 147,
+      "source_line": 282,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "授けられた円から出ることは出来ない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:283:a8602e44",
+      "source_hash": "a8602e44",
+      "sequence": 148,
+      "source_line": 283,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "努力が無駄なら<br>夢を見るだけ無駄なのかもしれない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:297:40c1506",
+      "source_hash": "40c1506",
+      "sequence": 149,
+      "source_line": 297,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あー……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:300:9401989d",
+      "source_hash": "9401989d",
+      "sequence": 150,
+      "source_line": 300,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "やっぱりダメだな<br>またこの感覚だ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:302:2da1a86",
+      "source_hash": "2da1a86",
+      "sequence": 151,
+      "source_line": 302,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ほうっておいたら……<br>どこまでも落ちていく面倒なやつ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:303:3eff3a47",
+      "source_hash": "3eff3a47",
+      "sequence": 152,
+      "source_line": 303,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ここに足を踏み入れたら…<br>きっとしばらく出れなくなる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:305:e6b15245",
+      "source_hash": "e6b15245",
+      "sequence": 153,
+      "source_line": 305,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ああああああ………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:306:9ec44e31",
+      "source_hash": "9ec44e31",
+      "sequence": 154,
+      "source_line": 306,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:308:e6d48540",
+      "source_hash": "e6d48540",
+      "sequence": 155,
+      "source_line": 308,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あんまり…落ちる前に……<br>ちょっと外で涼んでくるか…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:309:9ec44e31",
+      "source_hash": "9ec44e31",
+      "sequence": 156,
+      "source_line": 309,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:328:3a89c2c2",
+      "source_hash": "3a89c2c2",
+      "sequence": 157,
+      "source_line": 328,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ゛あ゛あ゛゛゛ 涼゛じいぃ……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:330:ef9c3a6a",
+      "source_hash": "ef9c3a6a",
+      "sequence": 158,
+      "source_line": 330,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "外はやっぱり最高ですね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:333:f0a71362",
+      "source_hash": "f0a71362",
+      "sequence": 159,
+      "source_line": 333,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "どうしようもないことで落ち込むくらいなら<br>外に出たほうがいいんだ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:334:b58acc89",
+      "source_hash": "b58acc89",
+      "sequence": 160,
+      "source_line": 334,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "落ち込んでいいことなんて何一つないんだからね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:335:9ec44e31",
+      "source_hash": "9ec44e31",
+      "sequence": 161,
+      "source_line": 335,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:337:740243e2",
+      "source_hash": "740243e2",
+      "sequence": 162,
+      "source_line": 337,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あれー…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:338:9e544786",
+      "source_hash": "9e544786",
+      "sequence": 163,
+      "source_line": 338,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "通行人があまりいない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:339:6b1615b2",
+      "source_hash": "6b1615b2",
+      "sequence": 164,
+      "source_line": 339,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "いくら夕食後とはいえ 人気がちょっと少ない気がする",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:340:9ec44e31",
+      "source_hash": "9ec44e31",
+      "sequence": 165,
+      "source_line": 340,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:341:872ad75c",
+      "source_hash": "872ad75c",
+      "sequence": 166,
+      "source_line": 341,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "もしかして…ビーアルの件だろうか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:342:4c43c8bd",
+      "source_hash": "4c43c8bd",
+      "sequence": 167,
+      "source_line": 342,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "対処は内密に進めてるみたいだったけど…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:344:bab9792c",
+      "source_hash": "bab9792c",
+      "sequence": 168,
+      "source_line": 344,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "さすがに街中に出てこられちゃ噂も広がるよな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:345:5082ed97",
+      "source_hash": "5082ed97",
+      "sequence": 169,
+      "source_line": 345,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いっそのことみんなに伝えてしまったほうが<br>いいような気もするけど…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:346:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 170,
+      "source_line": 346,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:348:7292d751",
+      "source_hash": "7292d751",
+      "sequence": 171,
+      "source_line": 348,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あれ？<br>リッグズさん！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:352:2cdb96bb",
+      "source_hash": "2cdb96bb",
+      "sequence": 172,
+      "source_line": 352,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "ん？ お…<br>カージじゃないか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:353:a55f6d5c",
+      "source_hash": "a55f6d5c",
+      "sequence": 173,
+      "source_line": 353,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "リッグズさん！<br>どうしたんですか こんなところで！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:355:51bc0d9f",
+      "source_hash": "51bc0d9f",
+      "sequence": 174,
+      "source_line": 355,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "止り木のほうで修繕が必要な箇所があってな<br>その材料の調達だ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:356:66c34188",
+      "source_hash": "66c34188",
+      "sequence": 175,
+      "source_line": 356,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え？ こ これから止り木に行かれるんですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:357:7d193159",
+      "source_hash": "7d193159",
+      "sequence": 176,
+      "source_line": 357,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "これから行く<br>…というか 最近はあそこで暮らしてる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:359:c2cdffce",
+      "source_hash": "c2cdffce",
+      "sequence": 177,
+      "source_line": 359,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "家に帰ることはほとんどなくなった<br>戻ったところで誰もいないしな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:361:e0c57889",
+      "source_hash": "e0c57889",
+      "sequence": 178,
+      "source_line": 361,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そうなんですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:362:42276faf",
+      "source_hash": "42276faf",
+      "sequence": 179,
+      "source_line": 362,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "お前こそどうしたんだ？<br>暇なのか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:364:7e7705e8",
+      "source_hash": "7e7705e8",
+      "sequence": 180,
+      "source_line": 364,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ひ 暇…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:365:c483e6eb",
+      "source_hash": "c483e6eb",
+      "sequence": 181,
+      "source_line": 365,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "暇…かもですね はい<br>ちょっと気分転換でぶらぶらしてました",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:366:cede725f",
+      "source_hash": "cede725f",
+      "sequence": 182,
+      "source_line": 366,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "そうか なら止り木にくるか？<br>茶でも出すぞ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:368:3bfba272",
+      "source_hash": "3bfba272",
+      "sequence": 183,
+      "source_line": 368,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え！？ と 止り木…ですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:369:4152cc57",
+      "source_hash": "4152cc57",
+      "sequence": 184,
+      "source_line": 369,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あの ここだけの話…というか<br>もうご存じかと思いますが…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:370:dd730962",
+      "source_hash": "dd730962",
+      "sequence": 185,
+      "source_line": 370,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "止り木の方角って<br>ラック・ビーアルが出るって話なんですか…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:372:95dc370e",
+      "source_hash": "95dc370e",
+      "sequence": 186,
+      "source_line": 372,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "ん？ ああ そういえば<br>セレンハイドのやつがそんなことを言っていたな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:374:fafd3b6b",
+      "source_hash": "fafd3b6b",
+      "sequence": 187,
+      "source_line": 374,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こ 怖くないんですか？ ビーアル？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:376:5609acef",
+      "source_hash": "5609acef",
+      "sequence": 188,
+      "source_line": 376,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "なぜ怖がる必要がある？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:378:cd936514",
+      "source_hash": "cd936514",
+      "sequence": 189,
+      "source_line": 378,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え だ だって ビーアルですよ！？<br>しかも獰猛なことで知られているラック・ビーアルって…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:379:ee7cc982",
+      "source_hash": "ee7cc982",
+      "sequence": 190,
+      "source_line": 379,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "動物の扱いにはそれなりに慣れているし<br>暴れ出したら仕留めればいい",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:380:5339713b",
+      "source_hash": "5339713b",
+      "sequence": 191,
+      "source_line": 380,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "それだけの話だろう？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:382:537c8c44",
+      "source_hash": "537c8c44",
+      "sequence": 192,
+      "source_line": 382,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "し 仕留めるって…<br>リッグズさんが お一人で…ですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:384:a3fdc2a5",
+      "source_hash": "a3fdc2a5",
+      "sequence": 193,
+      "source_line": 384,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "ははは そうさ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:386:c905bc66",
+      "source_hash": "c905bc66",
+      "sequence": 194,
+      "source_line": 386,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "屈託のない笑顔",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:387:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 195,
+      "source_line": 387,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:389:f29c324d",
+      "source_hash": "f29c324d",
+      "sequence": 196,
+      "source_line": 389,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "いや 無理…なんじゃないかなぁ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:390:f5219171",
+      "source_hash": "f5219171",
+      "sequence": 197,
+      "source_line": 390,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "どう考えても…ちょっと…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:391:bf703824",
+      "source_hash": "bf703824",
+      "sequence": 198,
+      "source_line": 391,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "小さめのラック・ビーアルでも<br>リッグズさんの体格の３〜４倍は軽くあるからなぁ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-11:392:ea7bacbe",
+      "source_hash": "ea7bacbe",
+      "sequence": 199,
+      "source_line": 392,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "いくらガタイのいいリッグズさんでも<br>ビーアルとなんか戦えるのかなぁ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

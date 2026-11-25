@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-08d.part01",
+  "script": "ch01-08d",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch01-08d:19:d984ff63",
+      "source_hash": "d984ff63",
+      "sequence": 0,
+      "source_line": 19,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ごめんね母さん",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-08d:20:f7ae9609",
+      "source_hash": "f7ae9609",
+      "sequence": 1,
+      "source_line": 20,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "今日はちょっと元気がなくて書けません<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-08d:22:f54d8c4c",
+      "source_hash": "f54d8c4c",
+      "sequence": 2,
+      "source_line": 22,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "もうだめかもしれない<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-08d:24:75613c1c",
+      "source_hash": "75613c1c",
+      "sequence": 3,
+      "source_line": 24,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "だめ<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-08d:26:75613c1c",
+      "source_hash": "75613c1c",
+      "sequence": 4,
+      "source_line": 26,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "だめ<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-08d:28:d6b09d94",
+      "source_hash": "d6b09d94",
+      "sequence": 5,
+      "source_line": 28,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あ<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-08d:29:d6b09d94",
+      "source_hash": "d6b09d94",
+      "sequence": 6,
+      "source_line": 29,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あ<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

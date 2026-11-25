@@ -1,0 +1,555 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-10.part02",
+  "script": "ch01-10",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch01-10:213:ef0ec51a",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "そ そうだよね…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-10:214:f321fb43",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "本当はちょっとだけ…クラウさんの言葉が<br>『根も葉もない変人の心無い言葉』であってほしかった",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-10:215:a5073b4c",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "そうしたら…まだ楽だった",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-10:216:b3d6734f",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "…………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-10:218:855ea470",
+        "speaker_id": "oug",
+        "speaker_name": "오그즈",
+        "ja": "まあ そんな顔にもなるわな",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch01-10:220:cb232e84",
+      "source_hash": "cb232e84",
+      "sequence": 100,
+      "source_line": 220,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぼ 僕…どうしたらいいんだろう…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:221:d99c90af",
+      "source_hash": "d99c90af",
+      "sequence": 101,
+      "source_line": 221,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "んー？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:222:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 102,
+      "source_line": 222,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:224:d08535fb",
+      "source_hash": "d08535fb",
+      "sequence": 103,
+      "source_line": 224,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "素直に 果樹園引き継いだほうがいいのかな？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:226:bdf6d2bd",
+      "source_hash": "bdf6d2bd",
+      "sequence": 104,
+      "source_line": 226,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "んーー？ 誰がお前に引き継がせるなんて言った？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:228:92120121",
+      "source_hash": "92120121",
+      "sequence": 105,
+      "source_line": 228,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…え！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:230:faa9b417",
+      "source_hash": "faa9b417",
+      "sequence": 106,
+      "source_line": 230,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "そらそうだろう え？ お前だって見ただろ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:231:c933003e",
+      "source_hash": "c933003e",
+      "sequence": 107,
+      "source_line": 231,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "うちを引き継ぎたいやつなんて<br>放っておいても勝手にわんさかと集まってくるんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:232:19fb9a0f",
+      "source_hash": "19fb9a0f",
+      "sequence": 108,
+      "source_line": 232,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "それをなんで 第二候補で適当に引き継ぎたいような奴を<br>優先するんだよ？ おかしいだろう？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:234:16056dd0",
+      "source_hash": "16056dd0",
+      "sequence": 109,
+      "source_line": 234,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ…うぐぐ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:236:1ce3842",
+      "source_hash": "1ce3842",
+      "sequence": 110,
+      "source_line": 236,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ぷ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:238:fe5af3c6",
+      "source_hash": "fe5af3c6",
+      "sequence": 111,
+      "source_line": 238,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "っはははは 冗談だよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:240:acbbe2c0",
+      "source_hash": "acbbe2c0",
+      "sequence": 112,
+      "source_line": 240,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "しかしよ その前にだ どうなんだ？<br>お前は引き継ぎたいのか？ 果樹園？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:242:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 113,
+      "source_line": 242,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:243:a537c32e",
+      "source_hash": "a537c32e",
+      "sequence": 114,
+      "source_line": 243,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いやなわけじゃないんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:244:504f955",
+      "source_hash": "504f955",
+      "sequence": 115,
+      "source_line": 244,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "果樹園の仕事 嫌いなわけじゃないし…<br>むしろ楽しいことのほうが多いと思う",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:246:7528b125",
+      "source_hash": "7528b125",
+      "sequence": 116,
+      "source_line": 246,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ただ…なんか あまりにも唐突な話だったから<br>諦めきれないんだよ まだ…絵の方が",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:248:b231f2f8",
+      "source_hash": "b231f2f8",
+      "sequence": 117,
+      "source_line": 248,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "そら そうだろうよ<br>なんだかんだで2年近くも続けてきたんだからな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:250:22fc3660",
+      "source_hash": "22fc3660",
+      "sequence": 118,
+      "source_line": 250,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "どうしていいかわからないんだ…もし本当になにか<br>視覚的な障害みたいなのがあったとしたら<br>これからの僕の頑張りは全部無駄になるかもしれないし…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:252:9c603311",
+      "source_hash": "9c603311",
+      "sequence": 119,
+      "source_line": 252,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ちょっとそこでストップだ カージ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:254:4cda04be",
+      "source_hash": "4cda04be",
+      "sequence": 120,
+      "source_line": 254,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え え？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:255:2e633520",
+      "source_hash": "2e633520",
+      "sequence": 121,
+      "source_line": 255,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "父ちゃんお前より長生きしてるから断言してやるけどな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:257:94e3c405",
+      "source_hash": "94e3c405",
+      "sequence": 122,
+      "source_line": 257,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "お前の目標が途中で変わろうと<br>今の頑張りが無駄になることなんてまずない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:258:f913a171",
+      "source_hash": "f913a171",
+      "sequence": 123,
+      "source_line": 258,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "将来努力が無駄になったと感じるんだったら<br>それはその時のお前の価値観に問題がある",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:259:a1ea1ae6",
+      "source_hash": "a1ea1ae6",
+      "sequence": 124,
+      "source_line": 259,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "今の努力や苦労は かならず血肉となってお前の一部になる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:261:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 125,
+      "source_line": 261,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:262:d7750e1b",
+      "source_hash": "d7750e1b",
+      "sequence": 126,
+      "source_line": 262,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "今のお前がやらなきゃいけないことってのは<br>やりたいことをはっきりさせることだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:263:7fdebe02",
+      "source_hash": "7fdebe02",
+      "sequence": 127,
+      "source_line": 263,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "それができなきゃ<br>いつまで経ってもぶらぶらすることになるぜ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:265:ef14c778",
+      "source_hash": "ef14c778",
+      "sequence": 128,
+      "source_line": 265,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ……ああ……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:268:b97635f4",
+      "source_hash": "b97635f4",
+      "sequence": 129,
+      "source_line": 268,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "どうしよう…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:269:4e4f4822",
+      "source_hash": "4e4f4822",
+      "sequence": 130,
+      "source_line": 269,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "…父さんが…気を遣ってくれている…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:270:4b9570fd",
+      "source_hash": "4b9570fd",
+      "sequence": 131,
+      "source_line": 270,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "待たせているんだ 僕は 彼を",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:271:f9760121",
+      "source_hash": "f9760121",
+      "sequence": 132,
+      "source_line": 271,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なぜだろう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:272:c8b4615e",
+      "source_hash": "c8b4615e",
+      "sequence": 133,
+      "source_line": 272,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "視界が揺らぐ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:274:246c7f74",
+      "source_hash": "246c7f74",
+      "sequence": 134,
+      "source_line": 274,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "と 父さん",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:275:460ca012",
+      "source_hash": "460ca012",
+      "sequence": 135,
+      "source_line": 275,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "ああ なんだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:276:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 136,
+      "source_line": 276,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:278:ed910c8f",
+      "source_hash": "ed910c8f",
+      "sequence": 137,
+      "source_line": 278,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…僕…絵…上手になってるのかな？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:279:5e43f78f",
+      "source_hash": "5e43f78f",
+      "sequence": 138,
+      "source_line": 279,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "んー…………悪いな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-10:281:8032a33c",
+      "source_hash": "8032a33c",
+      "sequence": 139,
+      "source_line": 281,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "――――俺にはからっきしだ",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

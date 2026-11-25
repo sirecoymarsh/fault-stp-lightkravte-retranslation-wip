@@ -1,0 +1,708 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-18.part02",
+  "script": "ch02-18",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch02-18:248:3098b42a",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "そ 即答…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-18:249:2eda367a",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "…………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-18:250:8afb1a82",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "し 信じられない…<br>時たまセルフィーネ様と顔を合わせられるだけでなく<br>こ このような関係を築けるようにまでなるとは…！！！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-18:251:cb8226f6",
+        "speaker_id": "sel",
+        "speaker_name": "셀피네",
+        "ja": "特殊なレンズを探してるみたいだったけど？<br>リトナじゃなくて ガラス工房の人達には頼んでみた？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-18:253:189bbc18",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "え あ…は はい…頼んではみたのですが<br>技術的に不可能だと言われてしまいまして…",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch02-18:254:f0092910",
+      "source_hash": "f0092910",
+      "sequence": 100,
+      "source_line": 254,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "それに…なにぶん本職登録できていないので<br>さらに門前払いという形に…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:256:890637db",
+      "source_hash": "890637db",
+      "sequence": 101,
+      "source_line": 256,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "ふーん そうなんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:258:af94eacc",
+      "source_hash": "af94eacc",
+      "sequence": 102,
+      "source_line": 258,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "じゃ わたしが話を持ちかけてみようか？ 工房に？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:259:65b3136c",
+      "source_hash": "65b3136c",
+      "sequence": 103,
+      "source_line": 259,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:261:779f6cca",
+      "source_hash": "779f6cca",
+      "sequence": 104,
+      "source_line": 261,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…え゛………ッッッ゛ッ゛ッ！？<br>？！？！？！？！？！？！？！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:263:fd1c0286",
+      "source_hash": "fd1c0286",
+      "sequence": 105,
+      "source_line": 263,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "たぶん直接頼んだらやってもらえると思うよ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:265:ec422b2a",
+      "source_hash": "ec422b2a",
+      "sequence": 106,
+      "source_line": 265,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………え…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:270:41de0f19",
+      "source_hash": "41de0f19",
+      "sequence": 107,
+      "source_line": 270,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ええええええええええええええええええええええええええええええええええええ！？！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:272:f115dcd9",
+      "source_hash": "f115dcd9",
+      "sequence": 108,
+      "source_line": 272,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "で でも技術的に無理だって言われたんですが！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:274:af4633c0",
+      "source_hash": "af4633c0",
+      "sequence": 109,
+      "source_line": 274,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "でも試してももらえてないんだよね？<br>それなんだったらちゃんと説明くらいはして欲しいよね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:276:c07de21b",
+      "source_hash": "c07de21b",
+      "sequence": 110,
+      "source_line": 276,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いやいや ちょちょ……ちょっとちょちょちょちょちょちょちょちょちょちょ………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:278:4b2808bb",
+      "source_hash": "4b2808bb",
+      "sequence": 111,
+      "source_line": 278,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ちょっと待て 待ちやがれ<br>カージ＝オバグ！！！！！！！！！！！！！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:279:23eb0de0",
+      "source_hash": "23eb0de0",
+      "sequence": 112,
+      "source_line": 279,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "直接って<br>セ セルフィーネ様が直接工房に依頼するってことか！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:280:33ac31ca",
+      "source_hash": "33ac31ca",
+      "sequence": 113,
+      "source_line": 280,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そんなの相手は絶対に断れないに決まってる…！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:281:98bddcf6",
+      "source_hash": "98bddcf6",
+      "sequence": 114,
+      "source_line": 281,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "というか 職人としてこれ以上の名誉なんてないんだ…<br>相手にとって断る理由なんてない！！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:284:19ce9769",
+      "source_hash": "19ce9769",
+      "sequence": 115,
+      "source_line": 284,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:286:832360ee",
+      "source_hash": "832360ee",
+      "sequence": 116,
+      "source_line": 286,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "しかし い いいのか！？<br>セルフィーネ様にそんなお願いをして！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:288:59fa9b4a",
+      "source_hash": "59fa9b4a",
+      "sequence": 117,
+      "source_line": 288,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "どったの？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:290:e5526ac8",
+      "source_hash": "e5526ac8",
+      "sequence": 118,
+      "source_line": 290,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ちょ ちょ…ちょっとお待ちを！<br>か 考えさせてください！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:292:3e4362dd",
+      "source_hash": "3e4362dd",
+      "sequence": 119,
+      "source_line": 292,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "か 考えろ…考えろ考えろ考えろ考えろ！<br>クッソ考えろよ このカージ野郎！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:293:f06c7d41",
+      "source_hash": "f06c7d41",
+      "sequence": 120,
+      "source_line": 293,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "これは願ってもないガチのチャンス！？！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:296:5cfc3678",
+      "source_hash": "5cfc3678",
+      "sequence": 121,
+      "source_line": 296,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "だ だがなんだこの胸の中のモヤモヤは！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:297:47684788",
+      "source_hash": "47684788",
+      "sequence": 122,
+      "source_line": 297,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こんなこと 気軽に頼んではいけない…<br>絶対に 気軽に頼んではいけないと<br><tip=\"seventh_sense\">第七感</tip>が告げている！！！",
+      "required_tokens": [
+        "<br>",
+        "<br>",
+        "<tip=\"seventh_sense\">",
+        "</tip>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:302:feb6e",
+      "source_hash": "feb6e",
+      "sequence": 123,
+      "source_line": 302,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "問題はなんだ…見返りか！？<br>そ そうだ…見返り…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:305:b52272fb",
+      "source_hash": "b52272fb",
+      "sequence": 124,
+      "source_line": 305,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あの ありがたいのですが…<br>ぼ 僕はセルフィーネ様にお返しできるようのものを<br>持ち合わせておりません…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:307:1bacc11",
+      "source_hash": "1bacc11",
+      "sequence": 125,
+      "source_line": 307,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "ええー…お礼のためにやってもらいたいと思ってるの？<br>ちょっと心外だなー",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:308:4fd34fc3",
+      "source_hash": "4fd34fc3",
+      "sequence": 126,
+      "source_line": 308,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "困ってるから助けてあげたかっただけなのになー",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:311:e98d927a",
+      "source_hash": "e98d927a",
+      "sequence": 127,
+      "source_line": 311,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あ あ ああああ！ あああああああああ！ は はい！<br>す すみませんでした！<br>ついうっかりゲス心が働いてしまって…！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:312:aa67801d",
+      "source_hash": "aa67801d",
+      "sequence": 128,
+      "source_line": 312,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ 当たり前だ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:313:d960ecdf",
+      "source_hash": "d960ecdf",
+      "sequence": 129,
+      "source_line": 313,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "相手は言葉通り 天下のセルフィーネ姫だぞ！？<br>僕程度のヤロウから見返りを求めるような<br>御方でも状況でもない…！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:315:dcff361b",
+      "source_hash": "dcff361b",
+      "sequence": 130,
+      "source_line": 315,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "確か明日 ギルドの人くるよ 城の方に<br>その時に頼んでみようか？ どういうものがほしいの？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:317:312196d7",
+      "source_hash": "312196d7",
+      "sequence": 131,
+      "source_line": 317,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぎゃあああああああああああ！？<br>あ あじた！？ あじ…！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:320:907ba3f5",
+      "source_hash": "907ba3f5",
+      "sequence": 132,
+      "source_line": 320,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "にこにこ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:321:ddf04aaa",
+      "source_hash": "ddf04aaa",
+      "sequence": 133,
+      "source_line": 321,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あああああああああ………あ 明日！？<br>明日だって！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:324:29e3614f",
+      "source_hash": "29e3614f",
+      "sequence": 134,
+      "source_line": 324,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "どうしよう…頼むか…！？<br>頼んでしまうか セルフィーネ姫に！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:325:e69ec343",
+      "source_hash": "e69ec343",
+      "sequence": 135,
+      "source_line": 325,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こんな渡りにファリン！！<br>そうそうあるもんじゃないぞ！！！！！！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:326:f886cbe0",
+      "source_hash": "f886cbe0",
+      "sequence": 136,
+      "source_line": 326,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "どうする！？ どうするカージ＝オバーグ！！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:329:60980a6d",
+      "source_hash": "60980a6d",
+      "sequence": 137,
+      "source_line": 329,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "あはは 色々な変な顔する人だなー",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:332:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 138,
+      "source_line": 332,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:333:f0f80334",
+      "source_hash": "f0f80334",
+      "sequence": 139,
+      "source_line": 333,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あの…セルフィーネ様",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:360:ba6af5cc",
+      "source_hash": "ba6af5cc",
+      "sequence": 140,
+      "source_line": 360,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "おっと… もう戻られたんですか。早かったですね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:362:890617e",
+      "source_hash": "890617e",
+      "sequence": 141,
+      "source_line": 362,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "うん<br>カージ君おどおどしてて<br>あんまり会話にならなさそうだったし",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:364:b94fcf52",
+      "source_hash": "b94fcf52",
+      "sequence": 142,
+      "source_line": 364,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "まあ…仕方ないですよ…セルフィーネ様御本人に<br>しかも一対一でのアプローチなんて<br>カージでなくてもびっくりします",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:366:cbc0d803",
+      "source_hash": "cbc0d803",
+      "sequence": 143,
+      "source_line": 366,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "そう思うんだったら リトナが行けばよかったのにー",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:367:79f7a359",
+      "source_hash": "79f7a359",
+      "sequence": 144,
+      "source_line": 367,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "私は物臭で不器用なので<br>ご理解を",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:369:297394f",
+      "source_hash": "297394f",
+      "sequence": 145,
+      "source_line": 369,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "一国のお姫様をパシリに使ってるって自覚ある？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:371:8fd2ed76",
+      "source_hash": "8fd2ed76",
+      "sequence": 146,
+      "source_line": 371,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "今夜は何を食べようかな…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:373:263bd41b",
+      "source_hash": "263bd41b",
+      "sequence": 147,
+      "source_line": 373,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "リトナこそカージくんの<br>奥ゆかしさを学んで欲しいぜ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:375:95009630",
+      "source_hash": "95009630",
+      "sequence": 148,
+      "source_line": 375,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "で やつはどう答えたんですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-18:377:6d732aeb",
+      "source_hash": "6d732aeb",
+      "sequence": 149,
+      "source_line": 377,
+      "speaker_id": "sel",
+      "speaker_name": "셀피네",
+      "voice_id": "",
+      "ja": "あ そうそう えっとね…",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

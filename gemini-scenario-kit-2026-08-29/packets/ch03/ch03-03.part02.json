@@ -1,0 +1,1360 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch03-03.part02",
+  "script": "ch03-03",
+  "chapter": "ch03",
+  "story_phase": "후반·위기와 결말",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch03-03:178:3f44264b",
+        "speaker_id": "rit",
+        "speaker_name": "리토나",
+        "ja": "他人の意見にビクビクして生きているような奴には<br>辛い儀式かもしれないな",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-03:179:b3d6734f",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "…………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-03:180:10ba0d14",
+        "speaker_id": "rit",
+        "speaker_name": "리토나",
+        "ja": "それに最近の研究だと<br>人によっては性欲がかなり削がれるらしい",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-03:182:2d95c584",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "そ そんなことまで……",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-03:183:1d2c96b4",
+        "speaker_id": "rit",
+        "speaker_name": "리토나",
+        "ja": "驚くか？<br>お前の場合 創作活動の源に直結してるんだろうから<br>驚いてもしょうがないか",
+        "do_not_translate": true
+      }
+    ],
+    "after": [
+      {
+        "uid": "ch03-03:358:7056a586",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "考えてもいなかった",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-03:359:807689d4",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "他人に左右される人生",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-03:360:a6d8d51b",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "文化と仕来り…封建と功利…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-03:361:324f101a",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "これからの伝統を護り<br>僕達の人生を豊かにしてくれる人の心境なんて<br>僕は今まで一切考えてこなかった",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch03-03:362:1865da4",
+        "speaker_id": "",
+        "speaker_name": "서술/미지정",
+        "ja": "なんて",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch03-03:185:ae3b98cb",
+      "source_hash": "ae3b98cb",
+      "sequence": 100,
+      "source_line": 185,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…せ 性欲がなくなったらどうなっちゃうんだろうって<br>…想像ができないんだけど",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:186:ee845813",
+      "source_hash": "ee845813",
+      "sequence": 101,
+      "source_line": 186,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "まあ 人それぞれだろうな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:188:58e9c6eb",
+      "source_hash": "58e9c6eb",
+      "sequence": 102,
+      "source_line": 188,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "私も正直よくわからん…<br>オフィアの副作用は一概にいうに個人差が大きすぎる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:189:2999323b",
+      "source_hash": "2999323b",
+      "sequence": 103,
+      "source_line": 189,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "それに なにかあればオフィアの後遺症のせいに<br>したがる輩がやたらと多いから<br>どの情報を信じていいかわからん",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:190:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 104,
+      "source_line": 190,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:192:f087df4",
+      "source_hash": "f087df4",
+      "sequence": 105,
+      "source_line": 192,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ただ 前例や研究はあるし<br>そういった者達が訴えてる症状を否定することもできない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:193:ed0b37bc",
+      "source_hash": "ed0b37bc",
+      "sequence": 106,
+      "source_line": 193,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "中でも一番辛いのは 体調やコンディションも常に<br>ベストな状態にキープしなければ<br>オフィアの効力も衰退するという報告だ",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:194:8e9f28a4",
+      "source_hash": "8e9f28a4",
+      "sequence": 107,
+      "source_line": 194,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "せっかく寿命を縮めて儀式を受けたのに<br>何のメリットもない体に戻ってしまうわけだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:196:9abe25e3",
+      "source_hash": "9abe25e3",
+      "sequence": 108,
+      "source_line": 196,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "う うそだよ そんなの…きつすぎるじゃんそれ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:198:4d2d9fa5",
+      "source_hash": "4d2d9fa5",
+      "sequence": 109,
+      "source_line": 198,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "その代わり うまく使いこなせれば<br>常人では決して達することのできない<br>高みを目指すことができる",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:199:2e9dbe39",
+      "source_hash": "2e9dbe39",
+      "sequence": 110,
+      "source_line": 199,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "事実 今の時代でも<br>偉業を成し遂げている者の大半は オフィアンだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:201:352631cd",
+      "source_hash": "352631cd",
+      "sequence": 111,
+      "source_line": 201,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "まあ 一人で大きな結果を産むためには<br>相応の対価を支払わなければ<br>ならないということなのだろうな",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:202:ed518c00",
+      "source_hash": "ed518c00",
+      "sequence": 112,
+      "source_line": 202,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "それがオフィアというものだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:204:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 113,
+      "source_line": 204,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:205:83d93d04",
+      "source_hash": "83d93d04",
+      "sequence": 114,
+      "source_line": 205,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "オフィアって…年齢制限があったよね？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:207:b8c4f5c5",
+      "source_hash": "b8c4f5c5",
+      "sequence": 115,
+      "source_line": 207,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "いいや？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:208:f1b959d8",
+      "source_hash": "f1b959d8",
+      "sequence": 116,
+      "source_line": 208,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "16歳を過ぎて受けると平均寿命が<br>50くらいに下がるから ほとんどの人がしないだけだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:209:e35f97b7",
+      "source_hash": "e35f97b7",
+      "sequence": 117,
+      "source_line": 209,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "別に規制がかかっているわけではない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:211:778f44c1",
+      "source_hash": "778f44c1",
+      "sequence": 118,
+      "source_line": 211,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "やっぱり…ろ ろくなものじゃないじゃないか！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:212:aa531d10",
+      "source_hash": "aa531d10",
+      "sequence": 119,
+      "source_line": 212,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "誰が好き好んでそんなものを…<br>最初から選択肢にないじゃないか！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:213:d9c7c7ce",
+      "source_hash": "d9c7c7ce",
+      "sequence": 120,
+      "source_line": 213,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "こんなの受けるやつの気がしれ………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:214:9ec44e31",
+      "source_hash": "9ec44e31",
+      "sequence": 121,
+      "source_line": 214,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:217:4ae7b546",
+      "source_hash": "4ae7b546",
+      "sequence": 122,
+      "source_line": 217,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………はっ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:221:716de868",
+      "source_hash": "716de868",
+      "sequence": 123,
+      "source_line": 221,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:222:9d15b16b",
+      "source_hash": "9d15b16b",
+      "sequence": 124,
+      "source_line": 222,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "我々の国は……<br>いや アライアンスの平和というものはオフィアが築いた",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:223:d95415cd",
+      "source_hash": "d95415cd",
+      "sequence": 125,
+      "source_line": 223,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "国の 王の意思を護るため<br>何百万という数の人間が血を流した結果<br>現状の平和に繋がっているらしいぞ？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:225:ad07a5ac",
+      "source_hash": "ad07a5ac",
+      "sequence": 126,
+      "source_line": 225,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "まあ 言わなくてもわかるよな…<br>お前そういうの好きなんだろ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:227:72fcd4a1",
+      "source_hash": "72fcd4a1",
+      "sequence": 127,
+      "source_line": 227,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "で でもそれは昔の話で 今とは関係なくて…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:228:5a6f8d82",
+      "source_hash": "5a6f8d82",
+      "sequence": 128,
+      "source_line": 228,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…そうだな<br>時代錯誤 だな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:229:ad579ec1",
+      "source_hash": "ad579ec1",
+      "sequence": 129,
+      "source_line": 229,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "それに…おかしいじゃないか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:230:19a92a47",
+      "source_hash": "19a92a47",
+      "sequence": 130,
+      "source_line": 230,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ん？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:231:14fd30df",
+      "source_hash": "14fd30df",
+      "sequence": 131,
+      "source_line": 231,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "僕は聞いてるよ…ラインヴァスタって<br>オフィアをまだ受けていないのに 受けた人と同じくらいの<br>スピードや精度でマナを紡げるんだよね？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:233:716de868",
+      "source_hash": "716de868",
+      "sequence": 132,
+      "source_line": 233,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:235:c4c8674a",
+      "source_hash": "c4c8674a",
+      "sequence": 133,
+      "source_line": 235,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…全く同じじゃないが…ああ そうらしいな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:236:56d3047e",
+      "source_hash": "56d3047e",
+      "sequence": 134,
+      "source_line": 236,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "だったら 僕も練習したら…<br>オフィアを受けなくてもそのうち…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:238:5f9e555d",
+      "source_hash": "5f9e555d",
+      "sequence": 135,
+      "source_line": 238,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "好きにしてみればいい…と<br>言ってやりたいが おすすめはできない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:239:206b8591",
+      "source_hash": "206b8591",
+      "sequence": 136,
+      "source_line": 239,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な なんでだよ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:240:2b68094f",
+      "source_hash": "2b68094f",
+      "sequence": 137,
+      "source_line": 240,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:242:43221e7d",
+      "source_hash": "43221e7d",
+      "sequence": 138,
+      "source_line": 242,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…なぜか 私は特別らしくてな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:243:d11a2beb",
+      "source_hash": "d11a2beb",
+      "sequence": 139,
+      "source_line": 243,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "百年に一度現れるかどうかと言われる体質らしい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:244:2952702a",
+      "source_hash": "2952702a",
+      "sequence": 140,
+      "source_line": 244,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "これでオフィアを受けたら<br>私の神童説が確固たるものになるらしい",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:245:8f009717",
+      "source_hash": "8f009717",
+      "sequence": 141,
+      "source_line": 245,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ルゼンハイドもアライアンスも それを望んでいる",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:246:eeafdbc4",
+      "source_hash": "eeafdbc4",
+      "sequence": 142,
+      "source_line": 246,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な なんだよそれ…自画自賛？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:248:275335ac",
+      "source_hash": "275335ac",
+      "sequence": 143,
+      "source_line": 248,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "は？ あっははははは…<br>まあ そう思いたければ思うがいいさ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:251:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 144,
+      "source_line": 251,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:252:412d52c2",
+      "source_hash": "412d52c2",
+      "sequence": 145,
+      "source_line": 252,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ごめん……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:253:716de868",
+      "source_hash": "716de868",
+      "sequence": 146,
+      "source_line": 253,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:258:5d8ef896",
+      "source_hash": "5d8ef896",
+      "sequence": 147,
+      "source_line": 258,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "でも だったら なんなんだよ お前…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:259:df4e33bc",
+      "source_hash": "df4e33bc",
+      "sequence": 148,
+      "source_line": 259,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "お前の方が意味わからないだろう？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:260:f414d991",
+      "source_hash": "f414d991",
+      "sequence": 149,
+      "source_line": 260,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ラインヴァスタこそ何者なんだよ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:261:2b68094f",
+      "source_hash": "2b68094f",
+      "sequence": 150,
+      "source_line": 261,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:269:90bd6c8e",
+      "source_hash": "90bd6c8e",
+      "sequence": 151,
+      "source_line": 269,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "そうだな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:270:c3a8cfd3",
+      "source_hash": "c3a8cfd3",
+      "sequence": 152,
+      "source_line": 270,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "私はなぜ… こんなにもクラフトの才に恵まれて<br>生まれてきてしまったのだろうな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:272:118505b6",
+      "source_hash": "118505b6",
+      "sequence": 153,
+      "source_line": 272,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "お前が絵の才に恵まれなかったことを恨むように<br>私は望んでもいなかった才に恵まれたことを恨んでいるよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:274:ba066195",
+      "source_hash": "ba066195",
+      "sequence": 154,
+      "source_line": 274,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:275:82f54c5e",
+      "source_hash": "82f54c5e",
+      "sequence": 155,
+      "source_line": 275,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "の 望んでいなかった…？？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:276:ed2b7ce5",
+      "source_hash": "ed2b7ce5",
+      "sequence": 156,
+      "source_line": 276,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "その才能を？？ その名誉を？？？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:279:77c39135",
+      "source_hash": "77c39135",
+      "sequence": 157,
+      "source_line": 279,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "そうさ<br>望んでいなかったよ こんな体質――",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:281:f0b577d0",
+      "source_hash": "f0b577d0",
+      "sequence": 158,
+      "source_line": 281,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ラインヴァスタという名家に生まれることも",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:284:60e70193",
+      "source_hash": "60e70193",
+      "sequence": 159,
+      "source_line": 284,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ガーディアンになる宿命も",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:287:48126290",
+      "source_hash": "48126290",
+      "sequence": 160,
+      "source_line": 287,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "王族に従える名誉ある地位も",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:290:a15f1a4e",
+      "source_hash": "a15f1a4e",
+      "sequence": 161,
+      "source_line": 290,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "国と国の歯車であることも…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:293:2231f4a3",
+      "source_hash": "2231f4a3",
+      "sequence": 162,
+      "source_line": 293,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "なにもかも<br>",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:297:fb331cc7",
+      "source_hash": "fb331cc7",
+      "sequence": 163,
+      "source_line": 297,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "全部全部全部―――――！！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:301:1b0b6a12",
+      "source_hash": "1b0b6a12",
+      "sequence": 164,
+      "source_line": 301,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "………………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:304:b98ceee1",
+      "source_hash": "b98ceee1",
+      "sequence": 165,
+      "source_line": 304,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…『持って生まれる』ことなど<br>私は何ひとつ望んでいなかったよ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:306:46d36042",
+      "source_hash": "46d36042",
+      "sequence": 166,
+      "source_line": 306,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:308:b538e355",
+      "source_hash": "b538e355",
+      "sequence": 167,
+      "source_line": 308,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ…あ……！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:311:709946b1",
+      "source_hash": "709946b1",
+      "sequence": 168,
+      "source_line": 311,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ ご ごめん…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:312:1c6484ef",
+      "source_hash": "1c6484ef",
+      "sequence": 169,
+      "source_line": 312,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ちょ ちょっと用事を…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:314:716de868",
+      "source_hash": "716de868",
+      "sequence": 170,
+      "source_line": 314,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:328:7fc26d03",
+      "source_hash": "7fc26d03",
+      "sequence": 171,
+      "source_line": 328,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ただ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:329:ac97af94",
+      "source_hash": "ac97af94",
+      "sequence": 172,
+      "source_line": 329,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "ただひたすら走った",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:330:55bc61fa",
+      "source_hash": "55bc61fa",
+      "sequence": 173,
+      "source_line": 330,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "無我夢中で とにかくこの場から離れたくて",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:331:1e3b110a",
+      "source_hash": "1e3b110a",
+      "sequence": 174,
+      "source_line": 331,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "息が…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:332:10246d82",
+      "source_hash": "10246d82",
+      "sequence": 175,
+      "source_line": 332,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "っ……！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:333:67a987a0",
+      "source_hash": "67a987a0",
+      "sequence": 176,
+      "source_line": 333,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕は恥ずかしさのあまり 涙を堪えることができなかった",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:334:e51096a8",
+      "source_hash": "e51096a8",
+      "sequence": 177,
+      "source_line": 334,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "オフィアの儀式を受けること",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:335:e042d3e1",
+      "source_hash": "e042d3e1",
+      "sequence": 178,
+      "source_line": 335,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんで…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:336:65bed771",
+      "source_hash": "65bed771",
+      "sequence": 179,
+      "source_line": 336,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "なんでいまのいままで 考えなかったのだろう…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:337:9677749e",
+      "source_hash": "9677749e",
+      "sequence": 180,
+      "source_line": 337,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "後遺症のことは知っていたのに…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:338:5c4264f8",
+      "source_hash": "5c4264f8",
+      "sequence": 181,
+      "source_line": 338,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "『オフィアの不利益を被ってまで<br>人生を歩む偉い人たちがいる』",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:339:6367c573",
+      "source_hash": "6367c573",
+      "sequence": 182,
+      "source_line": 339,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "偉大な人達だ―――国を動かすような",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:340:9ce2cdde",
+      "source_hash": "9ce2cdde",
+      "sequence": 183,
+      "source_line": 340,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "それこそ貴族や王族のような",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:341:b2dc25fb",
+      "source_hash": "b2dc25fb",
+      "sequence": 184,
+      "source_line": 341,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "彼らは そんな凄い人たちは我々一般人とは違う人生を<br>歩んで当然だ―――そんな乱暴なことを思っていた",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:342:143c0bc5",
+      "source_hash": "143c0bc5",
+      "sequence": 185,
+      "source_line": 342,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………っ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:343:3ae728f7",
+      "source_hash": "3ae728f7",
+      "sequence": 186,
+      "source_line": 343,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "僕は…バカだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:344:d3b921e5",
+      "source_hash": "d3b921e5",
+      "sequence": 187,
+      "source_line": 344,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "自分が同じ立場に立たされるまで<br>わからなかったなんて………！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:345:5a81f44e",
+      "source_hash": "5a81f44e",
+      "sequence": 188,
+      "source_line": 345,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "その理不尽さについて<br>一切考えてこなかったなんて…！！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:346:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 189,
+      "source_line": 346,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:347:58094f91",
+      "source_hash": "58094f91",
+      "sequence": 190,
+      "source_line": 347,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "寿命減退 性欲消失…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:348:43a845d4",
+      "source_hash": "43a845d4",
+      "sequence": 191,
+      "source_line": 348,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "変人として後ろ指を刺される人生",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:349:613bc775",
+      "source_hash": "613bc775",
+      "sequence": 192,
+      "source_line": 349,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そして 何より体調を常にベストにキープしなければ<br>寿命だけ失い…全て無駄になる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:350:f7a4afe5",
+      "source_hash": "f7a4afe5",
+      "sequence": 193,
+      "source_line": 350,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "しかし 受けなければ 受けた者には一生追いつけない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:351:d5c44080",
+      "source_hash": "d5c44080",
+      "sequence": 194,
+      "source_line": 351,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "あまりにもやり直しが効かない人生",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:352:d94eb30b",
+      "source_hash": "d94eb30b",
+      "sequence": 195,
+      "source_line": 352,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "そんな人生を歩むという決断を<br>14歳やそこらで決めなくてはならない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:353:10097d5b",
+      "source_hash": "10097d5b",
+      "sequence": 196,
+      "source_line": 353,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ラインヴァスタは…<br>こんな選択を…迫られていたんだ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:355:ed28ad4d",
+      "source_hash": "ed28ad4d",
+      "sequence": 197,
+      "source_line": 355,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "受けたい人間は受ければいい<br>それは個人の自由なんだから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:356:743e61c1",
+      "source_hash": "743e61c1",
+      "sequence": 198,
+      "source_line": 356,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "だが ラインヴァスタは違う…違ったんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch03-03:357:10f12d13",
+      "source_hash": "10f12d13",
+      "sequence": 199,
+      "source_line": 357,
+      "speaker_id": "",
+      "speaker_name": "서술/미지정",
+      "voice_id": "",
+      "ja": "望んでいなかったんだ…こんなこと",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

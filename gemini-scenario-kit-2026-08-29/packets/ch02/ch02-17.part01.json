@@ -1,0 +1,1325 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-17.part01",
+  "script": "ch02-17",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [],
+    "after": [
+      {
+        "uid": "ch02-17:185:485d5b7a",
+        "speaker_id": "rit",
+        "speaker_name": "리토나",
+        "ja": "描かれる側だとしたら…<br>私は お前のキャンバスの裏に座りたくない",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-17:186:674c146a",
+        "speaker_id": "rit",
+        "speaker_name": "리토나",
+        "ja": "想像できるからだ お前の走らせるその筆に<br>確固とした意思が宿っていないことを――<br>そのような態度のやつに絵なんて描いてもらいたくない",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-17:188:7427bb42",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "！！！",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-17:190:84eab4e9",
+        "speaker_id": "rit",
+        "speaker_name": "리토나",
+        "ja": "お前はなぜ筆を握っている？<br>お前は何を表現しようとしている？",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-17:192:4418e67d",
+        "speaker_id": "rit",
+        "speaker_name": "리토나",
+        "ja": "下心でも劣情でも 許そうではないか<br>芸術という偉大な名の下に",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch02-17:11:42bc673b",
+      "source_hash": "42bc673b",
+      "sequence": 0,
+      "source_line": 11,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…というわけなんだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:12:47055b43",
+      "source_hash": "47055b43",
+      "sequence": 1,
+      "source_line": 12,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "嫌だね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:13:b676b1",
+      "source_hash": "b676b1",
+      "sequence": 2,
+      "source_line": 13,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いや 断るの早くないっすか！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:14:7f5e1224",
+      "source_hash": "7f5e1224",
+      "sequence": 3,
+      "source_line": 14,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "説明の途中なんですけど！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:15:436be9e9",
+      "source_hash": "436be9e9",
+      "sequence": 4,
+      "source_line": 15,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "要するにお前が頼んでるものは…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:17:94a4995f",
+      "source_hash": "94a4995f",
+      "sequence": 5,
+      "source_line": 17,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ペンクラフトの何百倍もの情報量を扱える素体を持ち<br>その情報をキャンバスに焼き付けられるくらいの<br>解像度を持ったレンズを作ってくれ―――",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:18:da871da6",
+      "source_hash": "da871da6",
+      "sequence": 6,
+      "source_line": 18,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "そういうことだろ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:19:e6586d11",
+      "source_hash": "e6586d11",
+      "sequence": 7,
+      "source_line": 19,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そう！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:20:5a125968",
+      "source_hash": "5a125968",
+      "sequence": 8,
+      "source_line": 20,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "読書中 リーディングストーンからヒントを得たんだ…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:21:3765ddd8",
+      "source_hash": "3765ddd8",
+      "sequence": 9,
+      "source_line": 21,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "だから既存のレンズを<br>リファインするだけでいいと思うんだ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:22:47055b43",
+      "source_hash": "47055b43",
+      "sequence": 10,
+      "source_line": 22,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "嫌だね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:23:46d36042",
+      "source_hash": "46d36042",
+      "sequence": 11,
+      "source_line": 23,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:24:473aa072",
+      "source_hash": "473aa072",
+      "sequence": 12,
+      "source_line": 24,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "はいはい…言うと思いましたよ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:25:f79c4494",
+      "source_hash": "f79c4494",
+      "sequence": 13,
+      "source_line": 25,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なんかもう断られるのにも慣れてきたから<br>驚かないけどさ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:26:ba3d48e8",
+      "source_hash": "ba3d48e8",
+      "sequence": 14,
+      "source_line": 26,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "せめてなんで断るのかくらい理由を教えてくれないか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:27:25426efe",
+      "source_hash": "25426efe",
+      "sequence": 15,
+      "source_line": 27,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "そら お前 死ぬほど面倒くさそうだからだよ<br>破壊的に",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:28:eb675485",
+      "source_hash": "eb675485",
+      "sequence": 16,
+      "source_line": 28,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "すごくね…？<br>ほぼ100％想像してた通りの答えが返ってきたぞ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:29:ef1f53d4",
+      "source_hash": "ef1f53d4",
+      "sequence": 17,
+      "source_line": 29,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "はあ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:30:8fa5a450",
+      "source_hash": "8fa5a450",
+      "sequence": 18,
+      "source_line": 30,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "この設計図？ とも呼べないな お前の落書きが<br>言わんとしてるレンズを作るとなると 相当時間がかかる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:31:183a4ff6",
+      "source_hash": "183a4ff6",
+      "sequence": 19,
+      "source_line": 31,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "考えるだけで眠くなりそうだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:32:f6fe929b",
+      "source_hash": "f6fe929b",
+      "sequence": 20,
+      "source_line": 32,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ そうですか…これまた正直な答えをどうも…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:33:7f7c5af7",
+      "source_hash": "7f7c5af7",
+      "sequence": 21,
+      "source_line": 33,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "素人でここまでやったんだから<br>多少の荒さは勘弁してくれよ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:34:42d6bf24",
+      "source_hash": "42d6bf24",
+      "sequence": 22,
+      "source_line": 34,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "それに こんなもの作ってもだな……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:35:716de868",
+      "source_hash": "716de868",
+      "sequence": 23,
+      "source_line": 35,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:36:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 24,
+      "source_line": 36,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:37:2ab1a9dc",
+      "source_hash": "2ab1a9dc",
+      "sequence": 25,
+      "source_line": 37,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な なんだよ……いきなり黙りこくって！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:39:716de868",
+      "source_hash": "716de868",
+      "sequence": 26,
+      "source_line": 39,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:40:294fdd9a",
+      "source_hash": "294fdd9a",
+      "sequence": 27,
+      "source_line": 40,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "いや…なんでもない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:41:97eb6a99",
+      "source_hash": "97eb6a99",
+      "sequence": 28,
+      "source_line": 41,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "？？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:42:2b68094f",
+      "source_hash": "2b68094f",
+      "sequence": 29,
+      "source_line": 42,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:43:fdc1bb27",
+      "source_hash": "fdc1bb27",
+      "sequence": 30,
+      "source_line": 43,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…ふむ…後はそうだな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:47:f734afd",
+      "source_hash": "f734afd",
+      "sequence": 31,
+      "source_line": 47,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ついでにぶっちゃけるが<br>気に入らないんだよ お前が",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:48:c0931b57",
+      "source_hash": "c0931b57",
+      "sequence": 32,
+      "source_line": 48,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "いや そこはぶっちゃけちゃだめでしょう！？<br>本人を目の前にして言うことですか！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:49:403b4998",
+      "source_hash": "403b4998",
+      "sequence": 33,
+      "source_line": 49,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ふふふ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:50:60ef96",
+      "source_hash": "60ef96",
+      "sequence": 34,
+      "source_line": 50,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "まあ ここに来て 嫌いな私に頭を下げられたことは<br>評価してやろうじゃないか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:51:bf0ba638",
+      "source_hash": "bf0ba638",
+      "sequence": 35,
+      "source_line": 51,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "思っていたより度胸あるのかもしれないな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:52:1a68f55a",
+      "source_hash": "1a68f55a",
+      "sequence": 36,
+      "source_line": 52,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "それとも思ったよりずっとずっと図太いのか",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:53:558191",
+      "source_hash": "558191",
+      "sequence": 37,
+      "source_line": 53,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぐ……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:54:fbb38b89",
+      "source_hash": "fbb38b89",
+      "sequence": 38,
+      "source_line": 54,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "だって お前さ<br>どれだけ努力したんだ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:55:13571d1d",
+      "source_hash": "13571d1d",
+      "sequence": 39,
+      "source_line": 55,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…ど 努力って？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:56:2620c0d6",
+      "source_hash": "2620c0d6",
+      "sequence": 40,
+      "source_line": 56,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "硝子だよ 硝子<br>レンズだ 自分で作ろうとしたか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:57:589b6b71",
+      "source_hash": "589b6b71",
+      "sequence": 41,
+      "source_line": 57,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "つ 作れるはずないじゃないか こんなもの！<br>僕は一般人だぞ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:58:c14e0cb6",
+      "source_hash": "c14e0cb6",
+      "sequence": 42,
+      "source_line": 58,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…一般人じゃ作れないねぇ…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:60:ace7385f",
+      "source_hash": "ace7385f",
+      "sequence": 43,
+      "source_line": 60,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "で お前がそのつくれるはずないものを<br>人に頼んでるというのに<br>『既存のものをリファインするだけ』という態度をとると",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:61:51e86116",
+      "source_hash": "51e86116",
+      "sequence": 44,
+      "source_line": 61,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ！ い いや…でも<br>レンズは実際に存在しているものだし…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:62:a1e7d9a0",
+      "source_hash": "a1e7d9a0",
+      "sequence": 45,
+      "source_line": 62,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "レンズを通して保管した光を<br>『意訳印刷』する時のマナの動きは<br>どうするつもりなんだ？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:63:d37eab7",
+      "source_hash": "d37eab7",
+      "sequence": 46,
+      "source_line": 63,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そりゃもちろん 練習するよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:64:716de868",
+      "source_hash": "716de868",
+      "sequence": 47,
+      "source_line": 64,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:65:79693cbb",
+      "source_hash": "79693cbb",
+      "sequence": 48,
+      "source_line": 65,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "というかさ<br>お前 画家になりたいんじゃなかったのか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:66:2a823aec",
+      "source_hash": "2a823aec",
+      "sequence": 49,
+      "source_line": 66,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "そもそもキャンバスに光を映し出してどうするんだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:67:7b413b47",
+      "source_hash": "7b413b47",
+      "sequence": 50,
+      "source_line": 67,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "絵を描くのすら鬱陶しくなったのか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:75:783e71af",
+      "source_hash": "783e71af",
+      "sequence": 51,
+      "source_line": 75,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ…い いや…違うんだ…！ そ その…ぼ 僕は……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:76:d3817f73",
+      "source_hash": "d3817f73",
+      "sequence": 52,
+      "source_line": 76,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ちょ ちょっとした理由があって…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:77:cb5cca18",
+      "source_hash": "cb5cca18",
+      "sequence": 53,
+      "source_line": 77,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:78:a4349b3a",
+      "source_hash": "a4349b3a",
+      "sequence": 54,
+      "source_line": 78,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "お前な…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:79:5a5cecb2",
+      "source_hash": "5a5cecb2",
+      "sequence": 55,
+      "source_line": 79,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "聞いてるぞ アディアに絵のレッスンつけてもらってるって",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:80:75c068bb",
+      "source_hash": "75c068bb",
+      "sequence": 56,
+      "source_line": 80,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "そっちの―――<br>画家を目指すという目的はどうするんだよ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:81:b85205bf",
+      "source_hash": "b85205bf",
+      "sequence": 57,
+      "source_line": 81,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ…そうなんだけど…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:94:3ec1abf",
+      "source_hash": "3ec1abf",
+      "sequence": 58,
+      "source_line": 94,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "私の視点から見るとな<br>何をしようとしてるのかがよくわからないんだよ お前",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:95:194e4cb0",
+      "source_hash": "194e4cb0",
+      "sequence": 59,
+      "source_line": 95,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "師匠のバーへ行ったそうじゃないか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:96:92120121",
+      "source_hash": "92120121",
+      "sequence": 60,
+      "source_line": 96,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…え！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:98:322b11c5",
+      "source_hash": "322b11c5",
+      "sequence": 61,
+      "source_line": 98,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "アディアに泣きつき ソネッタに泣きつき 師匠に泣きつき<br>挙げ句の果てグラスクラフター達に泣きつき…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:100:88aa654e",
+      "source_hash": "88aa654e",
+      "sequence": 62,
+      "source_line": 100,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ちょっとつまづくたびに<br>すぐ他人に頼ろうとするその姿勢がどうも気に食わない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:101:490ab029",
+      "source_hash": "490ab029",
+      "sequence": 63,
+      "source_line": 101,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "結局なんだ？ 絵はもう上手くなりたくないのか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:103:9c9aa0bd",
+      "source_hash": "9c9aa0bd",
+      "sequence": 64,
+      "source_line": 103,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "な なりたいよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:105:25fce691",
+      "source_hash": "25fce691",
+      "sequence": 65,
+      "source_line": 105,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "どれだけだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:107:43332b1f",
+      "source_hash": "43332b1f",
+      "sequence": 66,
+      "source_line": 107,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…ど どれだけって…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:108:48cf3d67",
+      "source_hash": "48cf3d67",
+      "sequence": 67,
+      "source_line": 108,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "どれだけお前は絵を描けるようになりたいのだ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:110:8f1578e2",
+      "source_hash": "8f1578e2",
+      "sequence": 68,
+      "source_line": 110,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ そんなのどうやって形容すれば…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:112:a8f4b597",
+      "source_hash": "a8f4b597",
+      "sequence": 69,
+      "source_line": 112,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "形容？？ 成し遂げたいことがあるのに<br>自分の不甲斐なさのせいで達成できないんだぞ？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:113:b8cafdf7",
+      "source_hash": "b8cafdf7",
+      "sequence": 70,
+      "source_line": 113,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "これ以上の屈辱が世に存在するのか？<br>少なくとも私には想像がつかない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:115:76c94cda",
+      "source_hash": "76c94cda",
+      "sequence": 71,
+      "source_line": 115,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "………っ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:117:a64a5c90",
+      "source_hash": "a64a5c90",
+      "sequence": 72,
+      "source_line": 117,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "それなのにお前はどうだ？<br>死に物狂いで目標に向かって努力してるのか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:119:e2586127",
+      "source_hash": "e2586127",
+      "sequence": 73,
+      "source_line": 119,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ち 違う！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:120:75531841",
+      "source_hash": "75531841",
+      "sequence": 74,
+      "source_line": 120,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "なら答えろ<br>なぜ 私はお前の面をこうも頻繁に目にする？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:121:efa37781",
+      "source_hash": "efa37781",
+      "sequence": 75,
+      "source_line": 121,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…え…？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:122:e1195c1e",
+      "source_hash": "e1195c1e",
+      "sequence": 76,
+      "source_line": 122,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "目的があるのだろう？<br>美しい女達の絵を描き上げるという？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:123:7e53ca20",
+      "source_hash": "7e53ca20",
+      "sequence": 77,
+      "source_line": 123,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ならなぜ 日々 意識がある間の全ての時間を<br>絵に向けていない？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:124:45b496e5",
+      "source_hash": "45b496e5",
+      "sequence": 78,
+      "source_line": 124,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "なぜ 止り木で友人達とダベってる時間なんてものが<br>存在している？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:126:345c1dd9",
+      "source_hash": "345c1dd9",
+      "sequence": 79,
+      "source_line": 126,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そ それは…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:128:3a6afe9f",
+      "source_hash": "3a6afe9f",
+      "sequence": 80,
+      "source_line": 128,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "リーディングストーンからヒントを得た だ？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:129:e6499d53",
+      "source_hash": "e6499d53",
+      "sequence": 81,
+      "source_line": 129,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "なぜ 古書の解読のような遊戯に時間を潰している？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:131:41790538",
+      "source_hash": "41790538",
+      "sequence": 82,
+      "source_line": 131,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いや それはち ちが…！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:133:f1948401",
+      "source_hash": "f1948401",
+      "sequence": 83,
+      "source_line": 133,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "なぜお前の目的を出し抜いて<br>これら無駄な時間の過ごし方が 優先されているんだ？？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:135:b7338570",
+      "source_hash": "b7338570",
+      "sequence": 84,
+      "source_line": 135,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "だ…だって…そ その……",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:137:2b68094f",
+      "source_hash": "2b68094f",
+      "sequence": 85,
+      "source_line": 137,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:139:5e9054df",
+      "source_hash": "5e9054df",
+      "sequence": 86,
+      "source_line": 139,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "アディアは…稀だが自分の才能のなさを嘆くことがある",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:140:34d3729f",
+      "source_hash": "34d3729f",
+      "sequence": 87,
+      "source_line": 140,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "後輩に成績で追い抜かれる…<br>ひょっとすると自分に向いていないかもしれない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:141:9676cc75",
+      "source_hash": "9676cc75",
+      "sequence": 88,
+      "source_line": 141,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "そんな恐怖を全て受け入れ<br>毎日笑顔でファリンを漕いでいる",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:142:df172733",
+      "source_hash": "df172733",
+      "sequence": 89,
+      "source_line": 142,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "なぜだかわかるか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:143:5acb58ed",
+      "source_hash": "5acb58ed",
+      "sequence": 90,
+      "source_line": 143,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…え…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:155:250a1a9b",
+      "source_hash": "250a1a9b",
+      "sequence": 91,
+      "source_line": 155,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "好きで好きでしょうがないからだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:156:962a41ee",
+      "source_hash": "962a41ee",
+      "sequence": 92,
+      "source_line": 156,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "ファリンに乗り 様々な人々と出会い 水路の水を浄化し…<br>国の生命線を守るファリナーという仕事が",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:157:fd6c251b",
+      "source_hash": "fd6c251b",
+      "sequence": 93,
+      "source_line": 157,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "悩んでる時間やうじうじしている時間は<br>彼女にとって全て無駄な時間なんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:158:a65fefb7",
+      "source_hash": "a65fefb7",
+      "sequence": 94,
+      "source_line": 158,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "そんな彼女の空き時間を<br>お前は奪っている自覚はあるのか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:172:35efd5ca",
+      "source_hash": "35efd5ca",
+      "sequence": 95,
+      "source_line": 172,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ぐぐ…ゅ…そ それは…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:173:2c948bb",
+      "source_hash": "2c948bb",
+      "sequence": 96,
+      "source_line": 173,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "師匠は 講師時代の話はしたがらない",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:174:b3440c07",
+      "source_hash": "b3440c07",
+      "sequence": 97,
+      "source_line": 174,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "移住時に辛いことが沢山あったらしい―――<br>それをお前は無神経にほりかえした",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:176:fd5ac9a7",
+      "source_hash": "fd5ac9a7",
+      "sequence": 98,
+      "source_line": 176,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…そ そんなの わかるはず………！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-17:183:17c6174e",
+      "source_hash": "17c6174e",
+      "sequence": 99,
+      "source_line": 183,
+      "speaker_id": "rit",
+      "speaker_name": "리토나",
+      "voice_id": "",
+      "ja": "例えば――",
+      "required_tokens": [],
+      "target_ko": ""
+    }
+  ]
+}

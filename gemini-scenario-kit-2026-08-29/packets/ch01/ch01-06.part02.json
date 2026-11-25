@@ -1,0 +1,1433 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch01-06.part02",
+  "script": "ch01-06",
+  "chapter": "ch01",
+  "story_phase": "도입·관계 형성",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch01-06:235:793fd2bd",
+        "speaker_id": "oug",
+        "speaker_name": "오그즈",
+        "ja": "じゃ、私はこれで<br>果樹園の従業員に伝えておきます",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:237:b5f72702",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "オグズ様、今回の件は内容が内容です<br>情報の共有は最低限でお願い致します",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:238:8a755a13",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "パニックを起こしたくないので",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:239:82f6790d",
+        "speaker_id": "oug",
+        "speaker_name": "오그즈",
+        "ja": "承知しております<br>いまのところ 果樹園で勤務してる者だけに<br>とどめておきます",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:241:7f9549e9",
+        "speaker_id": "oug",
+        "speaker_name": "오그즈",
+        "ja": "以上で宜しいでしょうかね<br>セレンハイド様",
+        "do_not_translate": true
+      }
+    ],
+    "after": [
+      {
+        "uid": "ch01-06:459:ded66f",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "……………そ そう………ですかね…あはは…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:461:a71a0bc1",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "…………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:462:c63f62dc",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "考えたわよ",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:464:1598a86e",
+        "speaker_id": "flo",
+        "speaker_name": "플로라",
+        "ja": "でも それだけは…<br>まだやりたくない",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch01-06:466:7cae216b",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "…そ そうですよね…",
+        "do_not_translate": true
+      }
+    ]
+  },
+  "entries": [
+    {
+      "uid": "ch01-06:243:215817a6",
+      "source_hash": "215817a6",
+      "sequence": 100,
+      "source_line": 243,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "はい 本日はご協力感謝いたします",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:245:297c4dc7",
+      "source_hash": "297c4dc7",
+      "sequence": 101,
+      "source_line": 245,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "イシュタリアーナ＝ヴィルセリオ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:246:e0cc7c0f",
+      "source_hash": "e0cc7c0f",
+      "sequence": 102,
+      "source_line": 246,
+      "speaker_id": "oug",
+      "speaker_name": "오그즈",
+      "voice_id": "",
+      "ja": "イスタリアーナ＝ビルセリオ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:254:36fd2e29",
+      "source_hash": "36fd2e29",
+      "sequence": 103,
+      "source_line": 254,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ねえ カージ君<br>ちょっといいかな？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:256:62b2bd1e",
+      "source_hash": "62b2bd1e",
+      "sequence": 104,
+      "source_line": 256,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え は はい",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:258:d6a1620",
+      "source_hash": "d6a1620",
+      "sequence": 105,
+      "source_line": 258,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "い いやーしかし<br>突然セレンハイドの制服でいらっしゃるなんて<br>び びっくりしました",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:260:e1463a55",
+      "source_hash": "e1463a55",
+      "sequence": 106,
+      "source_line": 260,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:262:ff4a22c8",
+      "source_hash": "ff4a22c8",
+      "sequence": 107,
+      "source_line": 262,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "オグズさん…<br>やっぱり季節棟の起動は反対だったのかな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:265:b408f248",
+      "source_hash": "b408f248",
+      "sequence": 108,
+      "source_line": 265,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "そうですね…<br>いくら四季のローテーションで対策をしているとはいえ<br>土地の寿命が縮むことは確かなので…",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:266:6f5b2eaf",
+      "source_hash": "6f5b2eaf",
+      "sequence": 109,
+      "source_line": 266,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ファームリングで働いてる人達にとっては<br>複雑だと思います",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:268:72722eb9",
+      "source_hash": "72722eb9",
+      "sequence": 110,
+      "source_line": 268,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "はぁ…まあ そうよね…<br>自然体系ここまでいじって反動がないはずないからね…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:271:fa19a2bc",
+      "source_hash": "fa19a2bc",
+      "sequence": 111,
+      "source_line": 271,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "でも 国が――ヴァラ様がご決断なされたことなんですよね<br> 国民は応援しますよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:273:237b3e7d",
+      "source_hash": "237b3e7d",
+      "sequence": 112,
+      "source_line": 273,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "もちろん セレンハイドも応援しております<br>な なんなりとお申し付けください！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:275:44fa6181",
+      "source_hash": "44fa6181",
+      "sequence": 113,
+      "source_line": 275,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あっはは…ありがとう",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:276:d08eaae6",
+      "source_hash": "d08eaae6",
+      "sequence": 114,
+      "source_line": 276,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "国民のみんながカージ君みたいだったら<br>もっと平和なのにね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:278:fd7e5d41",
+      "source_hash": "fd7e5d41",
+      "sequence": 115,
+      "source_line": 278,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ところで どうして緊急速報用の通信ラインを<br>ご利用なさらなかったのですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:279:86f72328",
+      "source_hash": "86f72328",
+      "sequence": 116,
+      "source_line": 279,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "みたところホワイトコートの方達も<br>同行されていないみたいですし…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:281:2314ff19",
+      "source_hash": "2314ff19",
+      "sequence": 117,
+      "source_line": 281,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なにゆえフローラ様がお一人で<br>一件一件ご訪問されてるのでしょうか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:283:22e0675f",
+      "source_hash": "22e0675f",
+      "sequence": 118,
+      "source_line": 283,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "え？ あ ああ…そうね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:284:128a4dd3",
+      "source_hash": "128a4dd3",
+      "sequence": 119,
+      "source_line": 284,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "えーと 一応表向きにはパニックを起こさないように<br>緊急速報ラインは起動しないでおこう<br>って話らしいんだけど",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:286:eb75d0cc",
+      "source_hash": "eb75d0cc",
+      "sequence": 120,
+      "source_line": 286,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "この一人での訪問は…<br>なんていうか 修行みたいなものなのかな…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:288:81fc2512",
+      "source_hash": "81fc2512",
+      "sequence": 121,
+      "source_line": 288,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "お母様に<br>『もう少し自分の足でルゼンハイド内を回ってきなさい』<br>って言われちゃってね",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:290:31bc6df",
+      "source_hash": "31bc6df",
+      "sequence": 122,
+      "source_line": 290,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "確かに私 こっちのセクターには<br>そんなに来ないから…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:292:a0a0cbb4",
+      "source_hash": "a0a0cbb4",
+      "sequence": 123,
+      "source_line": 292,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ 足でって まさか…<br>本当に歩いて回ってるんですか？<br>ファリナーは使ってますよね？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:294:3c91b82",
+      "source_hash": "3c91b82",
+      "sequence": 124,
+      "source_line": 294,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "歩いてるのよ〜<br>もう足がパンパンでさぁ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:296:de5c6ca",
+      "source_hash": "de5c6ca",
+      "sequence": 125,
+      "source_line": 296,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なにゆえ！？<br>修行というより苦行ですね…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:298:abb846fe",
+      "source_hash": "abb846fe",
+      "sequence": 126,
+      "source_line": 298,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "人の上に立つってことは 一見面倒で意味不明なことでも<br>頑張らないといけないってことなのかもね…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:299:9ea29cf7",
+      "source_hash": "9ea29cf7",
+      "sequence": 127,
+      "source_line": 299,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "知らないけど",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:301:b3d6734f",
+      "source_hash": "b3d6734f",
+      "sequence": 128,
+      "source_line": 301,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:303:58cb5c6a",
+      "source_hash": "58cb5c6a",
+      "sequence": 129,
+      "source_line": 303,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あの…さっきの話ですが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:306:3935079b",
+      "source_hash": "3935079b",
+      "sequence": 130,
+      "source_line": 306,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "さっき…ラック・ビーアルが<br>レンデル森林方面から来てるってのは本当ですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:307:312b6c25",
+      "source_hash": "312b6c25",
+      "sequence": 131,
+      "source_line": 307,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あ！ そうなの！<br>そのことについてカージ君と話がしたくて…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:309:be66ab58",
+      "source_hash": "be66ab58",
+      "sequence": 132,
+      "source_line": 309,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ま まずいのでは？<br>止り木って ほぼ毎日ミィシャさんが<br>めっちゃ料理してますよね？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:310:7b31f4",
+      "source_hash": "7b31f4",
+      "sequence": 133,
+      "source_line": 310,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ラック・ビーアルって<br>人間の食べ物に寄ってくるって聞いてるんですが",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:313:65ff86fa",
+      "source_hash": "65ff86fa",
+      "sequence": 134,
+      "source_line": 313,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そう！<br>ちょっと色々と都合が悪過ぎるのよ あそこ！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:315:31179ed",
+      "source_hash": "31179ed",
+      "sequence": 135,
+      "source_line": 315,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "で では み ミィシャさんに伝えないと！<br>止り木のみんなが危ない！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:317:b0ca5431",
+      "source_hash": "b0ca5431",
+      "sequence": 136,
+      "source_line": 317,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "伝えたわよ！！！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:318:16927",
+      "source_hash": "16927",
+      "sequence": 137,
+      "source_line": 318,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そしたらあいつら<br>なんて言ったと思う！？！？！？！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:337:e239c445",
+      "source_hash": "e239c445",
+      "sequence": 138,
+      "source_line": 337,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "ああ…ああ…そうね<br>ビーアルね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:338:e2955747",
+      "source_hash": "e2955747",
+      "sequence": 139,
+      "source_line": 338,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "街のほうにまで出てくる強者が出てきたか…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:339:6ca43939",
+      "source_hash": "6ca43939",
+      "sequence": 140,
+      "source_line": 339,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "とりあえず ここに来るやつら全員に<br>伝えておいたほうがいいな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:340:49eb0d17",
+      "source_hash": "49eb0d17",
+      "sequence": 141,
+      "source_line": 340,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "んあ ああ そーな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:341:e1312a93",
+      "source_hash": "e1312a93",
+      "sequence": 142,
+      "source_line": 341,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "危ないと思うやつは収束するまで<br>来ないほうがいいことは確かだな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:343:27eb7b6d",
+      "source_hash": "27eb7b6d",
+      "sequence": 143,
+      "source_line": 343,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "んじゃ その報告のほう頼んじゃっていいかい<br>リッグズさんや",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:344:c9b578d8",
+      "source_hash": "c9b578d8",
+      "sequence": 144,
+      "source_line": 344,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "ああ 任せておけ<br>お前は料理に集中してろ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:346:e0521395",
+      "source_hash": "e0521395",
+      "sequence": 145,
+      "source_line": 346,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "ちょ ちょっとあんた達<br>なに呑気なこと言ってるの…？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:347:3a9d99ca",
+      "source_hash": "3a9d99ca",
+      "sequence": 146,
+      "source_line": 347,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "リーダーであるあんた達２人が来なければ<br>止り木に人が来ることないんだから<br>暫くの間ここは閉鎖してよ…！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:348:706c004a",
+      "source_hash": "706c004a",
+      "sequence": 147,
+      "source_line": 348,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "んー そいつぁ 聞けないお願いってやつだな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:349:5e008104",
+      "source_hash": "5e008104",
+      "sequence": 148,
+      "source_line": 349,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "たとえそれが貴族様のお願いだとしてもな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:350:376d9c1",
+      "source_hash": "376d9c1",
+      "sequence": 149,
+      "source_line": 350,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "ミィシャ あまりそういう疎外感のある言い方をするな…<br>フローラはもうここの仲間なんだから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:351:ba9c268",
+      "source_hash": "ba9c268",
+      "sequence": 150,
+      "source_line": 351,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "おっとそうね<br>悪い悪い",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:353:a37f0040",
+      "source_hash": "a37f0040",
+      "sequence": 151,
+      "source_line": 353,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "でもさ 気にすんなって",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:355:aff940d7",
+      "source_hash": "aff940d7",
+      "sequence": 152,
+      "source_line": 355,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "みんなには『死んでもいいやつだけ残れ』<br>って言っておくから",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:356:fbe20af4",
+      "source_hash": "fbe20af4",
+      "sequence": 153,
+      "source_line": 356,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "そんでも来るなら自己責任ってことでいいだろう？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:358:aaacb14a",
+      "source_hash": "aaacb14a",
+      "sequence": 154,
+      "source_line": 358,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そ そんな子供みたいなこと…！<br>事があってからじゃ遅いのよ！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:359:437190b8",
+      "source_hash": "437190b8",
+      "sequence": 155,
+      "source_line": 359,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "被害者が出たらあんた達<br>真顔で『自己責任だったからしょうがない』<br>なんて言えるの！？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:361:4d9f125c",
+      "source_hash": "4d9f125c",
+      "sequence": 156,
+      "source_line": 361,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "な 仲間が死んじゃうかもしれないのよ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:363:f1a084f0",
+      "source_hash": "f1a084f0",
+      "sequence": 157,
+      "source_line": 363,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "おい おい…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:364:91aba17b",
+      "source_hash": "91aba17b",
+      "sequence": 158,
+      "source_line": 364,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "なんでビーアルが出るだけで死ぬってことになるんだ…<br>リスク管理にしても悲観的過ぎるだろう 落ち着けって",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:366:7831dd7a",
+      "source_hash": "7831dd7a",
+      "sequence": 159,
+      "source_line": 366,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "だ だってあんたたち ビーアルっていったら…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:368:b65a659d",
+      "source_hash": "b65a659d",
+      "sequence": 160,
+      "source_line": 368,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "あのさ フローラさんさ<br>ここって森林の深部なわけよ？ ね？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:369:f704d4bf",
+      "source_hash": "f704d4bf",
+      "sequence": 161,
+      "source_line": 369,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "元からいろんな動物がいてもおかしくなくて<br>別にビーアルだけがやばいってわけじゃねえんだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:371:2824b4bb",
+      "source_hash": "2824b4bb",
+      "sequence": 162,
+      "source_line": 371,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "…………え？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:373:dc640bbc",
+      "source_hash": "dc640bbc",
+      "sequence": 163,
+      "source_line": 373,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "当たり前だろう…<br>こんなところでいろんな料理をしてて<br>動物が群がってこないわけなかろう",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:375:d9329728",
+      "source_hash": "d9329728",
+      "sequence": 164,
+      "source_line": 375,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "そ それは…！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:377:655fa851",
+      "source_hash": "655fa851",
+      "sequence": 165,
+      "source_line": 377,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "大丈夫だって<br>オレ達そういうの慣れてるからさ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:381:1d316c98",
+      "source_hash": "1d316c98",
+      "sequence": 166,
+      "source_line": 381,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "り リッグズ！ アディアは知ってるの？<br>ここがそんな危ない場所だって！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:383:e88ae019",
+      "source_hash": "e88ae019",
+      "sequence": 167,
+      "source_line": 383,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "？ 当然であろう？<br>人に飼い慣らされた公園ならともかく<br>ありのままの森林だぞ？",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:385:230c6b67",
+      "source_hash": "230c6b67",
+      "sequence": 168,
+      "source_line": 385,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "う うぐ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:387:1c628b4c",
+      "source_hash": "1c628b4c",
+      "sequence": 169,
+      "source_line": 387,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あ あんたたち…<br>なにかがあったら どうするのよ…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:391:2dc90da7",
+      "source_hash": "2dc90da7",
+      "sequence": 170,
+      "source_line": 391,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "んー？<br>オレ達…は なあ？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:392:9820c7c5",
+      "source_hash": "9820c7c5",
+      "sequence": 171,
+      "source_line": 392,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "うむ そうだな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:394:2da74b00",
+      "source_hash": "2da74b00",
+      "sequence": 172,
+      "source_line": 394,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "し 死んじゃうかもしれないのよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:395:f0bf8b9e",
+      "source_hash": "f0bf8b9e",
+      "sequence": 173,
+      "source_line": 395,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "別に？ そんときゃそん時さ<br>人間なにやってても死ぬときゃ死ぬさぁな",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:397:803c5fb1",
+      "source_hash": "803c5fb1",
+      "sequence": 174,
+      "source_line": 397,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "その通りだ",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:398:a819cb47",
+      "source_hash": "a819cb47",
+      "sequence": 175,
+      "source_line": 398,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "だいたい 市街地にも出没しているなら<br>ここにいようと街にいようと同じようなものだろう？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:399:c457724b",
+      "source_hash": "c457724b",
+      "sequence": 176,
+      "source_line": 399,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "もし遭遇して殺されるようなことがあれば<br>それは運が悪かったということだ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:400:39b4940b",
+      "source_hash": "39b4940b",
+      "sequence": 177,
+      "source_line": 400,
+      "speaker_id": "mis",
+      "speaker_name": "미샤",
+      "voice_id": "",
+      "ja": "ここ いまのオレ達の居場所だからさ<br>ビーアルが来たくらいで出ていきたくねーのよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:404:c14c6e7b",
+      "source_hash": "c14c6e7b",
+      "sequence": 178,
+      "source_line": 404,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あ アディアになにかあったら<br>どうするつもりよ リッグズ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:405:8ee07126",
+      "source_hash": "8ee07126",
+      "sequence": 179,
+      "source_line": 405,
+      "speaker_id": "rig",
+      "speaker_name": "리그스",
+      "voice_id": "",
+      "ja": "ありえない 俺がここにいる以上<br>アディアに危害は及ばせない",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:406:842f6f21",
+      "source_hash": "842f6f21",
+      "sequence": 180,
+      "source_line": 406,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "……………！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:424:6c8e7f6e",
+      "source_hash": "6c8e7f6e",
+      "sequence": 181,
+      "source_line": 424,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "<size=140%>ばっかじゃないの！？<br>あの２人！？！？！？！？！？</size>",
+      "required_tokens": [
+        "<size=140%>",
+        "<br>",
+        "</size>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:428:122fae21",
+      "source_hash": "122fae21",
+      "sequence": 182,
+      "source_line": 428,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あ 相変わらずミィシャさん<br>頑固な時は頑固だな…謎のこだわりというか",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:430:503a93bb",
+      "source_hash": "503a93bb",
+      "sequence": 183,
+      "source_line": 430,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "だいたいリッグズもリッグズよ！<br>あいつが傷付いたり死んじゃったりしたら<br>アディアがどれだけ悲しむことか！！",
+      "required_tokens": [
+        "<br>",
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:434:c0eab921",
+      "source_hash": "c0eab921",
+      "sequence": 184,
+      "source_line": 434,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "彼もミィシャさん同様<br>謎の芯の強さがあるので",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:435:6d37df3d",
+      "source_hash": "6d37df3d",
+      "sequence": 185,
+      "source_line": 435,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "なーにが<br>『俺がここにいる以上 アディアに危害は及ばせない』よ！？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:436:207cad7f",
+      "source_hash": "207cad7f",
+      "sequence": 186,
+      "source_line": 436,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "確実に守れる保証なんてないのに<br>なにかっこつけちゃってるの！！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:438:27bcf72b",
+      "source_hash": "27bcf72b",
+      "sequence": 187,
+      "source_line": 438,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "まあ…その 街中でも出現しているなら<br>ファリナー巡回中に出くわす可能性もありますよね…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:439:bf8f845",
+      "source_hash": "bf8f845",
+      "sequence": 188,
+      "source_line": 439,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "なるようにしかならないという意味では<br>一応理屈は通っていますね",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:441:bbe69862",
+      "source_hash": "bbe69862",
+      "sequence": 189,
+      "source_line": 441,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "もう カージ君はどっちの味方なのよ！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:443:14dfc9ee",
+      "source_hash": "14dfc9ee",
+      "sequence": 190,
+      "source_line": 443,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ひっ！？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:445:adac963b",
+      "source_hash": "adac963b",
+      "sequence": 191,
+      "source_line": 445,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "あの２人をどうにかして<br>止り木から遠ざけたい…！",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:446:f924c0cc",
+      "source_hash": "f924c0cc",
+      "sequence": 192,
+      "source_line": 446,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "事態が収束するまででいいから！",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:448:7c5b3943",
+      "source_hash": "7c5b3943",
+      "sequence": 193,
+      "source_line": 448,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え えっと…その…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:449:1e665e69",
+      "source_hash": "1e665e69",
+      "sequence": 194,
+      "source_line": 449,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "……………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:451:a9eb4be6",
+      "source_hash": "a9eb4be6",
+      "sequence": 195,
+      "source_line": 451,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "申し上げにくいんですが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:453:3fdb3a06",
+      "source_hash": "3fdb3a06",
+      "sequence": 196,
+      "source_line": 453,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "せ セレンハイド権限で…<br>立ち退きさせるという選択肢は？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:454:9a3e8783",
+      "source_hash": "9a3e8783",
+      "sequence": 197,
+      "source_line": 454,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "あ あの…<br>波風は確かに立ってしまいます…が…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:456:a71a0bc1",
+      "source_hash": "a71a0bc1",
+      "sequence": 198,
+      "source_line": 456,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch01-06:457:629cfd00",
+      "source_hash": "629cfd00",
+      "sequence": 199,
+      "source_line": 457,
+      "speaker_id": "flo",
+      "speaker_name": "플로라",
+      "voice_id": "",
+      "ja": "嫌われる覚悟で 私が大人の対応…<br>悪役になるって選択ね？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}

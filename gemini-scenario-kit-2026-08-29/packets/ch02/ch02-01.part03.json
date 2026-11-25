@@ -1,0 +1,322 @@
+{
+  "schema_version": 1,
+  "packet_id": "ch02-01.part03",
+  "script": "ch02-01",
+  "chapter": "ch02",
+  "story_phase": "전개·갈등 심화",
+  "semantic_source": "ja",
+  "target_locale": "ko",
+  "instructions": "entries만 번역하고 boundary_context는 문맥 참조만 한다. 결과는 gemini_response.schema.json의 JSONL 형식으로 낸다.",
+  "boundary_context": {
+    "before": [
+      {
+        "uid": "ch02-01:386:1e665e69",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "……………",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-01:389:d2551f10",
+        "speaker_id": "kaj",
+        "speaker_name": "카지",
+        "ja": "…な なんですか その顔は",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-01:391:24be8980",
+        "speaker_id": "son",
+        "speaker_name": "소네타",
+        "ja": "んー……とっすね…",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-01:393:eb61aaeb",
+        "speaker_id": "son",
+        "speaker_name": "소네타",
+        "ja": "とりあえず この印刷技術なんすけど<br>グラスクラフトと並んで 最も盛んなのが<br>ヴァストアルカ――",
+        "do_not_translate": true
+      },
+      {
+        "uid": "ch02-01:395:7f2d2545",
+        "speaker_id": "son",
+        "speaker_name": "소네타",
+        "ja": "…で<br>同盟国事業保護規約で特質技術申請されてるみたいっすね",
+        "do_not_translate": true
+      }
+    ],
+    "after": []
+  },
+  "entries": [
+    {
+      "uid": "ch02-01:397:940a2627",
+      "source_hash": "940a2627",
+      "sequence": 200,
+      "source_line": 397,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "だからかー…本の意訳版はやたらヴァストアルカからの<br>輸入品が多いのは…ミーチも初めて知りやしたよ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:399:26f2b1ad",
+      "source_hash": "26f2b1ad",
+      "sequence": 201,
+      "source_line": 399,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え…特質技術申請って…ど どういうことでしょうか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:400:c7528004",
+      "source_hash": "c7528004",
+      "sequence": 202,
+      "source_line": 400,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ヴァストアルカに行かないと…<br>その特殊な印刷技術は教えてもらえないってことですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:402:3bedea8c",
+      "source_hash": "3bedea8c",
+      "sequence": 203,
+      "source_line": 402,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "いや ルゼンハイドでも許可を得て<br>教えてる人はいるっちゃいるみたいっけど…",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:403:74147afe",
+      "source_hash": "74147afe",
+      "sequence": 204,
+      "source_line": 403,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:405:9cc271ad",
+      "source_hash": "9cc271ad",
+      "sequence": 205,
+      "source_line": 405,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "まさかこんなところで彼の名前を見るとは…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:407:58a79b5b",
+      "source_hash": "58a79b5b",
+      "sequence": 206,
+      "source_line": 407,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え ど どちら様なんですか？<br>可能なら会ってみたいのですが",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:409:74147afe",
+      "source_hash": "74147afe",
+      "sequence": 207,
+      "source_line": 409,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "…………",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:411:c0815ae6",
+      "source_hash": "c0815ae6",
+      "sequence": 208,
+      "source_line": 411,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "んー…そうっすねー…そういう情報を提供するのも図書館の仕事なんで教えるっちゃ教えるっすけど…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:413:f5ff408f",
+      "source_hash": "f5ff408f",
+      "sequence": 209,
+      "source_line": 413,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "そーとー気難しい人っすよ？ それでも会います？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:415:9634bbe7",
+      "source_hash": "9634bbe7",
+      "sequence": 210,
+      "source_line": 415,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え 気難しいって…怖い人なんですか？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:417:f4fbb61e",
+      "source_hash": "f4fbb61e",
+      "sequence": 211,
+      "source_line": 417,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "怖い…とはちょっと違うかな",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:418:f4f58d36",
+      "source_hash": "f4f58d36",
+      "sequence": 212,
+      "source_line": 418,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "頭が硬いっていうか 職人気質っていうか…<br>リトナ先輩のお師匠さんなんすけどね――",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:420:97a0eb9b",
+      "source_hash": "97a0eb9b",
+      "sequence": 213,
+      "source_line": 420,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "え ラ ラインヴァスタの？？",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:421:90434ee8",
+      "source_hash": "90434ee8",
+      "sequence": 214,
+      "source_line": 421,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "ラインヴァスタの師匠って…クロックス学院の<br>ロア＝リッドサイド先生じゃないんですか？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:422:9b0b26e5",
+      "source_hash": "9b0b26e5",
+      "sequence": 215,
+      "source_line": 422,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "いやー そっちじゃなくて 硝子のほうのお師匠さんっすね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:424:1728d940",
+      "source_hash": "1728d940",
+      "sequence": 216,
+      "source_line": 424,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "知りやせんか？ リトナ先輩<br>ヴァストアルカブルーを再現しようとしてるって？",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:426:9d333afd",
+      "source_hash": "9d333afd",
+      "sequence": 217,
+      "source_line": 426,
+      "speaker_id": "kaj",
+      "speaker_name": "카지",
+      "voice_id": "",
+      "ja": "は はい知ってますが…",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:427:496beeff",
+      "source_hash": "496beeff",
+      "sequence": 218,
+      "source_line": 427,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "その指導にあたってる人っすね",
+      "required_tokens": [],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:428:8135be9",
+      "source_hash": "8135be9",
+      "sequence": 219,
+      "source_line": 428,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "昔ヴァストアルカのグラスクラフターズギルドにいた<br>硝子職人らしいっす",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    },
+    {
+      "uid": "ch02-01:430:d01b468e",
+      "source_hash": "d01b468e",
+      "sequence": 220,
+      "source_line": 430,
+      "speaker_id": "son",
+      "speaker_name": "소네타",
+      "voice_id": "",
+      "ja": "いまは引退して<br>国のはずれでしがないバーを経営してやすぜ",
+      "required_tokens": [
+        "<br>"
+      ],
+      "target_ko": ""
+    }
+  ]
+}
